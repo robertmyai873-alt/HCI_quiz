@@ -1,0 +1,1701 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+When a small band approaches the big like the big.
+
+Swing it over the mouth and tightens to heat, heating wires to seal and cut off the back, which drops into a fresh back into place.
+
+But wait, how does the smoke in the find a big one? Where's the key to.
+
+If you've been watching closely, you might have noticed a flaw next week.
+
+Who uses but flooring the strip in the middle? Well and everyone leaves and lights goes off.
+
+This is what it looks like. We embedded LED strips on the floor and placed downward facing cameras.
+
+Then we told them to follow the light. So my program, the light trail.
+
+We can guide the birds one by one. Stretch of the light of fresh.
+
+All right, everyone. That's it for this video. Ever since we set up, this is the review for haunted every day.
+
+Thank you so much for watching. Okay, so this is a bit related to today's lecture, but you see.
+
+It is. A lot of effort goes on this video and it's quite a nice piece of engineering.
+
+Some of the students, uh, for instance, designed, uh, freshman.
+
+But it's not mobile. Maybe that will give you an idea for the next semester for your robot design project.
+
+And, uh, in this uh, uh, uh, lecture, we want to introduce, uh, human robot interaction.
+
+And that would be or so last third that you actually, we are here.
+
+So we are approaching an eternal semester. And just so.
+
+Maybe we can, uh. Switch this to like next week.
+
+We can do example of you on the switch. The last topic.
+
+But I still didn't decide in case I change my, uh, schedule in here.
+
+Then we will, uh, solve the exam question next week, and I will let you know, uh, by email.
+
+And for the next. This week's practical, we will do freestyle, uh, design, uh, design stuff.
+
+Uh, from your projects, you can bring your, uh, low fidelity prototype, maging fidelity prototype, or even high fidelity prototype that we will there.
+
+And you will, uh, raise your hands and we will ask, uh, will last question and we will you we will ask for your, uh, uh, questions.
+
+So, um, for your, uh, third assignment, that is an alternatives.
+
+I will read, uh. Until Thursday.
+
+Danny, you will have the one session with me if you have a questions that you can ask.
+
+And we will have to revise your grades. Okay.
+
+We will start with the, uh, video and let's continue with the video.
+
+But we will not search all of them. And this is darling.
+
+And she is one of the excellent pioneer in the human affective human robot interaction.
+
+Um, she's synthesis with the creating the relationship between humans and robots.
+
+And of course, emotions play a lot of a role.
+
+But in this lecture we cannot go in detail. And this is very, very interesting.
+
+Uh, and interesting, interesting video. Okay.
+
+To see that. Okay. How we can extend our HCI in robot interaction knowledge into the real applications,
+
+like sex robots, like, uh, robot companions and this kind of interactive scenarios.
+
+And now let's go to the Or today's lecture.
+
+And if you remember during the first, uh. Week we mentioned that.
+
+Robots are computers too. Why? Because there is an literally computer embedded in all robots to manage the input and output processing.
+
+And we will consider the same interaction flow that we did with the computers, with robots.
+
+Like, we will have a task that can be a teaching children a second language.
+
+And in here children will interact with the robot,
+
+and the application implemented on the robot will allow that interaction and achieve the common goal.
+
+Okay. So for the example for instance.
+
+You might write robot instead of computer in here. If the application I love if application is interactive and robots is behaving,
+
+uh, in the environment by changing some aspect of, uh, aspects of the environment.
+
+So you can write robot to here to. And we say robots, and we will say a lot of things about robots.
+
+But first we need to define what robotics is.
+
+And what's the robot that you are referring to? This, um, this, uh, lecture.
+
+Robotics is a research field, and the goal of the, uh, this field is to creating an intelligent connection between the perception and action.
+
+Do you remember? What is perception from the previous lecture? Yes.
+
+No. What's the difference between the sensors?
+
+Sensor readings and, uh, perception? That would be a fantastic question.
+
+You want to structure this? Is that that, uh.
+
+It's, uh, sensor you can consider as a raw information, okay, that you are acquiring from your, uh, a camera.
+
+But, uh. Information. That's, uh.
+
+So. Meaning meaningful information that you can extract from that camera.
+
+It becomes your perception. Okay. Like here.
+
+Let's see. Okay.
+
+This computer has a sense of you which this computer has a sense of.
+
+And here you are seeing me.
+
+If you process this information and detect my face's face in here, then you will, uh, get the perception for your robot or for your.
+
+So the difference between is the raw information versus the meaningful one.
+
+Of course, meaning can change from the application to application.
+
+Like for the basic uh robotic vision task, it can be recognising the faces for the house uh keeping robots.
+
+It can be recognising the items in the kitchen, for instance. Um or goal as a roboticist.
+
+We have to create a connection between the perception and action. And that's what robots are doing.
+
+And that is the field of robotics. But to say that one item, whether it's in the robot or not, we have to consider this five.
+
+Features. Five item has to exist on the robot and the first one is the body.
+
+And we will consider here the physical body, but it can be also simulated one.
+
+But in this lecture we will consider a physical body. Another one can be a sensor.
+
+Camera can be a distance. Sensors. And can be a touch sensor that you can interact with the robot.
+
+And the third thing is the actuator actuator basically is a component that gives your robot to perform an action.
+
+And most case or, uh, actuators are motors.
+
+And next semester you will see a lot of details about the motors that we can use for the robots.
+
+So. If you are calling yourself a roboticist, then you have to pay super detailed attention to do to this two sensor actuators.
+
+Remember, your goal is to create a link that has to be intelligent.
+
+Between the connection between the sensors and the actuators.
+
+And here we also have a controller. Controller? Is that somehow a brain of the robot?
+
+Um, the, uh, what control is, uh, control is to get the sensory information.
+
+Process it, then create an action for your robot.
+
+So you can consider this. This is the brain of the robot. And of course a robot has to exist in the environment.
+
+So oftentimes, uh, submitted robot is not good for the human robot interaction.
+
+And this robot has to perform some function. Can be an object recognition or manipulation or locomotion in the environment.
+
+To interact with the human or the other robots. And this is the robot that, uh, robots that I took, uh, their videos one from another.
+
+And this robot is the. It's an anthropomorphic robot, like a full bodied anthropomorphic robot.
+
+And, uh, it is, uh, dancing.
+
+And it's called the Japanese ideology.
+
+So Kawasaki is creating this kind of robot for entertainment.
+
+And here is our famous and all of it. And you will see.
+
+This robot is, uh. Getting in a camera image, processing it and recognising the face.
+
+So by definition, in here we are creating the intelligent connection between the action and perception.
+
+And here are the two examples of this definition.
+
+So we can call this to. Let's say this to agents as a robot for them.
+
+But now a question. Maybe it can be also in the exam.
+
+Do you think your coffee machine is a robot? Yes.
+
+The one that you are using in the algorithm. Some of these.
+
+Or your car. Or your bicycle.
+
+Okay, because they do not pay. They only, uh, activate.
+
+Uh, they got the states, uh, because. Uh.
+
+They don't have a controller. They don't have. I mean, they are not unintelligent.
+
+Perspective and action. Okay. Why? Why?
+
+Why? They are not intelligent. You.
+
+Can you give an example? Are 19,000. Maybe tell it to another person.
+
+Okay. Issue another person. And that's why your coffee machine is not a robot.
+
+And why the interaction between. Uh.
+
+Your coffee. You and your coffee machine is not that old.
+
+Because we care about the environment. So basically it can be anywhere.
+
+Exactly. Yeah.
+
+That's true. Yeah.
+
+That's true. With some conditions.
+
+That is error problem. It is not a robot that we can define autonomous robot.
+
+But there are some aspects of this machine can show us.
+
+It's a robot. Why? Because they have a body. They exist in their environment.
+
+There you have a sense of the temperature of the water. Okay.
+
+Because if, uh, it reaches some, uh, uh, certain degree of the temperature, then they will stop.
+
+But they don't have an actuator here. Why? Because you need to work, and you need to put the, uh, input for that, uh, robot.
+
+Controller yet they have a minimal. Controller. Okay.
+
+Controlling the temperature of the water. Environment. Yes. Function.
+
+Yes. Still, we cannot say that they are robots.
+
+Okay. They are not intelligent. Why?
+
+Because. For all the customers that are going to Albertine, it will give the certain degree of the water,
+
+certain degree of coffee for the selected, uh, option. It will give the same couple for you.
+
+But let's say I don't like my coffee at, uh, at something that I like, uh, 75.
+
+So it cannot detect my face and create an option for me.
+
+So that's why oftentimes you are not saying that they are about. Sorry.
+
+So through the camera in the coffee machine, which will be detecting faces at the base of the faces, it will make a coffee that will be zero.
+
+That will be one option to be able. But for instance, if you put on the, uh, I will come to you.
+
+Yeah. If you put on that coffee machine like that,
+
+the one that they did for the trashman and it is walking around and it detects me and said, hey, what do you like a coffee today?
+
+And I will say, no. Then it will, uh, move to, uh, to another person.
+
+The dancing won the. So you that really.
+
+Why not? It doesn't detect a loss face, but the face is just one function.
+
+I'm getting there. Okay, fantastic.
+
+What do you. What a fantastic question. Why? It is intelligent. Okay. What is you see in here?
+
+This, uh, Japanese item. Okay.
+
+It's. It is dancing without any strings attached.
+
+It can balance itself. I thought it was following.
+
+No, no, no, it is, uh, you get stuff like them and you see, and it's very hard, probably actually, for the robots, uh, uh, balancing robots for, uh.
+
+It's like, does it does the same thing over and over again?
+
+It's it's safe. That's right. Okay. The in this video that uses the same dance.
+
+Okay. But in reality, if you are first the robot, then it can avoid you.
+
+Okay. So if you change the region, for instance, you can generate a different type of, uh, dancing stuff.
+
+So if it's if it's a robot who starts dancing, dancing it.
+
+The robots does the same thing. And then we can.
+
+If it's doing the same thing over, over again, we can set it as an automation.
+
+They are still robots, but they are automated from there. They may not be intelligent.
+
+That's makes sense. No.
+
+Okay, we'll come to this one. This is the philosophical part of this stuff.
+
+Okay. What's the robot? What's the agent? What is that stuff? But, uh, for you, if you see this, it's six of them exists in the item.
+
+You can call it robot. And in the exam if you have some arguments that.
+
+If I show off this one and you are seated, this is not a robot. Then you have to write your reasoning.
+
+And if I agree with you, you will get the point. Cool now or a lecture is about human robot interaction, not fear.
+
+Robotics. Because pure Robotics is. Uh, acting.
+
+Acting in the environment to manipulate it.
+
+I can imagine that there is one, uh, one, uh, card company and it is, uh, automating it, as is about to assemble the cast.
+
+To manipulate them, but I got put, uh, picking the one object and putting it in one place and screwing it, and that becomes a robotics.
+
+But for the human robot interaction, we have an inner part of it.
+
+And oftentimes if you include a human, you should consider this some social rules okay.
+
+Like here we have an Asimo. Of course this is a bit old example.
+
+Asimo is now or almost don't exist at this stage.
+
+All the time about anyone existed, but we are not seeing.
+
+Previously it was super famous, a robot and only a few robot companies have Asimo.
+
+But currently, thanks to the Chinese companies. Okay.
+
+We, uh, have a €10,000. Uh, humanoid robots that exceed the capabilities of the Asimo.
+
+But the idea is in here. You see, the Asimo is bringing some coffee to you.
+
+And it is just putting on the table on the desk.
+
+But here we are seeing the pepper robot is. Interacting with the human.
+
+Okay. Like, uh, showing some distance.
+
+It's not super close to the rope. Uh, to the human. Um, it shows some gestures.
+
+So in this case, we can say that Asimo is the robot. And it belongs to robotics.
+
+But here. Paper robots, and within this application it belongs to human robot interaction.
+
+Why? Because it has a social component. So this is an exam question.
+
+You see, this is the, uh uh uh. Green, uh, text.
+
+And that will be an exam question. Okay.
+
+And why we did this, uh, kind of social, uh, part of the social part of the.
+
+Of the interaction. Yeah. Okay. Yeah.
+
+Like, we can employ the Asimo and it can perfectly manage to execute the task, but we need the more social robots in here.
+
+The reason is if you deploy the robots into human society, almost all interaction has some connection with this being social.
+
+Like here we are in the social environment.
+
+Why? Because you have some distance to the, uh, to to the next student.
+
+And this is called calculus. And we will introduce it, but.
+
+We will assume that all interactions, almost all interactions with robots, uh, will require some social sociality.
+
+Um, to achieve this, uh, social, uh, part, we need some, uh, concepts for robots.
+
+Like, robots should be intelligent. Like after delivering the, let's say, coffee in here.
+
+He should, uh, pay attention. And, uh. Uh, try to initiate a dialogue between the human and, uh, this robot.
+
+It's going to be multimodal modality here.
+
+There is a sense of like maybe vision only tasks will be limited in their social work, but you may need some touch.
+
+Okay, let's say you have an robot, which as a tennis coach.
+
+And of course, for the future vision, it may generate some juice for you.
+
+But after each strike, if it says that, okay, it's a good job.
+
+Then we will, uh, need to make a robot and, uh, in a multimodal setting.
+
+And the robot has to be able to display their emotions or understand their emotions.
+
+Because without emotions, the social parts are quite, uh, both or limited.
+
+And they have to be embodied, which means that they have to have an.
+
+Body. Physical body. Otherwise interactions.
+
+Yeah, they might have some benefits, but in this case they cannot be as useful as the robot.
+
+And they should also have some design aspect, like if you are flying, uh, drones over, uh, over, uh,
+
+children over a child, then if something going on and malfunction on this robot, it shouldn't damage this.
+
+So we have a lot of aspects in here. And the one thing that we should consider in here is that all of us here are products like a health.
+
+If you imagine that this robot is just randomly navigating in the environment, okay, without paying attention to this lost child.
+
+So in this case, we cannot ask. We cannot say that this robot is an, uh, good robot for human robot interaction, like the one that we have in here.
+
+Uh, Simona, queen of [INAUDIBLE] robots. You see in.
+
+These two robots are not productive. They are not up to execute the task.
+
+Yes, she wants to put the lipstick in, but the robot puts lipstick.
+
+But in an ugly way, let's say. So that's why we cannot say that these are a good example for the, you know, robot interaction.
+
+So interaction exists, but they are not, uh, an example of the high.
+
+And why it matters. This is if you are interested in robotics.
+
+Actually just read this paper. It is written though it's a bit old, but still they have some good points of sexual in it.
+
+Say that for the next ten years this kind of research fields on robotics will become popular.
+
+And if you are a career researcher, pay attention to this study. And if you choose a random one, definitely you will find them.
+
+One application that can be used for human robot interaction like robotics or security.
+
+Yeah, you might have one, uh, robot that interacts with your children, but.
+
+It can not interact in a random way, or it cannot interact in the same way that it can interact with the adult.
+
+So we should think about the ethics part of the this applications social interaction is purely medical robots.
+
+Oftentimes they are, uh, celebrated.
+
+Okay, you can be in a different country and there won't be a one Da Vinci robot in here, and it will operate in your, uh, in your body.
+
+So it's not that social part of it, but still human component is in that.
+
+So that's why it will be. Yeah. Listening will be interaction with the human will be important part of in this area.
+
+And you can extend to robots worms like you will have in uh in the concept for instance.
+
+Yeah. You see there are some, uh, applications in the concerts.
+
+Uh, a lot of drones, they are flying and they are changing their shape.
+
+And now imagine that you are doing the same thing in here, but you will clap and the drones will come to you,
+
+or you will show some signs and drones will form that sounds that you show this.
+
+So definitely you can find some, uh, application in the human domains for this audience and some quite interesting paper.
+
+Please read it. Uh, if you are interested in the robotics.
+
+And of course, when we say that human interaction, it's not completely on the train or in the, in the, uh, in the,
+
+let's say on the surface, on the surface of the Earth or in the environment or in the classroom, it can be some extreme conditions to.
+
+And one example is in here. Now we can say that, okay.
+
+What kind of human interaction is this? Okay. They are, uh, doing, uh, joint task to fixing something.
+
+But in reality, this robot can, uh, process some nonverbal gestures.
+
+Okay. For instance, for scuba diving. Some gestures are, uh.
+
+Uh, some gesture means, uh. Uh, certain, uh, actions.
+
+And that's why this robot can, uh, process this, uh, gestures.
+
+And we can say that this is, um, for example. Okay.
+
+Does it make sense to start again? A robot is processing non-verbal behaviour off to humans and generating an action.
+
+Well, that's why we can call it the same example. Okay.
+
+Now. I guess you see already this video. But sometimes.
+
+We should think about that. Okay. We are taking a robot. Whether it is good to enter in the real world or not.
+
+So we should be super careful about it because we have some horror stories.
+
+And one of them. This one you already know. Here.
+
+Uh, this robot is deployed in, uh, Japan, you know, one shopping mall,
+
+and you'll see some children's, uh, children become super, super aggressive towards the robot.
+
+So often times you are thinking that, okay, we know or user base and we know they,
+
+uh, their needs if they deploy or robots and they will behave in a productive way.
+
+But in reality that doesn't happen. So you see this.
+
+Robots are become this human. Human beings to become super aggressive.
+
+Again if we need to, uh, design a robot.
+
+So we should consider, okay, the extreme behaviour of the humans towards the, uh, force of a robot.
+
+And another one is this Hitchbot. This is a robot that you can, uh, stop by and put in your car, and the robot will say that.
+
+Okay, I want to go. Uh, Berlin. And then you will say that, okay, I cannot put you in Berlin, but I will put you in the.
+
+I don't know that one, for instance. Then from the come another, people will pick this robot and put it in and take it to a valley.
+
+And this is Berlin, by the way. And this is a robot.
+
+So basically each I think for the, uh, reaching its own destination.
+
+I don't know if you already see this one, but not much.
+
+What happened to this robot is a bit, uh, upsetting, actually, when I, uh, read the, uh, news, uh, about it.
+
+It was damaging my understanding about the human society.
+
+You will see this robot is safely moving from one country to another.
+
+Okay, I guess the original roboticist designed this robot is from Canada.
+
+And the robot successfully moved to Canada, Germany and Netherlands.
+
+But once you get rich to us, then, uh, robot becomes, uh.
+
+None non-functional at all. It's actually like a the they they move, it's, uh, it's arm and even take the updates that'll.
+
+So again, if you are watching this, you should be aware that's extreme uh, interaction or behaviour of the human society.
+
+That's why robotics are, uh, quite hard actually.
+
+And most of the robotics roboticists are not interested in the deploying the robots in the social environment.
+
+If they, uh, the robots uh, workflow in the love or the limited uh, uh, real world and they will be happy.
+
+Okay. Cool.
+
+Okay then. Let's see. Of course we are interested in the HRA, but that's not this kind of HRA that's can lead to damage of a robot.
+
+We are more interested in the HRA, in the HRA robots that can create a symbiotic relationship between us,
+
+like, uh, your, uh, smart, uh, what you said, uh, what your smartwatch is doing.
+
+I can show some behavioural data from you.
+
+Again, the heart rate variability and the other stuff and what you are doing for the so what we are or this uh,
+
+uh, variable, uh, the wise you are putting charge.
+
+So there is a symbiotic relationship between you and the, your uh, vegetables and what we want to achieve the same thing in the robots.
+
+And to do this. To do this, we need some guidance. Okay.
+
+We cannot just create a random robot and expect that that will be a part of our life.
+
+And the relationship that we have with him is, uh, is, uh, productive.
+
+And what we need to consider. First, we need to consider the form.
+
+Form is that whenever you look at robot, what kind of robot is this based on its shape?
+
+Here we have a different dimension of what can be.
+
+A robot with random shapes that doesn't look like, okay, what you are, uh, what you can, uh, see in the real life.
+
+Biomorphic means that it is resembling some animal or some living being.
+
+Uh uh, for anthropomorphic means that it looks like a human.
+
+Okay. And for this robot we often times called zo morphic.
+
+Because at first glance, when you see this kind of robot, it does look like an, uh, bird, although it doesn't have a wing and it cannot fly.
+
+So here we can see that it's about morphic or what modernity means that the
+
+model of interaction in how many ways that this robot can interact with you.
+
+It can be verbal. It can be nonverbal. Or it can be special.
+
+I can, uh, to keep the distance between you. And that is important, actually.
+
+Social norms. Whether this robot can, uh, follow the social norms.
+
+Social norms can be. Waving away like an if somebody is waving to you.
+
+Oftentimes you are also waving to him. This can be also.
+
+Keeping distance. You are talking to you so you are not allowing to.
+
+Let's say not call. It is becoming super close to you.
+
+More talking while talking. This is this kind of stuff that belongs to social norms.
+
+Autonomy is different, and almost 90% of the AI robots are not autonomous.
+
+Which means that if you create a robot that behaves autonomously in the social world, you can be rich.
+
+I'm not joking. If you achieve this bond, you can be rich.
+
+But currently, we don't have this kind of, uh, robots around and that we can deploy in our daily life.
+
+Okay. Interactivity is also changing in the level by level, but you can say that okay,
+
+you can understand some casual behaviour, like if you clap it, it means that the robot achieved a good thing.
+
+Okay, so it can create a link between your, uh, social behaviours to uh, uh, the, uh, the output.
+
+And this robot actually designed by one of our students. And she created this robot for, uh, obstacle avoidance.
+
+Like, if you are coming closer to the robot, robot distracted avoiding you and it straight and.
+
+Like in bird bird songs. And this is, uh, another type of robot that was called kismet.
+
+It's developed in MIT, and this is the one of the first robot.
+
+Exist in the literature. But one important function of this robot.
+
+It has only, um, what's in a hat?
+
+It can display some emotions, but fixed emotions. Like a surprise.
+
+Like I discussed, like an, uh, fear. And it doesn't have a full body.
+
+And from here, that robot, that from here to here, that robot doesn't exist.
+
+And it is super expensive at that time.
+
+Only one lab had this robot, but with current prototyping tools everybody can access and, uh, 3D printers can generate this kind of robotics.
+
+So that is, uh, a bit important because, uh, we want to create a robot which is accessible by.
+
+The, uh, by the population, okay. By you, basically, you can create or work or, uh, do research on it.
+
+So that was the problematic part of this kind of robots and.
+
+Uh, consider that it is 30 years old. Now we have a different type of property and this is the keep on robots.
+
+It is. Uh. You can't.
+
+And it's that keeping a robot, it's currently not developed. It is created by, uh.
+
+Uh, professor in, uh, in, uh, Japan. Uh, what's his name?
+
+I forgot his name, but. Cosima.
+
+Yeah. Awesome. His name and they have some version of it.
+
+So you can find it on eBay. And if you find it, just let me know and I want to buy it.
+
+And it is created for the human child interaction, actually. For the autistic spectrum disorder or the other, the individuals has this condition.
+
+And another one. This is a I know this is what a famous, uh, cognitive robot developed in Italy.
+
+It's a European project, but again, it is super limited, and not everyone can host or buy this kind of robot.
+
+I get my PhD on this robot, but it was super, super expensive, like a for a single arm.
+
+We gave almost half €1 million for uh, for fixing and it.
+
+But now, thanks to again some Chinese companies. Okay, you can buy your own humanoid robot.
+
+That I can assure single function that I call the test, and it is just platform for actually purely working on cognitive robotics.
+
+Like you will observe some behaviour in the human or babies, and you will model it in computationally and implement on this robot.
+
+Again. It's super expensive. And we have a different types of robots.
+
+Uh, still, it is anthropomorphic. It also morphic.
+
+This is all morphic. And we have a tool.
+
+Two agents in here. Okay, one is actual human. One is a robot.
+
+You can distinguish which one is robot. Yeah. And this is, uh, Jim Benoit.
+
+It's not called humanoids. Humanoids? Humanoids of Chicago. Some.
+
+And, uh, he is a bit, uh, it's not that he is super talented on designing, uh, robots with the need for.
+
+And the. He is, for instance, interested in the culture and the culture of the creator almost for the cultural, cultural, cultural events.
+
+Like here, it's for, uh, museum, uh uh museum, uh, robot here it's robot for affection.
+
+Okay. And he a robot for, uh, some human interaction.
+
+And with this one, these are the some of stand up comedian like people in Japan.
+
+But in a more serious sense. And then what he wants, he wants to, uh, replicate the same appearance.
+
+Why? Because. Japanese hyper ageing society.
+
+So that's why instead of creating an, uh, robot of instead of an employee and a human to do a one job,
+
+they are creating the robot to do the same thing, especially in the assistive robotics domain.
+
+They are very witty and successful.
+
+Um, the one thing that I need to mention, this one, uh, this, uh, she was, um, one of, uh, asked and actually, who works with me for the internship?
+
+Um, for the master's degree. So for the bachelor's degree, uh, thesis.
+
+Now he's a master student of, uh, student. And probably he will do that and, uh, he will do an, uh, a PhD in there.
+
+So if you are interested, we can discuss about it.
+
+But you have to show some interest and some output. Then we can create a link between you and, uh.
+
+Uh, that, uh, previous students that you can have some, uh, options in Japan to.
+
+Do you understand what I'm saying? Okay, cool. And I will give you a lot of clues, actually, for and throughout this.
+
+This stuff. And if you do a PhD with, uh, this kind of pioneering effects in robotics.
+
+Definitely. It will open a lot of doors for you.
+
+Okay. We have an, uh. It just the basic robots for the human robot interactions.
+
+But in reality, it's a quite diverse topic, and we can find in almost any type of robots for different tasks, different user base.
+
+Like here we have if you have robots. I don't know the function of this robot.
+
+We also have an in the in our apartment. It is super expensive, like a €25,000.
+
+And the only thing that it can do is you can project a face on it and it can do some, uh, nonverbal gestures.
+
+It's overkill for that price, but that will be an opportunity for you if you create a robot with the same function with the lower price,
+
+definitely you can compete with them and they will like your robot. This Cosmo a bee toy.
+
+It can teach, uh, children to arithmetics. And this is the third ticket.
+
+Imagine that you have a cat and she gets split. And this is, uh, created by my colleague and a friend from Delhi.
+
+They created this type of robot for, uh, for touch based interaction.
+
+And I can imagine that there's a particular stuff, like a you are putting a cat instead of cat,
+
+you are petting a robot, and this robot can adapt to your, uh, style.
+
+Is it okay? Okay. The more pet you than the more it will purring or bad data sound.
+
+Okay. It's very interesting, but still a bit expensive.
+
+Like 5000, €1,000. And they have a quite interesting, uh.
+
+I can show up during the break actually their video.
+
+And here also we have some exoskeleton that operated soft toy like robots that can you can find in the museum.
+
+And this is the, uh, drone coach you will do in your daily jogging with robots, and robot will move in front of you to encourage you raise.
+
+And these are also robots for, uh, human robot interaction.
+
+And it is, uh. It is. Uh, this tool was actually one of the success stories in human robot interaction, the most purchased.
+
+But unfortunately, the company is closed and they are not, uh, they are not thinking to refurbish this, uh, robot.
+
+Uh, to put a nought. And these are the robots we have in the lab.
+
+So you are welcome to use it. But you need some training.
+
+And you need to be a bit serious, actually. So it's not the trial and error stuff.
+
+So just check it and if you like one of them. And then you can ask me or.
+
+So work with this kind of problem. And we have a some strange, strange, uh, policy in the, in our lab, whatever we have.
+
+And as a big robot, we should also and smaller version of it, like we have an, uh, one the three, uh, go uh,
+
+this is the, uh, big dog, and we also purchased the smaller version of it, or we are creating a smaller version of it.
+
+And if you want to be a part of it, just check.
+
+Uh, first is my publication, and then we can create some, uh, research line together.
+
+It can be a human robot interaction just for robotics. Whatever you want to do.
+
+Okay. And we see a lot of different types of robots.
+
+But now this is the one of the interactive, uh, interface actually you can click.
+
+You can see a lot of. But what's in here? Let's see.
+
+Uh. Which one? Okay.
+
+That's is. It's, uh, you know, like Android's, uh, from probably from Sugar Sons.
+
+Uh, and we. Also have a snack box.
+
+I don't know what to do of it. And if you have a free time, just go and check this website and you will find a lot of different types of robots.
+
+And you can see that, uh, which one is interesting for you that.
+
+Then we can, uh. You know, we can, uh, work together. Okay.
+
+We have, uh. Almost finished. Uh, yeah.
+
+This session. Do you have any questions for remaining?
+
+Three minutes. No. Discussing.
+
+But let me ask you one random question. What kind of robots that you need for your life?
+
+That's it for a three minutes. Let's discuss about it.
+
+So I have a robotic company and you are my user and I am doing an interview and talking to you as a student.
+
+What kind of robots that you want in your life? Be as imaginative as possible.
+
+Nobody knows. Euro bistro.
+
+Well it's just. You knew she went.
+
+New or none of it just came a new one.
+
+Yeah. Oh, okay. Okay, okay.
+
+Yeah. This is the, um, the company commentators in the US, but previously it was in, uh, Norway.
+
+And, uh. It was previously on the robotics.
+
+I believe robotics. And one of my students in, uh, Balinese.
+
+Uh, yeah. Former, uh, one company, one of my students in the above him.
+
+He is currently a technical lead in here. So that might be another connection for you.
+
+And this Robert Gates is good with design and good implementation, but most of the demo that you are seeing is duplicate.
+
+It's all I can. Who was the.
+
+Very often you're looking to get. Like you see this kind of stuff?
+
+Our robot is not autonomous. Sorry to get misleading, but if you read the description.
+
+They are. In video, they are less emphasising it.
+
+Okay. So. And the first is in currently, if you want to buy it, you need to pay €300 deposit.
+
+But once you go in mass production, you can have, I guess, less than 20 K for this room and the function of the support will be quite limited.
+
+They are doing this kind of, uh, initial customer contact for collecting the data.
+
+And the more data they collect from you, from your, uh, household, then their model will get better.
+
+And you will have this robot. Hopefully. In some ways.
+
+Okay news. But what does? You don't need to name the robot.
+
+Just imagine the one on the throne. I don't know. From Star Wars from.
+
+Or it doesn't exist. Just tell me the function. Come on.
+
+I want to design a rover for you and be not. Okay.
+
+So just be careful and the future is going in that direction.
+
+And robotics will be bigger than today.
+
+No, the design is. From what?
+
+From fabric. Yeah. Not in the upper. Because then it doesn't get dirty.
+
+It's much easier. Yeah, that are some of the stuff that you cannot get families that.
+
+I don't know what is actually the reasoning behind, but there you can see that.
+
+Okay. Just. Maybe it's a cost perspective that makes us.
+
+If you imagine that this robot has a. Oh.
+
+What is this? Yeah, this robot is completely plastic yet?
+
+And if it is broken. Then you need to go to places.
+
+Okay. But imagine that it's just a like things. And give just a skeleton of the robot and they will change the clothes.
+
+So that's part of this problem, probably because it's more solid.
+
+It's this one. No. You know, this one is, uh, if you do this, one cannot do the same thing that Neil can do.
+
+But anyway, I will check in detail and we can discuss that. I was the only one that was.
+
+And they said that this was for the social standards. The.
+
+Okay. So it was more. Okay, now that can be like a name, like the most exotic that can be.
+
+There are many domains and believe it or not, robotics robots are, um, are not very much concerned about this kind of design issues.
+
+Okay, so if you have a base and experience in the design, you can definitely contribute to the robot design system.
+
+And this is the fukkit. Yeah. You can take a break.
+
+And in 45 minutes beat. It's.
+
+They have a nice, uh, customer.
+
+And. So actually, this robot is built by just a single person.
+
+This guy. I don't know how to read Chinese, but very talented engineer.
+
+And to be honest, if he has a Kickstarter campaign or other stuff, I will definitely, uh, paid for, uh, having this robot.
+
+And he's super interested in the robotics. And he opened up one company.
+
+It's called AGI bot. And now that company is actually a rising star in the humanoid robots.
+
+And you will see. This kind of robot. Actually, he is now building he and his team.
+
+But again, it's possible. And with the available tools that we have currently, like a 3D printing, some other prototyping tools, definitely.
+
+It can be done in here too, but not at that level of professional.
+
+But we can start. So we'll just give you some, uh, initial motivation if you are interested.
+
+I am also interested. Just let me know. Okay.
+
+Let's go. And I finished their. Second part of.
+
+It's okay. Now we just introduced to what is H3 and what are the what type of the robots that we are using in the H3.
+
+And since it is somehow related to interaction and we said that we can replace robots, can replace computer with robots.
+
+So we also need some design heuristics, design paradigms and design, uh, patterns for the right.
+
+And it is quite still in the infancy, like the one that we have in the user interface.
+
+Design does not exist in the HRA. But the field is progressing and definitely there will be some more room and more advanced products.
+
+So. So first we need to.
+
+Design or robot? Yeah. What kind of robot? That we want. First it has to be interactive.
+
+And the robot is hardware real and can be super, super hard for us to come up with some, uh, some, uh, random, uh, methodology, okay.
+
+To put all the listening device in a trash bin and shake it enough, and the one robot will appear so that things, uh, does not exist.
+
+But what we need to do, actually, if you are new, of course you have to do do try an error.
+
+And we call this kind of approach as a truncation approach.
+
+Use whatever you have and compile it, assemble it, and then you will have a function robot.
+
+And of course that truncation approach will not work in uh uh, all settings and will not work in the for some other um users.
+
+And in next semester you will do this kind of robots.
+
+Okay, just be ready for it. And it will not be super, super advanced.
+
+But definitely you can use your creativity and your design skills and the your, uh, programming skills to this, uh, of course.
+
+And the one that you learn in the HCI will be definitely useful for the next time in the autonomous systems.
+
+And that's my goal to actually to make this course as a continuation of one after another.
+
+Then you will get some experience in one and apply to the other in the hardware domain, rather than the interface in the digital domain.
+
+And in the HRA. Actually, you can also follow the order of a famous Caesar centred design approach.
+
+Okay, but the thing that in the first session I did okay, what kind of robot that you need?
+
+Because I know that you are a student, you are a CSS student and you are belong to one profile.
+
+And if I get enough data from you, then I can decide, okay, I will create a one robot and design it.
+
+And it might be useful for the most of our student.
+
+Of course it will be free, so nobody will need to pay me for this one.
+
+But just be aware that instead of doing truncation approach like somehow we are doing in here, we can also use our user centred design approach.
+
+It's not common, but uh, some big companies are trying to invest in it, like one company from Spain for robotics.
+
+They have, uh, some designer position among, uh, a few companies in the US.
+
+I know they are opening, uh, opening some position in the design. Design is just an interaction design.
+
+Okay. So definitely your profile will be a match.
+
+What they want. And doing.
+
+Of course, instead of creating something from scratch, uh, we will be.
+
+In a good position that if you know what exists in the literature previously and why some products, uh, failed, uh, in the previous,
+
+uh uh uh, delivery, then we can get some inspiration and build a new specifications for a robot and enter the market.
+
+Or the answer our user needs. And it's very hard job. So again, we are saying that robots can do task repeatedly.
+
+And you will see still it is 2024. So it's 25.
+
+We are using robots in a third operated way. Okay.
+
+So it is hard. But of course the field is progressing and a lot of investment are, uh, entering the market.
+
+So it will be quite easy to achieve this. Um, on delivery of previous promises, uh, in the next, let's say, ten years.
+
+And the first principles or first, uh, heuristics that we will follow is form follows function.
+
+Okay. Like in here. What you are seeing.
+
+That, uh, object is a trash bin. And this is the one of the earliest version of the trash bin in Japan.
+
+And we call this kind of, uh, items in the literature as raw object.
+
+Okay. A daily life, objects that, uh, dispose some, uh, robots.
+
+This behaviour. And that can be a nice, uh, project for the next year.
+
+And here also, we have a one, uh, a robot called. I don't remember its name, but, uh, from the robotics.
+
+And you will see, it's super, super simple. And that you can not be more minimalist than this one.
+
+You have a one mobile base and you have a one stick and one manipulator.
+
+Then you can pick and place some object from the mobile to the upper shelf.
+
+And again if you. See just this one.
+
+Okay. You can easily infer that this robot has some functionality for trash bin collection.
+
+Uh. Trash collection? Yeah. Why? Because it is form in place.
+
+Some function. Does it make sense? Okay.
+
+Like here. She credits Jerry.
+
+Noid.
+
+And if you see this, you notes, you can easily infer that whatever it is, a biological counterpart is doing, this gem node should be able to do it.
+
+Of course not in a perfect way. And that's why the form of this robot is hyper hyperrealistic humanoid.
+
+And that's why we are calling that this is the one of the important, uh.
+
+Uh, important. Idea for, uh, should AI researchers.
+
+Designers. Your form of, uh, the robot should imply its function.
+
+Okay. Okay. This is the video that you can, uh, you already see.
+
+And another. Uh, yeah. I think the form and function, uh. It's okay.
+
+And another, uh, design promise, a design, uh, uh, heuristics in there.
+
+Uh, it's under-promise and overdeliver. Okay.
+
+If you have a one product, it's better to not say that this product can achieve everything that you need, such as a such thing doesn't exist.
+
+So what you can do okay to. Say that I will design or this robot is designed for this kind of, uh.
+
+Uh, tasks, but it can be expanded later. Like here you are seeing the drone in.
+
+This is the underwater drone. And it looks like an octopus.
+
+And people are using this robot for the seabed sampling. Okay.
+
+It's very, very hard problem.
+
+I see about something, but the technology that you develop in here later can be used for the, uh, some surgery, surgical robots.
+
+That you would put, uh, I don't know, this, uh, uh, octopus tentacles.
+
+And on. At the end you will have some seizures and you can basically do surgery inside of things.
+
+Okay, so you promise wanting all underwater locomotion but you can use this robot for.
+
+Medical setting to. Okay. Does it make sense?
+
+Okay. So promise a few things, but over deliver for you, Robert.
+
+And this robot is actually from my PhD supervisor, Laski.
+
+She's now in, uh. Uh, Singapore. Just, uh, check her name, and you will.
+
+You will be inspired by her work a lot. Another thing is the overlapping with the, uh, this one overlapping, uh, with the this one.
+
+But if you have a one, uh, one interaction.
+
+It should be extended, or it's better to be extended in a different way.
+
+Okay. Like the one that we mentioned, that if you have an octopus robot that you are sending for the seabed, something.
+
+Done. You can also use the same technology for the medical robotics.
+
+So it is very hard to achieve it. But over time, if you are working in the same platform, then you will get used to what the, uh, it's capable of it.
+
+Then if you collaborate with people with other domains, then they will say that, okay,
+
+that is, uh, working super robustly in the seabed, in the underworld in some cases.
+
+And why not? We are extending the same function on the on the medical cases.
+
+Again, it's hard, but it can, uh, you can do it. The.
+
+Other one is the don't mix the metaphor. It can be a bit counter-intuitive.
+
+Uh. Uh. If you consider the other three method three heuristics here.
+
+If you are doing a one, uh, robot, let's say it's a child like robot.
+
+Then it is behaviour has to be, uh, has to involve some childlike features.
+
+Okay. Let's say it has to be big cat with small eyes.
+
+Oh, sorry. With a small, uh, had with the big eyes, for instance.
+
+And, uh. Again, it is a bit hard to, uh, do this one because we need to a lot of, uh, interdisciplinary,
+
+uh, uh, interdisciplinary research for, uh, for us, like, you will see this I covered about.
+
+And it is something like this. It's very, very small. And it can generally cannot work, uh, by itself, usually.
+
+I think the one strength and the and not the magic.
+
+But in reality, if you see this, uh, I think it is very cute, like a big eyes with some, uh, functionality.
+
+And it implies that, okay, whatever you are seeing on the robot can be done with the, uh, human, uh, child to.
+
+And, uh, based on this. For metaphor, uh, heuristics.
+
+Just read this one and this is an exam question. I know it is quite, uh, long to read it, but expect this kind of questions.
+
+And the answer of this, uh, question, uh, might be differ.
+
+Different than the one that I am showing here. If you elaborate.
+
+Well, based on the huge stuff that you have in here. I will accept it.
+
+Okay, but let's first read it. Please buy yourself.
+
+Then we will discuss, uh, and the answers to this.
+
+Finish. Okay. So what we are saying in here, there is a professor, surprisingly called the speaker,
+
+not related to Jacomo speaker, and he created a new type of robot and he's giving it an interview name.
+
+Um. You know, let's see, uh, scientific, uh, magazine.
+
+And what do you say? That you will see this eight armed humanoid robots.
+
+There is something going on in here. Many problems with octopus tentacles.
+
+Okay. In every home soon. Okay.
+
+So basically, he's creating a robot to be deployed in the kitchen.
+
+But the form of the robot is humanoid with eight tentacles.
+
+Like Doctor Octopus in this Spiderman. And the.
+
+He's saying that people will accept a robot as a social member of the society, rather than articulate the artefact.
+
+I like that robot will not be super, uh, social with, uh, household members.
+
+Then it will not be as just another coffee machine. It will be a member of the member of your family.
+
+So another thing is going in here. So this robot will achieve almost every interactive task that humans can perform.
+
+This is his promise. Uh, perform in daily life and such as navigating the cluttered environments and the other stuff.
+
+But later you are reading the same magazine again and you are saying that okay.
+
+Of course, Professor James Roberts is failed to do any kind of test that any four years or four years old children can do.
+
+So now, based on this question, I am saying that what kind of heuristics or principles validated by James Pillar?
+
+Come on. Yes. Okay, Joe Seligman.
+
+Okay. What does this. Okay.
+
+Cool. That is a great explanation.
+
+Anyone who wants. No.
+
+Forms follow function. Okay. He's creating a humanoid robot for its arms like an octopus.
+
+So basically, he's also violating this, uh, stuff too. Yep.
+
+Interaction. Expand function. It created one interaction, but it didn't, uh, scale up to the others.
+
+Like, what is the function that is creating? Is, uh, all to stop listening?
+
+Yeah. Uh, employing the robot for daily life activities.
+
+But he fails to deliver a single one.
+
+So it's also somehow. Uh. Yeah.
+
+Couldn't, uh, deliver this one? Couldn't to deliver this one.
+
+And they don't miss Matterport again. It's in the. Or humanoids with octopus stuff, so he almost folded all of them.
+
+Okay. So in the exam, you cannot say that.
+
+He just voided this one and without an explanation. So some of the questions will be you have to answer correctly, validate principle and explain it.
+
+Why if you do one of them then you will not get it.
+
+Okay. So that's why. For you to.
+
+It is better to understand at this one example from each risk heuristic,
+
+both in the robot and the computer case, and try to elaborate it and the experiment.
+
+Here. Uh. The violated the principle.
+
+Is the overpromise and under deliver. But we will accept that for the other principles that you mentioned.
+
+Okay with the condition that you have to explain it. Why? Okay.
+
+So. How is it? This question.
+
+It is easy. Because, uh, hearts.
+
+It's too long. Okay.
+
+I think it's actually okay. In one minute. You can, uh, as with, uh, read and answer this question I had a question for.
+
+And again, we said that the design principles are, uh, slowly, slowly entering to the, uh, domain.
+
+But it's not as measured as in the, uh, human computer interaction.
+
+And, uh, you will not be responsible for this kind of a pattern, so you don't need to read it.
+
+But, uh, just be aware that, uh.
+
+All different types of different resources has different type of settings for it, but the one that you will be responsible is just this four of.
+
+And, uh, uh, don't forget this one also.
+
+Okay. For for loss function. And this one is overlapping with the font for this function and the remaining three.
+
+Okay. Again.
+
+The. The field is quite, quite low, quite low.
+
+And then still we need to accumulate a lot of resources and lot of, uh, uh, output from the different types of, uh, uh, background.
+
+And we need to once we set up the series six, very well, then we can apply it to our, uh, products.
+
+Then we can verify that our product is, uh, satisfies this condition, and it will be marketed.
+
+Okay. In the interface domain, we already have.
+
+Like we have the normal heuristics. We have an least negative six.
+
+And if you verify that you are doing this one then you will satisfy the usability criteria.
+
+But in the HRA we still don't have this one. So that will be good.
+
+For instance, at teases, uh, for you. Or good, uh, internship project.
+
+Okay. And then another, uh. Thinks that we should consider its uncanny valley.
+
+Probably. You already heard this one. Okay.
+
+It's a term in, uh, in Japanese, actually. They don't have an equivalent, uh, translation in, uh, in English.
+
+It's called uncanny, but it is. You can, uh, translate as in strangeness or familiarity.
+
+It is interesting stuff actually. Like when you have a.
+
+This, uh, in this kind of a curve.
+
+For the industrial robot. You don't have to read too much, okay?
+
+And it is not irritating you. But for the if the familiarity of the robot to increase the form of the robot becomes more humanoid for you,
+
+then you will be more familiar with okay, it will not sound too strange for you.
+
+But once. That's, uh. Uh, that's, uh, familiarity or the type of robot is change back here.
+
+What do you have? This is the author of a, uh.
+
+It's a famous I find out of. I forget his name. 1 or 2 rats.
+
+Uh. Glad?
+
+No. Okay. I forget his name. Maybe we send a off to, uh, that's Tim Salter.
+
+It's a shame that I forget, uh, Arthur, but once you see it in here.
+
+Yeah, it's a humanoid form. Your family will not be disturbed.
+
+But once you see the its chest is opening and some mechanic like a terminator, then you are dropping your familiarity in here to it.
+
+Okay. And that will be extended to do prosthetic hands and the other kind of artefacts in here.
+
+And since it is hard to explain, are hard to understand. Actually, you will not be responsible in the exam.
+
+But just be aware that this kind of uncanny valley exists and the people are researching it.
+
+And that's why, for instance, coming up with the principles for the HRA, it's very hard for them.
+
+And in the digital products. Cool.
+
+Now we are moving to the type of interaction. We are saying that, okay, we introduced the let's say, you know, the human part of it.
+
+We know that now, Robert. Part of it. Now the interactive part has to be important.
+
+And we are, uh, group, uh, grouping or interaction with the robots in three different domains.
+
+One is the special like an you should have some distance with robot and each distance really played some,
+
+some uh uh, it will be meaningful in some cities. For instance, for the medical robot, it can be as close as possible to you.
+
+Yeah. For the coaching robot. Like this drawing here can be a bit further away from me.
+
+And for the other kind of robots, like in here, that walk around the human populated environments, that they have to keep their distance.
+
+And it is important and it will be an exam question for you. Okay.
+
+And now can you tell me? Other than this three.
+
+Do we have? Other different types of interaction with our robots.
+
+Yeah, I can interact with, especially verbally and non-verbal away.
+
+What other ways that we can interact with drones? Come on.
+
+But let's say the robots are not in the real life.
+
+And they are. They exist in their virtual reality. And you are feeling good about the glass and the interacting with robot.
+
+Will this be a different type of interaction? Yes.
+
+No. Maybe. Okay.
+
+Just think about it, okay? Maybe you will come up with a different type of interaction.
+
+But in the exam you will be responsible on the industry.
+
+And this is the last year we invite one, uh, a very creative, very talented students from uh, University Wisconsin in uh, from.
+
+Yes. And may she introduce her?
+
+Super interesting, uh, work, actually, to the, uh, to our student.
+
+Unfortunately, this year I am very, very late, and I couldn't arrange a, uh, guest speaker.
+
+But the next semester, we will do, uh, one of them at this.
+
+One of them here. Everybody watched some cartoons and animals.
+
+Yeah. Like in the inspiration of this work is whether you are interested in the anime characters or the cartoon characters.
+
+Especially in Japan, there are. Creating any type of queues for us to understand.
+
+Okay. Like if you are solving a problem or if you are angry to, uh, other people in the environment, you are releasing some, I don't know, hits.
+
+Okay. Or if you are running super fast, you are seeing some, uh, cloudy stuff or the windy stuff are going right in there.
+
+And she said that, okay, if it exists in the cartoon world, why not in the, uh, robotics world?
+
+Okay. They designed the one backpack for the robot.
+
+And while you are interacting with this robot. Okay, she gave some type of the, uh, some type of the, uh, choose.
+
+Back here. It's smoke. Okay, maybe smoke means that from what is super tired or angry to you.
+
+Okay. And here is some, uh. Uh, I don't know.
+
+Some, uh. Bubbles. Maybe it shows that a robot is super happy.
+
+And here is, uh, some liquid. I don't know what's the function of it.
+
+But you are seeing that here like an. We are not limited by the interaction that we have with the humans.
+
+We can be as creative as possible. And here is the very, very interesting work in the HR domain.
+
+If I am not wrong. Uh, she got the best paper over, uh, with this paper.
+
+No, not with the speaker, with the other robot that she has. And her robot is this one.
+
+Please go and check it. This crowd.
+
+Okay. Roads. Um, yeah.
+
+Like she's creating a lot. Ouch.
+
+Was that stroke? Yeah. Like a robot so that it can change its shape based on the interaction that to the extent.
+
+Expand. Twist. You can say that these are all, uh, nonverbal interaction of the robot that you can interpret in that phone.
+
+So it's very good. Yeah. Yeah. This paper is got the best paper a lot of times.
+
+And she just follow her name. And you will find a lot of, uh, interesting stuff from her research.
+
+And she is an very good example, uh, of the person that can combine the different, uh, uh,
+
+different, uh, array of robotics and the design and the create and this kind of nice products.
+
+For the special interaction. This is a or experiment in a balloon and you see.
+
+We are putting the robot in a specific place that does not bother the, uh, participants and does, uh, does, uh, obey the social norms?
+
+So we cannot put, uh, this robot as close as possible to do this.
+
+Uh, uh, participant in here. So we need to follow some, uh, some ideas.
+
+And you don't need to create your own, uh, rules for it.
+
+And we already have some, uh, uh, stuff from the literature, and it's called canons Face in Space.
+
+Like one position is the. If there is an.
+
+Student and teacher interaction between the robot and human.
+
+You can put in the face to face or you can put in this kind of stuff.
+
+Why? Because imagine there is a student in here and I am solving a problem for her,
+
+and she is paying attention, and I am paying the same attention engagement. So it can be opposite of me or next to me.
+
+So for this one you can choose either this one.
+
+Okay. This. This, uh, the information in a or this one.
+
+See? Okay. So it means that the distance or special interaction requires some social.
+
+Aspect plus the test aspect. Is it great for you?
+
+Okay. Okay. And it can be, uh, you know, multiple robots with multiple humans and some others can override.
+
+But you will find a variation of this can Camden surface formation.
+
+Or you can also create one of like, you cannot do this if you are working with, uh, drones, for instance you.
+
+And a verbal interaction is important because this is a one weight that we are using for uh, disseminating,
+
+disseminating or uh, knowledge and the interaction, uh, uh, information for the uh, for the our partner.
+
+And it is good because we can understand each other.
+
+If you know the same language and the same vocabulary and the same context, that we can create and share reality.
+
+Which means that if I am talking right to design and you are understanding what I mean and asking a question or expanding my arguments.
+
+So we have a shared reality between the two of us.
+
+But in the robotics it's a bit hard. Why? Because robots are not aware that the context.
+
+And it is very hard to achieve this verbal interaction, with the exception of the power of Allah.
+
+Now, now we can expand the verbal interaction as much as possible.
+
+Okay. And here is the default to. Default to verbal plus non-verbal interaction of the verb robot.
+
+You know, I think. Excited work.
+
+Can you see a can do an answer? Some actions and the play.
+
+The number will behave. And another type of interaction.
+
+We said this, uh, non-verbal one. And, uh, it is it is quite important actually.
+
+Like on. You can display a number of behaviour with a lot of stuff here, back and forth, gazing back,
+
+paying attention to the different stuff for the pointing and for the a lot of even for a particular
+
+thing like putting a some of us they achieve a high grade or so and some stuff that they should not do.
+
+So everything in here has some meaning and it has some social component on it.
+
+And again with the dextrous dexterity that we have or human has have.
+
+This robot doesn't have. Okay. Like here you will see.
+
+Peppa. Robot is five fingers, but it cannot point.
+
+Because it has only one, uh, actuated. If you close this one and it will automatically close the.
+
+So it cannot, for instance, do the. Uh, let's see.
+
+I do this kind of stuff. The market is. You know.
+
+This. So again.
+
+It is super hard to achieve and, uh. Or. Persistent person.
+
+Which is to of course, actually he is working in this domain.
+
+And he did a very nice example actually. Next time I can bring it.
+
+Under. One question. Through our interaction, which is important for my.
+
+Number one or my verbal output. In general, let's say you are going to barista and barista is showing some stuff or talking with which one is.
+
+No. Or we can say that, okay, the number one is universally much more important than ever.
+
+Look, listen, this is more important than this.
+
+Yeah, yeah. In the same domain, let's say. Let's say I'm teaching in here.
+
+And which one is important for you? My. Number one.
+
+Yes. That's that's what the. That's the context and the. It is hard to actually come up with a, um.
+
+Uh, universal answer for it. Like here. Yeah.
+
+So this question has. Have any of you been approached by the US for a tour?
+
+No. Did you get it?
+
+Okay, let's get back to that. Uh, they can send information to them.
+
+Let's see. Uh, CIA. Okay. FBI. You are installing a new MacBook, and you are using one app and one of sensitive information to, uh, to.
+
+Okay. Okay. And now is the question is. Do.
+
+So this is clearly in the most Western societies as quickly as you.
+
+But verbally, let's say, you know, let's use this.
+
+And here we are seeing that the dominant interaction and the most informative one is the number two.
+
+And try it actually. And people will get uh will be confused.
+
+A lot like him. And imagine that you are the robot and they are on the robot, and it will be much more harder, actually.
+
+Okay, cool. Ouch.
+
+Watch this. Okay. And here's the, uh, not super to one of the robots that developed by Disney Research into this being what, uh, gives a.
+
+Uh, this uh, uh, introduction. And you will see for a realistic example.
+
+Every time. Kenny, you are seeing that uniform. It's very hard to achieve.
+
+Moving their head in one direction and in other direction.
+
+That's what we have for robots. Okay.
+
+And that is the one of the important things actually for us here, especially if you are, uh, interacting with some uh,
+
+uh, students while solving for us from the, uh, the, uh, question, especially if you are a 1 to 1 done.
+
+You can create a joint attention.
+
+Joint attention means that the two parties are focusing on the same topic, object or whatever exist in the environment.
+
+Imagine that you are asking the question. Welcome to here and I am paying attention to here.
+
+Of course you will say that. Okay. This, uh.
+
+Teacher is not taking me seriously, so we don't have any intention.
+
+And again to engagement. Importance. This is one of the. Most dominant, uh, nonverbal way to display that.
+
+I'm interested in what you are doing. Imagine that you are going to a movie.
+
+Instead of watching the movie. You are interacting with other people. So.
+
+And the. Yeah. The signals of the, uh, everything sort of stuff is obvious.
+
+And we don't need to. Just a one body part of 2 or 2 interacted for him on the, uh, gestures that we display by the face.
+
+It's a much more important, somehow more important. But in reality, a robot can do a lot of stuff.
+
+Like here. You see, this is me. More younger and.
+
+Uh, in a second. And I am fleeing. Am I one of my gestures like a posing.
+
+And here is this. The robot is called affective. A factory is a robot that it can display in a hyper realistic way for the human gestures.
+
+Like, uh, this one, uh, the surface.
+
+And the. You also can do the similar, uh, sort of, uh, can do, uh, non-verbal communication with your, um, other, uh, limbs, basically.
+
+Okay. Even some somehow, uh, your, um, your foot when you are dancing, for instance.
+
+And it is. It is, uh, very hard to actually do for the robots if the robots are hardcode hardcoded.
+
+For the some moment, it is easy to do it. Uh, remember the Wizard of Oz implementation?
+
+But doing this one autonomously is very, very hard. And, uh, what else for?
+
+This robot is a factor, and I need to. I mean I want to show some example okay.
+
+This is a subassembly using this robot for a robot okay.
+
+Okay. There is a one sensor next to the robot and we are hammering that sensor.
+
+A robot is changing its face. Or you can put the robot in here.
+
+It can change its face. So basically, we are interacting.
+
+Uh. We are making robot more effective efforts.
+
+In your application. Another one is the service robotics.
+
+And this one is, uh. We are. Applying the robots.
+
+If the task is super dirty, like a cleaning the house, or the super repetitive for us, or the dungeons for us.
+
+And one of the most successful robotic application of his, of course, is the Roomba.
+
+And, uh, this, uh, is, I guess, for the cannot, uh, achieve the same thing as the plant.
+
+If you change the plant, uh, if you've a tramp type or the, uh, make this one a bit higher or lower, it will fail.
+
+But no matter what, uh, or the furniture or layout of your, uh, room, uh, Roomba cannot achieve it.
+
+So that's why we can call. Roomba is one of the successful example for that, uh, service robots.
+
+And we can expand this episode of application in super, super different domain.
+
+Like, I'm sure regarding, uh, robots, one of the earliest, uh, earlier example of the, the, uh, earlier example of the, uh, service over some.
+
+Uh, some, uh, robots for, uh, elderly care in the shopping mall.
+
+And the receptionist. The robots. There are also robots for the entertainment.
+
+Okay, like in the museum, you will find this T-Rex and it will roar you or it will change its head if you are approaching it,
+
+or if they see you or they randomly generate some movement. Now for the health care.
+
+That is another good domain like and you can.
+
+Yeah, for this article in the, uh, in the department that she is using, uh,
+
+some robots to teach autistic children or the intellectually disabled children to recognise emotion and display the emotion.
+
+And oftentimes this kind of robots are cute and the super small.
+
+Why? Because the domain is the children. And you can use this kind of the service robots for the health care and the therapy session.
+
+And there are a lot of different applications.
+
+And. Ranging from the self-driving robots to the health care to the, uh, robot companions.
+
+But still, we don't have any success stories. You see, in case of now, we are still operating that robot.
+
+They are not autonomous. In case of this one, I guess this this one I mentioned previously.
+
+It is created by the one of the famous, uh, human robot interaction researcher from MIT.
+
+She had a lot of, uh, access to the best people in the world as a researcher and a nice,
+
+uh, and, uh, nice, uh, company to receive the investment, but still.
+
+Nobody knows. Among you, I hope. I assume.
+
+Oh. What's the. And the I said before, but I forget.
+
+But this time I will do it. I will share, uh, one presentation with you about why this kind of robots are failing in the market.
+
+Okay. Yep. And of course, some ethical problems for the exercise also exist.
+
+So we cannot create 1 or 1 product that can solve a problem without generating another problem for us.
+
+And one problem is addiction. Imagine that you are creating an supercute robot companion and your child is addicted to interaction with that robot.
+
+That would be one problem. And another problem is you buy those expensive robots.
+
+Lets say no ten of them, but you understand that they cannot perform anything other than the third operation,
+
+and you can lose the interest of using this robot.
+
+Then it will be just another threshold for you and the.
+
+Uh, recycling. The robotics part is super, super expensive and, uh, super, super hard actually, to achieve.
+
+Okay interfaces, you will not be responsible. But, uh, you can see that.
+
+Okay, we have some interfaces for the robots. And still it is in this early period.
+
+Uh, there is no commercially available robot interfaces for us.
+
+So that can be an opportunity for you to create it. And a convention.
+
+Uh, one, uh, confession. Okay. So these are the most expensive robots that you can buy and work with, but still,
+
+we have a super, super ugly interfaces that are not, uh, that are not useful.
+
+Actually, uh, for us to, uh, to work, uh, uh, to work with them.
+
+Why? Because these interfaces are generated by one user and he generates or the built by.
+
+Himself for performing at one function, and if you inherit it, it is inherit this.
+
+Interface. Then you cannot use it as product as a history.
+
+So that's why we need a lot of, uh, designer social interaction designers, such as in that domain.
+
+And we are getting a little bit better than previous stuff.
+
+So we finish our lecture today. I know it was a bit fast, but.
+
+If you just take the content that you deliver and the video, well, it will be for your exam.
+
+And if you have a question, uh, this, uh, attached to this week's, uh, practical session and you will do free style,
+
+uh, design stuff for your assignments, and we will we will be there to help you.
+
+And. And evens.
+
+We will go to overtime for you. Okay. Okay.
+
+You can take look at. This.
+
+So when I mentioned the interactions.
+

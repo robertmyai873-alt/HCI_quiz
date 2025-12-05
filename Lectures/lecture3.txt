@@ -1,0 +1,1575 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Your recording will be available until the end of semester four, except the last lecture where we will solve the exam questions.
+
+Okay, here is what we did previously. But. Come on.
+
+Yeah. Here is what we did the previous day. So do you have any questions from the previous session?
+
+No. Okay. And you already finished your first assignment.
+
+And this assignment has no grading like a group formation. And I already allocate, uh.
+
+The students who has no group to the random group.
+
+So please do not send me an email about this, uh, new group formation.
+
+And if you can solve, try to solve the problem by yourself.
+
+I can, I can if you want to swap the places, contact with the other group and replace your, uh, places with the other students.
+
+And if you ever some special occasions, please just, uh, contact me during this uh, uh, lecture during the break.
+
+Then we will try to find a solution, and I will recommend you contact with group members as early as possible for the next assignment.
+
+And the due date for the next assignment is the September uh, 22.
+
+So please be quick. Come on guys.
+
+Okay. The deadline for the next assignment is September 22nd.
+
+Please start as early as possible. It is ten points,
+
+but it will be exempt if you are losing the four points in this assignment and
+
+the all of the assignments are listed in the canvas before the practice session,
+
+please check them all. Read at least once.
+
+And the check the template. And if you have a question, bring into the practical session.
+
+Okay. So I am telling this because your last minute question might not be answered.
+
+Okay, like I just done two hours before the, uh, due date.
+
+You may send an email or the converse message. So we may not answer this kind of questions.
+
+So go there and check the details and ask, uh, during the lectures or the practice sessions.
+
+Okay, now we are starting for today's lecture, and, uh.
+
+We will go in deep dive into the, uh, second steps for the UCD cycle.
+
+And we will mention a lot of stuff starting from the brainstorming, building the persona,
+
+uh, developing, getting, uh, storyboards and, uh, formulating some.
+
+Some sentences that will help us to, uh. Help us for our design alternatives.
+
+So can you take a bit? Quick steps.
+
+Okay. Okay, let's start from, uh, today's, uh, uh, warm up, uh, question.
+
+So when you look this web page, what do you feel?
+
+Regarding the usability. Is it easy to use?
+
+It is hard to use or something can be improved for the interface.
+
+I guess in Italian. So do not complain about the language, but about the design elements.
+
+So your main task in here is. Your main task in here is.
+
+Search engine. Okay. And now when you look at this webpage as a first glance, okay, can you easily find a design element that allows you to search?
+
+Guys for the next session.
+
+If you are coming for the, uh, lecture late by 2 or 3 minutes, please do not go there and to find a place to sit in there, okay?
+
+Sit as close as possible, and during the break you can change the process.
+
+Because if, uh, it goes in this way, I will lose my train of thoughts.
+
+And I will forget what I am saying and you will just hear me. The bubbling cuckoo.
+
+So please take care. Uh, pay attention for this.
+
+And the next time before, let just take a seat in the one of the first rows.
+
+Okay. Uh. That was what I was saying about, okay, the function of the website is the search engine.
+
+And when you open it or the type, the domain name google.com, Google that, whatever.
+
+Then you will find that this text box. So what it is offering.
+
+That M. Okay, a little bit sitting there.
+
+One of the first. They hit me.
+
+Okay. Yeah. Here. What does this text that offers you?
+
+And do you remember what we called them? No.
+
+It starts with a. Now try again.
+
+Sorry for this. Who is a forensic cook that never forgets?
+
+Okay. And then if you want me, make happy. If you want me, make happy and just answer correctly to the affordance questions.
+
+I really like it.
+
+And this is one of the things that when you graduate from this class, you have to know that affordances, signifiers and the user centred design.
+
+And how about this one? First.
+
+Does anyone use this website before? No Craigslist.
+
+Okay. It is very common in the US and in some, uh, European, uh, countries or cities in Berlin.
+
+Also, it's common because a lot of experts, a lot of students, a lot of artists are living in that, uh, city.
+
+And they want to resell. They want to, uh. Advertise their products in here.
+
+So compared to the a Google interface. They think it's a good design, but design.
+
+And why and why not? Okay.
+
+Should I, uh, ask randomly or you will answer?
+
+Uh, I think it's pretty good that at least compared to the example, there's all the things.
+
+So it's very hard to see what you're looking at for certain things.
+
+Mhm. Uh, so without reading all. You got to go for it.
+
+Perfect. That is a nice, uh, argument for the bad design.
+
+But is it actually bad design for their users? At least one potential user said that it is a bad.
+
+It is a bad design. How about other students?
+
+Okay. Functionality and usability. Uh, for its, uh, very good.
+
+And we have a two diverse opinion here. Who is right? Or who is wrong.
+
+Or can we answer this question? To consider the alternatives.
+
+Uh. Okay.
+
+Yeah. Uh, it's called a nice answer.
+
+Uh, we need to ask our user space. Okay. The one that we are using this website or willing to use this website or not.
+
+And compared to a few alternatives. Okay. So actually the user of this website, the Craiglist, they are happy with the interface.
+
+Okay. So I'm not, uh, saying that.
+
+Okay? This is a super good design, but the user of this website, they are very happy with this, uh, interface.
+
+It is a bit brutalist, but still they can find what they are looking for.
+
+Okay. Because you should imagine that. Okay, you have a product and you are adding to the website,
+
+and you can easily come here and go with one category, let's say, I don't know, uh, politic.
+
+And they will click and they will post their message into that. Okay. So they don't need to go and search something in here.
+
+And they uh, so something in here and they select from the alternatives because they already know that,
+
+okay, what they are looking for and click them and is submitting their.
+
+So this exercise show was actually a bit okay.
+
+We cannot answer, uh, correctly. Without dying or, uh.
+
+Who is making the sound? Okay, so if you know that you are making this sound, please just, uh, change your prices.
+
+Okay. It's a lot of sensory information for me. Okay, then.
+
+Uh, usually we are starting our lecture with a mandatory quote, and the today's monthly record is from, uh, Linus Pauling.
+
+I guess he's a noble lord, and he's, uh. Uh, James.
+
+What you say is quite interesting actually. First, if you want a good ideas, you must have to generate a lot of ideas.
+
+Then the second step is the among this ideas you have to.
+
+Eliminate the wrong one and select the best one or the one that can work for you.
+
+And oftentimes you are not realising, but this is somehow an algorithmic steps.
+
+Yeah, okay. Do you know what the pseudocode. In Bitcoin step by step.
+
+Start executing the task or the program. Here is the same thing.
+
+First, generate a lot of idea. Eliminate the bad one and select the good ones.
+
+And we will follow this approach into HCI and the steps that we are following it is called brains.
+
+Uh, brainstorming. And this is not a freestyle.
+
+Paper based or whatever the medium that you are using the, uh, for, uh, for your projects.
+
+So you cannot, uh, freestyle, uh, generate idea and say that or that or say that this is the good one.
+
+This is the bad one. Instead, we have to create the one structure and follow that structure and apply it to your, uh, project.
+
+So when was the last time you generate, uh, our. A lot of ideas for a one session or brainstorm for one session.
+
+I'm sure that you already use this keyword in your life. You don't have.
+
+Okay. Then we will have another one session together. But.
+
+Our focus is, is not to make a decision. Okay? At the end of brainstorming session, you will have ideas.
+
+But not the decisions. Decisions will come later. And that decision has to be supported by the, uh, by the your user later.
+
+And we are following this, uh, execution.
+
+The steps first. I'm talking for your group projects, okay?
+
+You are coming to get together. It can be online too. That's fine. Then for the, let's say ten minutes, you are just generating an idea by yourself.
+
+Okay. And we call this one as in in the individual, uh, idea generation, the that phase.
+
+And here you can go a bit freestyling. I want to create an A to do list for professors or for the students.
+
+And now I'm generating the ideas. Okay. One idea can be this todo list application can be activated by voice.
+
+Another idea can be I need to use some tags to differentiate my lecture load versus my resource load.
+
+And another idea can be the, uh, it has to work on the mobile devices and, uh, uh, laptops.
+
+Okay. Then for the, uh, groups.
+
+You finish your, uh, individual session. Now you have to move to the groups.
+
+Then you need to. Created some communication rules.
+
+Okay. Communication rules. Just, uh, you can see that now.
+
+Floor is, uh, for person A, and, uh, let's, uh.
+
+Ask him some questions about the idea that he generates, and at the end you need to vote.
+
+On the generated ideas for the trace application. We don't need to use, uh, I don't know, people with the right handed, uh, uh, user base.
+
+This is just a random idea.
+
+Or, uh, we need to consider only people, uh, who has, uh, blind cultural, uh, persons colour-blind persons for those applications.
+
+And of course, based on that voting mechanisms, you will decide besides,
+
+in the sense that it is not an absolute decision, you will decide for your next, uh, phase.
+
+Then. Attend. You will have a lot of, uh, ideas for your, uh, projects.
+
+Then you will follow the another step for the uh, for the UCD and generates more ideas.
+
+And to verify this idea, as with it has to be included in the final design or not.
+
+Under. Since you already complete the first, uh, session, which is called Need finding.
+
+Okay. And you know your users. You have a data for your user base.
+
+You cannot, uh, move a step further and add additional users for that base.
+
+Okay. Whatever you have, the data has to be part of that solving session.
+
+Okay. Average age for users 16 to 45.
+
+Okay. You have to generate ideas based on this user base. Okay.
+
+Most of them are using Apple products. Then ideas also has to be aligned with the decision by your users.
+
+I know this is a bit hand-wavy, but, uh, later, uh, especially in the practice session, you will practice it and you will see the, uh.
+
+Yeah, you will, uh, expense by yourself. And here is one brainstorming session by ideal.
+
+Set design company from the Stanford. And let's see what is their question they are trying to answer and how they are generating them.
+
+Uh, generating the answer for their questions. The question in here, uh, is, uh, how we can increase the revenue for the local zoo?
+
+And this is in your case, it will be how we can generate a product for that user base.
+
+Okay that can be functional, usable, and satisfy the same user requirements.
+
+Let's say. All right, team, thanks for coming for a brainstorm today.
+
+We have a really interesting topic. The local zoo.
+
+The visitors are down 20%. So how might we boost the number of visitors to the zoo?
+
+This is a serious problem for them. They want to stay open. They need more funding.
+
+All this kind of good stuff. So let's spend a few moments now. First, um, and get a few ideas down.
+
+Remember, we're going for 20. Let's see how many ideas we can get. And also.
+
+There's so many good ideas out there. Let's push ourselves. Try to get closer to the ridiculous.
+
+That might be brilliant. All right, so I'll start us off. I had, um, uh, date night, so.
+
+And you might, um, hang out with the animals that are in action in order.
+
+All right. What else? What else you got? Oh, yeah.
+
+Right. What do you got? What if you do a dress up like your favourite animal day? Very cool.
+
+What about zoo? Pop up at places that kids frequent. The malls, school parks.
+
+Uh, um. Home depot, I know, has programs for little kids to build, like, you know, birdhouses and stuff like that.
+
+So it could be all these different crash, but they're sort of animal lessons.
+
+So kids learn and I have a night camping. So you get to camp overnight and you get the idea, like you're pushing the towards the,
+
+the, uh, ridiculous, uh, solutions and just, uh, being free to generate the idea.
+
+Still, you are not making a decision. And later steps you will see how you can make any decisions.
+
+And, uh, we will practice this one in the this, uh, practice session this week.
+
+And you will use Figma. Please get your Figma account, okay, before the practice session.
+
+And if you have a difficulties, send the message in, uh, canvas, and we will try to help you.
+
+And with the Figma you will use feature. Basically you will share your, uh, brainstorming, uh, Figma file for your, uh, group and they will join.
+
+Then you will generate and conduct the brainstorming session altogether.
+
+Okay. And here is the, uh, some brainstorming, uh, uh, boards from the last year.
+
+And you will see this, uh. Uh, group has a four member.
+
+Because of four different colours in their post-its. And they are somehow generating, uh, their ideas later.
+
+They are, uh, assessing their ideas in two dimensions. Achievable and necessary.
+
+Achievable means that's probably by their groups. Okay.
+
+They can deliver this kind of product. Or this kind of ideas in this post and unnecessary, whether it isn't necessary for your users or not.
+
+That the decision or the organising idea way will be based on your preference.
+
+Okay, so you can search uh, web or ask GPT what kind of dimension.
+
+That's a it will be a required for your brainstorm a storming session.
+
+And they. You will not be evaluated based on this way.
+
+Like and your grades will not be affected. Based on this, the way that you choose to organise your ideas.
+
+And at end what they are offering us. Okay. Probably they had then some, uh, voting systems like Figma will allow you number of the thumbs.
+
+Okay. Let's say this idea is, uh, voted by three times.
+
+Let's say this one. It means that this is one of the essential parts of the, uh, brainstorming session.
+
+And it has to be somehow included in the final, uh, final, uh, as a final, as a one of the final functions in the product.
+
+Cool. Up to now. Are you with me?
+
+Are you following? Or do you have any questions? No.
+
+So should I assume that everybody understand? Okay. Cool.
+
+Then let's do. I want to exercise together. Who already decide about their group projects.
+
+Okay. Uh. You get. Outside of.
+
+Together. Okay, now another question.
+
+Give me the user base. Who will use it? Sorry.
+
+Yeah. Who will use your app? In.
+
+Dusty University interview never seen until autumn.
+
+Okay, so we have a our user base. Uh, it's good. Actually.
+
+You are preparing an, uh, project for the, uh, students.
+
+Because you are students, okay? You somehow know some domain knowledge about your, uh, your product, whether it will work or not.
+
+Now, let's generate idea for this. Uh uh uh.
+
+Okay. So what, uh, platform that you they will use.
+
+Give some ideas to the to the. Come on.
+
+Just, uh. Okay. You have a navigation app and I am asking you interweaving you.
+
+Which platform? Mobile platform? Tablet platform, PC platform, whatever the platform that you would prefer.
+
+Which one? You will, uh, prefer it? Yes. Resort answers. Yes.
+
+Mobile okay for the mobile Android or the plus Android.
+
+Okay. Done. Uh, what kind of functionality?
+
+Uh, they can include. GPS.
+
+So it means that you always need to be connected to wireless or.
+
+Maybe not. Okay.
+
+Because if you are using for the emergency situation, maybe you will not have a right to say, uh, self or there is a natural disaster in the campus.
+
+Okay, so. Okay. And how long?
+
+Uh. This isn't. We'll use this up. Okay. Like once a day, twice a day.
+
+You don't know. Okay.
+
+Maybe the opponents. What is your best guess? Once a day.
+
+Okay. And, uh, do you think this app will be synchronised with other, uh, apps like time edits, like, uh, canvas, like your, uh, Gmail calendar?
+
+Mhm. Perfect.
+
+Yes. Okay. And, uh, do you think the time edits as an API that you can integrate it?
+
+You don't know. Okay. Yes, I'm pretty sure it does because you can also export your content.
+
+Mhm. So that should make it possible. Okay, so in this application you will not automate,
+
+but you will give the user responsibility to do what I call uh, I calendar and integrate with data.
+
+That's an option. That's definitely possible.
+
+I'm not sure if there's. Okay. But is this a real time synchronisation?
+
+Like can something change in time and it will change also in depth? Sure it is because I think so.
+
+Point of our. My calendar of change.
+
+Okay, perfect. Then the second suggestion is that you don't need to take care of it.
+
+Yeah, this kind of stuff, actually, you will think some edge cases look like.
+
+And probably it will never happen for you using this app in the natural disaster environment.
+
+But still, first, generate the ridiculous ideas that probably got eliminated during the voting sessions.
+
+Okay, so always encourage your group members to generate energy policies.
+
+Cool. Yeah. I want to ask about what, uh, ideas we need to.
+
+Uh. Is it all like this or not?
+
+I mean in the refined ideas. Mhm.
+
+All of them like. No, not all of them, because, uh.
+
+Uh, you still, uh, need to create the prototypes. Okay.
+
+And then during the prototype, you will decide that, okay, the blank colour version will not work, and we don't need it or voice activated.
+
+Uh, interface is too complicated. We cannot include it. So then you can eliminate it.
+
+Okay. Okay.
+
+Another, uh, idea. Uh, but the idea generation or some design alternative is the creating the persona.
+
+And that is the thing that seems mostly misunderstood and make a mistake in the exam.
+
+So we have, uh, we need to create a persona based on the data.
+
+Okay. In the need. Finding steps. Like in here. Come on in here.
+
+You already have a data, okay? You still didn't analyse it, but you are checking it.
+
+Okay. After your data analysis, you have to create them.
+
+Persona. Okay.
+
+And the persona. Should be somehow and your ideal or average users.
+
+Okay. Usually what students do for, uh, some part of this, uh, persona, they are adding some fictional elements.
+
+And this is wrong. Everything has to be based on your need, finding process and included in this persona.
+
+Okay, so which is. Which indicates to you that okay, your need.
+
+Finding questions should somehow find the missing gaps in here.
+
+Okay. Got it. Interviewing your, uh, user base for potential users.
+
+Or you are sending a survey to them and you are asking their goals.
+
+My goal is, uh, drinking, I don't know, uh, two coffee, uh, per day.
+
+Or, uh. Five litres uh, water, uh, per day.
+
+That would be my goal. But. If this call does not exist in your user base, you cannot including here and we will check it.
+
+Okay if something is, uh, missing. In your user base but exist in here, then?
+
+This person does not exist. Okay, so you will not get points for it.
+
+And you need to know your, uh, user needs, user wants and the frustrations.
+
+Okay, maybe they are using only a mobile app. Android app?
+
+Okay, but synchronisation does not work with the time edits.
+
+So that has to be included in this, uh, pain points in. And you should also understand that, okay, what your user wants and what your user needs.
+
+They know the difference between their needs and wants. Okay, give me example.
+
+As a student. Okay. What you need. Or what you want for this HCI course.
+
+Go. Okay.
+
+You need a passing grade or you want a passing grade. That's the. Which one?
+
+Okay. And, uh, can you also give an A in the context of your project?
+
+Your user wants. And your user needs.
+
+Okay. User needs, uh, they need to navigate in the environment and what they want.
+
+Okay, that's the 113 .01, uh, point. Cool.
+
+Then I think about this kind of stuff. Okay. What actually, this kind of user needs.
+
+And because this is the most important things actually for the for this class, if you are developing a one application that your user does not need.
+
+Then it's meaningless. Yeah. And you see in the, uh, last lecture, if you design and, uh,
+
+application that they are not using or they don't want to use or they cannot figure out how to use,
+
+it means that this application does not create it for this kind of users and that then they can kill the patients.
+
+Okay. So this is somehow a bit, uh uh.
+
+A bit easy to understand, but super hard to implement it.
+
+And, uh, during the next, uh, this practice session, we will give this template to you.
+
+You can have already downloaded from here. And we will create some, uh.
+
+Fictional users. But in your project you have to do with your actual users.
+
+Then you have to fill this gaps in here. Okay.
+
+Like what is the musical? Why is she suffering?
+
+Because the existing gaps does not answer her need. And what kind of devices that she is using.
+
+Okay. For instance, if your, uh, project is for mobile devices like a tablet and the iPhone or the smartphones.
+
+But if you are putting in here a smartwatch, then it means that you are not following it.
+
+Okay, so do not add just random information or random pictures.
+
+Random brand affiliations just for the sake of feeling to some uh uh, some, uh uh, part of this, uh, persona.
+
+And you can put a photo of your user that somehow represents your, uh, average age.
+
+And uh, you can choose uh, woman or, uh, male or female, uh, photos.
+
+It's up to you, but it has to be a representative. And to eliminate the IP issues that are intellectual property issues you can use.
+
+This one is called this person does not exist and it will if you click it each time, it will generate.
+
+And you can generate this kind of faces for uh, by using the ChatGPT and uh, the other image generator tools.
+
+But do not, uh, put to a random and actual people's faces in your, uh, personal.
+
+Okay. So what happens if you are not, uh, using the personal template or creating a personal?
+
+So one of the things that actually students are facing that their products should work for everyone.
+
+What is this? If this group are generating a navigation app for all students,
+
+which means that every students in the world, I mean, that product already, uh, failed before starting.
+
+Okay. So what they need to do, actually. To analyse the data.
+
+Then after the data, they will guide. Data will guide you to how to generate them.
+
+Uh, personal for them. And this is for almost every, uh, applications, especially for the hardware one.
+
+Okay. For instance, if you want to generate on the, uh, this card for all kinds of users, then you will end up something like mix hybrid car.
+
+Okay. One will say that I want the first car as well, and that I will, uh, want an, uh, safe car.
+
+The last one that I want to have a big car for my family or my farm, for instance.
+
+And of course, you cannot do. You cannot certify for all users by, uh, somehow hybridising this colour a design.
+
+What you can do individually satisfy the needs and the wants of your users.
+
+Okay, but a Sandro in here wants a fast car.
+
+Then we'll lend you a Ferrari. Mars wants to have a safe and comfortable wheel.
+
+The new Mercedes. Uh, Dale wants to reliable with the new Toyota.
+
+Okay. And this should come from the data.
+
+Not your imagination. Not your, uh, experience.
+
+Everything has to come to your data. And since it's data, it has to be numerically validated.
+
+Okay. For instance, you collect all information from your users.
+
+Was it 10,000? Jesus. Then you have to analyse it.
+
+Which means that's putting the one, uh, visualisation or the uh, uh data analysis stack and the discover that some segments.
+
+Segment means the portion of the data should be belong to some users.
+
+Okay, or one portion of the data can be summarised by this user characteristics.
+
+Okay. Safe car, fast car and uh, reliable conferences.
+
+Then you will, uh, cluster this, uh, uh, data, which means that each cluster has to represent one,
+
+uh, persona in your, uh, settings obtained by using this, uh, steps you have to generate.
+
+Then your persona. Persona can be for ideal user that is desired, can be your extreme user.
+
+And can be any users that exist in your data. For students are who are not attending the class, or not checking the videos or the slides.
+
+Usually they think that okay. This persona is an imaginary character.
+
+Okay, like they can put an imaginary image put under the, uh, brand affiliation that they like.
+
+Okay. But in reality this is not correct and you will be somewhat penalised if you
+
+are not following the personal generation criteria or steps for your projects.
+
+Okay, then let's make it more concrete. Oh.
+
+Let's you here. You know what a K-means is?
+
+Yeah, I know, it's perfect. Bless us.
+
+Hmm. Okay.
+
+And. Mhm.
+
+And what are the disadvantages, uh, of the using k means.
+
+That's right. Let's say you have a 1 or 2 outliers, okay.
+
+In your user, uh, data. And these outliers are somehow, uh, extreme users.
+
+And if you analyse that extreme users with clustering data with the K-means.
+
+Will you discover the segments or not? Yes.
+
+No. Probably.
+
+Where I lost. Okay, you are close to it, but, uh.
+
+Uh, I got. You the.
+
+In place of those. Okay, then for this one for instance.
+
+Okay. You have an A data points and you see it is, uh, quite meaningless.
+
+You can you cannot, uh, with the fact I see that there are clusters in here.
+
+Okay, then I am, uh, saying that.
+
+Okay, usually I have had three different types of, uh, persona in my data set, and I want to verify this with my, uh, clustering algorithm.
+
+Okay. And what I can do, apply any, uh, clustering or unsupervised learning algorithm.
+
+For the sake of simplicity, it's k K-means. Which means that it is getting the mean of the, uh, data points that it has belong to it.
+
+And shifting step by step. Now on the first iteration, you will have something like this.
+
+Okay. You have three types of clusters. And you can assume that this clusters are representing one person in your data.
+
+I will not accept that. I will not expect from you to do this kind of analysis in your need finding, but just find some commonalities, okay?
+
+Okay. Here. Another step. Okay.
+
+So. Data are still shifting and other steps still shifting and other steps to shifting.
+
+And from one point, no matter how much I click to this, uh, step, it will not changed.
+
+So it means that. It means that. Your, uh.
+
+Clusters are now robust. Okay. Yes.
+
+Also classify us. Okay. Okay.
+
+Who will provide you an explicit label? It can also.
+
+Then you can read anything like unsupervised learning that allows you to that kind of clustering.
+
+What will be okay with Will? It will be okay.
+
+But in your assignment we are not expecting you to perform it.
+
+Okay. You have to just report the basic statistics and explanatory stuff.
+
+But for the ages, for instance. Your persona should have an average age of your, uh.
+
+Uh, users. Okay. Of course you can round up.
+
+What did you understand?
+
+In here, you have a lot of data you are putting into one, uh, clustering algorithm, and it is somehow automatically generates some segments for you.
+
+And from here, you can say that, okay, this is the user that wants, uh, fast cars.
+
+This is the users who wants, uh, safe car user who wants the reliable car.
+
+Okay, so the thing that I want to show, it's, uh, this, uh, persona building, uh, uh, step is not, um, fictional.
+
+Okay? You have to follow some computational or statistical, uh,
+
+statistical approach to discover this kind of, uh, personas in your data and for your projects.
+
+Does it make sense? Yes.
+
+No. So for the next stuff.
+
+Smells like this one a lot and they are getting super creative actually.
+
+I will show a few examples. So another design alternative, uh, task uh for you will be a storyboarding.
+
+So it is somehow super simplified. Enter a version of the full interaction of your web product.
+
+Okay. Again, you will have a task.
+
+And with this a storyboarding, uh uh uh approach, you will solve the essential aspect of your interaction and your users.
+
+And seeing that there are some sequence, some settings like in the school, okay.
+
+With some sequence they will use the navigation app at, then they will achieve their tasks.
+
+And here you don't need to go and be super, uh, realistic and provide all kind of details that you have for your projects.
+
+Now just basic sketch. And uh, if you are not talented with the drawing or the sketching, that is fine.
+
+Okay, I will show you one way to do in a ultra minimalistic way for the, uh, storyboarding.
+
+And you will get somehow a feedback for, uh, by showing to your, uh, users.
+
+Okay. You get the need finding data and you are analysing it.
+
+And with the storyboard, you are creating an mini map between your users and for your, uh, product that is showing to the users.
+
+Okay. I understand that you will interact in this way. Is it correct or not?
+
+And that that is the one of the easiest way, actually, or the less costly way to achieve what your users want.
+
+Okay. And have you ever created storyboards for the for your game, for your project?
+
+For your movie. Okay. Who is interested in making movie movie making?
+
+Should be active. No.
+
+Nobody. Okay. Who is your favourite director?
+
+You can ask for this question in. Who is your favourite director?
+
+Movie director? Spielberg.
+
+Kubrick. Tarkovsky? No. Come on.
+
+Go. My son. My my flat.
+
+Okay. What is his, uh, famous movie? Well, that's for example.
+
+I don't think the whole class. And do you think he is using the storyboard for the, uh, production?
+
+Uh, I have no idea. Uh, okay.
+
+Check it. Uh, probably have it. I'm not sure for the TV show, but for the high budget movies, they always.
+
+They must have an a storyboard for, uh, for Spielberg.
+
+Check the, uh, Jurassic Park and the check the original sketches.
+
+And if you put two next to each other, you don't need to watch the actual movie.
+
+So everything, as in the story of the movie exists in that storyboards.
+
+Here you will also create that this kind of uh, uh, that kind of, uh, storyboards, but not going into super detailed, uh, applications.
+
+Okay, we need to give a break. And, uh, during the break.
+
+Ouch. If you recognise this, uh, UI from the movies and tell me after the break you will get the coffee.
+
+For the next lectures. Then we have a 15 minute break.
+
+So. I thought I'd hit the bottom button.
+
+Ready? Player one. What do you have to know?
+
+Oh, all of them? Yeah. I didn't want to go through. I just lost one.
+
+I don't know why I was theorising and left. The left one looks a little bit like, uh.
+
+Most people make mistakes. No, I.
+
+Think that's what I thought.
+
+Come on. I don't know, I don't know.
+
+It's not that. Hard. I don't know, I didn't.
+
+I. Uh oh, I.
+
+Think so. So you.
+
+See this? Intellectual program that you.
+
+And I saw in some of them. So, Tommy, that's on.
+
+So do you want us to give?
+
+You. A little about politics.
+
+I guess we'll just have a chance to talk.
+
+Am I something? Uh, okay. I'm not working.
+
+On this project. Uh.
+
+I need to be great, amongst others. Yeah, I'm getting good.
+
+I'm listening to us. I'm listening.
+
+So this is only as far. As I'm concerned.
+
+What's that? That's my notes. So that's how you feel?
+
+I'm not in charge. Uh. Uh, I've had this conversation.
+
+I'm supposed to say, uh. Uh, something going on?
+
+Mhm. Uh.
+
+Oh, my God. And quite a bit. Longer.
+
+Well, the process officially accounted for $15. Oh, yes, I get it.
+
+It's not like that. So. What do you mean?
+
+I said. That's fine.
+
+I'm. Just nervous that I don't.
+
+Own the database. Uh huh. It's just.
+
+An issue. Mhm. Uh, I guess it's time to move on.
+
+Um. Uh. I'm.
+
+Gonna have to answer that. How many other.
+
+Yeah. Yeah, yeah. So that's the least explanation.
+
+Or you know, somebody. Okay. Uh huh.
+
+You won't get it on its own. Can on its own.
+
+YouTube. Uh, yeah. Under budget. RoboCop from the young Terminator.
+
+I'm Jason. And a personal log of uh uh uh uh huh, uh uh.
+
+Uh uh, we're going to do something short.
+
+You are the portfolio. He must have added this.
+
+Isn't the investment or the 011 because it's backup?
+
+Sounds like some of the kids learning, uh, you know, um, and, uh, uh, unless we get some.
+
+And actually, that's one of the problems. I don't know the other thing.
+
+I don't think this is good enough. And I didn't get a response.
+
+And, uh. Okay.
+
+We are starting. You. Guys, finish your lunch break and let's start.
+
+So who wants to try or who find that this interfaces.
+
+First name of the movie and what kind of interface is this?
+
+And make everything correct. Did you find it?
+
+Anybody? But all of the work and not, uh, some of them.
+
+So the question, the what is the interface and what is the movie?
+
+Which one? This one.
+
+Okay. I thought they were all from the same movie. That's why I'm saying that.
+
+Okay, you have to find out all of. And if you put, uh, Ready Player one with this one, then it's a huge mistake.
+
+Don't do this. Okay. Doing.
+
+This one. Which playground? Which playground?
+
+We have two of them here. For 7 or 49 years and.
+
+This one. No.
+
+Okay. Stop it. Because you're writing stories with Star Wars.
+
+I've never seen. Really? Nope.
+
+Hold on. Let me understand correctly. You never watch a Star Wars movie.
+
+Okay, that's a huge mistake. Let's start tonight. Okay?
+
+And I don't start with the Disney stuff, okay? Start with the original stuff.
+
+Okay. Okay, cool. Uh, I think I just, uh, started Star Wars, like, uh, the third in the sequence or the in the shooting order.
+
+It's different in. All the things.
+
+Okay. Which one? What's the name of? It's okay. It's a Star Wars.
+
+They're all movies. Okay, but then that is two different sections.
+
+Okay then you. Perfect.
+
+And the. Okay.
+
+This one. Come on.
+
+Guys! Girls. It is quite easy, actually.
+
+This one. Um, so.
+
+Okay. The last one is the unfortunate. Nobody own coffee?
+
+I owe one coffee to. Wants to hear later. We can go, but not today.
+
+Uh, this one is the throne. Tron Legacy.
+
+Come on. Um.
+
+It's, uh. Let's see. Heart broken. Iceland.
+
+Okay. Okay, cool. Then we will continue your lecture.
+
+Sorry. Okay.
+
+We are starting with this story storyboards.
+
+We said that simplified version of the, uh, summary between your, uh, your users and your, uh, uh, your product, uh, interaction.
+
+And it is super easy to draw it, to communicate with it, and it will only host the essential component of it.
+
+Okay. Like, uh, in here, for instance, the first one, you see that?
+
+Okay. Well, what was the I better to go home now.
+
+So it means that this product, whatever it is in the next uh, uh, square, you will see it.
+
+This product is generally used after hours. Okay.
+
+Like a for the professors that who finish the lecture.
+
+And she wants to go home. Okay. Then you see in here.
+
+There isn't one mobile device in this character sent. Then he's checking within an interface while he is in the supermarket at the end.
+
+Uh, he's looking for any, uh, instruction and making a delicious meal for himself.
+
+Okay, so what we are seeing in here, we have a setting where it is happening, where a sequence.
+
+What is the sequence of the action? And we have a satisfaction in here.
+
+Usually we are not having an advocate this in our storyboards.
+
+Okay. So you don't need to generate a storyboard for an error case.
+
+And it is also good that if you can keep it simple, like at least for six at most four, six, uh, there's six lines or six, uh, squares in here.
+
+Cool. And one complaint that we are usually getting that's people say that we cannot sell drugs.
+
+Okay. That's not an excuse. You can use some online, uh, tools.
+
+To generate faces, to generate gestures, and to generate generate for the dialogue bubbles.
+
+And if you follow the here a middle. I guess you cannot see it, but there is a link on the last corner.
+
+Then you will have access to this kind of, uh, people, uh, gestures, devices in here.
+
+In worst case, you can do a star shape, people.
+
+This is a very famous. Like here, you will see this, uh, people.
+
+Is this. Okay. This is the easiest way to draw it.
+
+And you can also draw in your, uh, in your what's name in your, uh.
+
+PowerPoint presentation or the Google Docs, whatever you want in here, you will ever want shapes, and that's fine.
+
+It's can you see the stuff?
+
+I cannot say this stuff. No.
+
+Where's the stuff? Okay, that's. See here.
+
+Here you will have a one star. Here, you would have the one head of your character.
+
+Zero. And here you can put the mobile device on your.
+
+Kind of the character and you have a full interaction except.
+
+So it is quite easy. Please do not discourage that. If you cannot throw, then you can not do a storyboarding.
+
+The. Aim is not an artistic achievement or fine art level achievement.
+
+Just to show the interaction and satisfy these three. Uh, elements.
+
+Okay. And it will be a question in the exam, too. Okay.
+
+Like. For storyboards, we need to check for three elements or components.
+
+The first one is the setting. Setting means that okay, where it is happening and what is your users like.
+
+It's an for individual person or it's a for group person.
+
+Like here is just a single individual person here. That's your user.
+
+But if you are looking for a meeting. Application, then you have to include multiple users in here.
+
+Okay. So be scenario should be as realistic as possible but drawing can be as simple as possible.
+
+And with the setting of your users, the environments.
+
+It's in the train. He's in the supermarket, he's on the Starbucks.
+
+He's in the movie theatre. And the test. Okay, he wants to do something.
+
+That has to be included, and not that this does not need to be included in the single picture in here.
+
+Okay. Or single drawing in here, which can be series of the drawing that explains all three.
+
+Okay. Now we have a sequence. What kind of actions they need.
+
+Like an interaction with the tablet, or sending an email or calling A1A person.
+
+So this can be a sequence of actions for completing the task.
+
+Okay. And at the end, you will have the satisfaction.
+
+Okay, so usually we are drawing the storyboards for showing this abstraction.
+
+Not the edge cases, not the other cases. Mostly we are showing that our user accomplish the task and they are happy with it.
+
+Okay. And here are the some storyboards from the last year. And you will see a lot of diversity here.
+
+We see some, uh, students drawing by hand or their tablet iPads.
+
+And here we see most, uh, minimal version of it.
+
+It's with, uh, starship people with some bubbles.
+
+Uh, dialogue bubbles here. Also some starship people, like in here.
+
+And here, uh, chopstick figures. All of them are okay.
+
+Of them are accepted. Here even. There are no and nobody of the.
+
+And there is nobody of this, uh, person in here.
+
+Who is it? But still we are seeing that. Okay. They are using.
+
+The mobile devices. And here with more detailed, uh.
+
+Detailed application for the plant catering to, uh, up.
+
+Here is, uh, I guess this app is for detecting the, uh, people.
+
+Samuel. People who fell down. And that group of users choose to have some anime anime like, uh, a storybook.
+
+Okay, so all of them are accepted. All of them are welcome.
+
+But all of them has to include this three elements of the storyboard.
+
+Okay. And here are also some, uh, using the off the shelf, uh, software is actually to probably from the middle to describing the, uh, storyboards.
+
+And here. I don't know how they credit, actually, but.
+
+Here is the more, uh, listen, more uh, uh, drawing, actually.
+
+So overall for this, this one has a ten. But you don't need to have a ten okay.
+
+So let's make an uh negotiation. And it will be at least six of them.
+
+And in the six of them you have to show of settings sequence and satisfaction and everything will be fine.
+
+In other cases. And here are more.
+
+Okay. And the more that you are doing and seeing that, you will, uh, you will understand that.
+
+Okay. What kind of only essential components need for my, uh, product that I can show my users and they will understand the settings,
+
+understand the sequence, and they will understand the satisfaction part of the your, uh, product.
+
+Cool. So any question about the storyboard? And now everybody is energised.
+
+Everybody knows that. Okay. How they are. Uh. Yeah, you can use it.
+
+So initially assistants are a bit off the mood and they think that okay, artistic part is important.
+
+But here we are not looking for the terrorism in the wrong.
+
+Cool questions. No questions.
+
+Should I ask a random person to draw something in here? Okay.
+
+Maybe later. Okay. Yeah. During the, uh, during the, uh uh uh, during the practice session, we will do one session.
+
+And do we have any? Student in here who is good at drawing.
+
+Okay. Can you raise your hand? Yeah, I can I see.
+
+Okay, perfect. And, uh, are you drawing with the tablet or.
+
+Okay if I bring a Wacom tablet next time? Can you draw something to us?
+
+Perfect. Then, uh. Remind me. Okay.
+
+Remind me. For the practice session, I will bring my Wacom tablet and you can draw, uh, for your projects.
+
+Cool. Now we are moving to more contextual, actually, um.
+
+Uh, part of this presentation and we already see that.
+
+Okay. What kind of design, uh, steps that we can, uh, uh, generate and show where users get the feedback.
+
+Now we are assuming that we already get the feedback and we understand how or user thinks.
+
+Okay. And to do this, we have a one, uh, framework for the formulating or uh, sentences, which is called POV point of view.
+
+Which means that you are thinking like your user. Of course, based on the information that you have and try to get an actionable.
+
+Uh, actionable, uh, solutions for your, uh, for the problem that your users are facing.
+
+And we are following this. Uh, steps. User given name in the persona, for instance that say not Sally.
+
+Natalie needs to do something. Needs to.
+
+They, uh, needs to go in early morning. Okay?
+
+Because. Is that okay?
+
+I don't want to say because of this one. Or, uh, my student needs to do research.
+
+Because he wants to graduate. Okay.
+
+And we will practice this kind of, uh, point of a sentence.
+
+And, uh, I know it looks like a bit chore, but we need to do it.
+
+And believe it or not, later it will be super useful. And one thing that we need to do for this kind of practice.
+
+It should be as specific as possible. Okay.
+
+Like we cannot say that. Okay? A teenage girl needs more, uh, nutrition.
+
+Because multivitamins are good for vital health. Okay. And this is a super general statement.
+
+Can be true or false for everyone.
+
+Okay. But here. In the second version of it, a teenage girl with a bleak outlook.
+
+It's, uh, needs to feel more socially accepted. Okay.
+
+So that is a hornet's or user needs. When eating healthy foods because a haircut interval or the, uh, social zone.
+
+As a social risk. Sorry in her hood.
+
+Social risk is more dangerous than the health risk.
+
+Okay, so she needs to get some nutrients, but she's afraid that, okay, this kind of healthy food will not be,
+
+uh, will not be good enough for her social appearance or the, uh, for social interaction.
+
+Maybe she has a group of friends on the. It's, uh, a fast food.
+
+Okay, so she thinks that eating the fast food is more important than her health.
+
+So that is the point of view for that kind of users. And we can go and dive in in a bit more detail.
+
+Like you can say that okay. While the interview can get people that is a comment.
+
+Actually you can say that we met. Let's say, uh, Giacomo.
+
+Professor Giacomo. We were surprised to notice that he likes, uh, his, uh, Android phone too much.
+
+We wonder that if this means that. Android.
+
+Uh, users are much more confident, uh, with, uh, computer usage.
+
+And it will be game changing. That will be your, uh, somehow, uh, your looking.
+
+You're all to us for this, uh, this, uh, part of it. And, uh, to make it more concrete, let's go in the one, uh, step further.
+
+We met a young millennial, James, living in Tilburg.
+
+We were surprised to notice that he says he cares about his jeans, but he doesn't wash them often.
+
+Okay, so there is a contradiction in here. Here. So if you want to take care of something, you have to clean it.
+
+But here he's not doing this for. And we wonder as a team.
+
+If this means that he believes the best way to protect his jeans is not washed.
+
+Maybe he's not washing it, but he's putting his jeans into the deep freeze.
+
+And he's believing that, okay, the bacteria are dying in that way much more faster.
+
+Then using a detergent. So for us it will be game changing to helping to cart off his escorts while keeping them clean.
+
+So this is our, uh, group, uh, wants to solve for the user like James.
+
+What, uh, what you can offer him, uh,
+
+using a detergent or using a scientific article who is published in a peer reviewed journals that says that deep,
+
+freezing the your trousers is not enough for killing the bacteria.
+
+Okay? Another one, uh, is, uh, we meet Professor Alice in, uh, Tilburg University library.
+
+She is using unencrypted text files for important documents, like, uh,
+
+she's working in and, uh, defence industry projects, but she is using unencrypted emails.
+
+So we wonder if this means that she believes that this is the best way to achieve the anonymity or the safety of their, uh, files.
+
+For us. It will be game changing to convince us to use the software.
+
+That's a guarantee that encryption is valid enough for the safety of the documents.
+
+That is the thing that we need to attack it. Maybe we will give an email client a client, or create a one plugin for the outlook.
+
+And if you integrate it together then your documents or any attachments can be safer.
+
+For sending the, um, sending to other people.
+
+And of course there are a lot of stuff, but in most cases we will miss this one.
+
+Okay. And in your group projects, say you will not use this part of it and you will just create.
+
+And this three of.
+
+You meet with someone and your surprise with directions, and you are trying to understand why he's doing this one and offer the alternatives.
+
+But. So let's, uh, create one, uh, something to.
+
+Based on your projects, so let's make it a bit more concrete. So for the project navigation project.
+
+Can you help us to complete this sentences.
+
+You meet someone? You'll meet someone named, uh.
+
+What's the name? Bob.
+
+Alice, whatever. Just give money. James. Yeah.
+
+Okay. I need to say.
+
+Yes, yes. But it is to say okay.
+
+And why we are saying this and then says uh.
+
+Because your data showed that. Their affiliations.
+
+Yeah. Most of the users are from. Our problems.
+
+You said before. Mhm. Now one action that.
+
+Has a conflict. Okay. She's working in the defence industry, but she's using, uh.
+
+She's not using the encryption. Okay. Surprised to notice that even though he's quite responsible about his studies, he is often late to go back.
+
+Okay. And we wonder if this means that.
+
+Cannot navigate the, uh, campus.
+
+Hmm. Okay. It will be a game changer for for your user, okay?
+
+Not for your user for. Teams who provide them with easy to use ad funds for the navigation application.
+
+Okay. Okay.
+
+Perfect. If you write this one into the second assignment, you will get the full grades.
+
+Okay. So it is really, really easy to formulate it.
+
+But initially you will say that, okay, come on, everybody can write this one and use it.
+
+But in reality it is not like that. Not everybody is doing this kind of basic steps to understand their user base and create their product for them.
+
+So. I'm sure still some students does not click okay for the process that we are following it.
+
+But after the prototyping, everything will be much more clear.
+
+Okay. Okay, then, uh, let's, uh, move the another one.
+
+It's called how am I? Might we? Do you remember the sentence?
+
+The sentence already exists in the brainstorming. Okay.
+
+Okay. This one. Just catch the how might be all right.
+
+Thanks for coming for a brainstorm today. We have a really interesting topic.
+
+The local zoo. The visitors are down 20%. So how might we boost the number of visitors to the zoo?
+
+This is a. So you will see how everything is somehow getting connected.
+
+So for this one, it is uh, basically, again, you are, uh, empathising with your users to understand, okay, how we can, uh, help them.
+
+And again, it's actionable. Okay. You cannot create a figurative figure of speech or the metaphor for them.
+
+And whatever you are saying that it has to be was, uh, grounded with reality.
+
+And one example, uh, is, uh, like this. You are having this, uh, family in here.
+
+That's a man with, uh, whose name is, uh, Janice.
+
+She's okay and she wants to move to airports and she has to wait one hour in the airports.
+
+And of course, so if you are with kids, then you will say, okay,
+
+one hour is quite challenging time for a single mother to take care of the, uh, her, uh, her, uh, children.
+
+Okay. For I want to. So we are surprised to notice that, uh, she can create a lot of, uh, games for, uh, her children.
+
+And we wonder if she stressed that kids will irritate fellow passenger and she's unable to distract.
+
+I think she's creating a lot of, uh, games for her children and.
+
+Because she doesn't want to, uh, bother the other passengers.
+
+So for her, it will be game changing to bring in other passengers.
+
+And the aid for facilities into helping families with the better travel experience.
+
+As a designer, you have to attack this one. Okay? How you can.
+
+Include the other passengers into this games, or how you can convince the airports okay to put them in the one zone for the
+
+kids that they have and puzzles that they have some toys to spend the time.
+
+And you will see this is already deployed to some of the, um, some of the, uh, some of the Austin, uh, airports.
+
+So anyone from, uh, Estonia? Anyone from Tallinn.
+
+No. Nobody in Tallinn Airport. Actually, they have a very nice, uh, address.
+
+The ticket, the kids and you will see children are going that independently.
+
+And their mother and their fathers are enjoying their time.
+
+So this is somehow a real life experience, but you have to modify this kind of stuff for your group projects.
+
+And the. The idea in here?
+
+Actually, no. We have a point of view. And your solution should come.
+
+Okay. How might we? How we can entertain.
+
+That is how we can. How might we include the other passengers into the, uh, into the, uh, that a game situation?
+
+And from here then you will generate a lot of ideas. Okay.
+
+Conductor. Your brainstorming or draw some, uh, storyboards.
+
+Then interact with your users and verify by the.
+
+And while generating answers for this kind of questions, what you will have, you'll have a lot of solutions.
+
+Okay. Like for me, it will be better to include the other, uh, users.
+
+If they can use the application provided by the efforts.
+
+If they are available, and if they also have a kit, then we can find each other and our kids can play together, for instance.
+
+That will be one item. Another thing can be game.
+
+Game. Gamifying the situation like I don't know.
+
+Okay, just a ridiculous idea. One passenger, if he spends, uh, half an hour with an random kid.
+
+Of course you will not allow anyone to play with, uh, your kids.
+
+Then you will get some bonuses for your next flight plans, or you can have an upgrade for your bonuses.
+
+Yeah. This kind of a situation can be, uh, can be part of your, uh, design process.
+
+And at the end. You should. Some of selecting a few of.
+
+Okay. During your brainstorming process process, you have an interview.
+
+You get a lot of data or survey a lot of data and you are getting a point of view.
+
+We find this user. We are surprised with this one. And we wonder, uh, that user thinks about this situation like this.
+
+Then a few. How might we? How we can help this user.
+
+Okay. Like one of the. Solution for this, Bob.
+
+Okay. Bob. Is sending an, uh, his assignment to.
+
+To his, uh, professor or to his colleagues by using an email client.
+
+Okay, but this is super. Ineffective.
+
+Why? Because the size of the maybe assignment will be exceeding the size of the size of the allowable,
+
+uh, files in the Gmail, so you cannot access the content.
+
+Instead, if Bob used the GitHub, GitHub, or another version control systems,
+
+then he can just upload the code into the websites and give the link to the his colleagues.
+
+Okay. And that can be a one solution. GitHub would be another solution.
+
+GitHub is another solution. And if you find another.
+
+This all three will be a solution. Then you have to come up with some decision.
+
+We have three solutions. Which one? We should, uh, select. Maybe the one that already provided by the university.
+
+That will be one constraint to select it. Another one that wanted to.
+
+The one that uh. Uh is standard for the industry.
+
+It's a GitHub in that sense or another, one can be the one that we use, which is open source.
+
+You can do it, or another one that you already have a familiarity with it.
+
+Okay. And you can use all of them to solve your problem, but everything has to be back up to date.
+
+So does it make sense? If it's not, then just follow this one, okay?
+
+Get the data analysis data for the point of view from their data.
+
+Some how might we questions and select the best one?
+
+Okay. This is a mistake. Select the best one. Then the generator solutions and the prototype evaluate.
+
+If it's satisfied, go to the market. If it's not, then the IT finding again and the complete that you see the cycle.
+
+Does it make sense? No. After the second assignment will make sense.
+
+Okay. Cool. Well, do you have any questions regarding the lecture?
+
+If not, I will move to the, uh, campus, and, uh.
+
+Explain the assignment to. Okay, Donna, who already start the proposal.
+
+You okay? Any. Question about the proposal?
+
+No, I don't think it's clear. Did you check the second assignment?
+
+Need finding. No. Not yet. Okay.
+
+So did anyone, uh, face any problem with the deliverable, like the template?
+
+Does that make sense? Or you cannot access anything.
+
+Or one item in the description is not clear. No.
+
+Okay, then I will, uh. Move to this announcement.
+
+For the receipt. What kind of process you are suggesting for me?
+
+Let's say you missed it. Uh, you missed the summit.
+
+Uh, the first level. Should we open it as early as possible?
+
+Or you would like to have an exit after the midterms?
+
+After the one? Once we finish all of the. You don't know.
+
+Okay, then, here's my suggestion. If we finish the, uh, deliverable, uh, one in September, uh, 22, you will learn your grade in one week.
+
+Okay. Then once you learn your grade, you can understand it whether you will submit for it or not.
+
+Then I will open a receipt application essay. This is submission for only one week.
+
+Okay. That makes sense. You understand? So then if you are not, you're happy with your grades.
+
+You can submit an application.
+
+Cool, but I don't think you will use the receipt for the first one, maybe for upcoming one year, but not the first one because it's quite.
+
+Cool. If you don't have any questions, we can finish today and see you in practice session.
+
+Don't forget to open the Figma account and come up with an active Figma account.
+
+Your radio. You're listening to Pepper and soul, funk and soul light.
+
+Okay, I. Now that I got the one. I just want you to know I feel pretty good.
+
+Yeah. Now. Just come on.
+
+Just come on, y'all. Just come on. My head.
+
+Come on. What did you say?
+
+Yeah, yeah, to say that again.
+
+I say you say it like a baby.
+
+Say you. Come on, come on.
+
+Said I do. I see that the love makes sense to me.
+
+I mean, I don't know. You want to please me?
+
+Come on baby.
+
+Come on. Bam bam bam bam.
+
+But it used to be. Now he is on. The phone with you?
+
+I'm. Not Guy.
+
+And you know, I know. Yeah.
+
+Shop. And shop, baby.
+
+Oh, hey. They used to be, I guess.
+
+Yeah. I want to show you about the bottom of my soul.
+
+Now that. I know I'm still there.
+
+Now you wanna leave me alone.
+
+Let me go home. I don't need nobody else.
+
+All I need is you. You picked me when I was lonely.
+
+Down. And made my life better for you in the morning.
+
+Can you feel even better now?
+
+When you feel like you love me.
+
+Do you want a shot? You want to jump, jump, jump jump jump jump jump jump jump jump.
+
+Chop chop chop chop chop chop chop chop chop chop chop.
+
+Everybody who likes to think in soul light. Summertime edition.
+
+No talk more music. Everyone feeling pretty gets answered.
+
+Man, you like those? The world's got a problem, even if it's right from the park.
+
+Rhythm is my least part of the to night.
+
+Not. There will be a party on the corner at the end of the block.
+
+We'll be coming up to the break. The.
+
+Never told you that you would be telling the truth.
+
+We could not. They want us to go on the fighting, but I can't.
+
+They.
+

@@ -1,0 +1,1437 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Okay, let's start for today's lecture. And the.
+
+You already know, your grace about the second assignment.
+
+Okay, so today is the submission for the third assignment.
+
+Everybody is ready to submit or you need some time.
+
+So we negotiated extension. No need to, because it is quite simple, actually.
+
+And this, uh, sounds. All right.
+
+And unfortunately, we couldn't meet in person last week and we did a video lecture.
+
+So do you have any question about the intelligent user interfaces? No.
+
+Yes. Okay. So if you have a question for this session, especially for the intelligent user interfaces, please send me, not send me.
+
+Send the message to the canvas and we will decide how to oh, I don't know.
+
+Reorganise. Uh, one session for this, uh, topic to. Okay, now we are slowly approaching, uh.
+
+Uh, and also Mr. I guess we only have, uh, three remaining, uh, lectures.
+
+So. I hope everything is going well with the assignments and other stuff, but, uh, from this, uh, topic, uh, and the following the weeks,
+
+it will be a bit more engaging, I will say, because we already finished the UCD cycle and you are already applying the UCD circle for your projects.
+
+So here just we will, uh, give some information that will be useful for the how to, let's say, fill the blanks for your project.
+
+Okay. Based on the curriculum that we are showing in the CSI, uh, uh, CSI, uh, department.
+
+Okay. We did a lot of stuff, uh, since, uh, three weeks.
+
+You already, uh. Get the grades for the first and the second submission.
+
+And the second submission is quite, uh. Second assignment is quite.
+
+Actually, uh, I will say the hardest one. So if you have some graded mismatching, that's okay.
+
+And if you have a question related to your grades, you can, uh, attend the practice session.
+
+Then we can go in details. And the alternative is you can request reassessment of your, uh, your grade.
+
+Okay. But this time, you should be a bit careful and aware that.
+
+After the, uh, reassessment, we will go in detail and re-assess that all comment that we give to you.
+
+Maybe we will also add additional comments. Or maybe we realise that, okay, this comment is not, uh, fair for this project.
+
+So based on the reassessment, you may be done or upgraded.
+
+Okay. So just be aware that if you want to reassessment contact with your all group members,
+
+maybe some group members will say that okay, I am happy with my grade and I don't want to reassessment.
+
+But for the other group members.
+
+If you need to agree with all group members because at times you will get the single great and that will be great of your whole group.
+
+Okay. Yeah. And today we will introduce the cognition part of the HCI.
+
+And it will be a bit interesting. And you will find a lot of actually principles to adopt for your project.
+
+Of course, you are not responsible to, uh, adopt everything that we mentioned here,
+
+but later you will show a few of them in your presentation and it will give you a nice vocabulary,
+
+actually, to make an, uh, uh, justification about your design decision, uh, for your project.
+
+And here is the one interesting link, uh, from Reddit. Oh.
+
+From Reddit. It's called a bad UI battles. There are some challenges like, uh, like who will create the worst pass for the, uh, interface.
+
+And, uh, if you have a time and if you are in bad mood, okay, after one exam, just go there and you will see,
+
+okay, people are super creative and you will definitely find, uh, super funny submissions.
+
+You can also submit your own, uh, stuff, but I will not suggest that because Reddit is an wild, wild west.
+
+Okay, so people are super, super, um, polite.
+
+So be careful and you need some thickness in your skin if you are ready to submit to, uh, Reddit.
+
+Okay. Last comment about the, uh, trivial stuff and the admin admin stuff.
+
+In the next this week, we will, uh, do personal development for your, uh, group project.
+
+So basically in the practice session, you will come and you will show us.
+
+Your, uh, your, uh, your user, uh, study your interview results or your, uh, survey results.
+
+Then based on these results, we will slowly, slowly construct your persona.
+
+We will be there and we will, uh, reply your questions and we will try to help you.
+
+For the personal part. Okay.
+
+And today is the one submission you're looking for.
+
+Stuff. If you want me, I can postpone the submission to Friday.
+
+Do you want or not? Yes. Except.
+
+Yes, but it is not the full great stuff.
+
+And you already learned and we already show in the, uh, figma.
+
+Okay, how to use the template and feel the personal stuff. No, it's not this.
+
+We said the persona. Persona is just a single task in there.
+
+But somebody will come and maybe they will show their, um, low fidelity prototype or high fidelity prototype.
+
+Okay, so it's not just then we are saying that this topic is the for practice session, and we will focus for two hours for the topic.
+
+That will not happen. Okay. So for the. Okay.
+
+During the break, I will extend the, uh, submission. But you need to confirm that.
+
+Okay? Everything is okay. Because I only see one group is already summit.
+
+Submit, uh, assignment three. So anyone in the group?
+
+Number three. No. Okay, then.
+
+I will send an email about such. Okay.
+
+Now we are, uh. Okay first.
+
+Do you have any questions? To. No. We. Made an, uh, quite long intro.
+
+No. Perfect. Done. Let's go with today's, uh, first topic.
+
+Okay. We will give a lot of information related to cognition and how you apply these principles for your project.
+
+But first we need to explain and define it.
+
+And in the literature definition of cognition is a lot like if you say you want cognitive scientists, what is the cognition?
+
+They will come up with their own definition and they may not match with the one that you expect or the one that exists in the textbook.
+
+But for this course we will explain cognition as a mental action or process of acquiring the knowledge.
+
+Uh, through. Understanding through thought and senses.
+
+Okay. But this is for the high definition. And we also have won the definition from the robotics.
+
+I guess we already mentioned during the lecture in I to.
+
+And in that we defined that cognitive system or cognition is a system or the process of the systems that enables the entity that can be human.
+
+This can be a robot. Uh, autonomously achieve okay regularity or increase the regularity in the environment.
+
+So we define we accept this definition. Which is a cognitive system, is an autonomous anti entropy engine, which is quite, uh, easy.
+
+But here we can be a bit hand-wavy. Okay, because here we will not play with the numbers.
+
+But once we enter the robotic domain, everything will be number okay.
+
+And in this lecture we will give some pointers also. If you want to work in the, uh, cognitive robotics or the other, uh,
+
+cognition related robotic, uh, uh, studies, but, uh, it will not be super emphasised.
+
+Intersection. And the other day we are, uh, dividing, uh, cognition into a mode.
+
+Okay. And the one is the experiential.
+
+Another one. Is that effective? So that will be in the exam.
+
+And in the exam, some of the students will make a mistake. The first mistake will be.
+
+Writing, not experiential writing. Experimental.
+
+Okay. And they are not the same. Do not make this mistake.
+
+Okay. For affective cognition. There writing some students writing reflexive.
+
+Okay. And they are completely. Completely independent, uh, concepts.
+
+Okay. So just learn the what is cognition and what is the mode or type of cognition and the, uh features.
+
+First one is experiential, you mean? It means that you need to, uh, learn with the experience, okay?
+
+Or you need to act. You need to have an experience. Engage. And not that this experience also exists in our, uh, definition.
+
+And usually it is effortless. Okay, like, imagine that you are, uh, learning.
+
+Uh, learning the riding a car that's not driving a car initially.
+
+Yes. Yeah. You have to pay attention. A lot of stuff. And you have to make a one lap for your level, for your gas pedal and for the wheel.
+
+But after a few weeks, it will be automatic for you. Here we are saying that this is an experiential example for experiential cognition.
+
+Reflecting. One is you are reflecting, okay, like I'm making some plans basically.
+
+Like you need to work for your autonomous systems, uh, exam next semester.
+
+And what you need. You need to first learn that. Okay. What is autonomous systems?
+
+What is the syllabus? And, uh, uh, what are the definitions and what are the concepts that we learned in the practice sessions.
+
+So it requires a lot of effort for you okay. And here this kind of cognition or learning or thinking is belong to reflective one okay.
+
+So if you are doing something super deliberative like the planning, then you can say that this is reflective one.
+
+But if you are learning by accident, for instance, or if you are learning without planning too much in detail, then it can be experiential.
+
+So is it okay? You understand? Perfect. I guess you already know this kind of concepts, but it's better to learn it here.
+
+So. Yeah, these are the examples. Like swimming for instance.
+
+If you are swimming, you just need to do some gestures, some movements.
+
+You are not saying that it has to be one either. Sorry, 360 degree.
+
+And with this force and with this temperature of the water, we are not interested in that.
+
+Okay. If I randomly put you. Uh, put you in the full.
+
+Probably you will figure out by yourself. Okay, how to how to, uh, how to swim.
+
+But unlike the exponential one, reflective one requires a bit planning, a bit thinking, and you need to show mental and sometimes physical effort.
+
+It's. And this is the one book. Who, uh, who among you read this book?
+
+You. Perfect. Perfect. It's a super interesting book I read during my PhD, but after the.
+
+Reading. It's the only thing that I remember. Is this too?
+
+Okay. We have a two system or two thinking. System one.
+
+System two. One. System one. And they are almost corresponding the experiential and reflective cognition.
+
+Engage. Okay. And the Carnarvon.
+
+Actually, he received, uh, Nobel Prize.
+
+I'm not sure. Maybe. Yeah, yeah, he received a Nobel Prize.
+
+But in economics. Yeah. Not in the. In the in the study that he already did.
+
+Oh, it's already in here. Yeah, I guess he's not only.
+
+Oh. Writer of this book. What?
+
+He's not on the author of this book. Uh. Uh, there is a co-author also.
+
+And he passed away, I guess, two years ago. But he did with assisted suicide actually like him.
+
+So. Some trivia about the carnival.
+
+Again, some people are using different type of, uh, keywords to mentioning the same thing,
+
+but in here we will mostly use the cognition rather than thinking.
+
+Okay. We explain a lot. What is the cognition and what are the types of it.
+
+And now we have n elements or lists of the components of a cognition.
+
+And these are the incomplete lists. Okay. You can, uh, add memory in here.
+
+Usually we are giving the sensory memories short term memory and long term memory.
+
+But in the literature there exist other types of memories, like a prospective memory, the memory in the future.
+
+And now a question for you. You know, who is this guy?
+
+And this guy is, uh, playing a. Human computer interaction, the game developed by his students.
+
+Now, what kind of elements that this guy.
+
+Is, uh, employing while playing this game. That might be a good example actually in the exam question.
+
+Assume that he is fully functioning like in Mr. Okay, so am I.
+
+Sorry. Am I employing the my attention system to here?
+
+Yeah, but oftentimes it is vision based attention.
+
+You like my Minecraft character? I am not playing the game while looking for my friend for a long time.
+
+Okay, so it means that, uh, potential, uh, paying attention only in this, uh, uh, screen.
+
+Perception. Yes. Why? Because I am, uh, seeing the game.
+
+And the maybe game is generating some audio, and I am perceiving the.
+
+And now question. Maybe that will be a coffee question for you.
+
+What is the difference between? Sensing or sensory information and perception.
+
+Cool. I can put here also the distancing and heating.
+
+Yes. It's just one of your, uh.
+
+Uh. Uh, but, uh, perception is that your brain actually.
+
+Uh. Uh, you actually, uh, like, uh, if your body does not receive the signal, but it also.
+
+Okay. You can be more clear. I know you are in the good part.
+
+Because for some reason you said that the processing by the brain or the by the human, the sensory sensory inputs also processed by stuff.
+
+So what's the difference between the. It's just a one keyboard.
+
+If not, I will accept your definition. Okay, so who wants to help me think about as a robot?
+
+You are a robot, and you have a camera, and you have an, uh, microphone, or you have the laser data for the distance.
+
+These are all of them are the sensory input. So how my robot should be named is a perceptual agent or perceptual processing agent.
+
+So what's the difference between the sensory input or reading and the perception?
+
+Come on. Okay.
+
+The perception is that you combine, uh, those senses.
+
+Perfection, perfection and the Korean picture.
+
+Combining sensory information and. Okay.
+
+In what way? And. Okay, so you are correct and you will get the coffee.
+
+But we need to expand it. We already know what sensor is like.
+
+Let's say it's a camera. But to say that the sensor information reached a perceptual level.
+
+That information has to be meaningful. Okay.
+
+So you are combining all the sensory information that you have and generating one information that is meaningful for your task.
+
+Like in here. Now I'm receiving a lot of sensory data from the environment, from the screen and from the, uh, lip washing in here.
+
+These are all sensory data. But I understand that, okay, this character, that I am controlling it.
+
+Okay moves from that parts to the different parts.
+
+That becomes a meaningful data for me and that becomes the perceptual part of the game for us.
+
+Okay. So that's what is information. Perception is the meaningful information for your agent okay.
+
+Just be remember. And what does I am a.
+
+Including in here. Memory. Certainly I need to understand that where I am or where is my learning?
+
+Am I learning anything? Maybe I am learning the how to use the leap motion.
+
+Reading, speaking, listening, maybe speaking or not there or listening in here.
+
+Problem solving? Definitely. Okay. So that's why, for instance, we are, uh.
+
+Who's. If it's something you're.
+
+Okay. Let's say, uh, my, uh.
+
+Problem is to reach from one point to another in the map.
+
+Okay. But in reality.
+
+There is no single path to achieve you. So the learning, the witchcraft is reaching.
+
+That is my learning path. And to reach from one place to another is the problem solver.
+
+Okay, so they are somewhat overlapping, but in reality they are different.
+
+Okay. Coco. Okay, so imagine that this guy.
+
+As a perfectly functioning the, uh, cognitive, uh, system.
+
+And the all elements are already. And.
+
+But something happened and he loses one of what will happen.
+
+Let's say I lost my. Uh.
+
+My memory. What will happen to this guy?
+
+Can he come from? In this case, yes, in the Minecraft case.
+
+Can I just so because I don't know where I am and I don't have anybody from the back.
+
+I will just remember my, uh, goal, but I will not achieve anything.
+
+So it means that. All of them are critical, but some of them are more critical than others.
+
+Okay. For instance, for perception. And if you are visually disabled, okay.
+
+And brain is plastic, then the vision parts can be replaced with the other sensory systems.
+
+You can still function. But imagine that you have a difficulty in learning.
+
+Still can function for your life, but you may not achieve the same.
+
+Level or the same developmental trajectory when you have the learning system.
+
+So all of them are important. Especially you will see this kind of stuff from, uh.
+
+Uh, from the, uh, children. Okay. If you have a cousin or the younger, uh, younger brother or sister.
+
+Okay. And these are the hand-wavy explanation of the cognition in the general sense.
+
+But we are an HCI researcher and we have to understand cognition within the HCI applications.
+
+And we see that in here all of the elements are employed for solving the task.
+
+Okay. So it means that if you want to create a similar systems then you have to be.
+
+Comfortable enough to understand the elements of cognition.
+
+And, uh, we also need to understand the limitations. Okay.
+
+Here, for instance, for the memory, we know that for the short term memory, we cannot.
+
+At most, uh, hold only seven items.
+
+Okay. To achieve, uh. Or task. But in here, if you are giving me 8 or 800 items to accomplish my task, of course I will fail.
+
+Okay, so it means that in this case, the HCI researchers didn't they didn't do his or her job.
+
+Well. And, uh, he failed me with this design.
+
+Okay. And of course we also need to understand that okay, we have a user base.
+
+And what kind of the assumption that we are making for user base. Maybe some of them have a.
+
+Problem with learning.
+
+Some of them have a problem with the memories, and as an HCI developer or the designer or goal is to help them and what else we can do.
+
+It is better to learn actually for them and especially a new paper.
+
+So people are publishing new papers in the same domain and they will guide us for making some design decisions.
+
+Maybe they will offer a one technique for us. Then, uh, we will help our, uh, users a short term memory.
+
+Then with the short term memory, we can increase the user base in this gaming or in different games by 10% or 20% or 1% even.
+
+Okay. So it is quite related to our topic.
+
+So it. Now it's the attention. Here the attention is.
+
+We will define that okay. Selectively focusing specific aspect of the environment okay.
+
+And here this is I guess from you talk. And all of the, let's say, uh, audience.
+
+Or following something. Except this guy. You know this movie.
+
+Yes. Okay. Uh, estimates or the.
+
+Guess what they are doing in here? What they are watching. That's very okay.
+
+And one guy in here is specifically focusing or paying attention to the tennis player, and the rest is following the ball.
+
+Okay. It's quite interesting actually. And here the importance is subjective.
+
+Maybe this is a detective and he wants to watch the player.
+
+Or maybe it is. The tennis player is, uh, his favourite, uh, player.
+
+That's why he's paying attention to him or her.
+
+And it depends, uh, for the application that we are generating.
+
+So we have some. Uh, we have some tools, actually, to guide our users.
+
+And the most recent tool that we introduced you is.
+
+For the interface. How can you guide the user?
+
+Uh. Attention. Oh, let's go here again.
+
+Uh, Google. Okay.
+
+So our attention is not here or here or whatever the part is in here, we directly pay attention to here.
+
+Okay? It's a call to action for us. And how they use a Google developer or the designer to achieve this one.
+
+By using appropriate design elements.
+
+Okay. Remember from, uh. Uh, two weeks ago that we introduced the, uh, uh, visual elements of the design.
+
+Uh, we said that it is hard to master, and this is the reason, actually.
+
+Okay, so you need to understand somehow a bit cognitive, cognitive part of the design to be master of the visual elements.
+
+And here is the heatmap. Heat of methods.
+
+Okay. To extract information from the user's.
+
+Which part? For them is much more informative than the rest.
+
+Okay, so here you will see the. But just by intuition.
+
+Yeah. Like, uh, that part is the much more.
+
+Attentively under this part. Okay. This part. So it means that as a user.
+
+So as a designer. If you create this one.
+
+Just use some visual elements that make much more salient than that part of the page, for instance.
+
+Okay. What the is this designers doing?
+
+Let's do the same thing, George Brett. I don't know if it exists, but listen.
+
+Which. But yeah, it's baseball.
+
+Okay. And of course, Google to change the interface.
+
+But, uh, we can see from.
+
+From this study to here. A lot of things are changing, but the main things are, uh, the same.
+
+Yeah. Like, what is the first thing that I'm seeing in here is this one the title?
+
+Uh, last, uh, the second one is the picture.
+
+And the third. Some links and other stuff. So it means that all of the design elements and the designer is achieving a good.
+
+Good. Designed to guide my. To guide my, uh, uh, to, uh, to, uh, guide my attention and give.
+
+And of course, this kind of, uh, studies are super, uh, valuable for us because we don't have money.
+
+Uh, I, I struggled with that. Because we don't have the money to for your projects.
+
+Okay. To conduct the same thing in here based on your, uh, user base, but we still can understand some of the important parts,
+
+like if you can control your visual design elements very well and understand very well, it means that you can guide your users.
+
+Attention very well and that will be valuable for your product later.
+
+And that's why cognition is an important part for the design.
+
+And it is better to always pay attention. Some data driven.
+
+Uh, studies to understand that, okay, how they're achieving especially this, uh,
+
+uh, this, uh, the, uh, visual design elements to guide, uh, the user's attention.
+
+Okay. Again. That was our motto.
+
+It is very, very hard to be master of the visual design.
+
+Although the list is not infinite, if you know, let's say all of them in here, it will be quite okay for your projects.
+
+But still, if you bring five people together and ask them to design the same interfaces,
+
+believe it or not, five of them will come up with a different. Uh, different.
+
+Uh uh uh uh, different design. I'm seeing that for from your, uh, submissions, actually, in one submission.
+
+It is. I don't know if it's an aerial 15.
+
+Another submission is nine times in a month's time. In the last submission, the.
+
+The figure is quite big. Another submission. It will be quite long, so it means that it is very, very hard to become a master and given unified.
+
+Preferred way for your design. Okay, now everybody knows this one.
+
+Should I showed? You know, all of them.
+
+No you don't. Okay, let's just watch it. The monkey.
+
+Business illusion. Count how many times the players are wearing white.
+
+Pass the ball. In.
+
+Whoever laughs. And they. They all know. The correct answer is 16 passes and you know the rest of the video or just this part.
+
+Okay, let's watch it again. Why did you spot the gorilla?
+
+Yes we did. For people who had a couch.
+
+Okay. The monkey.
+
+Okay, you already know this one. Okay. Now. For the attention to grow the user attention.
+
+You mentioned that you are in, uh.
+
+Uh, designing the interface of the booking.com or any hotel or reservation website, and you are giving this list to your user.
+
+And you are asking that, okay, give me the price of double rooms and it will be a task of at least 2 or 3 people.
+
+Okay, to, uh, to extract information from here and to compare that, okay.
+
+Which price is higher than the others or the which one is, uh, cheaper, but in a specific, uh, specific location.
+
+So instead of doing this one. Now everybody say that.
+
+Okay, everybody, uh, is okay with this design.
+
+Why? Because it is easy to find. Yep.
+
+So just a double. Uh, room.
+
+Okay, this is double, and I find double in here.
+
+Which one is the cheap? The cheapest one is this one and this one.
+
+And among these two, I can check the days in order.
+
+Howard Johnson. Whatever. So it may start with a few shots that I can find my latest information.
+
+And that is the power of the visual design that guides your attention.
+
+Okay. And believe it or not, it is very hard to achieve it.
+
+I am reading some PhD thesis. Some must regret this.
+
+It's just an soup soup of the numbers and soup of the titles and supporting stuff.
+
+And it is very, very. Was demotivating to read the rest of the information that you have.
+
+But if they provide the information, like in this format, that I can easily find it.
+
+It will be much more beneficial for me, because I will not spend too much time to retrieve the necessary information for myself or for the thesis.
+
+So. Please be aware that are learning.
+
+Uh, only the visual design elements is not enough. Practice a lot.
+
+Okay. And, uh, if you design something, uh, sent to the canvas and we will try to, uh, criticise it,
+
+we never achieve this kind of product, actually, uh, productive way to interact with the class.
+
+But if you have a sample, uh, new website design, new application design or new report design,
+
+just send me the link and I will share with the canvas and we will, uh, criticise your, uh, approach.
+
+Okay. Now in here. Did you see something?
+
+Uh. Of. No.
+
+You look at the same thing with the previous one. No.
+
+Something of something related to the course. In here in the slide.
+
+If you discover I will give. I will give, uh.
+
+Okay, I forgot to bring this time, but next time I will bring this like link.
+
+Council. One of. I will bring a black pencil purse.
+
+No, not Doctor Martin. Maybe Martin Luther.
+
+Yeah, I will bring this one. To give you.
+
+Okay. And this is very famous, uh, designers, uh, an animator, uh, a pencil, and one of these Disney anime animators.
+
+The famous one is buried with this paper and this pencils.
+
+In his, uh, finger debris. It is a heavy pencil.
+
+Now you can earn one of the knots. 12. If you tell me some connection with the.
+
+With this slide and this one that we introduced before. Maybe.
+
+Maybe before. Yeah, I don't.
+
+Okay. And I don't mean that I'm in perception of nothing. Come on.
+
+Let me measure your attention. Okay.
+
+Can you try? Please try and find it.
+
+A something like an it doesn't need to be informative or stuff.
+
+Just three. One question okay, did you see the.
+
+This video is a monkey business illusion.
+
+Okay. Or gorilla? And in here is attention.
+
+Okay. Represented by the gorilla. Which means that it is completely unrelated to you looking.
+
+And the memory. Yet the memory cards. We know that learning is the books.
+
+This reading is the book again. But here attention is represented by the gorilla, which refers to monkey business experiments.
+
+So that was the thing that I. Uh, I was expecting.
+
+But don't worry, I will bring them. Yeah. Bring the Blackwing in the next lecture and we will ask some questions too.
+
+Cool. Now we are moving to perception. And we know that we already with some sensation like the, the basic one is the,
+
+uh, simple five senses taste, vision, hearing, touching and the smelling.
+
+These are extra receptive sensors. Okay. Which means that you are reading from the.
+
+Information from the, uh, external environment. And we also have proprioceptive.
+
+Have you heard this, uh, keyboard? Sure. Okay.
+
+Can you give me an example with the exception? It's quite simple.
+
+Okay. If you close your eyes, you can. Up here. And without getting any external information, you can localise your trance and you can club.
+
+Or if you close your eyes and try to touch your nose, you can do it and you can do it through the proprioception.
+
+Proprioceptive. Sounds engaged. Okay. So.
+
+It may be a bit off for you to ask, but if you are doing, uh.
+
+Uh, just sort out the experiments or the product or the project, then proprioceptive signals also will be important for you.
+
+Okay. But here, most of the time we are only moving for the vision because we are interacting with the interface and we are using or touch,
+
+uh, sand springs, maybe sometimes, uh, uh, audio, but not always.
+
+But just be aware that proprioception is also exists and we will go in detail in a few slides.
+
+And that is important for the robotics. And the next year we will see a lot of different, uh, uh, sensor types that you will use for your projects.
+
+For the Arduino projects.
+
+That can be a camera that can be in distance sensors, laser or the infrared, and that can be, uh, audio, uh, audio sensors like sonar.
+
+Is that so nice? This is a sensor. What it used audio to, to measure the distance.
+
+Just, uh, this is a brief, uh, brief, uh, let's say slide, uh, for the next semester.
+
+Of course. You have a lot. And here is also the gist of the next semester too.
+
+So basically next semester we will show this. Sensing, planning and acting cycle.
+
+A lot you already see in the feedback lecture, but, uh,
+
+you will understand that this is also part of robotics, especially sensing and perception part.
+
+And, uh, let's make a one question.
+
+Okay, this question is not related to HCI, but I want to see that whether you can, uh, brainstorm about this, uh, question.
+
+Here. What we have, we're gonna be human. It's a German, uh, robot soccer team.
+
+And now. You should tell me.
+
+That's okay. How? This robot is representing the environment.
+
+Means that how this robots can distinguish the background, this, uh, soccer field to this ball.
+
+Or how it can differentiate its own, uh, team members.
+
+Compared to the opponents. Or how this is much more interesting actually for me, how it can distinguish this frame.
+
+It is their own time frame compared to the the one that exists in the, uh, other parts.
+
+So can you tell me, especially the one that who are doing the computer vision, uh, project for this, uh, for this, uh, HCI, uh, course.
+
+So tell me how it will represent, uh, environment to your robot. And assume that a robot equipped with the camera.
+
+Let's say come round. Okay. And one with representation, let's say.
+
+See that if I put the robot from here to. Here, here.
+
+So here you can understand. Okay. This is the his own a team member.
+
+He shouldn't score within this one. How it can achieve it.
+
+Can we do supervised learning in here? Come on.
+
+Yeah. This is, uh, this is a your, uh, let's say a Cristiano Ronaldo or Messi.
+
+And you want to say to find the frame. I'll make a score for you.
+
+How you can achieve it. Okay.
+
+If you don't know, you don't know this. Fine. Next year he will. You will go.
+
+We will go in unnecessary details about this stuff. 012.1.
+
+Who's. Okay. What kind of foods can be?
+
+What kind of thoughts come true. Uh, for example, if, uh, uh, if, uh, an object, uh, in.
+
+Sensor area that do this action.
+
+In that case, for example, yeah, we can go with the rule base.
+
+But this is the super complex task for achieving narrow base stuff.
+
+But that's not that you can do like an if you the. Uh, ball in, let's say three steps away, then approach it.
+
+And if you are close to one step away, then kick it. You can do.
+
+But it will work in a super restrictive domain, but not in here.
+
+We'll get to the real world example of how your robot can understand where it is.
+
+Okay. That's fine if you don't know. But the next semester we will go in detail and you will, uh.
+
+You will somehow complain actually about it. What? The details will be like this and be prepared for the next semester.
+
+So let's give him a break for 50 minutes. And in 45, please be here.
+
+And if you have a question, read through the submission. Please come here after five minutes.
+
+We can discuss. Silence.
+
+Minutes. Just try to do this one.
+
+Yeah. Okay, we can discuss about the design of the YouTube for the later.
+
+So that's. Uh. Extension on this side.
+
+So. Oh. Today.
+
+Okay. Can. Can you check again and refresh it?
+
+Yeah. I just did that line of a scientist.
+
+Uh, and, uh, probably I did the second assignment of the sun.
+
+This is the third one. Uh, the second assignment.
+
+That was my bad. Sorry. Okay.
+
+27 two. What? To.
+
+31 year. 21 and 17 already passed.
+
+You don't need to check the, uh, stuff. Okay.
+
+Can you recheck again? Okay.
+
+One of you can check Exadata. Okay.
+
+Okay. For the here to.
+
+Move. So we.
+
+So. Okay. That's fine. Okay.
+
+This is not okay. We'll check it later. Was it?
+
+I accept this one. This one for 16 year.
+
+So this one move. 69 will see.
+
+60. Come on.
+
+Okay. Let's start. But, uh, be aware that we will not ask this kind of questions in the exam.
+
+So if you are not attending the.
+
+If you are not attending the, uh, lecture, please watch the videos and you are not responsible for this kind of question.
+
+Okay, we are still in the sensing part or the perception part. And we said that the most of the time that we will look for is the extra receptive.
+
+Please learn how to spell it better okay. Because it's to say that the extra receptive it will be okay.
+
+But the extra steps if something or the combination of proper receptive that the extra receptive it will not be accepted.
+
+Okay. And we also have. And the third, the concept related to sensing.
+
+And this one is much more for the internal state of your body actually.
+
+Okay. Like when you are thirsty and you are drinking good, I don't know beer.
+
+So that becomes your internal, uh, sensing.
+
+But for your design, most of the time we will walk around in here unless you are doing the virtual reality application.
+
+Okay. Any German speaking person in here?
+
+No. No.
+
+Okay. This word is, uh, called a gestalt, but something they call gestalt.
+
+Whatever.
+
+But I will just use them as a gestalt, as an important principle and the collection of the theory to make us understand how human perceptual system,
+
+uh, system evaluate the surrounding and create the link between the what they are seeing it.
+
+And the first one is this kind of stuff like, uh, we call this one the closure principle of closure.
+
+But in reality, these are just an independent dos.
+
+Yep. But our perception system does not see these are individually.
+
+We are seeing in a single coherent way. And we are calling that this is a dog or Dalmatian a dog.
+
+And later we will use, uh, this kind of, uh, actually, uh.
+
+Love. It's called love. But do not resent the, uh, law of nature.
+
+Okay. These are coming from the human perception system.
+
+And the first one is the figure ground, which means that if you want to put a figure.
+
+It has to be distinguishable from the background.
+
+Okay. Like in here, this is in the vision religion. Yeah, it's a visual illusion for the Apple logo and the Steve Jobs.
+
+But here what we are seeing that the background is the black and the construction contrast between the this,
+
+uh, letter and the background is quite high.
+
+It means that you can quite easily read it. And this is called figure ground.
+
+Okay. And it doesn't need to be, um, that black, uh, uh, uniformly black background.
+
+You can put this, um, on top of this, uh, Steve job.
+
+Uh uh uh, face. Still, you can read it.
+
+Okay. And that's why we called a figure ground.
+
+And you will see in a lot of applications in the, uh, in the websites that are implementing this, uh, principle.
+
+The. Third one is the sorry.
+
+Second one is the similarity. If some objects are look like similar, it means that they are related.
+
+Okay. Recall that from the, uh, an all times the, uh, the grid system of the grid system of the newspapers.
+
+And we see that they are quite similar to each other. So the information given in there, they they share some characteristics.
+
+Like here you will see one card. Again, it has on the photo.
+
+It doesn't title, it has some, uh, numbers inside it.
+
+So it means that the information exists in here are. Showing this similar content for us.
+
+To, uh, yeah, to, uh, make or, uh, design elements more compelling.
+
+And this one is the proximity. So recall we introduced one one the computational models for this.
+
+It's called Fitts law. Okay. And here you are seeing that fits like implementation of this.
+
+Uh. Uh, this, uh, principle. It means that the things are close to closer together means that they are related together.
+
+Okay. Like here. For you have this kind of emoji and you have some text for it.
+
+It means that this these two are somehow related to each other.
+
+And similarly these two are also related to each other.
+
+Why? Because they are close enough. To make us to perform some action.
+
+For instance, if I put some discount information for an, uh, Black Friday and instead of.
+
+By the item as a text of this, uh.
+
+This button. If I say that submit.
+
+That means that. There. Not related.
+
+And I am broken this principle from here. Okay.
+
+And it's quite, quite simple to actually make an example and understand it.
+
+But application again it is hard. And another one.
+
+You will come. And read this kind of stuff a lot, especially in the coffee shops.
+
+If they have coffee shops or some clothing, uh, shops, they always, uh, try to break, break the continuity.
+
+But in reality, what we are doing, as in, uh, let's say people who are living in Europe, we are reading from left to right and it's continues for us.
+
+But here some people, of course, wants to be creative and they are trying to break this rule.
+
+But it happens in a very, very bad way. The ideal rhythm is the back to school, uh, sort of back to school sale.
+
+What? Here. If you read the in, this one is back to school sale.
+
+Okay. So it's very, very hard for us to actually read it in that sense.
+
+So we don't need to be super creative, okay?
+
+To play with words. Uh, otherwise it will, uh, it will open any problem for us.
+
+And this is also a should you should follow also for your projects to.
+
+So that's why we are saying that okay. Creativity is the secondary option in here.
+
+You still have a control for the visual design elements. But most of the things will come from the principles that we teach.
+
+And we want to see that examples of the things that we are teaching to you in here.
+
+The. Another principle is the if some visual elements are moving in the same direction again,
+
+it means that they are unified as a group or they are related to each other.
+
+Okay. And the pronunciation of this one is this kind of accordion.
+
+Uh, menu. Like if you click one of them, you can understand that, okay?
+
+The text will be open and if you click the same, sorry, there's a third, uh, arrow in here.
+
+It will behave in the similar way. Okay. Like, if you put this one, it will open like an accordion.
+
+But if you click the second one, it will not open in the opposite direction.
+
+Okay, so everything is moving in the same direction. Like the example that you are seeing in here.
+
+Okay. Is this okay? Because sometimes the systems are using the Figma icons in a bit wrong way.
+
+Okay. Like. And they are creating a new, uh. Newer PDF reader, for instance.
+
+But they are not putting the arrows in the correct way, or the arrow in the first page is.
+
+This is similar to the error in the third page,
+
+so you can understand that they are presenting the same function with two different icons, so please try to avoid it.
+
+Okay, this is a closure. And these are, uh, usually graphic design.
+
+Likes a lot. It's hard to master, but, uh.
+
+It gives them quite a, um, I would say if you see someone is applying this principle nicely,
+
+you can be sure that, uh, he or she is very talented or he they see a lot of examples in this domain.
+
+And the one of the example is the IBM's logo. And you see these are just the horizontal lines.
+
+They break in some parts of it, but at the end we are not perceiving this, uh, kind of, uh, uh, lines individually.
+
+We are seeing them as coherent in a coherent way.
+
+And that is in Germany called in German language called Gestalt.
+
+Okay. Principle of coherence. Unity or uniformity?
+
+In the in the, uh, in the perceptual system.
+
+And these are only a few examples of it. Okay.
+
+And people are still. Discovering new Gestalt laws and, uh.
+
+Yeah. That's it. But we are not expecting you to follow all of them and perform all of them in your design.
+
+But it is better to understand. Okay. The usage of them, and a few examples which will be you will be responsible in the exam.
+
+Okay. In the exam, for instance, I will show. This, uh, gif and I will say that.
+
+Okay, the designer, uh, created this kind of, uh.
+
+Uh, it can be interfaced also. It's not a problem in the game.
+
+This kind of, uh, items. And which guest of principle is applied in here?
+
+Okay, so it's applied. Closest principle of the close.
+
+Okay. And, uh, for the game, uh, gamer, uh, students.
+
+And, uh, for the ones that are creating the game, uh, interface.
+
+These principles are a lot. Okay. A lot, a lot of these principles are implemented in the single, even single interface.
+
+And the one of the GDC game developers, uh, developer conference one, uh, let's name one, uh, presenter.
+
+Shows a lot of examples in the Gestalt principles.
+
+And this one is, uh. I don't think that it is her, uh, game, but she shows these examples.
+
+And from here, what kind of principles that you are seeing? Okay.
+
+Exam question. I'm giving this one to you.
+
+This part, this game interface and asking you name at least two Gestalt principles implemented in this interface.
+
+Forces in here. This one.
+
+There is a circle inside the circle. The reason I don't know splash is that splash.
+
+There is a three. This looks like.
+
+This one. You. Figure ground.
+
+And how about those guys? These are all.
+
+Or the entire, uh, matrix in here, you see?
+
+And it looks like at this point you assume that the principles. Why?
+
+Because you are seeing the similar item or the same item. And the same thing again I existing here.
+
+And sometime we don't know that we are applying this kind of principles, but in reality we are doing actually.
+
+Okay. Then, uh. How about this to.
+
+This one and this one. The cost. Can be proximity.
+
+Like here. Like you imagine this is the.
+
+Icon. This is the text. And here you have an icon and the text.
+
+Okay. Proximity. And of course, we don't have a common fate like the one that they're, uh, uh, moving.
+
+Here. But you get the idea how to discover this kind of principles from the interfaces.
+
+Okay, this is a bit hard, but how about this one?
+
+This is quite easy. Let's say here what you have.
+
+The background colour. And let's say this button. Or the background image.
+
+And this button. Yes.
+
+Yep. Check rank principles in here. Okay.
+
+Let's say. Where the.
+
+Okay. Anything else? Maybe this two. You are seeing an icon and the next icon there is in the description.
+
+See what? Symmetry. Yeah.
+
+Proximity. Look in here. Proximity. And not renaming them.
+
+Okay? Otherwise I will confess it. Okay. Symmetry.
+
+What does we have? This guys we have.
+
+The one that we already introduced. Like. It's one similarity.
+
+You see some of them we already named? Actually, we discovered in here.
+
+I didn't know this exist. Proximity. A similarity in here.
+
+Figure ground in here. Common region. I don't know what this is, actually.
+
+He didn't introduce it. Okay.
+
+Okay then which one is usable or you can use for your project.
+
+Let's say for the high fidelity prototypes. Which one?
+
+You can use it. All of them.
+
+One of them. Maybe you can discover one by yourself.
+
+And if you discover, let me know. Then we can write the paper and say that.
+
+Okay. It is. Or, uh, these astronauts are discovering one, uh, Gestalt principles.
+
+Which doesn't exist in the literature. Okay.
+
+Okay. The second. The third one is the memory. And that is a bit interesting actually, because.
+
+Of. It's quite related to our heuristics.
+
+And we will see one of them, actually. But the principles are quite solid.
+
+The working principles are. We will summarise otherwise.
+
+If you need more detail, just ask me from the comments and I will give some additional materials for you.
+
+So oftentimes you are, uh, uh, using three different memory systems for the human.
+
+These are for the human, okay. Not for the frogs and for the other animals we will use for the human.
+
+The first one is the sometimes they call sensory memory. Or sensory information.
+
+And we will say that this is a sensory memory for us.
+
+And it is instant. Okay. And let's check if I can reach with the lights.
+
+Let's. I say maybe. It's not working.
+
+So was it. And that's right. Like the example for the sensitive memory can be.
+
+Something like this. Okay.
+
+You see the light in here? And if I draw, try to draw some stuff in here.
+
+You will see the continuity of the light. You. Yes or no?
+
+My kid. It's not that. Singled out, singled out, singled out.
+
+It is. Somehow it's a continuity. It will be. Let's say I will be again.
+
+This it? It's not.
+
+Two seconds. Yeah. So you are perceiving some, uh, sensory information?
+
+Yeah. And you are registering in your memory. Uh, in a very, very short period of time.
+
+That's why you can see that it's something like an, uh, circle moment for you.
+
+And this is we call, uh, sensory memory or sensory information, which actually we cannot do too much like.
+
+So we will just post leaving stuff and registering for to be input for the short term memory.
+
+And this one is important.
+
+Short term memory, especially for the one that's, uh, who are creating the, uh, let's say, uh, gaming environment or game interfaces.
+
+And we know that in some, uh, studies, data driven studies, they come up with the one magic number seven plus or minus two.
+
+Okay. I'm not sure this is, uh, verified in the, uh, in the literature a lot, but you can assume that.
+
+In each time. You should only give plus minus two.
+
+Yes, you should give the seven the items to your, uh, user.
+
+But you can be flexible in the range of the.
+
+Four and the nine. Okay, like if I created lists in here at ten lists, probably you cannot process it.
+
+But here you only have a three list. And we are in the range of the seven.
+
+So it means that you can process it easily. And of course, if you are rehearsing, which means that you are repeating again,
+
+again, again, again some, uh, information or some digits or some gaming environment.
+
+So it means that this information will be consolidated and it will be registered into your a long term memory.
+
+Okay. For the exam you can expect that I will give a one, uh, one, uh paragraph.
+
+Let's say for a hypothetical user in front of hypothetical a game, and I will ask what kind of memory employed for this task for this user.
+
+Okay. Or how you can improve the experience of the user by using the concepts that we teach to you.
+
+Okay. This is a test. What was the six?
+
+Heuristics of the Nielsen. Let's see who has a bigger.
+
+Uh, what was an, uh, a nice long term memory. Anyone remembers.
+
+Now, of course, we will not expect you to remember. Okay.
+
+And that's. Important terroristic, but you are not expected to remember.
+
+And again, we need to help you. Yeah. Like, if I am a good designer, then I need to help you to answer this question at least how we can employ it.
+
+And this is the sixth of them. A recognition rather than recall for the need.
+
+Some heuristics. And of course, this is just an definition of luck.
+
+And if I am a good designer, I will not allow my users to recall.
+
+I will have time to recognise. Okay.
+
+And one example is the giving the guiding text while you are typing some search elements or search, uh, questions.
+
+And another thing is this one. Okay. So expect this kind of setting in your example.
+
+Okay. Like here I will give you let's say this part.
+
+Only this part. So this is clearly a, uh, clearly, uh, uh, uh, recall scenario where you enter a new, uh, gaming,
+
+uh, but it open again, uh, steam web page and you have six different emails and steam say that.
+
+Okay. Enter your email address in here. Of course you have six of them.
+
+Which one is you? Until you you cannot recall.
+
+But if a stream has a good system that will recognise your browser ID and it will guide you like in here.
+
+Okay. Of course, it will not give that full information because other people can use the same, uh, same computer.
+
+So this is the how steam or the design of the of this team is helping me.
+
+Okay. My email address is, uh, el Asterix Asterix, Asterix Skywalker.
+
+Gmail. Of course. If you know who is this Ella Skywalker, you can easily guess that's not a problem.
+
+Uh, but again, the idea is the recognition part is satisfied or the given by the designer, and she or he did a very good job in this.
+
+Uh, solve this problem. Okay. Do you agree with me?
+
+Okay. Instead of trying hard for recall.
+
+But which one is my email? Otherwise, I have to submit six of them.
+
+But here the designer helped me with the. We did quite a nice, uh, listening and nice visual design elements like here,
+
+give the information and make it a bit, uh, uh, distinguishable that I can read it.
+
+And the given, uh, enough clue that I can type all of them.
+
+So that was, uh, the example that, uh, designer can help your memory to make it more functional.
+
+Uh, in the, uh, more functional, uh, the interface.
+
+Okay, now we are moving. The learning and learning is a bit close to cognition.
+
+Yeah. Okay. Close to thinking. Close to close to, uh, this kind of design elements.
+
+But we will still say that learning is part of cognition.
+
+Okay? Not, uh, they are not.
+
+They are. How can I say you cannot, for instance, define the cognition terms with learning.
+
+And vice versa. Okay, I can in the machine learning.
+
+How do you define the learning? You are taking a machine learning class in.
+
+Okay. What is the in there? Supervised learning.
+
+What is the learning part? You don't know or you don't remember.
+
+Okay. Improved performance over time or over the sample?
+
+Yeah. Sometimes you cannot work in the temporal domain. And how can measure the performance.
+
+Breaks like this in those about just because I'm in a supervised learning okay.
+
+So to simplify in that sense okay. Doing something repeatedly.
+
+And getting better. Yeah, that is the learn and the same, uh uh, same definition with some announcement can be also applied in our setting.
+
+And we will say that okay, if you are acquiring new understanding knowledge, behaviour skills then you are learning.
+
+This is a cognitive. Cognitive, uh, side of the learning, not, uh, competition side that we are using for the machine learning.
+
+But you will find commonality, uh, between them.
+
+And we are, uh, grouping or categorising or learning in to, uh, part like, uh, we did for the cognition two.
+
+Uh, this is something we did for the cognition two. But in the machine learning it is different.
+
+We have unsupervised. Unsupervised?
+
+Uh, okay. I will stay in there. In the machine learning, we have a supervised reinforcement learning, self-supervised learning.
+
+Unsupervised learning. We have a lot of options here. We will only go in, uh, to uh, to setting one is the, uh, incidental learning.
+
+So it means that you are not showing any deliverance, any plan. You are just learning instantly.
+
+Like in the first lecture, you are coming here and you are seeing some faces.
+
+But over time, with my interaction and with your interaction with some people, you are associating this.
+
+People name these people's names with their faces.
+
+Okay. So that becomes an incidental learning.
+
+And another one. Is this somehow a deliberate thing you are planning?
+
+Like you are saying that. Okay, I will attend to this, uh uh uh, department.
+
+I will be an undergrad students, and at the end of three years, I will have a degree.
+
+And that degree will allow me to attend the masters degree in the other country in the maybe more robotic, uh, the more robotic departments.
+
+And throughout this steps, you will learn something. You will learn autonomous systems, you will learn human computer interaction, some other courses.
+
+And that becomes. Your deliberation, your plan, and we are calling this one an intentional learning.
+
+And at the end of intentional learning, you are achieving some goals.
+
+That's important. One of the, uh, differences between here and here.
+
+And do not confuse this one with the cognition.
+
+Remember that we have a something like here experiential cognition.
+
+But it is different than learning. Okay. Do not confuse it. Okay.
+
+And the rest of the, uh, section. You can check the commerce.
+
+And you can read it and you will be responsible for the exam for this too.
+
+Uh, there's two concepts to. Okay.
+
+And the next semester you will see a lot of of.
+
+A lot of different approaches to cognition, and one of them will be cognitive robotics.
+
+And we will go and see in details and maybe at the end of, uh, next semester's class, you will do a cognitive agent as a project.
+
+And here are a few interesting studies about the cognition. One of them is this, I believe the Japanese.
+
+Uh uh uh uh uh, patient.
+
+They open the school of this patient in here and put some.
+
+Uh, electricity excites some neurones in that array.
+
+And that area is related to fish facial processing for this individual.
+
+And they put first. This kind of let's say this is, I guess, uh, non-fatal face related item.
+
+Like this ball, it's clear that there is no face on it, but once they are exciting the neurones in that area, the patient see the face.
+
+Okay. And you see in some ways that it.
+
+Is there something wrong with me? Oh, rainbow.
+
+Whatever. I don't know. Changes in. I saw and I want.
+
+Okay. I'm going to on you.
+
+Huh? Am I just imagining something about the other stuff? In reality, this is very, very interesting stuff.
+
+Yeah, like in whatever we are teaching in here, we are saying that the external environment is important.
+
+To you to see the interfaces interact with the interfaces.
+
+But in reality, most of the things happening in our brain, of course we cannot reach that individual level.
+
+Okay. To design a product for each individual that we have.
+
+But just be aware that human cognition can behave differently if you have some, uh, brain conditions.
+
+Okay. So that's why we have to diversify or solutions and, uh, go and understand deeply what's going on in human physiology and the brain especially,
+
+and try to understand it to develop an some a friendly product for them.
+
+And of course, humans are not, uh, listening special.
+
+We also have some other animals in our stuff. And here you will see this interesting study.
+
+If you put boxes. How many of you have a cat?
+
+Okay? Yeah. Your cat likes boxes.
+
+Yeah. If you put them, they will jump in the boxes.
+
+But in reality, that boxers does not need to be 3D.
+
+Okay, so if, uh, something looks like bucks.
+
+Okay. With, uh uh uh, uh, rectangular drawing, they will put themselves inside.
+
+And that does not need to be in the full circle, full triangle, sort of full rectangle.
+
+If the you know, this illusion, illusion and the cats are also susceptible this kind of illusions.
+
+So human cognition is quite, quite interesting actually. Okay.
+
+I mean you can learn one topic that's you can say that, okay, I am master of the topic, but later you will read another, uh, study within that topic.
+
+Then it will change your whole knowledge, uh, considering in that domain.
+
+So these are the stuff that I can mention. Please attend the practice session if you have a question about your grades.
+
+And we postponed the, uh, next, uh, uh, assignment.
+
+So please be on time. And. Okay.
+

@@ -1,0 +1,1875 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Lecture will be the probably the most dangerous one, both for designer and for the users.
+
+So please be careful. Learn the basic lingo and the principles put on the statue and for your assignments.
+
+I just peruse them and most of them are okay, but some of them are did did quite so rookie mistakes like the they use blue text.
+
+In the, uh, in the in the main body. So just be aware that okay, this kind of formatting formatting style will be important.
+
+And, uh. Other than this, uh, I see.
+
+No. Oh. No huge mistakes.
+
+So your grades will be, uh, able to get the grade that you expect.
+
+So today, tomorrow it will be announced. Okay.
+
+So what we did previously, we introduced the principles, heuristics for the usability, uh, perspective of the HCI.
+
+So do you have any questions? Regarding the or, uh.
+
+Uh, principles. Heuristics and the feedback. All right.
+
+So up to now this lectures we finished six of them.
+
+So it means that okay six weeks passed and you learned a lot okay.
+
+But still, probably something will not make sense until you finish your project.
+
+And here is the one of the reflection essays that I asked from the students.
+
+And I select one of them and it's complete.
+
+They actually summarise what we want to give and without touching anything, just making some bold fonts in here.
+
+Just take a few time, a few minutes to read it. And I am sure that you will feel the same thing.
+
+Maybe you are already feeling, but just trust the system and at the end you will end up like this student.
+
+Okay. Did you finish? Okay, most of you are finished.
+
+So just trust the system under that. You see the cycle that we are teaching to you.
+
+And if you apply. Throughout, uh, for your projects, then you will definitely feel at the same way that the student is feeling.
+
+And I'm getting a lot of comments, actually, after the lectures for the third year students,
+
+the some of the principles that we teach them, they are, uh, applying them for their thesis, especially the thesis.
+
+Cool. And today, today's quotes will be based on time and again.
+
+And he has something to say about the colours, because we introduced him a lot in the first lecture and let's give him more credit.
+
+And what he said, he said that having small touches of the colours makes it more colourful than having the whole thing in colour.
+
+Okay. So he just want warn us.
+
+Okay. If you are using the colour, so be it. Be.
+
+Be, uh. Be careful about it.
+
+Instead of making the whole thing colour, just add a few colours and later we will show that okay, why you need to add colour for your design.
+
+Okay. This. Today we will introduce the visual design element.
+
+And here you will see why. Using colour it's dangerous okay.
+
+And now most of you are laughing and you will say that, okay, we will never,
+
+ever experience this kind of colour, design, colour, whatever, uh, that you are seeing.
+
+But believe it or not, people are doing it okay. And in their defence, they said that, okay, this is our pleasure.
+
+The things that we are seeing, the world is like this. That's why we want to do in this way.
+
+Perfect in your, uh, private life or in your personal life, whatever you are doing.
+
+You are free. But here we should consider our users.
+
+Yeah, that's why I said in the beginning, this lecture is the most dangerous lecture for the existence.
+
+Okay? And if you type, uh, some principles of visual design, you will come up with this kind of list from the Google, which is incomplete.
+
+Okay. But it will give you, uh, some nice, uh, ideas about, uh, what are the things that in your control, okay, to affect your, uh, users visually?
+
+And of course, there is a reason that we need to go under.
+
+Not all of them, but some of them that you will apply to your, uh, your project.
+
+And in this list you are free to use whatever you are choosing. Okay, except for the colour okay.
+
+Whenever you are using colour in your design, you have to. Come up with some idea behind it, okay?
+
+You are not allowed to use colour blindly.
+
+If I see colour in your design, then it means some functionality to me.
+
+Okay. Red will mean something. Green will mean, uh, something to me.
+
+And that's, uh, not only for me, but for your users. The. Okay, let's create a bit, uh, colour in the, uh.
+
+In the domain of the art and the visual design or the interactive design.
+
+This one is from a mondrian. And you see this colourful yellow.
+
+And everything is under his control. And if we make as if I make a survey in here.
+
+Okay. Probably all of you will say different types of things about this.
+
+Uh. Uh, this, uh, this, uh, paint. But when it comes to the, uh, interaction design or visual design, we have one basic.
+
+A purpose on it, which is usability. If you are using this kind of dashboard for the Covid or for your finance.
+
+Uh, transactions. So it should be some functionality.
+
+Yeah. Like it has to be easy to read on the device that you are using.
+
+But for this kind of, let's say, design or paint, you don't need the, uh, designer or the painter in here.
+
+Wondrium does not care about the functionality of the. His painting is.
+
+And that's why we are saying that arts part of this course is a bit trimmed down.
+
+Okay, we are not artists. We are a designer. But still we can inspire and get some artistic purposes for it.
+
+Okay. But if you like this colour palette, like the last time we did in the.
+
+Practice sessions. You can steal this colour palette from Kathmandu.
+
+Okay. Just to check this, uh, give, uh, a bit.
+
+Let me go back and come back. Okay.
+
+Just check this, uh, give, uh, split carefully in the next slide.
+
+Okay, let me reset it. Ouch!
+
+Yes. I said too much.
+
+Yeah. So slowly, slowly.
+
+It's getting in shape. So basically removing the all elements in this basic, uh, work, uh, template.
+
+And you see the end result is quite readable, quite functional and quite usable for us as a, as a reader, as an, uh,
+
+let's say you did this kind of table in your, uh, thesis, then the second reader will prize your design skills.
+
+Okay? And it happens once. I hopefully it will be it will happen a lot.
+
+So just get some inspiration from that. We are not expecting you to be a super artistic, uh, skill, but we are expecting you at.
+
+Then you will provide that usable and functional product, uh, at the end of this, uh, course.
+
+Okay. And in this course, we will, uh, in this lecture,
+
+we will go and just give enough information for you to navigate in the domain of visual design and based on the principles that we teach,
+
+you can easily apply to your, uh, to your project.
+
+So from here, let's say. Let's say.
+
+This is the order current, not current, but one year or two years ago.
+
+What page of the DCA? Just tell me a few visual elements in here.
+
+Okay, that you can use for your, uh, group project. Okay, which is that element, uh, design element that you are asking.
+
+To, um. Great found.
+
+Great panels. Perfect. We will teach it. Buttons. What is the button in Vietnam?
+
+Okay. Who also.
+
+News, latest news updates in here in no.
+
+This one. Okay. Yeah, actually, we are calling this, uh, kind of buttons.
+
+Call to action buttons. Okay. So later you can use for your other projects, uh, to, like, uh, whenever you are having a one, uh, application.
+
+There are. Basic affordances in there.
+
+That's just invite to click. Okay.
+
+Back here, if you want to see Bachelor programs just click this one.
+
+Master programs click this one and the well as we follow.
+
+And what else we have. The obvious one.
+
+We have some colours here. And the dominant colours in this web page.
+
+It comes from. I heard you say something.
+
+Yeah. From the exact.
+
+I think if you check in here, logo is basically white, blue and golden and you see almost everywhere white, blue and golden around, uh, this webpage.
+
+Of course not the exact tones, but the some different variations of it.
+
+Okay, so that's cool. And with this, uh, uh, kind of visual, uh, design, let's say in this web page,
+
+the designers or the, uh, that's web developer teams wants three, three things, uh, from us.
+
+Once they want to guide us. Okay.
+
+That's where we can, uh, find an important information and how we can figure out among this design elements where we are,
+
+where we are in the sense that we are a bachelor's students. If you create this one, then it means that.
+
+Uh, you can find the relevant information from this. Okay.
+
+Um, this, uh uh uh uh, since this, uh, button is, uh, the colour of this button is different than this one.
+
+So I can assume that the web developer in here say that.
+
+Okay, this web page basically built, uh, by considering the much the problems.
+
+Okay. Because it's already somehow clicked in here.
+
+Or the first call to action is for that. Uh uh uh uh, that a user group?
+
+Yeah, you can say that. Okay. The guidance is good in here because I am a bunch of students, and the first thing that I can click is this button.
+
+So it gives me. Very well. For the case.
+
+Okay. The pace you can consider about the relationship, like if you are in that, uh, bachelor programs in that link.
+
+So you shouldn't expect. An HR web page of the book University.
+
+What you should expect. You should expect some critical information. You should expect some, uh, eligibility criteria of the university.
+
+Or tuition fee of the university. So all the related information, uh, the bachelor program or the master program has to be.
+
+What? In the related area, or in the related buttons that are given to you.
+
+And last one is the message. Again, you want to emphasise something in the, um, in the, uh, in this, uh, application.
+
+What? That's something it means sometimes it can be a registration, maybe that the bachelor, uh, web page will change in the registration period.
+
+Because why? Since I've adjusted the courses since, um.
+
+Uh, asking, uh, relevant information from the, uh, professors and instead of professors are applying to email,
+
+we are putting that information to this, um, uh, this address, and you can automatically find it by yourself.
+
+Okay. So just, uh, think about that with, uh, almost every kind of design elements that we are using, we want to give three functionality.
+
+And these are the guiding pacing and uh, uh, giving the message to the.
+
+And this is for the university webpages. But if you are designing, for instance, a game web page, then the pace can be much more quickly.
+
+Instead of giving just a static link in here or here, what you can do,
+
+you can give a video or you can bombard your users with some gameplay, uh uh, gameplay.
+
+Uh, it gives like here that we did. So it's up to you the thing that you need to use it.
+
+Just be aware that we are using visual design elements for, uh, these three purposes,
+
+and how you are using it is based on your background, your user specification, and the functionality of your application.
+
+Okay. So. Probably the.
+
+One of the most, uh, important thing among this.
+
+Uh uh, uh, elements are a hierarchy. Okay.
+
+Hierarchy means that, okay, there are some relation between the things that we are proposing to our users.
+
+Yeah. Like let's say you are doing this.
+
+Let's see here. I will open a new webpage. Uh.
+
+Another times. And I'll thank you.
+
+Tunnel. Okay. Not here.
+
+So imagine this one looks like an Wikipedia page.
+
+Wikipedia. Rome. Like the.
+
+In here. Also, we have some hierarchy. Why? Because we have a title.
+
+We have a description, a text body, and we have some representative images.
+
+But this kind of design or this kind of, uh, hierarchical, uh, design.
+
+Is not suitable for the. Newspaper websites.
+
+Yeah. So that's why if we know.
+
+It's it makes sense for the different types of web page, different type of application, different type of hardware.
+
+You can use that. Uh, hierarchical design components.
+
+Based on your, uh. Based on your, uh, function that you decide.
+
+And what you see in here. Let's say.
+
+You see a one design element in here on this web page from the, uh, from the Another Times.
+
+And you can change the size of every design component. Yeah.
+
+If the text is smaller, then you can make it bigger. If the photo is smaller than you can make it to resize it to be bigger.
+
+And whatever you are doing in here should contribute to functionality, should contribute to usability of your product.
+
+Okay, we are not doing that blindly. Again, I will not go and give that all example for, uh, every example for this, uh, list.
+
+But here, for instance, just. To introduce a few of them.
+
+First the size. You like the size in here. Among the, uh.
+
+The first needs are a uniform.
+
+Look at the size of this one is the equal to this one. But once you jump up in here, size is changing.
+
+Okay. So it means that the designer in here gives more emphasis to this area.
+
+Rather than this idea. Okay, but.
+
+For this panels. Some things are not changing.
+
+Okay. Like the colour in here is not changed. Okay.
+
+And colours in here and in here as in uh topic is not changed.
+
+And I believe the also size of the text is not changed in here. So it's the same.
+
+So we're just changing one single element in the same structure.
+
+You are giving the different message. You are guiding your user in a different way.
+
+Okay. So if you click this one and it opens, you are sure that okay, these names are either more important or more,
+
+uh, up to date comparison to this kind of, uh, uh uh, this kind of, uh, news.
+
+And of course, it's not for the only for the, the newspapers that are also.
+
+One of those. Like I said. In the magazines.
+
+You can also see a lot. But even without clicking, I will see some panels in here.
+
+And I will see some structures. Some structures are not changing like this banner will not.
+
+This part will never change. Okay, like you see, the banner is the same.
+
+When I same. But in here the main page.
+
+We have a lot of images, but the images have different type of, uh, different, uh, sizes.
+
+Okay. And if you are giving to just the uniform size for the everything that's, uh, you have like an all images are in the same,
+
+uh, same size, all the texts are in the same font and all let's say grids are in the similar fashion.
+
+Then it means that you are playing with the monotonous way,
+
+and the users will definitely disengage and then not read or not click to whatever you are, uh, proposing to them.
+
+Okay. So based on this elements in here okay.
+
+What kind of hierarchy that you are seeing in here.
+
+First. The first question that I will ask usually for your product for your project too.
+
+So you are seeing this webpage. And what is the.
+
+User of the webpage. I can imagine that Utrecht University hired you as a designer.
+
+So what is the. Users that will generally use this webpage.
+
+Okay, students, but. Okay.
+
+Now it's very, very general. Let's make it a bit compact.
+
+Students, but bachelor students. Spacious rooms.
+
+But it says mastery. Bachelor's students who will finish the program and join them.
+
+Okay, that makes sense. And do you think they did a good job in here?
+
+Again, you will graduate soon. All of them. In, uh, one year or one and a half year.
+
+And do you think this web page is designed for you? Just take the layout and see the basic, uh.
+
+Like what you are. Uh. Okay. You see this web page? What will be your.
+
+First two actions on this webpage where you will click.
+
+What do you look? Click. Their contact.
+
+Maybe tuition fee and financial support. For some kids.
+
+But oftentimes actually we are clicking. Uh, not that I know.
+
+Maybe the brochure. Okay. I want to understand, okay, what kind of critical that they are giving or where their alumni are working.
+
+This will be useful information for me. So overall, I will say that.
+
+Okay. This, uh. But is this part of webpages designed well for the students?
+
+Because with the single click, the students can access the information they need.
+
+Assuming that this part is, uh. Uh, hosting the information that I need for my, uh, for my registration.
+
+And again, the pattern in here is the same. Yeah. Liking the colour scheme of the webpage comes from their, uh, local.
+
+And usually this kind of colour schemes are defined in the brain brand identity.
+
+Okay. So you cannot change. And in some cases, if you change it, uh, they may also sue you.
+
+Okay. Like, uh, anyone from Germany?
+
+You. Germany. No. Versus in the Germany there is one, uh, university, which I was then, actually Humboldt.
+
+Home will. University.
+
+Of darling. Okay.
+
+Let's say local. In the logo, we have William Alexander.
+
+This guy is two guys. Okay. And they are looking at specific direction okay.
+
+Looking at the direction. And in one presentation, one random person actually did reverse this, uh, logo again, reverse this logo.
+
+They are looking the other direction. And before even starting.
+
+Okay, a few professors in Germany say that. Okay. You cannot do this.
+
+So it is that, uh, kind of, uh, important sexually visual identity of a brand.
+
+Okay. And here or, uh, below the department.
+
+Okay, that's a bit Rostam. Okay.
+
+Do you think it's a good design for it? As a users that you jump up to this web page.
+
+As a student. Okay, you are probably a visit this one.
+
+A few times, I guess. This is from the last year.
+
+But more or less the same as. Is it?
+
+Go to website or. Can you find all the information that you are looking for?
+
+No. Think it is not well designed.
+
+Okay. With the students in mind. Because that part, the one that we show at the beginning, it's for good.
+
+This one. I guess this is from the university itself.
+
+But this one from the DCA or on the department.
+
+Here. There are a bunch of texts. That's probably. Gives a lot of information, but unrelated to, uh, students here directly jump up to the, um.
+
+Uh, research, which is not good because students are not coming here for generally in for research, but they are coming here for the education.
+
+Maybe, uh, next year I will give an, uh, one student group.
+
+Okay. They will redesign the Or webpage and propose them.
+
+And maybe they can get some commission or some money for their design.
+
+Okay. Cool.
+
+Okay, then let's move to another one. The typography.
+
+I know you are getting bored about the Steve Jobs, but do you remember his, uh, Stanford commencement speech?
+
+Like, stay hungry, stay foolish. No.
+
+Come on. This is the super famous one. Okay.
+
+I will show one, uh, Steve Jobs commencement speech.
+
+This one. I can guarantee that you will notice.
+
+You don't know? Okay. Who previously said this one?
+
+Nobody. It's my first time to.
+
+The intergroup that they are not aware of this stuff, which is good.
+
+Go and watch it. But I will just give the. One part of its.
+
+Got a call in the middle of the night asking the same high school cheap call parents savings.
+
+It was entire life. Okay. Made. Didn't.
+
+It wasn't all romantic. I didn't have a dorm room, so I slept on the floor in friends rooms.
+
+I returned Coke bottles for the five cent deposit.
+
+Pete College at that time offered perhaps the best calligraphy in the city, and intuition turned out to be priceless later on.
+
+Let me give you one example. Reed College at that time offered perhaps the best calligraphy instruction in the country.
+
+Calligraphy is the handbook throughout the campus.
+
+Every poster, every label on every drawer was beautifully hand telegraphed because I had dropped out and didn't have to take the normal classes.
+
+I decided to take a calligraphy class to learn how to do this. I learned about serif and sans serif typefaces.
+
+You will hear a lot in this lecture too, about varying the amount of space between different letter combinations,
+
+about what makes great typography great.
+
+It was beautiful, historical, artistically subtle in a way that science can't capture, and I found it fascinating.
+
+None of this had even a hope of any practical application in my life.
+
+But ten years later, when we were designing the first Macintosh computer, it all came back to me and we designed it all into the Mac.
+
+It was the first computer with beautiful typography.
+
+If I had never dropped in on that single course in college, the Mac would have never had multiple typefaces or proportionally spaced fonts.
+
+And since windows just copied the Mac, it's likely that no personal computer would have them.
+
+Okay. So basically the gist of the story that he dropped out to college,
+
+but to get the typography classes and of course, at the beginning it doesn't make sense.
+
+Or can I, can you where you will use the typography unless you are a graphic designer.
+
+Then he uses, uh, multiple fonts in the, uh, Apple uh, systems.
+
+And here, actually, it is your turn. Maybe you will get some inspiration.
+
+Okay, do the second half of. Yeah.
+
+Another, uh, design element for us is the typography. Oftentimes it's neglected or people are using, uh, default fonts.
+
+Whatever they have. Let's say if they are in the, uh, windows, most often they are using the Calibri,
+
+but they change to the Optus if they are, uh, using in the, uh, macros, they have their own typefaces, plus Helvetica.
+
+But now we will just go and give enough information. Okay, so before starting, I need to ask one question and that will be a coffee question.
+
+We know the uppercase and the lowercase letters in. Okay.
+
+The pay, let's say, in here is. Okay, but this is not a coffee question.
+
+Okay. And this one is the lower case. Okay.
+
+Now my question to you. Where does this upper and lower case ah come from.
+
+What's the origin? While we're not calling that a big letter and the small letter.
+
+Because they are not changing with the numbers in. What does it comes from?
+
+We don't know. Okay if you reply in.
+
+How? Five minutes. You will get to coffee. Just think about it.
+
+Go a bit back. In time undefined.
+
+It doesn't need to be correct, but just making an educated guess.
+
+So you. You have an idea. Right.
+
+I try to. Okay, but go back. My favourite book.
+
+Uh, I'm pretty sure. Separate stands for whatever you.
+
+The upper. For three years.
+
+We're all working in a case that was lower. And this is the hardest robbery.
+
+Okay. Where did you learn this? I had. I.
+
+Okay. Perfect. This story is, uh, uh, most correct. Like on the previously this you got the took away, uh, privacy.
+
+This, uh, letters are designed. But they are not used always.
+
+Why? Because we have a printing machine. And the most used one is this one here, like the lowercase one.
+
+And they are putting this kind of uh uh uh uh letters in a box.
+
+They are on the lower, uh, level of the shelves. And the other one.
+
+The case is one in the high level of the shops. And it is easy to grab it and change it or put it back.
+
+It's gone from here. And it is an endless.
+
+Uh, what's an this domain?
+
+Really like an if you are, uh, into the design or the typography, you can learn a lot of trivial about, uh, the, the, uh, the, uh, typography fonts.
+
+And their functionalities.
+
+But here we will go and give the basic information, and I will show you also how to get or where to get the detailed information.
+
+So we are. Basically defining the typeface is the collection of the letters, numbers and the, uh, what's the punctuation?
+
+Punctuation marks. Okay. And one thing that you need to understand, there is a difference between typeface and the font.
+
+Okay. A font is the specific variation of the typeface.
+
+That variation can be the size can be colour can be the, uh.
+
+Uh, let's say italic, bold chain, monospace, whatever that, uh, belongs to here.
+
+So fonts and typefaces are different.
+
+Please don't forget it will be exam question. So everybody wake up.
+
+Okay. Take note. So here, let's say you have a one.
+
+The typeface. It's where. Some OpenType typeface, and this is a typeface version itself.
+
+But when you make it better than a bolt or verdana tan, uh, size with tan, it becomes a font for you.
+
+Okay. So just be careful about the this users and the current.
+
+They actually you will see the blog posts. You will see YouTube videos they are using interchangeably.
+
+Okay. Since uh. It is coming into their domain.
+
+They can use interchangeably. But here I would expect you to know that difference between typeface and font.
+
+Okay. Cool.
+
+And with the, uh, one typeface letter or the one, uh, font lettering here, you can play with a lot of information.
+
+Okay. And one thing that we. Mostly use is their, uh, weight.
+
+And their weight is basically the. How thick is the one stroke of the letter?
+
+Okay. And they have a different variations, like the light one, uh, regular one, medium one, and the bold one.
+
+Oftentimes, uh, we only have the regular one and the bald one.
+
+But if you use something like Figma. You will have a lot of options.
+
+Okay. And that options can be light, extra light, extra bold, completely black.
+
+Okay. This kind of information. And of course, the usage of this kind of, uh, typefaces are different.
+
+For instance. We are using the bold for the titles.
+
+And the regular for the main text. Okay.
+
+And the other part they have is some specific, specific functions, but we are not using it too much in the projects for instance.
+
+You are free to use any combination of this one, but if you use the bold and the regular, it will be fine.
+
+Okay. So we are not expecting you to choose more than three different fonts, or use three different fonts in the one screen.
+
+And the one thing that also Steve Jobs mentioned the city fans sensitive.
+
+Okay. These are the, uh, different type of the lettering, actually.
+
+And the city fonts has this kind of, uh.
+
+Endings like this kind of endings at the end, at the end of the letter and some reports we don't have an Italian around.
+
+Italian or Italian speaking person. No.
+
+Okay. What is instead of you means that that ending sunset.
+
+If it's like a censor in a in Italian or here, it's in Latin.
+
+I guess we don't say sounds means we don't. And then we also have a.
+
+The alternative one is the monospace. I guess everybody in here already using a monospace without even realising it.
+
+Okay. Probably you use Monospace maybe this week or you will use definitely in this week.
+
+Can you guess in which area that you are using? Using it.
+
+It means that you are typing. Yeah.
+
+Your cholesterol most of the time is the, uh, water.
+
+Can you give the examples of, let's say maybe other students are not aware which coordinator you are using?
+
+We are not perfect. Like here if you go to VSCode.
+
+And let's say type import. Or numpy.
+
+As MP. Okay. And you see, of course, you cannot see actually.
+
+But the. The size of each letter. The vertical size of each letter are same.
+
+Okay,
+
+like the distance between the beginning of the end and the end point of the M is equal to the distance between you and end of the starting and end.
+
+So that's increased the readability. And it's also a problem to promote, uh, a troubleshooting.
+
+Because if the size of the letters are the same, then you know that the length of the line will be the same.
+
+Okay. And if you are writing the same, uh, same, uh, same, let's say execution step for your program.
+
+And if you forget the semicolon at the end. Not for the Python for the C plus.
+
+Plus, for instance.
+
+Then if you have a that's a function or a that calling it the next line or the different line, you can easily debug to, uh, debug the uh program.
+
+Okay. And, uh.
+
+Let's see. Okay. Can one of you come here?
+
+We will make a one challenge in here. And if you do in, let's say, 90% accuracy, you will get the coffee.
+
+Just random person. The one that who thrust his finger.
+
+Come on. Come on guys. Those.
+
+Okay. Like here. Okay.
+
+Last two years I did this one with hundred percent accuracy, but this time I don't know what will be here if I move this one.
+
+Okay. Let's see. So I wanted.
+
+Cool. So who wants to try?
+
+You will just. I will go to the, uh, one again and you will just replace it.
+
+Come on. Don't be shy. For this first.
+
+This one. Or compete. Come here, you two.
+
+Come here and you will come and we will give a break. Computer Committee.
+
+So just to refresh it. Well, let's go with the.
+
+Hello. Okay. To be. To me. Oh, I kind of love this one.
+
+But you know what? You are just you have to check the distance between each other and you will put in an order that we do in a stupid way.
+
+Then you will do. Okay. This is the. 72%.
+
+Okay, then let's go with this one. Okay, now it's your turn.
+
+Relax, okay? Nobody's. You mentioned that you are a new designer of this font.
+
+Okay. I think I'm Tom.
+
+So it's the like. Come here.
+
+Let's see who will win 73. You know, you kind of.
+
+On the. That's cool.
+
+That's great. Thank you for your coffee.
+
+Oh, yes. Okay. Three cup events. How did you get that [INAUDIBLE] angle?
+
+I think that this would be the one that I witnessed. And this kind of exercises are good actually.
+
+You will develop your intuition about the top phases on how to balance.
+
+If you are a student in the graphic design department, one of the first things will be create a gigantic version of this let.
+
+Just see the method and choose the one to output. Then you have to paint by itself.
+
+I don't the, uh. But you have to create by yourself.
+
+And with this money you will learn a lot of stuff like spacing contributed along the spacing.
+
+Then you will learn that. Uh, the width of the stalls and how much of, uh.
+
+Details about this the and. It is good. But, uh, it is alone.
+
+But it seems to be a function of what we have. One historical record of Steve Jobs.
+
+What makes. Okay, now we are.
+
+We already said that. Okay. That this one is, uh, for the, uh, for the for.
+
+Let me, um, the it will allow for the visibility plus the but finding.
+
+And of course, it's evolving. Microsoft created Calibri.
+
+It doesn't stay that. Two years ago, they released one, a new, uh, typeface called Optus.
+
+And, uh, the purpose for this, uh, typeface is to be readable in the, uh, mobile form or in the, uh, readable for the, uh, tablet, like, uh, devices.
+
+And now if you change, if you use the online version of any Microsoft products, it will come up with the updates.
+
+This is my inbox. And you see the, the facelifted volt, uh, that this was, uh, Canadian.
+
+But now this is obvious. Of course you can change whatever you want.
+
+But if you are, uh, using the default one product, it means that you are in the safe zone.
+
+Whatever. The device that you are using will be readable by your body and by your.
+
+By local users, and there are some fonts that we should never use.
+
+And, uh, one of them is the, um.
+
+Is the Comic Sans. You already used.
+
+Concerns. And it comes from the Microsoft Office.
+
+But the person that created this, uh, comic sans, uh, is allergic to this animal contact.
+
+So it's not that the, uh, kids don't want to play with the Microsoft design.
+
+This one and the the it's come from, uh, this, uh, person.
+
+And he also created another one, the television. Which is why they use it.
+
+I also used in the last lecture, actually. Put up the most expensive time I'm using.
+
+They have to come up now to chisel so much. And here's a long quote about the concepts.
+
+So that's if you hate convictions. You don't know what's that facing.
+
+If you like convictions, you also don't know what this book and be sure to reason.
+
+It got it out. But I don't know. It's just for that purpose. Can we to some uh uh uh uh uh uh, fonts exist.
+
+Even indicators must provide something. So I am sure that that exists, but not for consoles.
+
+Cool that that's given a break and in the first place is being.
+
+And for the coffee people. Uh, you want to go now or.
+
+At the next. So the students who got the coffee.
+
+You want to go now or after the lecture? Now what?
+
+Now let's go. Uh, think. And for the other students, let me open the one of.
+
+This program is brought to you by Stanford University. Please visit us at Stanford Dot.
+
+Edu. If you didn't watch it, please watch it. It's it's a hidden gem.
+
+Thank you. I'm honoured to be with you today for your commencement from one of the finest universities in the world.
+
+Truth be told, uh, I never graduated from college, and, uh, this is the closest I've ever gotten to a college graduation.
+
+Today, I want to tell you three stories from my life. That's it.
+
+No big deal. Just three stories. The first story is about connecting the dots.
+
+I dropped out of Reed College after the first six months, but then stayed around as a drop in for another 18 months or so before I really quit.
+
+So why did I drop out? It started before I was born.
+
+My biological mother was a young, unwed graduate student and she decided to put me up for adoption.
+
+She felt very strongly that I should be adopted by college graduates.
+
+So everything was all set for me to be adopted at birth by a lawyer and his wife.
+
+Except that when I popped out, they decided at the last minute that they really wanted a girl.
+
+So my parents were on a waiting list. I got a call in the middle of the night asking, we got an unexpected think boy.
+
+Do you want it? They said of.
+
+My biological mother found out later that my mother had never graduated from college, and that my father had never graduated from high school.
+
+She refused to sign final adoption papers. She only relented a few months later when my parents promised that I would go to college.
+
+This was the start in my life. And 17 years later, I did go to college.
+
+But I naively chose a college that was almost as expensive as Stanford,
+
+and all of my working class parents savings were being spent on my college tuition.
+
+After six months, I couldn't see the value in it.
+
+I had no idea what I wanted to do with my life, and no idea how college was going to help me figure it out.
+
+And here I was, spending all the money my parents had saved their entire life.
+
+So I decided to drop out and trust that it would all work out okay.
+
+It was pretty scary at the time, but looking back, it was one of the best decisions I ever made.
+
+The minute I dropped out,
+
+I could stop taking the required classes that didn't interest me and begin dropping in on the ones that looked far more interesting.
+
+It wasn't all romantic. I didn't have a dorm room, so I slept on the floor in friends rooms.
+
+I returned Coke bottles for the five cent deposits to buy food with,
+
+and I would walk the seven miles across town every Sunday night to get one good meal a week at the Hari Krishna temple.
+
+I loved it, and much of what I stumbled into by following my curiosity and intuition turned out to be priceless later on.
+
+Let me give you one example. Reed College at that time also perhaps the best calligraphy instruction in the country.
+
+Throughout the campus.
+
+Every poster, every label on every tour was beautifully hand telegraphed because I had dropped out and didn't have to take the normal classes.
+
+I decided to take a calligraphy class to learn how to do this. I learned about serif and sans serif typefaces,
+
+about varying the amount of space between different letter combinations, about what makes great typography great.
+
+It was beautiful, historical, artistically subtle in a way that science can't capture, and I found it fascinating.
+
+None of this had even a hope of any practical application in my life.
+
+But ten years later, when we were designing the first Macintosh computer, it all came back to me and we designed it all into the Mac.
+
+It was the first computer with beautiful typography.
+
+If I had never dropped in on that single course in college, the Mac would have never had multiple typefaces or proportionally spaced fonts.
+
+And since windows just copied the Mac, it's likely that no personal computer would have come.
+
+If I had never dropped out, I would have never dropped in on that calligraphy class.
+
+And personal computers might not have the wonderful typography that they do.
+
+Of course, it was impossible to connect the dots looking forward when I was in college, but it was very, very clear.
+
+Looking backwards ten years later. Again, you can't connect the dots looking forward.
+
+You can only connect them looking backwards. So you have to trust that the dots will somehow connecting your future.
+
+You have to trust in something your gut, destiny, life, karma, whatever.
+
+Because believing that the dots will connect down the road will give you the confidence to follow your heart,
+
+even when it leads you off the well-worn path. And that will make all the difference.
+
+My second story is about love and loss.
+
+I was lucky I found what I love to do early in life was.
+
+And I started Apple in my parents garage when I was 20.
+
+We worked hard and in ten years, Apple grown from just the two of us in a garage into a $2 billion company with over 4000 employees.
+
+We just released our finest creation, the Macintosh, a year earlier, and I just turned 30, and then I got fired.
+
+How can you get fired from a company you started? Well, as Apple grew, we hired someone who I thought was very talented to run the company with me.
+
+And for the first year or so, things went well. But then our visions of the future began to diverge, and eventually we had a falling out.
+
+When we did, our board of directors sided with him. And so at 30, I was out and very publicly out.
+
+What had been the focus of my entire adult life was gone. And it was devastating.
+
+I really didn't know what to do for a few months. I felt that I let the previous generation of entrepreneurs down.
+
+That I had dropped the baton as it was being passed to me. I met with David Parker and Bob Noyce and tried to apologise for screwing up so badly.
+
+I was a very public failure and even thought about running away from the valley.
+
+But something slowly began to dawn on me that I still love what I did.
+
+The turn of events at Apple did not change that one bit. I've been rejected, but I was still in love, so I decided to start over.
+
+I didn't see it then, but it turned out that getting fired from Apple was the best thing that could ever happen.
+
+The heaviness of being successfully replaced by the lightness of being a beginner again.
+
+Salvageable freed me to enter one of the most free periods of my life.
+
+During the next five years.
+
+I started a company named next, another company named Pixar, and fell in love with an amazing woman who would become my wife.
+
+Pixar went on to create the world's first computer animated feature film, Boy Story, and is now the most successful animation studio in the world.
+
+In a remarkable turn of events.
+
+Apple bought X and I returned to Apple and the technology we developed next is at the heart of Apple's corporate renaissance,
+
+and Laurene and I have a wonderful family together. I'm pretty sure none of this would have happened if I hadn't been fired from Apple.
+
+It was awful tasting medicine, but I guess the patient needed it.
+
+Sometimes life. Sometimes life's going to hit you in the head with a brick.
+
+Don't lose faith. I'm convinced that the only thing that kept me going was that I loved what I did.
+
+You got to find what you love. And that is as true for work as it is for your lovers.
+
+Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.
+
+And the only way to do great work is to love what you do.
+
+If you haven't found it yet, keep looking and don't settle.
+
+As with all matters of the heart, you'll know when you find it.
+
+And like any great relationship, it just gets better and better as the years roll on.
+
+So keep looking. Don't settle. My third story is about death.
+
+When I was 17, I read a quote that went something like, if you live each day as if it was your last, someday you'll most certainly be right.
+
+It made an impression on me.
+
+And since then, for the past 33 years, I've looked in the mirror every morning and asked myself if today were the last day of my life,
+
+what I want to do, what I am about to do today and whenever.
+
+The answer has been no for too many days in a row, I know I need to change something.
+
+Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life.
+
+Because almost everything, all external expectations of pride or fear of embarrassment or failure,
+
+these things just fall away in the face of death, leaving only what is truly important.
+
+Remembering that you are going to die is the best way I know.
+
+To avoid the trap of thinking you have something to lose.
+
+You are already naked. There is no reason not to follow your heart.
+
+About a year ago, I was diagnosed with cancer.
+
+I had a scan at 730 in the morning and it clearly showed a tumour on my pancreas.
+
+I didn't even know what a pancreas was.
+
+The doctors told me this was almost certainly a type of cancer that is incurable, and that I should expect to live no longer than 3 to 6 months.
+
+My doctor advised me to go home and get my affairs in order, which is doctor's code to prepare the doctor.
+
+It means to try and tell your kids everything you thought you'd have the next ten years to tell in just a few months.
+
+It means to make sure everything is buttoned up, so that it will be as easy as possible for your family.
+
+It means to say your goodbyes. I live with that diagnosis all day.
+
+Later that evening, I had a biopsy where they stuck an endoscope down my throat, through my stomach,
+
+into my intestines, put a needle into my be increased and got a few cells in the.
+
+I was sedated, but my wife was there and told me that when they view the cells under a microscope,
+
+the doctors started crying because it turned out to be a very rare form of pancreatic cancer that is curable with surgery.
+
+I had the surgery and thankfully I'm fine now.
+
+But we you know we because living someone otherwise you know don't let the noise of others opinions drown out your own inner voice.
+
+And most importantly, have the courage to follow your heart and intuition.
+
+They somehow already know what you truly want to become.
+
+Everything else is second you.
+
+When I was young, there was an amazing publication called the Whole Earth Catalogue, which was one of the Bibles of my generation.
+
+It was created by a fellow named Stewart Brand, not far from here in Menlo Park, and he brought it to life with this poetic touch.
+
+This was in the late 60s, before personal computers and desktop publishing.
+
+So it was all made with typewriters and scissors and Polaroid cameras.
+
+It was sort of like Google in paperback for 35 years before Google came along.
+
+It was idealistic, overflowing with neat tools and great notions.
+
+Stewart and his team put out several issues of the Whole Earth catalogue, and then when it had run its course, they put out a final issue.
+
+It was the mid 1970s, and I was your age.
+
+On the back cover of their final issue was a photograph of an early morning country road,
+
+the kind you might find yourself hitchhiking on if you were so adventurous.
+
+Beneath it, the words stay hungry, stay foolish.
+
+It was their farewell message as they signed off. Stay hungry, stay foolish and I.
+
+Okay. Let's start. Yeah. It's tough in many parts.
+
+Yes. Yes.
+
+This is. Know we mentioned about the basic one, and if you are interested with the introduction level, uh, to the uh, typography as please, uh.
+
+You can check this book and you see in the here we have, um, sorry for sensitive, uh, typeface in here.
+
+Come on. Sorry. Is this a typefaces? The serif typeface or sans serif one?
+
+This one. Okay.
+
+This one. Self one.
+
+Why? Because at the end we have a this kind of, uh, um, and, uh, okay.
+
+Thoughts. And now check the, uh, check the author's name.
+
+Uh, looked them. And check this one.
+
+It's also adding didn't looked in here but now she is using the sensor.
+
+Here we have a set of copies and the. Next to it, we have an answer for.
+
+Can you tell me why? The author is choosing a different type of face for different type of the book.
+
+Of course, we may not know the actual reason, but. At this.
+
+We can speculate about it, but I think. If you stick to the back of.
+
+Uh, and with this second. It's more with that.
+
+Okay. Yeah, I can accept this one. Anything else.
+
+Now? Yes. Okay to me, actually, up here, uh, the author just shows her skills about, uh, she knows the history of the typeface.
+
+Okay. That's why she chose the oldest one, which is sensitive.
+
+And here. It's, uh, indicated in the title.
+
+Yeah. Graphic design, new basics. And with this new basics, what she creates.
+
+She chose the sans serif typeface image. Okay.
+
+So one is, uh, let's say a bit, uh, historical one.
+
+Okay, I'll draw one. And this is a new one. And the new one, she is using the new and modern typefaces.
+
+And I said this one. And this is quite introductory level.
+
+But a lot of details, if not, uh.
+
+Good. Same. Over. Uh. Over. Over.
+
+Over. Uh, teach you too much. But if you check it, the content is quite easy to read.
+
+Once you are having a coffee next to the table, this kind of, uh, papers can be quite nice.
+
+And you will learn a lot of, uh, things about, uh, uh, about the attack facing how we can create a new one or how to use the existing one.
+
+In what purposes? Okay.
+
+And we provided this link actually. What is?
+
+It's. Oh. Were to use.
+
+Okay. There should be another wedding. Okay. We'll find later.
+
+Okay. What are we doing here? Okay with a rule of thumb for your, uh, design.
+
+Just try to use only three. Maximum three. Different fonts in your, uh, one screen.
+
+Okay. So, like, uh, if you are creating an, uh, uh.
+
+Application needs Spotify. The title can be bold, the, uh, context text will be, uh, medium.
+
+And you can also use the, uh, other variations in different parts of your, uh, parts of your, uh, design, but do not exceed three.
+
+Otherwise your you will configure your users. And be consistent versus if title is the black.
+
+Use, uh, close colour to the black in the body.
+
+As one of the group groups added the title is.
+
+Title is, uh, black, but the content is blue. So it was a bit hard to read it.
+
+Okay, then let's move to the. Okay.
+
+And of course, typography is not finished in here. If you have a letter, then you need to put that letter in an order.
+
+Okay. What kind of space that you need. That we play the game or what kind of layout that you can use it.
+
+And, uh, we are using, uh, the same.
+
+We are using the oftentimes the left from the left to the right.
+
+But that will change if you are using the different language in Arabic or the Hebrew.
+
+And that depends also for your customisation.
+
+Like if you are building an international application, then you have to be sure that your application works in the box.
+
+For the reader who was reading left, the right or the right?
+
+Left. And the.
+
+You can also put your text in the middle, but that indicates something.
+
+Okay. And that thing is like you are reading an essay at the middle.
+
+People are putting in quotes. The most important part of that essay or quote from someone.
+
+In the middle sentence because all your attention will go that.
+
+If you don't have any time, or if you're just perusing the pages instead of reading from start to finish,
+
+you are just reading the middle part of it, and you can get the gist of the article.
+
+Uh uh, yeah, just gist of the article in the new in the screen.
+
+And we don't have any alternatives. We can do that.
+
+Left. Uh. Justified? Right. Justified.
+
+And the centre or just justified? Okay.
+
+But most of the time we would prefer this one. Left, right. Or justify text like the text in here.
+
+One of the patients. See. Let's see.
+
+Texting here is. I guess the left is justified.
+
+You can do the just justified. So incentive. But don't do this in here because there's no text here.
+
+Uh, above or below. And you can also go with this one.
+
+And this is the most common that we are using. Just just justify like.
+
+And it means that, okay, the equal space has to be between these two lines.
+
+Or this lines as an equal spaced standard as one.
+
+Okay. And I can also ask you how your.
+
+Let's say. What is the. Thank you.
+
+How your. Or how the Google Docs knows that.
+
+There is an end of line in my text. Okay.
+
+How it's gonna get in here? Especially for the letter A for the paragraph with a lot of words.
+
+Did you take the algorithms and the lecture? No, not it in there.
+
+Yes. Uh, did you learn dynamic programming? No, you don't remember?
+
+And this is the way that's how dynamic programming applied. That's. Okay.
+
+I will not go in detail because, uh, this, uh. Typeface are not only for the design elements.
+
+There is also computer science inside it. Okay. And here the rule of thumb for us left the line text for the English text.
+
+Most of the text that we are reading it and the right align one is for the Arabic and the Hebrew and the other language.
+
+That's from the use the from left right centred one is like you are seeing in this example for pulling the summer quotes or summarising some,
+
+uh, paragraphs in here, and or rule of thumb will not change and you will be asked during your uh,
+
+project do not exceed maximum three fonts and three fonts are different than three typefaces will.
+
+That's what the exam question. Cool.
+
+I know we have a lot of, uh, examples, uh, combined with the logos and where we can use the typefaces and the logos,
+
+and you don't need to knew this one, but you can understand that.
+
+Okay. So these types are everywhere and we have to be a bit careful.
+
+That's what we are using it because whatever we are using it will affect all users.
+
+And that's why we have to be careful about our, uh, choices.
+
+And another, uh, design element is the grids. And this is basically to give you a rule.
+
+It's a structure that will give you a rule and structure in your text.
+
+And it is common in almost every design software.
+
+Like this one I am using or my students are using for their publications to create them, uh, to create the figures for the paper.
+
+And in here, by default, you can go and create them grid for the empty pages.
+
+The same thing exists also in the, uh, Figma that last time we see it.
+
+And it gives you some functions.
+
+One function, it has the hierarchy. Okay. Like I can know that.
+
+Okay. The, uh, the elements in that area or in this grid, but.
+
+It's somehow title. Okay. And this is the most, uh, readable part of my, uh, uh, my, uh, design.
+
+And here we also have some grid like structures.
+
+Like we have on, uh, this, uh, I guess this is the news or some information and this information replicated in here.
+
+So it means that if you are using a grid. Then you are using your design procedure.
+
+Why? Because the each grid elements have same.
+
+Uh, purposes. Recall in all times we have been.
+
+Photo. We have on topic and we have a descriptive text.
+
+And each time we are not replicating. Each time we are not recreating a new element.
+
+In here we are just copy pasting the same thing. Because it's a grid element, just changing the content.
+
+And it's a way to standardise your standardise your interface.
+
+Remember that one of the, uh, design principles, if everything is failed like you cannot create, then you agreed.
+
+Or you don't know how to create a grid and check the standards, and that standards will guide you.
+
+And there are some web standards about the grids. If you are interested. Uh, just check it.
+
+That is on the charts for grids.
+
+Okay. Just say. Okay, I will send it to responses from.
+
+Oh, not this one. Anyway, I will change it later.
+
+Just be aware that there are some frameworks with frameworks that allow you to, uh, standardise your, uh, grid.
+
+And the main functionality that, uh, we are using for even, uh, presentation.
+
+It aligns your design elements like here. You see that?
+
+All starting part of this, uh, letters, uh, touching that grid.
+
+So it's somehow giving coherence and uniformity of the elements existing here.
+
+There are some links about uh uh uh uh, grids, but we will not go in detail what you need to know.
+
+Only three things. One is the, uh, it should be 14 columns and, uh, row.
+
+Columns on the rows. Okay.
+
+And in Figma last time we practice it, you can automatically create this one.
+
+So you don't need to go under handpick or the place order grids.
+
+Another thing is the margins. Margin is basically the distance between the left and the right part of the grid to the corners.
+
+Okay. And the margins, sorry. Groups are the distance between each grid cells in each.
+
+And of course you will see the the design in here like the that part.
+
+Imagine that there is a device in here and in here and that will be your margin.
+
+Ouch. That will be our margin and this will be our growth.
+
+And these are my, uh, columns. And these are the role of unsung heroes.
+
+Okay. And this is, I guess, 2 or 3, three years ago or two years ago.
+
+And use the grids you will see in everywhere, like an in even or a compass.
+
+And we are using it for usability. Because it navigates it.
+
+Guide us how to navigate in the environment.
+
+And I feel that, yes, that's good because, uh, all of the elements in here will be introduced in the same fashion.
+
+That will increase their usability. And lastly, efficiency will be increased.
+
+Both for your users and for your design. Because if you are using it in here, let's say four by two grid in this one.
+
+You don't need to replicate or recreate the same thing again for the next year.
+
+Okay, you can just put the placeholders in here and their users will automatically upload their,
+
+uh, their, uh, photos and, uh, titles and, uh, so much information.
+
+Cool. I know it's a bit boring that parts, but now this is a bit interesting.
+
+Colours. This is hard. Okay. Please do not use this one.
+
+And let's see some famous examples. This guy's.
+
+Do you think this is an actual website? Yes.
+
+No. Why? Then this actually exists.
+
+I mean, this one probably violates everything that we introduce in here.
+
+Yeah. And I am sure none of your group projects will resemble like this.
+
+Okay, then you can be proud of yourself. Okay.
+
+Even the Yale, uh, University of Yale.
+
+University art department. You will be better than them.
+
+And let's see. This is the universe. Like this one is 20, uh, 22 or 21, and this one is their.
+
+Four years later. And you see they are purposely not following the design element stuff you.
+
+What is the reason? Because they are, uh, designers.
+
+They should know. Just wait.
+
+Uh. In other. Why they are not following the design rules.
+
+Come on. Like this one.
+
+Like 0.1. Even like a frame inside the.
+
+Stuff. The answer is.
+
+I think. That's a good point, but we shouldn't agree with them in Lycan because they are not a designer.
+
+And if you. If I hire you to redesign my website.
+
+Or the Justice Department's website. And if and if you end up like this.
+
+So forget about your current. Okay? Never contact with me again and I will put you in the blacklist.
+
+So you will never, uh, send me an email again. So.
+
+But, uh, this is the article again. The.
+
+Your friends say that they can do whatever they want, but the message in here to me is the they are a vanguard like.
+
+And they are leading the other stuff. That's why they know road very well and they can brake as they wish.
+
+Okay, but we are not at that level. So this lecture is recorded and I will send, uh, this message to the future students who are not in here.
+
+Please do not design like this one. Okay. And they do not bring this web.
+
+Then tell me that. Okay, you show some slides in the lecture and we try to copy.
+
+Uh, copy. That's a design. So don't do this, okay?
+
+Like the students that who are putting in the background sound becomes a soundtrack for, uh, every product.
+
+So down to this. I know they are common, actually.
+
+Of course, some of them can be in some, uh. Uh, trolling purposes.
+
+But they are, uh, incredibly common. And the thing that's you cannot teach them.
+
+That's the one of the problem with this kind of, uh, design, uh, uh, artistic tendency.
+
+Okay. And of course, uh, these are the, uh, artists who can say that.
+
+Okay. We are not your domain, so you can do whatever you want.
+
+But in the design domain to like in the software, uh, domain to look at this one.
+
+If you remember, it's Microsoft Bob. I mean, every kind of colour exists in here.
+
+Yeah, it's a mess. Even they didn't follow the super basic principles like.
+
+And there should be in the contrast between the foreground and background. Like here, this dog colour is exactly the same with that.
+
+And in this, uh uh uh uh, product.
+
+I don't think that should be. Uh, yeah, that should be, uh, we should allow them to sell the same product in the in, uh, in here.
+
+So. Like and almost exactly same design.
+
+But only the, uh, text is different.
+
+And if you mix these two, then you will be in danger. Yeah, we are laughing, but people are still doing this.
+
+Okay in here also where they want the interface. I don't remember in the which company probably is Microsoft.
+
+Uh, during the holidays. They want to be super experimental, and they provide this kind of, uh, stuff to us.
+
+I guess it's Microsoft because they that window in here. And paint and not that is here.
+
+I probably Microsoft. Cool. And now.
+
+One of the, uh, presentation that you are already familiar with it.
+
+Hi. Today I want to try you all.
+
+As you can see, it's currently loading. Just pay attention to the colour scheme in here.
+
+We're just going to see how it works. I have some things that I would like to try out.
+
+So we just see where it goes. Ouch.
+
+After. It's not. Hi.
+
+Later on if you don't need audio description.
+
+Okay, let's look at my preferences. Hey, I'm lactose intolerant.
+
+Come on. Hi.
+
+Yeah. Seems fine. Okay. Just have a look at my favourites.
+
+I've. Okay. The, uh, dominant colour is here in, uh.
+
+Uh, is, uh, what's in, uh, green? And there is a reason because the the reputation is ethical.
+
+Um, ethical product recommender. Uh, up.
+
+And they want to be a bit natural. Okay. So they choose the green. Beforehand.
+
+Uh, okay. Uh, credit score is like, take this one since I need.
+
+Concentrate as well. The prices for my case.
+
+So what I want to show in here like an Or students can design better.
+
+Then. Previous Microsoft engineers and designers.
+
+So at the end of this course, you can be proud of yourself or have a better sense of design or the colour usage than the Yale School of Art.
+
+Of course, nobody's aware it's. But just you can be proud of yourself for creating that level, uh, of, uh, uh, designer design for your, uh, project.
+
+And of course in the Asia domain. Colour is not only for aesthetic purposes.
+
+Please don't forget, whenever we are changing colour, it means that we are changing the functionality.
+
+Okay. Like in the one page, if your, uh, if your button is the green and in a little page it is yellow.
+
+So I will assume that. Okay. The same.
+
+Functionality shouldn't be provided. When I click the yellow and.
+
+When I click the green. So bear in mind that it has to be uniform.
+
+And with the colour we can use for a lot of purposes. And one thing that we are using it is the indicator indicating the status.
+
+Okay. Like you logged in or there is an error in the system, then you can imagine it.
+
+That's what is important. More colour means more information. More functionality for users.
+
+And since, uh, there are infinite amount of the colour. And the variations.
+
+If you are putting additional colour, you are making your, uh, job, uh, harder than before.
+
+And that is the thing that you can easily mess up.
+
+Believe it or not, using a colour is somehow a form of, uh, discipline.
+
+And if you practice with this interface, actually it will be quite.
+
+Quite easy for you to understand. It's called colour wheel.
+
+And, uh, they have some, uh, let's see, monochromatic, but, you know.
+
+Uh, and this is the basic one.
+
+So complementary colour means that the colours at the end of the, uh, at the end of, uh.
+
+At the end of each, uh, point in here. Like, if you turn this one, it means that there is nothing in common in this red and in this, uh, green.
+
+Okay. So there is no shades between this colour.
+
+So then you can use this to colour for the place that you want to emphasise the information.
+
+Like green for the success and the red for the errors, for instance.
+
+Like here they are using it. You. Okay.
+
+Green for the success. And the red for the error.
+
+Uh, cases. Okay. And that's the one way to do it.
+
+And we are calling this colour in the palette is the complementary one.
+
+Because. Both of them come together and they can accomplish one task.
+
+A better than if you are using only one of them. That's why we are complementary and there are no almost the relationship.
+
+Okay. Or the variations between this two and another one is the analogous,
+
+which means that the colours that are close to each other like a shades of, uh, some, uh, blues in here.
+
+Okay. So like here, I guess this one is, uh, close to the Spotify.
+
+Okay if you. For instance, for your design you can be close to that area.
+
+Whenever you have a warning for your users. Okay.
+
+Or here. Okay. Here for your button colours.
+
+Of course. Most green if you are designing redesigning a Spotify for the Netflix it can be like here.
+
+Yeah, that place will be Netflix's college. And of course, you cannot do this by yourself.
+
+You need to have some, uh. Some, uh, guidance for, uh, doing it.
+
+But if you have some basic. Basic understanding how this colour wheels work, it will be quite useful for your projects.
+
+And just go click on this one and play with the variations and try to imagine that,
+
+okay, what kind of product that I am using belongs to this colour palette in here.
+
+And you will be. You'll be quite amazed, actually, how this basic information that we know intuitively and we are using a daily.
+
+But still, a lot of people are, uh, feeling in the, uh, basic stuff.
+
+Okay. So. To some of the links.
+
+Probably we will not be responsible for the exam, but, uh, you can learn this, uh, this concepts to articulate your design decisions.
+
+Okay. Like in here. It's a pure, uh, pure yellow.
+
+And each time you are tilting towards the variations of the yellow and becomes monochromatic.
+
+Uh. I have been suspicious about the term in here.
+
+Because, uh, monochromatic in computer vision means that greyscale looking at inputs and single colour here,
+
+probably they refer that you are using the single colour, but you are changing a bit.
+
+An analogous one. The colours that's close to each other.
+
+In the colourways. Okay. And these are what will work.
+
+Well, because, uh, you will not accept the brand identity.
+
+Like if Netflix say that's use the screen for us.
+
+You may be afraid to use that area to. But you cannot jump in here.
+
+You kind of jump. Jump in here. And a compliment, of course, that we imagine.
+
+Yeah. In here, just the colours that opposite, you know, opposite places.
+
+And this is the, uh, dualistic version of it for each colour.
+
+And here we also have a triadic one.
+
+Like instead of jumping in here, you are literally coming to the colours and the selecting the colour palette and that will give you a warm, warm.
+
+One of your design. And all of the things that we introduce in here.
+
+It's also valid for the robotics team. Okay. Like in here we have an AI robot and it is very, very well designed.
+
+Uh, head not to other parts, but the head of the now.
+
+And the, uh, paper is quite well designed. And you will see it can provide a lot of colour information in here.
+
+This one is a psycho delic colour.
+
+I don't remember the stuff. It just turns super repeated repeatedly and with the colour variations it just give it one example to it.
+
+And in here now has the ladies in its eyes.
+
+That's white ladies or white colour means that everything is operating functionally.
+
+And in here, this blue in the peppers, uh, here means that it is processing something.
+
+Okay. You will not be responsible, okay, for that specific tasks, but I will ask.
+
+Okay. The functionality of the colours in robotics and in the, uh, in the, in the web design or the, uh, digital domain.
+
+Then you will give them one example, for example, red colour for the password warning, for instance, or the, uh, yellow.
+
+Yellow colour in the eyes would say a warning or red, uh, colours in the eyes.
+
+It will say that there is a failure in the system. So you cannot, uh, work on it.
+
+And that's the one of the critiques actually by our students. Okay.
+
+Like, are we learning a web design? Are we learning a, uh, graphic design?
+
+No, you are not learning this. You are learning the principles. And that principles are applicable in different domains, especially in robotics.
+
+If you will retrieve some random papers in the, uh, human computer interaction or human robot interaction,
+
+you will see the principles that they are applying is almost just a medium is different.
+
+Whatever you are learning with the Figma, you can probably adapt it to using the robots to.
+
+Okay. And the thing that we are not, uh, teaching hardware based, uh, curriculum in here, first, it is hard for us, and it will be hard for you.
+
+Okay?
+
+Because, uh, writing a program for the robot is much more harder than writing a program for an on machine learning pipeline, so we cannot manage it.
+
+But if you are interested, you are also very welcome to, uh, use the robots for your projects.
+
+Maybe for the HCI it's already past, but the next year in the autonomous system, we can use this a bit more advanced robots for your design.
+
+And so also in electronics we are using the. This ladies a lot.
+
+Next semester you will practice a lot and often times you are using the lady with the reds.
+
+It means that something going on in a wrong way for your robot or for your circuit.
+
+So you have to be aware aware of it. And in this kind of environment, also imagine that everything is green in here or everything is yellow.
+
+So it means that there is no functional difference, uh, component in this, uh, in this pilot in the cockpit.
+
+But if you are changing the colour variations or using different colours, then they can easily navigate it.
+
+So you see, the principle is the same, but the implementation domain is different.
+
+And for you. That is the trick that I would suggest.
+
+Please use it whenever you are designing something for your interface.
+
+First, design in the black and white okay or the black and the variation of black like a grey air.
+
+Okay. Done. Once you easily see.
+
+There. Every elements that you want to emphasise is visible.
+
+In the black and white. Then try to add one colour. Okay.
+
+And do not go at a lot of colour. But you are familiar with this one?
+
+Yeah, it's a stack overflow. And even with this greyscale, uh, format, it's clear that.
+
+Where should I click? To sign up to log login to ask question, to read the question, and to get some additional information from here.
+
+Okay. So for your project also please.
+
+You will already build the image fidelity prototype. That will be only black and white colour.
+
+But in the in the uh, high fidelity prototype you can add the colour with one exception.
+
+But you cannot add too much colour like here. The difference between these two.
+
+Is quite minimal. There is only, uh, forget about that part.
+
+Because it's not in, uh. It's in the advertising.
+
+But here we only have a dominant colour. Blue. And some grey text and some green text in here.
+
+That's it. It's a very successful web page.
+
+I will say super heavily text oriented, but still you can distinguish between the each element in here.
+
+And the one of the good usage of the colour that again, it is a status, uh, indication.
+
+Like if you go Google Scholar and the type interaction design and you can say that,
+
+okay, this is the title of the article, book or PDF that they are they have.
+
+And it is, uh, shown in blue. And here also some, uh, meta information of this, uh, this, uh, uh, uh, in this, uh, area.
+
+So it means that whatever I am clicking in here. Should be related to the thing that I am searching okay for as I type interaction design.
+
+And I found the one book in here which is blue. And I find some meta information about this blue book in here.
+
+And if I click like I clicked in here before. So difference between these two.
+
+These two, uh, components are one I already created before.
+
+So if the colour is changing a bit or become more darker or more, uh, light.
+
+So I can understand that I already applied one function of that colour.
+
+Okay, so that will be one of the, uh, good exam question for you asked.
+
+Okay. What kind of colour that you are seeing in here and what's the functionality?
+
+Okay, so what is the functionality of that red colour in here? Go.
+
+Okay, so currently I am at anytime. Yep. And if I click a since said this one it will be also ready.
+
+You will expect. Okay, cool.
+
+Yeah, that that makes sense. And what else we are seeing in here.
+
+Let's say this one, this idea. What's the function of this?
+
+So it means that whatever I am putting in here with the green colour should be related to either the author of the paper or the book,
+
+or the link that I can access this. Okay. So for the exam you have to mention this one.
+
+Others don't match the Google's logos. Whatever.
+
+Okay. It's not important. Like, um, you can say that the red colour indicates that in that part.
+
+The active search. Uh, timeline.
+
+And in here that green one indicate the information about the authors and the, uh, links that's provided to, uh, to access to this information.
+
+Then what this indicates. That bold, uh, font in here?
+
+Go. Exactly, exactly.
+
+My search item is indicated in here. So probably you are already doing this.
+
+Okay. Without paying too much attention, and you somehow built in a way that or taking a granted that different colour means different functionality.
+
+And I will expect that you will do the same thing for your design for the projects.
+
+If you are using a one colour change, then it means that there is a different functionality and it's hard to do it.
+
+But with each sample set you will see that it will be.
+
+There will be, uh, that will be awesome. Uh, yeah.
+
+You can see the different, uh, different, uh, application on it. And they use it for your, uh, projects, like in here that's, uh, uh, red.
+
+And there is also that reddish part of it in. So I cannot see the difference.
+
+Can you see the difference? This is a read. This is not already. Even though this is not the same read okay wants me.
+
+It means that, uh, you are missing some information. Another one means that.
+
+Okay. Pay attention. You will pay this amount of money when you click this.
+
+Uh, or when you continue the shopping. Okay.
+
+Still. Do you remember? This colour palette.
+
+Okay, let me hear. For the red.
+
+Let's say I will move a bit here. Maybe they use this one.
+
+For the error. But since the functionality is the same here, I can pay attention to that area.
+
+And they didn't choose green one. They didn't choose the one.
+
+They choose a variation of this one. Okay. Let's say assume that this is the, uh, the price and this is the actual error that you want.
+
+So they successfully implement this idea. Different colour indicates different variations.
+
+And with the colour wheel they choose the colours that are close to each other.
+
+Does this make sense? Yes. No.
+
+Maybe. But just pay attention, okay?
+
+And that kind of small variations makes up the, uh, differences.
+
+And there is a one reason behind it. Especially for a company like Amazon that needs to all of your attention for shopping.
+
+They are playing this kind of trick section. Which is a successful.
+
+And, uh, of course, these are some unsuccessful examples.
+
+Uh, the this one. The another. That we go reset it.
+
+I'm sure. Let me save the image.
+
+Okay. You see, it's quite colourful now.
+
+Well, it will turn out in a more readable, uh, uh, version of it.
+
+And you see, with only a single colour that that's a designer use it.
+
+That can give you a lot of information. And.
+
+Now lastly, I need to mention this book under. You can borrow from me if you are interested.
+
+This morning. It's very quiet. And that's not. If this one goes along.
+
+If you're interested. 30% of design this. Uh, you can't have all of this from me.
+
+It's not the common text. That's you. That's on the left hand side.
+
+But this is what we. Well written and there are some quite nice information about the design, colour and where was the.
+
+Uh uh. One thing that I remember not from this colour white.
+
+Purple is the most expensive colour during the Roman times.
+
+Or why purple? Only a wear by the emperors.
+
+Uh, it's not a flower, but it's a snails. Okay.
+
+It is very, very hard to obtain some gram of that purple dye, which I don't know, thousands of something that has to be killed.
+
+So it's not super common. So that's why, uh.
+
+Uh, on the emperors are able to use the in their toga, and the Senate members can use the purple,
+
+but on the stripes of the purple, not the full purple, uh, colours.
+
+So there are some nice historical about it versus just take it for the Renaissance, uh, type of, uh, uh, paintings.
+
+Why blue colour is less used.
+
+In the Renaissance type of painting. Just think about.
+
+And the one goes through all the information. Check the author. And read the story of the, uh.
+
+Who was the director? Of Arthur.
+
+James coming up about why he waited a lot to shut the elevator.
+
+It's really. It's the colour. So please, uh, attend the next part of this.
+
+Uh, we can practical. We will introduce the plug ins, and it will be super beneficial for your group projects if you are learning plug ins.
+
+And other than this. See you on Thursday. So we.
+
+Yeah. Like, you know, like.
+

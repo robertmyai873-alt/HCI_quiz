@@ -1,0 +1,25 @@
+# New Quiz Questions (Lectures 10‑12)
+
+| # | Question | Answer (key points) |
+|---|----------|----------------------|
+| L10‑1 | *What does the lecturer say about the upcoming exam question?* | The lecturer mentions that they will solve an exam question next week and will inform students by email. |
+| L10‑2 | *Which robot classification topics are covered in Lecture 10?* | Robot definition, coffee machine example, autonomy, intelligence, robot classification, reasoning requirements, Nielsen's heuristics. |
+| L10‑3 | *Identify two components of a robot’s architecture discussed in Lecture 10.* | Body (physical or simulated), sensors (e.g., camera, distance), actuators (motors), controller (brain). |
+| L10‑4 | *What is the role of the controller in a robot as described in the lecture?* | It processes sensory information and decides on actions, acting as the robot’s brain. |
+| L11‑1 | *What are the two main actions students should take regarding the exam according to Lecture 11?* | Register for the exam on time and attend the exam review session. |
+| L11‑2 | *Which ethical dilemma is presented in Lecture 11’s case study?* | Deciding whether to inform the CEO about a product’s usability problems despite marketing pressure. |
+| L11‑3 | *Name three persuasive‑technology components mentioned in Lecture 11.* | Tool, medium, social actor. |
+| L12‑1 | *List three social‑robot interaction concepts from Lecture 12.* | Social robots, proxemics, sociality, spatial interaction, verbal/non‑verbal interaction. |
+| L12‑2 | *What design principle does the lecturer highlight for robot interaction?* | “Under‑promise and over‑deliver” – set realistic expectations and exceed them. |
+| Concept‑1 | *What is a “GOMS” model and why is it useful in HCI?* | Goals, Operators, Methods, and Selection rules; it models user tasks to predict performance. |
+| Concept‑2 | *Explain the “Gulf of Execution” and its significance. *| Gap between user goals and the actions needed to achieve them; reducing it improves usability. |
+| Concept‑3 | *What does “affordance” mean in design, and give an example. *| Property suggesting how an object can be used, e.g., a button that looks pressable. |
+| Concept‑4 | *Why should colour be used purposefully according to the concepts list?* | To convey meaning (e.g., red = error, green = success) rather than decorative only. |
+| Concept‑5 | *What are Nielsen’s eight golden rules and one example?* | Principles like visibility, feedback, consistency; e.g., “Offer informative feedback”. |
+| Concept‑6 | *Define “micro‑animations” and their benefit. *| Small UI animations (e.g., hover ripples) that provide immediate feedback and guide interaction. |
+| Concept‑7 | *What is “design token” and why define it early?* | A reusable design variable (e.g., primary colour, spacing scale) that ensures consistency across a project. |
+| Concept‑8 | *How does “hierarchy” affect user perception?* | Orders elements by importance, helping users locate primary actions vs. secondary information quickly. |
+| Concept‑9 | *What is the purpose of “evaluation methods” like usability testing?* | To assess design effectiveness, identify issues, and improve user experience. |
+| Concept‑10 | *What does “feedback principle” entail?* | Providing users with clear, timely responses to their actions to confirm system state. |
+
+*Feel free to edit or expand these questions for your study preparation.*

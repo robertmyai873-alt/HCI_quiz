@@ -47,14 +47,14 @@ function App() {
     setView('dashboard');
   };
 
-  const getQuestions = () => {
+  const questions = React.useMemo(() => {
     if (selectedSectionId === 'mixed') {
       // Combine all questions
       return courseData.sections.flatMap(s => s.questions);
     }
     const section = courseData.sections.find(s => s.id === selectedSectionId);
     return section ? section.questions : [];
-  };
+  }, [selectedSectionId]);
 
   const getConcepts = () => {
     if (selectedSectionId === 'mixed') return [];
@@ -97,7 +97,7 @@ function App() {
 
       {view === 'quiz' && (
         <QuizInterface
-          questions={getQuestions()}
+          questions={questions}
           onComplete={handleQuizComplete}
           onExit={() => setView('home')}
           toggleBookmark={toggleBookmark}

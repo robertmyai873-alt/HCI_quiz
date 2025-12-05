@@ -1,0 +1,28 @@
+# Comprehensive Exam Questions (All Lectures)
+
+| # | Question | Answer (key points) |
+|---|----------|----------------------|
+| **L3-Ex1** | *What is the most common mistake students make when creating a Persona, according to the lecture?* | Adding **fictional or random elements** not based on data. A persona must be strictly derived from **need-finding data** (user needs, wants, frustrations). |
+| **L3-Ex2** | *What are the three essential components of a Storyboard that you must include?* | **Setting** (where/who), **Sequence** (actions taken), and **Satisfaction** (outcome/happy path). |
+| **L4-Ex1** | *What is the main difference between GOMS and Cognitive Task Analysis (CTA)?* | **GOMS** measures quantitative aspects (time, keystrokes, steps) for an "ideal" user. **CTA** measures cognitive states (attention, cognitive load, memory buffer) often requiring bio-sensors. |
+| **L4-Ex2** | *What is a major disadvantage of GOMS analysis mentioned as an exam topic?* | It **cannot measure cognitive processes** like fatigue, attention, or emotional state; it treats the human as an input/output machine. |
+| **L4-Ex3** | *If shown a hand-drawn sketch of an interface on paper, what level of fidelity is this?* | **Low Fidelity** prototype. |
+| **L5-Ex1** | *Define "Gulf of Execution".* | The gap between the user's goal and the means to execute it (e.g., not knowing which button to press). |
+| **L5-Ex2** | *Define "Gulf of Evaluation".* | The gap between the system's state and the user's understanding of it (e.g., not knowing if a file finished downloading). |
+| **L5-Ex3** | *If a designer fails to provide keyboard shortcuts for power users, which of Schneiderman's Golden Rules is violated?* | **Enable frequent users to use shortcuts** (Flexibility and efficiency of use). |
+| **L6-Ex1** | *What is the "Rule of Thumb" for the maximum number of different fonts/typefaces on one screen?* | **Maximum 3**. |
+| **L6-Ex2** | *In the Google Scholar example, what does the **Green** text signify vs. the **Blue** text?* | **Blue** indicates the title/clickable link; **Green** indicates meta-information (authors, source). Colors represent specific **functionalities**. |
+| **L7-Ex1** | *In a Usability Problem Matrix (Evaluators vs. Problems), is it better to have "All Black" (all problems found) or "All White" (no problems found)?* | **It depends**. "All White" could mean a perfect product OR that evaluators failed to find existing bugs. "All Black" means effective evaluation but a buggy product. You must argue the context. |
+| **L7-Ex2** | *What is the main disadvantage of "Within-Subject" design compared to "Between-Subject"?* | **Learning Effect** (users learn from the first condition, affecting performance in the second). |
+| **L9-Ex1** | *What is the difference between "Experiential" and "Reflective" cognition?* | **Experiential** is effortless, automatic (e.g., driving a familiar route). **Reflective** requires planning, deep thinking, and effort (e.g., learning a new complex topic). |
+| **L9-Ex2** | *Identify two Gestalt principles likely to be asked about in an interface analysis.* | **Proximity** (related items close together), **Similarity** (related items look alike), **Figure-Ground**, **Closure**, **Symmetry**. |
+| **L9-Ex3** | *What is the capacity of Short-Term Memory (Magic Number)?* | **7 ± 2 items**. |
+| **L9-Ex4** | *What is the difference between "Incidental" and "Intentional" learning?* | **Incidental** is unplanned/accidental (e.g., learning a face). **Intentional** is planned/goal-oriented (e.g., studying for a degree). |
+| **L10-Ex1** | *Is a coffee machine considered a robot? Explain based on the lecture.* | Generally **no**, because it lacks complex intelligence/autonomy and often lacks actuators for environment manipulation. |
+| **L10-Ex2** | *Which heuristic was violated in the "Octopus Robot" scenario?* | **"Under-promise and over-deliver"** (the creator over-promised a family helper but delivered a non-functional device). |
+| **L11-Ex1** | *What are the three functional roles of Persuasive Technology?* | **Tool**, **Medium**, and **Social Actor**. |
+| **L11-Ex2** | *Define the Dark Pattern "Nagging".* | A design that interrupts the user and offers no clear "No" option (e.g., only "Not now"). |
+| **L12-Ex1** | *What is the passing grade for the exam?* | **5.5** (55/100). |
+| **L12-Ex2** | *Which heuristics are explicitly stated to "always" be on the final exam?* | **Nielsen's Usability Heuristics**. |
+
+*Note: These questions are derived directly from specific "exam" mentions across all provided lecture transcripts.*

@@ -1,0 +1,1497 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Of prototyping your projects, and also how you can assess the tasks and analyse the tasks.
+
+So previously we did some exercise for, um, design alternatives.
+
+And you already finished some, uh, tasks during the practical sessions.
+
+So do you have any questions related to design alternatives? No.
+
+Yes. And I know that you will be responsible for creating the design alternatives for the, uh, third assignment.
+
+So please check it at this rate once.
+
+And if you have a question, uh, use the practice sessions or this kind of sessions for your, uh, questions.
+
+And you need to deliver your first assignment, which is project description and Swot analysis.
+
+By next week, Tuesday I will see you next week Tuesday.
+
+So just let me ask who already start for first assignment.
+
+Perfect. Cool. And, uh.
+
+Cool.
+
+Then we can discuss maybe later about your projects and give some ideas or brainstorm about your ideas, uh, within the context of this, uh, lecture.
+
+Okay. Yeah. As I say, today, we have to do to, uh.
+
+Two main topics within the HCI and the user centred design.
+
+One is the task analysis and another one is the prototyping.
+
+And oftentimes students like this part of the lecture and the practice session
+
+a lot because they can be a bit creative and they can finish part of their,
+
+uh, assignments or the projects. So if you remember that there is a famous.
+
+Come on. Sorry.
+
+Come. Come on.
+
+Yeah. There was a famous figure in the first lecture. We mentioned that user and computer that somehow interact each other to accomplish a task.
+
+And we define task, a set of activities for achieving a one particular goal.
+
+And that goal can be in designing a robot.
+
+Then, uh, it can avoid from obstacle or booking your next vacation, or using the canvas to seeing your, uh, uh, seeing your, uh, grades.
+
+So tasks can be as diverse as possible, but we need some formal way to actually assess the task.
+
+Okay. And to do this, we have a two approach, one called Gomez, another called cognitive, uh, task analysis.
+
+And in the exam you will have a lot of questions about the difference between this tool and the applications of this tool.
+
+So to give an. Initially. Introduction games are a form of way to analysis the task, like how many steps is required to accomplish a task or.
+
+How much time that you need to accomplish the task we have within the goals.
+
+So you can analyse this kind of factors. But with the CTA.
+
+We are mostly measuring the cognitive, uh, cognitive elements of the task working.
+
+So how much, let's say memory buffer that you need to solve this task or this task is, uh, lacking, um, and destructive, uh,
+
+for you to achieve the main task or what kind of cognitive load that you are experiencing while achieving this, uh, this kind of tasks.
+
+We cannot go in super detail, but we will give some examples and you will understand, okay.
+
+And you will understand how to apply this one in your, uh, group project.
+
+But you will not be responsible for the group project.
+
+We will not ask that. Apply the comms and the CTAs for your, uh, group project.
+
+But it is better to know because it will be ask in the final exam.
+
+And you can also draw some inspiration to design your interfaces by using the gongs and the CTA.
+
+So how I can analyse my task. Okay.
+
+First I need to define the goal of my user. Okay.
+
+So let's say the goal of my user is the duplicating this.
+
+Sticky notes by using Figma. And.
+
+To do this. What kind of actions that they can take.
+
+First, if they have a mouse, then they can right click and select copy and find an empty space and click the uh paste that will achieve the task.
+
+Yeah, because I wanted to locate the first first one in here.
+
+And another. Way is to click this one.
+
+Go to edit. Go to copy, click this one and go to Edit Again and paste.
+
+Okay. That is another way.
+
+And the third way is Ctrl C and Ctrl V.
+
+You have a story. And the fourth way is just control the.
+
+You. If you control this, then it will duplicate on top of.
+
+Okay. Now, as a designer for your group project, for instance, which one you should prefer?
+
+Just for the keyboard or both of them, or just for the file.
+
+Uh, file menu. Which one you should do.
+
+Sorry. I'm sorry. Control the. Okay.
+
+The easiest way to do it. Okay. More ideas.
+
+No. Okay, but for Control Day, you are assuming that the user has to be.
+
+As we're familiar with the shortcuts. Yep. And if you check the Figma interface, there is no control.
+
+The eye here. Which is it?
+
+There is no control. The shortcut in here. Okay. It gives a shortcut for control C and control uh, x control V, but not control D.
+
+So how you should expect that your user already knows what is control D?
+
+No. Okay.
+
+Okay, that is a good idea.
+
+But my counter argument in here. So usually we are using this kind of interfaces with masks here.
+
+With mouse like. Yeah, like clicking here and copying here.
+
+Clicking here and pasting here. Okay.
+
+Hello? Might be quite easy for me because I'm a pro gamer and I can use my mouse quite a fast.
+
+So in this case, you will still suggest that I have to use the Ctrl c, Ctrl V control D.
+
+Come on. Think. Think loud. Perfect.
+
+So your idea as a designer give the options to the user and let them decide by themselves.
+
+Okay. By this way, you will not exclude some pro gamers or some heavy keyboard, the keyboard users or some heavy mouse users.
+
+Okay, and over time you will discover this kind of modality of the interaction in your need finding.
+
+Some say that okay, I will use this kind of editing tools by using my mouse.
+
+I have said that no, I am a pro, uh, prototype.
+
+I can only interact with the keyboards. So this kind of stuff, you have to need to, uh, consider actually, while designing the interface.
+
+As you see, there is no single answer. And we already analysed the, uh, user, uh, actions.
+
+Okay. What? Whether they want them mouse clicks or keyboard, then we have to also analyse that their,
+
+uh, environment or their systems, like the systems that they are using.
+
+If they are tablet in the tablet, of course,
+
+giving the keyboard might be a bit problematic because it will increase the number of the interactions or actions to interact with this,
+
+uh, this, uh, task. So you are limited with your environment and you are limited with your the system that you should also consider this one.
+
+Okay. While solving the task or analysing the task.
+
+And lastly, if you do all of them together then you will have some ideas.
+
+My user base require 60% of keyboard using and 40% of mouse using.
+
+Then you cannot eliminate one of them. You can provide both of them, uh, to the your user base.
+
+Then let them to decide what kind of the interactions can solve their problem.
+
+Cool. So did you understand this part?
+
+Quite easy. You need to analyse tasks by considering this kind of steps.
+
+Okay, uh, for the logging. Uh, log in in, uh, in your, uh, Figma account.
+
+You intuitively know that's okay. How you can log it.
+
+Okay. The interface already provides you some, uh, affordances, like in this text box requiring you to type.
+
+And this, uh, uh, button in here requires you to do push.
+
+Okay. So you are intuitively knowing that.
+
+Okay. What kind of, uh, actions that your user has to achieve?
+
+And for sending the email. This is the outlook interface.
+
+And these are the things that you have to follow. Took a look at. Type two email address.
+
+Subject line. Email, body. Attach the button and uh. Uh select the uh file from the dialogue.
+
+Then click the send. Okay. Of course you don't need to apply in the that specific order.
+
+But attachments in any kind of combination of this you should be able to select your file and send it.
+
+Of course alternatives are dragging and dropping. Okay.
+
+That can be at one. Uh, one.
+
+Uh, one alternative for the sending the file or copy pasting at one link, uploading that file into your cloud.
+
+And instead of sending file itself, then just send the link and your user will receive that link and the file that you are sending.
+
+So now your question. Okay.
+
+So that okay, these are the super basic things why you are teaching given this kind of, uh, tasks to us.
+
+Okay. Because we are using, uh, email clients from five years old or six years old.
+
+All we are all. Familiar with it, but that is good.
+
+If you are a single user and you are happy with the email client, but you need to consider when you are creating a new email client.
+
+Client, okay, it doesn't need to be email.
+
+For instance, if you are using, for instance, Tinder for pets, then you need to upload your uh, pet, uh, pets, uh, photo.
+
+So you need to follow this kind of, uh, steps to. Okay.
+
+And the one way to analyse your task is the guns.
+
+Please don't forget this. Acronyms. It means that goals, operators, methods and rules.
+
+Goal is easy. I want to send them emails or I want sending a message to my colleague.
+
+And operator is basically the functions in the programming languages.
+
+What kind of actions that lead me to achieve this task or this goal.
+
+Okay, so for the email we already seen here for the copying and pasting or duplicating one item in the Figma, we already see, we have a four options.
+
+And all of this four options will be. Will be a method.
+
+And the actions to perform this method will be our operator.
+
+And lastly, we need to have some selection rules.
+
+For it. Okay, we cannot say that Ctrl D is the easiest way and the shortest way to do it.
+
+Let's do it. Only Ctrl v. Why?
+
+Because we still don't know what or, uh, user requirements are.
+
+So it's better to give them multiple options and collect the data from them.
+
+Then based on this data, we can analyse that. Which one can be excluded or included?
+
+Okay. And in here, since the input comes from the, uh, yeah, input comes from the human and outputs also goes into the human recall.
+
+That's uh initial figure. So in this case we have a one drawback for the games.
+
+We are not considering that are mental states. Okay, maybe they are in rush and they need to finish this task as quickly as possible.
+
+That's why they are using the shortcuts. Okay. That's why Gomez cannot measure anything related to human cognitive components.
+
+You cannot measure the memory. You cannot measure the attention. You cannot measure the cognitive load.
+
+So this way we are assuming that humans are input and output machine.
+
+Okay. Basic genetic input for the system and observing the output from the system.
+
+Okay, it's a bit. Formal way to approach this analysis, but it is really, uh, working super well.
+
+And especially if you have a lot of data, then you can, uh, find super interesting results.
+
+Okay. Yeah. This is the thing that you need to send a message.
+
+Your, uh, to your, uh, co-worker. And the alternatives are email, chat in person form, text.
+
+And each one of them has a some operators inside it talking. Now which one you should select?
+
+So you need to communicate with your group members. Which one you will prefer.
+
+Come on. Okay, you are in the practice session and your group members are next to you.
+
+Which one you would prefer? Yeah.
+
+That's good. And, uh, how about, uh, you are sending a message to me during a weekend?
+
+Do them. Okay. I would also prefer email.
+
+Not prefer email like a canvas. It has to be in here.
+
+Yeah. No. No email. Okay. That's the thing.
+
+Yeah, that's the idea. Yeah. Like, based on the situation, like we introduced in the last point in the second slide,
+
+the environment is also important and the system requirements system becomes also important.
+
+You may need to send them email, but you forget uh authenticating your outlook client.
+
+And you cannot use the email. And you have somehow my phone number.
+
+Then you can text uh uh, yeah, you can text me.
+
+Yeah. WhatsApp or the other, uh, messaging tools. Okay.
+
+So that's the thing that you need to consider. So selection tools is based on your situation you are in.
+
+Okay. If you want to talk, uh, face to face.
+
+Given the super happy news, then go in. If it's formal, go with the email client.
+
+Okay. Or if it's with your family member, phone them if you are not in the same space.
+
+So that's the thing that you need to consider. But it doesn't end in here.
+
+So this is the way that actually in somehow programmatically that you can think for the copy paste.
+
+Goal first. The first subgoal is the copy, the text.
+
+How we can do it. First, highlight the text. Then once you highlighted this, move cursor to the beginning and verify that.
+
+Highlight an issue the copy command. Okay.
+
+And within each, within each operator, then you are performing a one action.
+
+Okay. For instance, if you design an interface for an pro users process means that they are super familiar with the shortcuts.
+
+They are not even touching their, uh, their mouses. In this case, your goal is somehow eliminating each unnecessary action.
+
+Okay, instead of going to copy, paste is done, you can go with Ctrl the.
+
+Okay, just select it. Type two push Ctrl and the at the same time.
+
+Done. You will have an, uh, duplicate version of the, uh, component.
+
+Okay. So this is actually, uh, one of the formal way to do it.
+
+And in here. Okay. If you use this, uh uh, uh, way to analyse your task.
+
+Can you predict the behaviour of your user?
+
+Like the task is, let's say, booking your next flight.
+
+Can we? You're using the gums. Can you predict how long it will, uh, take for average user?
+
+Yes. No. Or can you predict how many steps it will take for your average user?
+
+That's what is. That's.
+
+Yes. Why? Because it steps out in here. Yes. And each steps are well-defined actions, and that well-defined action has to be performed by your user.
+
+Then average user will take, let's say, 10 minutes or 5 seconds or one second to perform this kind of tasks.
+
+Okay. And, uh, with the games, actually, you can nicely quantify the information.
+
+Information is how long it will take, how many keystrokes that your users have to perform so you can measure this kind of insights.
+
+And it will be useful for designing and new interfaces, new products for you.
+
+Okay. Let's say you have a one, uh. Uh, smartwatch.
+
+Okay. It allows you to just type in ten times to change to as much as much as the watch face.
+
+Another smart smartwatch is producing this interaction in just two.
+
+So you have a five interaction, five tabs versus two tabs.
+
+Okay. And if this is a priority for you, then you will choose the.
+
+Brand with or the version with the two taps. Okay, and to do this you need to perform gums like analysis for your, uh, task and for your interfaces.
+
+So in here can you measure any cognitive process like.
+
+How much attention that you should give you to achieve this task.
+
+No. Yeah. Because there are no. Sensory reading integrated.
+
+While you are doing this kind of tasks, okay, but you cannot measure the heart rate variability to measure the cognitive load or you cannot,
+
+uh, measure the peripheral, uh, dilation like an enlarging or the becoming smaller to measure the cognitive load.
+
+So if these are not part of this kind of task analysis, then you cannot measure it.
+
+Sorry. Guess. Oh.
+
+That's fine. Okay. And, uh, please take this.
+
+Uh, advantages and disadvantages. Uh, what do you want?
+
+It will be part of the exam. Okay, now we are, uh, switching to another, uh, type of analysis.
+
+Since we say that this quantum processors are missing. And all users.
+
+Users are mostly human. Okay, then without, let's say, considering their cognitive state,
+
+whatever we are creating, it will be something like, uh, something like missing like.
+
+And that should be something like missing in there. Because if I'm.
+
+Buying something. Using something. Most of the time I am emotionally attached to them, okay?
+
+Or I prefer to choose an option that gives less, uh, load to my cognitive systems.
+
+So to do this or to measure that kind of, uh, metrics while doing a task.
+
+HCI researchers develop one idea and it's called cognitive analysis task.
+
+Cognitive task analysis. So instead of going and the formula analysing by formula I mean that it can be easily quantified.
+
+You don't need additional sensors. On your, uh, subjects.
+
+But here you need to use somehow and biofeedback.
+
+Okay. By all the bio biosensor readings.
+
+Like you can measure the attention of your users.
+
+Okay. You can measure your, uh, cognitive, uh, load of your, uh, users.
+
+By. Needing some special equipments.
+
+Okay. Let's say our goal or the task in here.
+
+We need to drive that destination from here to Berlin.
+
+Okay. The idea is simple.
+
+Check the navigator. And the drive until you reach the valley.
+
+And that's the idea. But in between, there are a lot of things are going on.
+
+Why? Because we need to pay attention to the traffic lights.
+
+You need to pay attention to, uh, what's, uh, traffic persons and policemen, uh, traffic police forces.
+
+Okay. And this is the only thing between you and the outside stuff.
+
+You can also consider the inside of the car.
+
+Okay. Your, uh, speed limit, for instance.
+
+The person next to you, whether he or she is super talkative or, uh, not talkative, or whether you are listening to music, for instance.
+
+Okay. So everything part of. Can be part of this cognitive system.
+
+And you need to somehow choose the one that.
+
+The task or the way of the doing task has less burden in your cognitive system, less burden for the cognitive load versus okay.
+
+And of course, this kind of experiments are super expensive. Okay.
+
+You need additional sensors, additional experiments to do doing this kind of stuff.
+
+And since it is a less formal, which means that. You cannot do automatically.
+
+You have to collaborate with the person that who already use this kind of systems.
+
+Okay. Most of the time they are psychology psychologists, industrial designers, and the product designers.
+
+You can. So it is quite hard to achieve this kind of, uh, CTE.
+
+It's not single person task. And that's why we will not expect you in the.
+
+In the, uh, group projects. So up to now.
+
+Do you have any questions? Task.
+
+Gomez. Anarchy. But it makes sense here.
+
+And again, one way you can only do in the formal way with the numeric way automatically another way.
+
+You need additional sensors, additional team-mates, and a bit more expensive, uh, settings.
+
+Cool. No questions.
+
+Okay. Perfect. Now we are moving one of the good parts of the actually this cycle.
+
+It's called prototyping. Now have you ever prototype something?
+
+You say no or please say yes. So.
+
+No. So have you ever built a one model?
+
+Of something. Like using the, uh, papers.
+
+Either buying a purchasing from online or building by yourself.
+
+Have you ever versus will then? Uh, we left home for auto animals like a.
+
+No. Come on. Okay.
+
+You never prototype anything. You did.
+
+What was the product? I never. Okay.
+
+Then you will prototype three things in here for this project.
+
+Cool. Come on. Really? You never prototype.
+
+I cannot believe you never stitch your.
+
+I don't know, uh, stitching. Uh, let's name the symbol or the.
+
+Uh, what's the name? Okay. Forget.
+
+Interesting. No prototyping. Okay, then let's go and analyse that.
+
+Why? We need an, uh, prototyping. First.
+
+We cannot avoid this step. Okay. This is not negotiable.
+
+Okay. Looking for the UK and the HCI products?
+
+Usually we cannot use the first version that we created initially.
+
+Okay. And that's why we have to iterate over each product, each prototype, and in some uh, uh, figures or in some visualisation, you will see.
+
+This one has um, uh, as an arrow that point itself.
+
+So it means that there is a continuous improvement, continuous prototyping going in that one.
+
+Other. If you missed this one, then it means that okay, I am coming to design alternatives.
+
+One of them are working and at the end my final product is ready.
+
+And if your final product is ready, you don't need to step to you.
+
+But in reality, you cannot achieve. That's having a single product that's succeeding in the market.
+
+Unless you really, really have a domain knowledge or you build this product before.
+
+Done a success story will not be, you know would not be.
+
+You will not get the success story for your, uh, product. So here we will define the product.
+
+Uh. For your interfaces. Of course it will change for the hardware prototype.
+
+First we will start with the tangible form. Okay.
+
+Like you can actually interact with it. Okay. Okay.
+
+It has a physical property like a paper prototype that you will do in the next, next practice session.
+
+Or I will show one of them in here to the digital point.
+
+Okay. Basically a basic sketch on the paper. Then you will transfer into the figma and maybe later you will code.
+
+And maybe that coded version will be located into, uh, iPhone, the sort of Apple Store or Google Play.
+
+And we are doing one of the basic reason is it has to be cost effective.
+
+Okay.
+
+So if you have three different versions of the three different prototype of your product, it means that you can prevent some cost at the first stage.
+
+Okay. Let's say in the paper prototype.
+
+If you change one item, let's say one text box or one action button in the paper prototype, you will not lose too much time.
+
+Okay. Done. Let's say in here you have a medium fidelity prototype.
+
+Fidelity means that the degree of realism in your design.
+
+And if you make a one mistake, let's say change one, a text box in here, you need to do you need to go to the designer and ask that okay.
+
+Based on our interaction, we decide that this text box shouldn't be in here.
+
+It should be combined with the other style you are using sometime.
+
+But not as much as time that you will spend in the high fidelity prototype.
+
+In the high fidelity prototype, every kind of fidelity has to be satisfied.
+
+These are visuals, content and interaction. And if you make a mistake in one type of the, uh.
+
+Uh, one type of the, uh, items in there, then you will lose more money, more time on it.
+
+Okay. So initially you will think that's why I am doing the prototyping.
+
+Okay. And the answer is you will, uh, you will, uh, get or obtain.
+
+A lot of feedback, a lot of iterations, and your products will be much more ready than if you just directly jump up in here.
+
+Okay. These are the type of stuff.
+
+And. In our lecture we will follow three different approach.
+
+First one is the. Low level.
+
+Second one is medium. And third one is the high level steps.
+
+And we will expect you to do all. Okay.
+
+Of course, you are not responsible to create the final version of it, just high fidelity version of it.
+
+Then we will stop in there. And the differences between this prototype are quite simple.
+
+Super simple. This one we will call it low fidelity.
+
+You can do with the sketch on the paper or in the tablet or in a digital environment.
+
+But we will do on the paper. And this one called a wireframe or medium fidelity prototype.
+
+You see in here there are no real content.
+
+Okay. No description of the product. No actual images of the product that you are putting in here.
+
+So that's why we call it medium fidelity.
+
+Why? Because there are some design element and full interaction element in that.
+
+You know that where you will click, but there are no actual content and the last one will be or high fidelity prototype,
+
+which means that all fidelity has to be there.
+
+Like you should provide a prototype as close as possible to the final product.
+
+And it's not easy.
+
+But once you finish it, then you can say that, okay, I am almost ready and I can interact with my real users with this, uh uh uh, prototype.
+
+Okay. And imagine you make one mistake in here.
+
+Changing this one will be quite easy in. One. You will lose time, but it will be one X in here.
+
+It will be ten x. X means that okay, whatever, whatever your measurement is maybe a time.
+
+And in here, if you are uh, losing is if you want to change something, then you have to, uh, you will lose around 100 x, uh, time or cost or whatever.
+
+Uh, the measurement of, uh, yourself. And of course, these are just a figure of speech that are no certain numbers.
+
+But you can understand that if you want to change anything in here, it will be much more effortful than doing in here.
+
+Okay. Cool. And it is not only for HCI related products.
+
+You can see them everywhere. Okay. Like modelling a car, modelling a new robot, face modelling.
+
+Get this kind of home appliances you can find in every kind of, uh, serious industrial design products that we are happily using it.
+
+And I will show a few examples to you. And even the companies.
+
+Who has much more money than all of us.
+
+Okay, all. They are still failing to.
+
+Address their user needs and not email.
+
+Prototyping is one of the first areas. Okay, and I can show three books.
+
+What is the. Cool.
+
+Why it's not running. Okay? It's from three books.
+
+Of course. The first one is the research and design of the process.
+
+And it will show you how you can collect your user needs, basically.
+
+Okay. Do you need to do a survey interview? If yes, how you can do it?
+
+And it is quite colourful. Quite interesting. Uh, book.
+
+I will definitely suggest you to find an online version of it, or ask me that I will bring.
+
+Uh, you can borrow from me and you will see there are a lot of different types of the, uh, need to finding and interacting with your users.
+
+And another one is this one. Okay. Throwing your, uh, throwing for, uh.
+
+Uh, for your class. Basically looking mostly for paper.
+
+Uh, these the projects?
+
+Um, it is a bit hard because, uh, you need to follow some industrial design product, uh, industrial design principles, like perspective, like scaling.
+
+But it will be a good indication that if you want to improve your skills in this area, in this, uh, uh, in this domain.
+
+And lastly, among all of them, go maybe not by but to check it or borrow from me, this one.
+
+Okay. And this book will give you a lot of options, actually.
+
+Okay. Whether you want to do a prototyping, paper prototyping, 3D printing, digital prototyping,
+
+everything existing here, and it will show what kind of materials that you need to use.
+
+And it is good for some of our physical, uh, products.
+
+Of course, A20 version can be much more harder, but definitely it will give you some idea to create and physical products for you.
+
+Yeah. You see, super colourful, super engaging. And if you want to check during the break, just come here on the check.
+
+And unfortunately, we cannot. You cannot wield any physical prototype in this classes.
+
+Okay. Because time limited and we don't have any, uh, we don't have the workshop to create it.
+
+Otherwise I will be super happy to do it. But, uh, unfortunately, we cannot do in here.
+
+Know for this type of physical products.
+
+And you will see the trend is that trend is love fidelity, medium fidelity and high fidelity prototypes you will see in here.
+
+What is this love medium hard right.
+
+Perfect. And how about this guy? Why?
+
+Medium? Because some people. Like me.
+
+They made the drawings, but, like, I think it's paper. Yeah.
+
+Assume that this to our paper. Okay. But both of them are paper based prototype.
+
+Why? We are calling this one low. Why we are coming. Intended products like the final.
+
+Okay. At least it's true. Yeah.
+
+If you compare this to and you will understand that there are some differences.
+
+Okay.
+
+And with that differences with this one you can not achieve with this one you you cannot for instance, grab uh, the handle of this, uh, items mochi.
+
+And this is what condition and of the term condition.
+
+But in here you can do it. So it means that the interaction is extended.
+
+And you also see the visual design is also that.
+
+Like here it's just a greyscale black and white dish.
+
+But here you have an. Too much different colours and even a product as close as possible to the.
+
+This one. Okay, and how about this one? Does this.
+
+High fidelity. Why? I don't think this is an actual, uh, product.
+
+This is just in the 3D rendering, and you see that it is quite realistic and as close as possible to the final product.
+
+Okay, so don't think that this is this has to be only for the HCI products or the, uh, or the digital products.
+
+We can also go and create the actual, uh, physical products with this approach.
+
+Okay. But one disadvantage. It will be much more harder to find than the users for this kind of products.
+
+Okay. Find the users and you can regularly interact with them.
+
+But if you create a one to do list application, probably most of you should have some kind of a to list application.
+
+So for you, it will be much more easier to find end users for to, uh, to this application rather than this one.
+
+Why? Because Moka machine may not be used by some other, uh, countries or some other students,
+
+and maybe half of your user base will not be, uh, will not understand that.
+
+Okay. What you are trying to achieve. Okay. So this kind of, uh, thread of, uh, needs to be managed.
+
+And one, uh, tips for your future career.
+
+If you are within the software development, within the design and any kind of, uh, even if you are a student,
+
+whenever you have a meeting with your, uh, seniors or with your managers, always bring some problems.
+
+Okay. That can be a basic sketch.
+
+That can be in a PowerPoint presentation, or that can be just a prototype that you can show in your phone, and your manager can interact with it.
+
+And otherwise you will definitely lose a lot of time with simple stuff.
+
+Okay. Instead of saying that, okay, we designed a new interface that change the blue colours with the magenta colour in there.
+
+Uh, booking dot coms, third page, whatever the, uh, the section is.
+
+Instead of doing this kind of hand-wavy stuff, you can just show and let your manager or the, uh, interact with the, uh, your, uh, prototype.
+
+Then definitely you will get a lot of. Uh, prices, pricing, etc.
+
+They will, uh, prize your efforts. And if you get this one, then I will say you will have a super good habit for your future feature career.
+
+And if you're a student bringing some data analysis and analyse it and say that this is the first prototype of the,
+
+uh, of the machine learning algorithm that we can embed in the, in our robot and it can achieve that task.
+
+So we'll get this kind of, uh, tips and tricks from this, uh, class system.
+
+Okay. And I will show a few a few famous prototypes.
+
+But first I want to show this guy. Do you know?
+
+What's this? Have you ever used?
+
+No. Okay. Puts a face on top of us.
+
+Let's see. Okay.
+
+This one. This is the one of the famous example of Microsoft design, actually.
+
+Okay, so how many of you use windows?
+
+Okay. More than half of it. So you are familiar with the windows ecosystem here.
+
+And this is actually another, uh, another interface for uh, using the regular uh, using instead of regular windows interface.
+
+So at the time basically Microsoft think that okay, that can be a good alternative because it has a story.
+
+It is a nice, uh, uh, docs at the environment.
+
+Of course, this has failed because most of you doesn't know that. Okay. What is the, uh, what it is doing, actually.
+
+Okay. And at that time also they, I guess Microsoft, uh, they tried to remove the, uh, file menu from the worked.
+
+Okay. Like, as one of your, uh, peers said that.
+
+Just give the shortcut control C and control V instead of going and the copy pasting with the mouse.
+
+Of course it failed. Because at that time they try to optimise the product for the extreme users.
+
+Okay, extreme users like I'm the one that's who can already use a computer without touching a mouse.
+
+So they failed in that way. Okay, now we will finish the first section.
+
+Then I will go in detail in the next hour. But we have a one question if you want to be part of it.
+
+So just people are the frontiers in the HCI and the design and interaction design community.
+
+If you find who are these people and what is their current positions or what they are famous for, you will have a coffee.
+
+So after the break, just raise your hands and tell me who are those people plus what they are famous for?
+
+Okay, see you in 15 minutes. Because.
+
+This. I mean, I. Okay.
+
+Check. Very interesting story about, uh, there are some interesting story about his, uh, life.
+
+And you will definitely find in the very common, uh, AGI podcasts.
+
+Okay, so we are prototyping because we want to see the potential benefits of our products to our users and the stakeholders.
+
+Okay, so if we just give them a final product, it will be super expensive for us to change their their feedback.
+
+And that's why with each, uh, prototype we are asking questions.
+
+Okay. Did you like it? How long it will take to finish this one?
+
+And, uh, what if, uh, if you are not happy with this kind of design elements, can we change it?
+
+And this kind of stuff that's, uh, uh, that's that will allow you to update and iterate over your final product.
+
+And it's also good for us that we are not investing full of our time, energy and budget into the single product.
+
+Okay. So imagine that you are creating a new iPhone from scratch in a single shot.
+
+Of course, somebody will say that I am a, uh, reincarnated version of the Steve Jobs and the Jonathan you.
+
+They can do it. Okay. Arguably. But don't think that.
+
+Okay. This kind of people exist in your group. Okay, that might be.
+
+But I hope you will show this kind of a system to.
+
+Another one is this final one actually. So time to market.
+
+Although it is a bit inconvenient, like an iterating over a one product over and over, over, over until it reaches the market.
+
+So some people will say that, okay, why not just go to the final version of it?
+
+It is very hard to achieve this one. And the real life definitely does not work in that way.
+
+Like this one, the Igbo. Okay.
+
+I'm like a professor with unlimited talent. Acquiring for her company unlimited money for the project.
+
+At the end, they are trading in the market. Okay, so there should be some reason for it.
+
+And that reason to me this is my personal leave. They are not considering the users at the beginning.
+
+Okay. And of course, if you have an investor and you are wasting investors money, okay, you can play a bit riskier.
+
+But if you are putting your own money, definitely okay. When you lose something, it will hurt.
+
+And for the failed products okay.
+
+Like here you will see uplifting. Okay, so like in previous version of the iPad for instance, we have a Kindle Fire, the smartphone offered by Amazon.
+
+And we have a Microsoft box, okay. Like that. And I say Kindle Fire. Probably you never heard it here.
+
+Okay. You never probably use it, but we know Samsung.
+
+We know, uh, iPhone. And we don't know, for instance, BlackBerry C or Nokia or Ericsson.
+
+You never probably use it, this kind of stuff. So there should be some reason, okay, to why this kind of products are failing in the market.
+
+If you watch it, watch. There is one movie called BlackBerry in Netflix.
+
+Okay. Just watch it and it is very nice actually how they developed initially.
+
+They are super visionary, but they cannot catch the market trends.
+
+Okay. And they failed. So it's a very, very nice movie. I'm recommending it to watch.
+
+Okay. Now. Fidelity.
+
+Please do not forget this, uh, keyword. We will use it until we puke over the, uh, over the, uh, uh, classroom.
+
+And that fidelity is somehow equivalent to realism. Okay, realism means that how close you are from the final product.
+
+Okay. And we are looking for realism in three components.
+
+First one is the visual. Okay. Like a visual element.
+
+Okay. What is the background colour? What is the button colour?
+
+What is the typeface? Okay, this kind of stuff.
+
+First realism is, uh, first fidelity is the realism.
+
+Second one is content. Okay. We will not put actual content until the high fidelity prototype.
+
+And most of the time you will see some, uh, prototyping with Lorem ipsum, some, uh, text.
+
+Okay. So it means that if you are using Lorem ipsum, you are in here.
+
+So fidelity is love. Okay.
+
+But if you are using actual, uh, content like the age of the one of your user, for instance, and the biography, it means that the fidelity is high.
+
+You are probably.
+
+And the last, uh, fidelity component is the interaction or interactivity in how your user will interact with simple actions like copy paste.
+
+We offer four different types of interaction.
+
+And if all of them are integrated in the final product, then you are here.
+
+Okay. If some of them are integrated, then you're probably in the array.
+
+Okay. Because for instance, for the paper based type you cannot use mouse.
+
+You cannot use the keyboard. It means that you are here. Okay.
+
+Of course, you can integrate with some digital tools, but we will use just papers.
+
+Okay. So does this make sense? Okay.
+
+People from Italy in the this, uh, uh, called technical touring like this, you know.
+
+Uh, they created this, uh, very nice, uh, uh, graph.
+
+So please recall it. Okay. We will refer it a lot.
+
+And. So here.
+
+Let's see. Let's check this GitHub, uh, interface and password.
+
+Okay. The three typos types of fidelity. What are the visual design elements in here?
+
+What you are seeing. Or what kind of visual elements that I can change, and that will affect user experience.
+
+Colour? Yep. Font size in here.
+
+Yeah. Like, that's kind of a division in here.
+
+So these are the visual design elements for the content. We have this part of, uh, this, uh, menu items, action, security code spaces, whatever.
+
+And these are also the contents, like where you can find the sign in.
+
+And the available interaction. Currently it is, uh, just mouse for us.
+
+So at the end, this is the final version of the GitHub interface.
+
+And you will see all of them are in there. Okay, since the all filters are almost similar to the final product.
+
+So we can say that, okay, this kind of interface already has with the, uh, high fidelity, uh, prototyping.
+
+And now it is ready for market and the image is privacy.
+
+Probably they already change the system. Okay.
+
+The first thing that we will do is the low fidelity prototypes.
+
+And it is the cheapest way that you can do it.
+
+If you have a pen and paper and maybe scissor, then you can create an, uh, paper based prototype or a low fidelity prototype.
+
+First of all. It is in the lowest corner of, you know, rough.
+
+I can hear. Basically I cannot add any real colour, okay?
+
+I cannot add a real content because it will take a lot of time and we will waste while designing a single product.
+
+So that's why it is quite cheap and we can iterate over it just in time.
+
+You don't need to wait another user feedback. If you want to update for the one single user, you will just write a new paper and you will update it.
+
+And since you are doing next to your user, user has to use this prototype next to you.
+
+You will get the real feedback. Okay. Like on how fast they are using or how they are feeling while using the same kind of interface.
+
+It's a bit less formal environment and you will see a lot of nice feedbacks for your project.
+
+And the disadvantage of it, of course, there is no realism in talk.
+
+You can only accept only for, uh, interactions.
+
+Interactions that user knows that where he or she will, uh, tap it or enter the text.
+
+Okay. And this is the one of the other examples actually in the use that I found it.
+
+Which. Yeah. Okay.
+
+Nice, nice. And now the task is to register and vote in.
+
+It's. The next task is to replace the minutes tile from your home screen.
+
+So. It's hard to find it in there.
+
+Okay, you got the idea in here and in your, uh, first, uh, paper based or low fidelity prototype.
+
+You shouldn't forget to add this. Okay. This is your task list.
+
+It has to be visible. To us in the video and to your, uh, to your, uh, user.
+
+You don't need to show your user face all that stuff. Uh, but the task should be visible and, uh, uh, for action.
+
+In this case, it should be visible to us to evaluate your paper based prototype.
+
+And here is the one that actually I conduct in the just in time in the last year.
+
+Yeah. So, uh, this one, uh, I don't remember this one.
+
+Swap shop. Yeah. This one is a user and this team is the app developer.
+
+And here's the first prototype. And that user never see the, uh, actual app.
+
+Okay. Or it's the first time that he's interacting with it.
+
+I will ask a few questions, so please carefully watch it.
+
+Let me have its one. Okay. A second.
+
+Ouch. Enter an email and password.
+
+Okay. It's starting from scratch. What is missing in here?
+
+Tusk. Tusk. Actually, he can see the task list in this, uh, screen, but we cannot see.
+
+Okay, so in your case, do not do this. Of course.
+
+This is, um, just an, uh, practice session environment, so. Okay.
+
+I really dislike this. What is going on?
+
+Okay? Yeah. You can see this woman's college email password.
+
+Okay. Did you see the mistake? Right here.
+
+What is mistaken if. Sorry.
+
+You are close. You.
+
+So I think. Okay, let's say not this.
+
+It's very obvious mistake in here. Yes, I think so.
+
+They must go to the people for us to reveal to us. Perfect.
+
+This is another observation. But not the one that it's super obvious.
+
+Okay. This is a bit complicated, actually. The one that you said. And to all of them after.
+
+This is. What is this device? Come on.
+
+Okay. Exactly. And they go like this.
+
+They put it on the table. Exactly. But if you like mobile phone users.
+
+Yeah, but with the two hands, you cannot use too much. Uh, this is the one of the mistake.
+
+Okay. And you will notice this mistakes a lot.
+
+Okay, so love as much as possible, but expect that you will also do this kind of.
+
+And imagine that at this stage also, we can make a mistake. Okay.
+
+Imagine that we are making the same mistake in the final stage.
+
+Okay. I will take the picture with the camera and upload it.
+
+Okay. That's one. Okay, but I explained something.
+
+Come on. Again the same thing.
+
+This is after. You can't. It's a form.
+
+Like I said, I mean, just like that, I'm going to hit. Oh, no.
+
+They discover that I. Uh, read that message, but it wasn't.
+
+Yeah, you get the idea. Actually, this kind of stuff that you will do.
+
+And here is the another one. Oh, you to have to log in.
+
+Begins by pressing on the email box. You then enter the email and proceed onto the box with you.
+
+They enter the password. It is, however, incorrect and they must try again.
+
+Okay. Yeah.
+
+This kind of interactions that you can do for if it's an error, then you can have a, I don't know, one symbol I can cross that this part is error.
+
+Then user can pay attention. And I will also show a few other examples, but please, please do not include any background.
+
+Soundtrack. Okay, any soundtrack in this one? Three times I warn one group and three times they did it.
+
+I don't know how it's possible what they did. It's okay. Why?
+
+Paper prototypes are good idea. Because your user will learn the conceptual models.
+
+Okay. How they are interacting with the, uh, interface.
+
+And what will be the next action or next scene that they will use while using the, uh, using the actual, uh, product.
+
+Another one is the functionality. Like if you are using for the just in capturing an image of your, uh, plant,
+
+whether it needs a water or something else, then you can learn the functionality.
+
+Of course, it's not a fully immersive okay, a lot of stuffs are not there on the interactions, is there?
+
+But you can still assess that, okay, whether this kind of interactions are enough to capture this kind of,
+
+uh, to complete this task and the navigation and task,
+
+all of this is the one of the important one, because the number of the interaction will be almost equally similar to the final product.
+
+Okay. Because the amount of, uh, logging, logging in in the system will be quite similar to the first version,
+
+last version and the product, uh, market 3D version of it.
+
+And lastly, if you are getting, uh. Producing a new type of terminology like, let's say, virtual reality.
+
+People are never. You are interacting with the people that never use the virtual reality glasses, and they are missing a lot of information.
+
+For instance, you can use the orientation to orienting your head in three different directions, and we call it.
+
+Roll your pitch. Okay. Maybe your user never learned this kind of, uh, names for the angles of the body orientation.
+
+Okay. And with this kind of, uh, uh, prototyping, they will get familiarity with, uh, your product lingo.
+
+And it is good to develop it because.
+
+Some product lingo are attached. With your product.
+
+Okay. Like on Facebook me versus or Google this.
+
+Okay. Like you see that the product names are associated with the action.
+
+And if you can use this power, definitely it will be a nice marketing strategy for your product.
+
+And of course, here are a list of the stuff that we are, uh, we cannot known for, uh, from the paper prototype or low fidelity prototypes.
+
+Colour is not there. Okay, there are some temporal currents, but it is not finalised.
+
+And, uh, response time.
+
+Of course, you cannot compare, uh, compared with the human interaction with the actual computer interaction with, uh, response time.
+
+Okay. Like if you click a one, uh, Netflix button, instantly you will see that one image or one movie,
+
+but you cannot replicate the same efficiency in the I love, uh, low fidelity prototype.
+
+Yeah. Just pay attention to this slide for learning that.
+
+Pros and cons of the, uh, paper prototype. And of course, we finished the paper prototype.
+
+Now we have to move the medium fidelity prototype.
+
+Here. Almost everything looks similar, like a sketch.
+
+But one thing that you need to use or the differentiate from paper to the medium fidelity prototype is the digital tool.
+
+Okay. So almost always we are designing or, uh.
+
+Uh, making fidelity prototype for the interfaces with digital tools that can be Figma, Adobe XD, sketch, whatever that you are familiar with it.
+
+Okay. And in here, can one of you maybe tell me.
+
+Okay. For the interaction.
+
+Can you display all interactions? In here, I can navigate each menu.
+
+With this kind of, uh, product.
+
+With the paper prototype. We say that you can simulate all type of interactions.
+
+Yes. No. Okay, how about the visuals?
+
+Do we need to give it perfect visual elements in this setting?
+
+Of course. No. And the last one. What was the last one?
+
+You don't remember. Okay visual interaction and content here in here also, we are not expecting that you have any fully content.
+
+Okay. Like this. This is the coffee, let's say up in the high fidelity.
+
+You will find that one actual picture of the coffee or photo of the coffee, or somehow a visualisation of the coffee in here.
+
+But in the medium fidelity prototype, nobody will expect you to do it.
+
+And that's why we called wireframe. But with the wireframe, you can assume that these are a part of wireframe.
+
+And these are part of the wire. So interaction is there.
+
+Visual elements are somehow in there but the content definitely not there.
+
+Okay. And that's the different, uh, type of uh, uh, uh, prototyping.
+
+And in the next part of this session, we will introduce the Figma, and I will, uh,
+
+prepare the one paper based prototype for you from the one that you see in the YouTube, and you will develop an interface for that, uh, assignment.
+
+Okay. So please do not miss if you are using Figma for your, uh.
+
+Group project. Okay. Please attend the next session.
+
+Okay. We already evaluated and. You should always think that, okay, you can interact with the prototype.
+
+Almost all interactions and actions are that are functional, but visual design still there but not finalised.
+
+Content definitely not there. And we are using in the Figma like a digital tools, online tools.
+
+And we are not usually putting an animations in here.
+
+Okay. If your app is requiring it, like usually when you click I say Duolingo okay.
+
+If you move one level to another, it will get some nice animations.
+
+But here you shouldn't expect this. Okay.
+
+And good part of this kind of a prototype you can test in the actual device.
+
+Like in the paper based prototype, we are just creating a small scale version of the actual device.
+
+But here you can open the link in the Figma and you can work with your tablet, iPhone or PC.
+
+So these are the things for the, um.
+
+Uh, fidelity product. And if you go and think about it, it is somehow a detailed version of the your storyboard.
+
+In your storyboard, you have a three component settings sequence.
+
+Last one. Come on.
+
+Settings sequence. And. Satisfaction.
+
+Here. Also, you can, uh. Uh, simulated.
+
+Like in your settings, you can say, okay, I want to have a coffee, okay, to the coffee with this app, the sequence are logging in the system,
+
+or if you don't have any log log previously logged in or the account, or you want to change your account, you have to create a new account for you.
+
+Okay. So then select the items and put items in the, uh.
+
+What's the, uh, basket? Then enter your.
+
+Card information. Then order your, uh, coffee in here. So it's somehow, uh, a bit extended version of the storyboard.
+
+And this is important for your group project. Okay.
+
+All pages has to be available. In the paper prototype.
+
+You can miss some details, but here all of them has to be available.
+
+Starting from the beginning, back to logging in the system or creating a new user.
+
+Until you achieve the satisfaction. Order the coffee and everything has to be available for you.
+
+Okay, so don't forget. Don't forget this.
+
+And if you are planning to also code or the code the backend of your product.
+
+This will guide you a lot. Okay. Like you can sit next to your, uh, programmer and say that.
+
+Okay. With this one, the user will enter a string text based here.
+
+It can enter alphanumeric characters, too. Okay.
+
+Then your programmer will create a regular expression.
+
+I don't know if you know that is. Some sort of perfect regular expression to validate, uh.
+
+Uh, validate the input in here and allow.
+
+To you to enter the system or given, uh. Uh, that kind of, uh, feedback.
+
+You need to create a new account. So it is also useful for your programmer part.
+
+Okay. Now for the high fidelity parts. This is the hardest thing that you do.
+
+Actually, you will do because everything has to be there.
+
+Okay. Including the visual design. Including the size of the boxes.
+
+Whatever the writing on the boxes. Including the the, uh, gadgets like the in that for for instance, usually we have an, uh, charger.
+
+We have an, uh, battery level. That icon also has to be there.
+
+Why? Because we are looking for super realism.
+
+In three domains visual content and interaction.
+
+Everything has to be there. And for the.
+
+For here. Basically for the, um, Magic Fidelity prototype.
+
+We said that all pages are should be available for the interaction, but here all pages has to be designed.
+
+Okay? And the interaction within the pages has to be able.
+
+Okay. First, you cannot create a one button that functions okay.
+
+First.
+
+But of course, we will have to give you a some, uh, limited, uh, some a threshold, like you shouldn't, uh, design, uh, pages with, uh, 20 steps.
+
+Okay. Like you should have design a one, uh, task that will allow you 30 steps.
+
+Okay. We will, uh, somehow, uh, somehow limit, uh, that option for the for your for your product.
+
+Because here or goal is not to. Compete for that foreign make market ready.
+
+Okay. And again, if you are not using the hardware, then that has to be developed by the software tools like a Figma or the best.
+
+And we are creating the high fidelity prototype for usability tests.
+
+And in the next lecture we will introduce you actually what kind of usability tests that you need to perform.
+
+And. We said that every kind of interaction, visual element and the content has to be that.
+
+With this one. You can really test that. Test that. If you give this product at this stage to your user, how they would interact.
+
+Okay. What will be their booking time by using this, this app or what will be their number of the interaction?
+
+Discovering a new, uh, song for the Spotify policies.
+
+Okay. And with this one actually if you give.
+
+This one to your investor, okay. Or to your manager.
+
+They will say that. Okay. Okay. Is that about is not good enough.
+
+And but if you come up with this kind of level of details definitely.
+
+You will have an if you, uh, better chance actually to get the whatever you are demanding for them.
+
+The worst thing about this, uh, process. It cost a lot of time.
+
+And if you are multiple people and if you are paying to them, definitely it will cost a lot of budgets for you to.
+
+So that's why without having the medium fidelity prototype, we are not developing the high fidelity.
+
+Okay. I know why I am repeating myself, but you will realise that while you are designing your, uh, your your own product.
+
+Okay, this is the exam question. And you have to answer it.
+
+So I am giving this for. Different frames.
+
+And you have to associate love. Medium and high fidelity prototypes with each one of.
+
+Okay. What is the first one? Yes.
+
+Both. Okay. Second one. Okay, but you have to explain the difference between these two.
+
+Okay. Make it more explicit. I know you know it.
+
+Okay. I will come back to. You. Okay.
+
+You. Do you want to? And that's your answer?
+
+No. Okay. How about this one?
+
+Sorry. Oh. Why?
+
+Digitalised. Okay, but this is also digitalising.
+
+What's the difference with the digital? It is more digitalised when we know what it is.
+
+Okay. Yeah. That's, uh, good. More detailed in terms of. Okay.
+
+Good answer. And how about this guy? It's obviously like an.
+
+Yeah. This is the heart of the process. Okay. And in this case, I can accept actually both of your answer.
+
+Not for this one. This is obviously a low fidelity prototype because you cannot interact and it looks like it's drawn on the paper in the exam.
+
+I will give you an information. Okay. This is a drawing the paper. And here it is digitised.
+
+But, uh, it doesn't give you an impression that you can click it.
+
+Okay. It is used with the software, but you cannot, uh.
+
+You don't have the impression that you can click it, but this is obviously more and this is a difficult one.
+
+So please do not forget. And when I give a random one, let's say this one, you have to analyse in three dimension content interaction.
+
+And. Visual.
+
+Okay. In this three dimension, you have to, uh, give some reasons, okay?
+
+Why you choose it. And the last one is the Wizard of Oz.
+
+Okay. This is a bit, uh, interesting one, because in robotics, especially in human robot interaction, we are using a lot.
+
+I mean, a lot like an 80% of the studies are, uh, based on the Wizard of Oz technique or paradigm or the approach, and it is quite easy.
+
+We are replicating the system behaviour in a bit fake way.
+
+Okay. Here you see me in Berlin and seek.
+
+And I am controlling this robot in here. And we are waiting participants to participate or experiments in here.
+
+And this robot is controlled by me. Okay.
+
+Like it is generating a speech.
+
+It is generating some gestures and it is judging some, uh, listening perspective taking or the turn taking a stop with the participants.
+
+And I am controlling all of them and not controlling, but the students are controlling.
+
+I am designing or coding for them. And here is the result.
+
+Okay. And that wizard is behind the curtain.
+
+This app is not visible to the participant. Okay.
+
+And participant thinks that the behaviour generated by this robot is autonomous.
+
+Okay. So basically we are faking the system behaviour with humans.
+
+Okay. Now my question is this low fidelity medium fidelity or high fidelity prototype.
+
+Okay. Um, this this is the interface.
+
+That's one of the interface that you can use for this, uh, uh, example.
+
+Okay. And you will see interaction is that you will see visual design is there and you will see content is there.
+
+So just try to figure out okay I will not answer for uh now is this medium fidelity low fidelity or high fidelity prototype?
+
+And if you need a hint, you can check this, uh, or the famous, uh, figure.
+
+Here. So based on this figure of how we should categorise it.
+
+Come on. It's visible. Is this a low fidelity?
+
+No. Yeah. Because behaviour of the system is quite visible.
+
+Okay. And for the interaction it can perfectly interact.
+
+Why? Because somebody is cutting. Somebody is managing the robot.
+
+Okay. Okay. And for the contents.
+
+It can speak. It can dialogue with participants. So everything is that basic.
+
+And I am leaving it to you. I may ask what's in the exam? What kind of prototyping is this?
+
+Maybe it's not a high, low or medium fidelity project. It is just a new category by itself.
+
+Okay, you have to answer by yourself this question. Okay.
+
+This is the one example probably already seen.
+
+Like. Oh.
+
+What is missing. I think what's missing is trust.
+
+Task is missing. Okay. Don't missing your, uh, stuff. And what is unnecessary in here?
+
+A soundtrack. Okay, cool. So if you get feedback, don't you?
+
+Soundtrack. Is not used.
+
+Again, use it as a. It's also missing in here if they don't miss a or add a this one and they will get the high grade.
+
+They're still getting good grade but not super high. And the this is the final.
+
+Uh, so they have again.
+
+I mean, please, if I am asking you three times or two times, do not do something.
+
+Don't do it, okay? I mean, somehow I challenge you.
+
+You are getting a feedback that you are not following. Three times. Okay, cool.
+
+Now we can finish four minutes early.
+
+If you have any question related to your projects. You can come and ask them.
+
+Yeah. So.
+

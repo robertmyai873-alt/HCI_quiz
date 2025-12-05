@@ -1,0 +1,1239 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Yeah. We are starting.
+
+For today's topic. Today's topic will be a bit, uh, freestyle, actually.
+
+So we'll have a lot of, um, conversation together. And, uh, before starting, I need to mention a few things, but not now.
+
+So previously we did human robot interaction as a part of human computer interaction.
+
+Do you have any question related? This. No. Okay.
+
+And today will be our last lecture, uh, to introduce the topic.
+
+So next week we will have an exam review. So please attended.
+
+And, uh, next lecture will not be recorded. So it is better for you to be present in here.
+
+And your exam dates are approaching. Please note that you have to register your exam by yourself.
+
+Okay, it's not announced yet, but do not panic.
+
+Uh, it will be announced soon. I guess next week to be announced.
+
+And whenever you received the, uh, announcement date, uh, please register yourself to exam.
+
+And if you miss registration, you cannot attend this.
+
+And I cannot do anything. Previously, we had one, uh, one, uh, uh, issue with one student.
+
+Uh, the, uh, students group project was quite good, but, uh, unfortunately, he missed the, uh, exam dates, but, uh, he is recovering the rest.
+
+So please do not, uh, underestimated and register on time.
+
+Okay. And for today's practice session, this week's session, please attend.
+
+Because it will be one of the last, uh, practice session that we will organise.
+
+And the deadline is 13. Uh, I need to ask, how's the low and medium fidelity prototypes are going?
+
+Well, they need to, uh, want the extension. Yes.
+
+No. Yes. Yes. Okay for the.
+
+The deadline is 14. No. 13. 13.
+
+Then I will make it a 14. But remind me during the break.
+
+Okay, I need to change it because I don't know why we, uh, organised, as in, uh, submission at, uh.
+
+And of Thursday. Yeah, that that was a mistake, actually.
+
+Usually this is one day after the, uh, last, uh, practice session.
+
+Anyway, we will fix it. And what else?
+
+Uh, yeah. And next week's lecture will be quite important.
+
+So it will be, uh, exam and we will solve around the 20 exam question together.
+
+And by this you will understand that okay. What kind of strategy that you need to follow to get the maximum grade.
+
+And it will be quite interesting session because I will put an exam question in here and you will try to answer with.
+
+Then we will correct your answer. With this feedback.
+
+You will understand actually okay, how much you need to invest to prepare for this exam.
+
+Overall, I will say that it is quite. It will be quite easy. Okay, assuming that you already know some concepts under you did your, uh, projects.
+
+Until now, so it will be quite easy. But it's done.
+
+Okay, that's the thing. Okay.
+
+And in this lecture we will. Introduced How to Build a Smarter Society.
+
+Yeah, because do you know that table converse is a motto.
+
+What's your universe's motto? Something about.
+
+What? Okay. And why? Understanding society, not advancing the society.
+
+Or do you like this motto? If I have an option. Not me.
+
+About the universe. Every option. Will you change to something else? Like building smarter society.
+
+Building robotics society? No. Or you are happy with it? No, actually it isn't a bit hard to change it.
+
+Because it comes with a school identity and there are some rumours actually people attempt to change it, but they failed.
+
+Okay. Maybe if you graduate here and come back as a professor, you will have an option to change it.
+
+Okay, let's make it smarter. Understand and smart makes society smart.
+
+And today it will go and introduce some of the concepts and technologies that how we
+
+will increase the smartness of the society and the people and how we can help them.
+
+So it will be a bit broad topics, so we may have a lot of a brainstorming session together.
+
+So this is the first question to you. It's an ethical questions.
+
+And it says that your usability testing shows that your product is not usable and ready, not ready for the market.
+
+But of course, in a company you are not alone and you have to collaborate with the marketing people and they say that they are usable.
+
+The product is ready and it's usable. So now as a designer, your task.
+
+Is whether you have to or let to know the your CEO or not.
+
+Okay. Yes.
+
+No. And.
+
+Welcome. But your job may not be on the line yet because it can can be marketing people.
+
+Failure to decision is a people failure and that they will decide on what goal, not just.
+
+And it will fail in that. So you may not have any responsibility.
+
+Any more ideas is. Some of them make us feel like.
+
+So why? As someone as I.
+
+Okay. Mail this to you. Okay. Any controversial stance statements?
+
+It's, uh. Uh under-promise. And. Okay.
+
+I like that to see you.
+
+Yeah. In here, we don't have an idea about the product, but you are on the good line.
+
+And how about this? That happens actually. One of the.
+
+One of the submission in the in the last assignment.
+
+Just read it and tell me your idea. Stick means that you will at least the needs of the local.
+
+Okay. And assume that if you use this patents, nobody will discover it somehow.
+
+Proprietary technologies. Yes, you.
+
+Okay if I working? Change it.
+
+Able to. But it is a super integral part of your product.
+
+If you change it, you will do an extra effort. Change it for.
+
+Okay. Changing.
+
+Okay. That's nice. So. Okay, cool.
+
+You. Assume that you are a designer.
+
+Okay. Always assume. Everything.
+
+Mhm. Oh.
+
+Okay, so you will prefer to talk to the boss and try to solve the problem with, uh.
+
+That was okay. Any more ideas? Okay.
+
+Then we will go to a few other ethical dilemmas actually for the HCI.
+
+But this kind of stuff happens a lot actually, if you are working in the uh, uh, real world.
+
+Somehow.
+
+Let's say you are a software engineer and your boss sits next to you and make a, uh, introduction to a product, uh, with the Canadian, uh, customers.
+
+And that Canadian customers trust your background because you're an engineer and your boss is, try to oversell the product.
+
+Which doesn't have that functionality. So in this case, you may find a lot of personal dilemmas for yourself.
+
+Okay. Either you will interrupt the meeting and say that no, this is not true.
+
+Or and the, uh, meeting and talk to the boss.
+
+And within the minutes, they will find. Okay. So the thing that we are introducing in here has some actually high stakes.
+
+So your job will be always on the line. So therefore it is, it is, uh, quite, uh, quite hard to decide.
+
+Okay. Now we will introduce the, uh, some of the topics.
+
+Uh, with the, uh, building smart symbiotic societies.
+
+And this is our famous, uh, cartoon adapted from, uh.
+
+Uh Symbiotic Systems Researcher Centre at Oxford University and or ehm.
+
+At least my aim in here is to build and leave this kind of, uh, society and some of the tools that we can build.
+
+This society is the IoT, Internet of Things or Internet of Robotics.
+
+It of course ethics. Because we are deploying technology in this society, we cannot uh, uh, overlook, uh, this aspect.
+
+And lastly, we should avoid the technology and the digital interface that platforms.
+
+And we will introduce the. This is just the definition of the what?
+
+Human robots. Empathic societies.
+
+And in this case, if you want to create a one, a technology to be adopted by this users, we are saying that it has to be persuasive.
+
+Okay. Very persuasive means that we want to change behaviour of our users and we want to guide them to or use or uh,
+
+or uh, software or product as a tool, as a medium and as a social actor.
+
+And we will go and check this three and this three will be one of the exam questions.
+
+Okay. And usually we are calling that these are the three parts of the persuasive technology.
+
+Okay. Imagine that there will be one uh fill in the blank.
+
+Okay. It will be blank. Another fill in the blank. It will be blank.
+
+And the third one will be medium. Are the functional traits of the persuasive technology.
+
+Then in your case, you have the right tools and social apps. And usually students who are not coming to this lecture.
+
+I'm talking to you. Okay. Oftentimes they.
+
+Uh, think that this persuasive technologies are a bit sceptical.
+
+Okay, but here our goal is do not cheat.
+
+Do not deceive or user. Just to change, uh, their behaviour in a good way.
+
+Okay. So that will be all. So maybe I want to first question in the exam.
+
+So be prepared. Okay, so we say that this kind of technology can be a tool, can be a social actor, and can be a medium for the tool.
+
+We are basically saying that, okay, we are giving an option to our customers to enable them to calculate something numerically.
+
+Imagine that there is a sensor and that sensor is measuring or a temperature in the room okay.
+
+And try to guide us okay. What kind of temperature that we need to enjoy over home.
+
+And that becomes a then persuasive tool for us.
+
+Why? Because we will live in an environmentally friendly, uh, home.
+
+Structured in that case. Or after some learning.
+
+Let's say you this thermostat collect data, a lot of data from you, and after some learning and your users behaviour,
+
+it can automatically adapt itself in the rich time stored during the day.
+
+It can. Temperatures can be, let's say 70, 40, 100, whatever the degree that you want.
+
+So in this case, we are saying that, uh. Uh, this technology is a possessive.
+
+Why? Because it is changing the user behaviour in a positive way, not the receptive way.
+
+Another one is the using this technology as a medium, which means that.
+
+You should understand there's a tutorial like, uh.
+
+Or you should also understand that the. A learning tool.
+
+But it's using as a medium, as a medium to help people, as a medium, to learn a new skills.
+
+For instance, here, this is a, uh, an application that teach you the how to conduct the first aid.
+
+So it means that you are acquiring a new skill based on this one.
+
+It can be also some, uh, serious gaming, like in the military section.
+
+Actually, that is one, uh, game. It's called the shy guy or the deejay guy if you.
+
+Pass this game at the certain level. You can automatically hide by US military as a first aid or first responder.
+
+So in this case we can use that or technology as an first use of technology if they can act as a medic.
+
+Okay. Now there are a lot of overlapping between these two medium tools and the social actors.
+
+But just remember one example from the each category in that you will be safe for the exempt list.
+
+Okay. And the last one is the social one.
+
+Here, in this case, the technology can be a pet, can be a coach, can be, uh, some social, uh, actor that teach you or give you a some nice habits.
+
+I don't know, you are super young. Probably don't know what is. This is a Tamagotchi is an the first online pet, and I guess first online.
+
+Uh uh, versus if it's social active that you can buy and, uh, each time you need to feed your, uh,
+
+that or take care of your pets at and it will hatch, it will grow, it will have they own life.
+
+So it is very interesting. I have a one, uh, actually with me, but I, uh, this morning I couldn't find it.
+
+Uh. Where it is. In this case, this is my pet and it is teaching me some responsibility.
+
+Maybe you can associate some kind of regular behaviour with this responsibility.
+
+Like this pet will need and take a pill. Then it will remind.
+
+This pill has to be also taken by the users. So I'm just case you have some social company for using this kind of technology.
+
+And of course it's a digital but it doesn't need to be. And we will show some robotic version of it.
+
+But usually they are up. And they are trying to play a social, uh, role, like a learning company.
+
+And, uh, they are providing you, providing you by using some social norms.
+
+For instance, if you have an, uh, digital coach, it will behave similarly to the, uh, real coach in the gym.
+
+In the gym? First, we have a some social. Uh.
+
+A link between our, uh, personal trainers and whatever she asked from me or someone else.
+
+We are trying to do here. The role is the same. Whatever your digital coach is asking you to do, you will, uh, do it.
+
+And that's why we are saying that this is the technology change people's behaviour in a productive way.
+
+And that's why this is a technology. Okay. So the.
+
+Yeah, it kind of depends. Yeah. We are not looking for that realism or we're crying and other stuff.
+
+What if it can induce some habits to the user? Um.
+
+Uh, you can see that. Um, I check it to, uh, whether this kind of dolls exist or do you just come up by yourself?
+
+They exist. Okay. Oh, okay.
+
+But how realistic they are. Okay.
+
+Okay. Okay, then. Okay.
+
+I know some. In some cases, they are giving you an egg.
+
+And you have to take care of the egg. Okay, but for the egg, you cannot say that this is a technology.
+
+But for the dolls, you can say that, look,
+
+it's a technology and it might be an interesting market if you want to develop a one, uh, product for the market.
+
+So whatever we are talking here actually just think about not for you, but for all.
+
+Think about it. Okay. Can. Because for the current AI technology, you can create that this kind of, uh.
+
+Uh, interfaces, this kind of games, this kind of coaching, this kind of, uh, uh, technologies, you know, 2 or 3 weeks.
+
+Okay. Literally. Can you can this one maybe less than, uh, okay.
+
+Let's say in one day you can create this kind of, uh, stuff.
+
+So just if you are interested this kind of stuff, approach me. Maybe we can do something together.
+
+Which condition? Of course you have to pay me. Okay.
+
+And, uh, me in the sense that. Okay with the company ships, not the actual one, but we can discuss in detail about it.
+
+Okay. And, uh, there's one interesting, uh, project in Japan because the population in Japan is ageing.
+
+Hyperbolically. It's a high ageing society. And people in Japan, they not, uh, they are not in favour to use the, uh,
+
+younger labour, the younger, uh, workforce to take care of the elderly people's.
+
+Why? Because society needs in different, uh, advancement in different, uh, part of the, let's say, in society.
+
+So instead of making, uh, younger people work, uh, on the health care domain, taking care of the elderly.
+
+I'm not saying that this shouldn't be done. There is a one, uh, project.
+
+It's called, uh, uh, Japanese Moonshot by 2050.
+
+They said that we will, uh, uh, remove from limitation in the human society.
+
+Limitation comes from body like. You are, uh, you cannot move any, uh, of your limbs, for instance.
+
+Your brains are in a visual state and space.
+
+Okay, you are located in Osaka, but you can communicate people in Berlin and the time.
+
+And now we will see if you, uh. Uh, development on it. And so what a very interesting project.
+
+It will continue until 2050. And if you are interested, definitely go and check the labs within this project.
+
+Of course, if you like to work in Japan to like and you will definitely be be somehow an advantageous position to find a position in this kind of,
+
+uh, project. Most they are mostly academic, but some professors are opening the, uh, uh, companies to.
+
+You might be interested to work in. And this is the to.
+
+A first version of it, actually just one part of the project.
+
+And this. Check it. And while watching it, just understand the society that they want to develop.
+
+You get the idea. And then we have some individuals they cannot, uh, they are, uh, limited by their, uh, body, brain and space and times.
+
+And we want to bring all them, uh, all of them together, you know, one, uh, part which is called avatar.
+
+Then they can socialise and play the games and achieve some other daily tasks.
+
+And just note that this is only one part of this project. I guess it is, uh, it is, uh, this one results.
+
+Yeah. It's just the one part of the project. And there is also another, uh, part.
+
+From the animal market. There is a one cloud and it can shapeshift.
+
+And to change its, uh, shape and the help the people. Like that will be unimagined and you will not.
+
+The robot technology like an AI in the anime, you will be risen as an adult and it will help you to work or whenever you want.
+
+If you want to see it, it will support you. And I will show one first prototype of this robot to.
+
+Okay. Yeah. This one.
+
+This one is, uh, I guess so. One year old in 2024, in, uh, Yokohama.
+
+It's very interesting project. Excellent looking. So it isn't.
+
+Yeah, I remember that. And it's called Nimbus. Like you are wearing this kind of, uh, robotic devices.
+
+It will help you for your. Uh, for your daily activities.
+
+Like it's. This is just a support system for the, uh.
+
+For the lifting, locomotion and mobile mobility of the patient.
+
+It's very, very good design I can. In the, uh, at home, you can see how they designed or printed this kind of, uh, interface in here.
+
+And I am not sure that it will support you while walking, but definitely for sitting and standing up.
+
+It is definitely working and it's a nice condition. And the people are suffering from this kind of injuries a lot.
+
+Like an exercise exoskeleton type two stuff, and there are also some military applications of it.
+
+Of course, here we are interested in society like a part of it, and it is not, uh, super hard to, uh, to develop this kind of, uh, robot sexual.
+
+So again, it's an opportunity for one who are interested in assistive robotic technologies.
+
+Okay. These are the, uh, first, uh, think like a persuasive technologies and assistive technologies for the smart, uh, symbiotic societies.
+
+Now we are moving the internet of things. Actually, these are the things.
+
+This is the things that I was planning to do in the at the beginning of this, uh, course.
+
+Like I will give you some IoT kit, I that in terms internet of things.
+
+And instead of designing the, uh, digital interface, you will provide the actual interface,
+
+but time limitation and logistics and some other stuff we wanted.
+
+But in the next semester, we will do a lot of stuff. Especially you will create a one, um, autonomous robot.
+
+But two are people of five. You can create five of them together and put some features of the IoT here.
+
+I also means that actually this, um, some objects that has a specific purpose, but you are integrating with, uh, additional features like sensors.
+
+Okay, to collect data from the, uh, environment.
+
+And the it has a software, you can assume that it's a controller or micro, uh, microcontroller or, uh, a chip.
+
+That's processed the sensory information and somehow make a decision and send this decision through internet or any network.
+
+It doesn't need to be internet. And if you have this all qualities like a sensor and a software that process the sensory information,
+
+um, the uh, network that connects with multiple nodes, nodes in here can be any device that has an IP.
+
+IP means Internet Protocol. And if you connect these kind of devices,
+
+then you will have an internet of things like imagine that last time we have a one, uh, a video about, uh, about uh uh uh.
+
+Let's see. He came. HQ studio this morning for.
+
+For what you can. No, that's. One.
+
+What is the. Trash bin. You want to see her with a hustle like a.
+
+You see, these are this one of the trash bin. And imagine that it is a thing yet exist in the, uh, world.
+
+Just you are putting the trash, right? And, uh, what?
+
+We said that it has to have a sensor. And you will see in here.
+
+It can detect the objects, it can detect the faces.
+
+So it definitely has on the sensors back here the systems of.
+
+Okay. Yeah. This is some social. And it has a chip, a kind of microcontroller, and it can process the information.
+
+I am not sure it is connected to a network. So by this case, we will assume that they are not connected to Ethernet or the network.
+
+So they are not IoT, but just assume that if they are, all of them, uh, are connected to a network,
+
+they are sharing some information like where we should put this, uh, trash, for instance.
+
+In this environment, then we can say that they are IELTS devices.
+
+And one of the more students actually built some device like this.
+
+Let me show in case. This is from last year.
+
+It is quite a simplified version of its mobile version of the Smart Trash Bin.
+
+But imagine that now it can, uh, detect, uh, obstacle and can open the, uh, door, let's say, in here.
+
+But there is no other notes like it doesn't send that message to anyone.
+
+Okay, I can imagine that this is, uh, a bin.
+
+It is full. And send the message to you. And from your mobile phone.
+
+You are checking that. Okay. Oh, this is full. Then I have to go and unload it.
+
+So then it becomes a. Internet of Things.
+
+And the internet part is a bit a misnomer, which means that they don't have to be connected to internet.
+
+Okay. But they can be connected to any network.
+
+It can be a local one. Or it can be a mobile one.
+
+Then we can call. There are internet of things. An idea is always simple.
+
+Like a weird thing. And that thing one functionality. And if we add, uh, two things like the, uh, sensor.
+
+And the processor and the network. Then it becomes internet of things like a light bulb.
+
+It is just a turning off, turning on. If you put the, uh, let's say, uh.
+
+Woman detective. Then whenever you are moving somewhere else and then you are some, you go.
+
+And during the night, for instance, in the shopping malls. If something is detected as a moving object.
+
+During the. 2:00 in the in the night.
+
+So they are sending the message to the I don't know security and security constant checks it and that becomes internet of things.
+
+Cool. Are you following me in here? Because many of you will make a mistake about the internet part of this book.
+
+Formal definition. Go to Wikipedia and you will find this one.
+
+I mean, if you say the formal definition that will work for everything, it may not be correct.
+
+But oftentimes this Wikipedia definition will work perfectly. Okay.
+
+And there are a few papers in here you can check it. Okay. For the further.
+
+Okay. And this is just a simple.
+
+Arduino projects. It is a bit. Let's say I will say less than 50 lines of code in art in your sketch.
+
+But in reality, delivering this kind of projects requires network communication and programming,
+
+and the network communication of programming are one of the most.
+
+Most so are topics that you can debug. If you make it one mistake actually, then it will be very hard to debug it.
+
+So that's why IoT engineers actually earning a lot of money.
+
+And the, uh. This, uh, software architecture can be super complex or can be just the one reactive, uh, stuff looking.
+
+If you see some movement. Uh, turn the turn on the, uh, lights.
+
+That will be reactive one. That you don't need to for, uh, processing the sensory information.
+
+But in the real life applications, let's say you are a warehouse and you want to make a particular data warehouse.
+
+Then you need to put a lot of sensors that get, uh, heat sensors to detect some fires or some movement sensors to detect,
+
+uh, let's say the security people or the, uh, other, uh, people, that's who are not welcome in your, uh, warehouses.
+
+Then once you are. Once you are, uh, collecting this kind of data, you need to process it.
+
+Okay? And each device has their own processor.
+
+But to have a multimodal stuff. They are sending this information through, you know, network.
+
+Or in the cloud. Then your business logic operates in here.
+
+Uh, anyone who has a web development, uh, background.
+
+You know, what's, uh, business logic? Business logic is here.
+
+The logic is once you are you have a data, then you have a some series of, uh, operations on the data.
+
+Like you can update the data, delete the data, change the data.
+
+And this kind of information becomes your business logic. Okay.
+
+Like, uh, done with that service layer than you have in some applications, like here in the frontend applications,
+
+you are just giving the information that's, uh, from the sensors on specific URL, not the whole, uh, white House.
+
+Then it will. It becomes your application of that application layer.
+
+And it can be from that. It can be CLI command line, application layer.
+
+Or if you are super, super interested, you can also go and create and use your reality interface for it.
+
+So what is the message here? It can be quite complicated.
+
+Okay. Just do not assume that. Okay. You will have an in here with the one single set distance answers.
+
+You will approach anything open, but in reality it can be super complicated like here.
+
+And we say that all connected devices should have somehow an IP.
+
+Because without IP I cannot transfer my data over the network.
+
+And here it really doesn't matter that okay.
+
+What is this Samsung coming from? It can be on the mobile robot.
+
+It can be just a fixed positions or it can be in the drones.
+
+Then that's up to your application.
+
+Like if you are creating an, uh, agricultural robot, they are, uh, working on the one yard,
+
+then you can equip your sensors on the robot and they can send the information to your network.
+
+And with that network, you can ignore some data and, uh, use some data for harvesting the grapes in the in the vineyards.
+
+And this is a core components of the, uh, this kind of, uh, devices, which are sensors.
+
+Of course, if you cannot read any data from the sensors, then the rest is meaningless.
+
+And that's why for the robotics also is the same. If you don't know what's the function of the sensor, or you cannot get the data from the sensor,
+
+then you will highly likely cannot perform the task that assigned to it.
+
+A census can be a lot of different shapes.
+
+Like here we have on distance sensors. These are the laser sensors we have on.
+
+Uh, I guess this is the ultrasound sensor. Um.
+
+This is the IoT infrared sensors, and it is up to you.
+
+Okay. Where are you using it? In what kind of device?
+
+And your sensors can be super expensive if you are using the mission critical, uh, domains.
+
+Or it can be super cheap that you are just having these kind of, uh, measurements.
+
+Okay. Here. Probably she developed an algorithm that if the obstacle is, let's say,
+
+five centimetres away from me, then I will open my, uh, uh, I will open that door.
+
+But of course, it can be super, super complicated if you are working with the Federal Reserve or warehouse and, uh, or, uh, Mazda's assembly line.
+
+So it can be super complicated for this kind of applications. Okay.
+
+And we need to define that. Uh, what kind of. Core components for this kind of IO systems.
+
+First, low power embedded systems, which means that like the sensors interior.
+
+Uh, let's say. Well, yeah, but it it's devices forces.
+
+The cheapest one is the Bluetooth, uh, sensors. That you can connect understand the information through a network.
+
+And Bluetooth itself is not a sensor, but you can have a sensor attached to it and the communicate over the Bluetooth.
+
+So these are the. Hard part of it because low power orthodontics is really, really hard.
+
+Okay. Like the one that works in the, uh, digital divide, this digital watch.
+
+They are not working with the mechanical, uh, let's say energy, but you need to power them.
+
+And you see this Casio? Is that ten years battery life?
+
+Can you believe it? And then one voice on you is available and you can use for the next ten years.
+
+And another component is the cloud computing that can for the multiple sensors we are sending in at one place.
+
+It can be a cloud and by the cloud. What can you.
+
+How can you define a cloud or. Are you using any cloud applications in your life?
+
+Probably are using in. And how you can use it.
+
+What is this? Or what's the most common application that you are using as a cloud in your.
+
+In your daily life. Come on.
+
+Any cloud enabled, uh, applications you are using. Yeah.
+
+Perfect. Well, that's. The service.
+
+Yeah. All the services are cloud up. Okay.
+
+Then we need to have some cloud, uh, system in here. Again, that cloud system does not, uh, need to be accessible by all sides.
+
+Like, if you are working in the Ferrari warehouse, probably they will not allow any random people to penetrate to their, uh, their wireless.
+
+Uh, lan. And of course, we have, uh, a lot of, uh, sensors, and the sensors have a lot of data like this kind of chip.
+
+Uh. I thought this kind of cheap cameras, actually.
+
+Um. Yeah, it's kind of cheap cameras.
+
+Maybe working in a 60 frames per second.
+
+And imagine that this is. Let's say one mo 1024 1024.
+
+It may start for a second. You are getting sixth tee times 1811 24 124.
+
+So we have a lot of, uh, uh, data in here.
+
+And this is just for a single sensor. But if you are, uh, collecting.
+
+Let's say, uh, temperature sensor distance sensors.
+
+I don't know, whatever the, uh, audio sensors or, uh, proprioception for the robot.
+
+Um, your, uh, sensor data becomes, uh, larger and larger, and you have to also manage to and evaluate this big data.
+
+And that's why we are sending our data into the cloud rather than, uh, computing locally.
+
+And the last connection, last, uh, uh, component is the network connection.
+
+And all devices in this domain should have an IP.
+
+Why? Because you can reach them. Okay. Now with the, let's say this one, uh, this this command.
+
+Terminal. Okay.
+
+Okay. You know. What is this thing?
+
+What does this thing? I can write any.
+
+Domain name. In here, it will be automatically translated by. DNS for a given domain name, it will generate your IP number, and with that IP number,
+
+you can say that whether this domain name is alive or not like a here you will see.
+
+Now they are sending some, uh, ICP packages.
+
+But somehow yahoo.com is not reachable in here and I don't know what.
+
+Okay. Okay.
+
+You see, I send the 17 packages. And zero packages received and zero packages lost and tribal.
+
+Okay. But you see, I am pinging like I'm sending to message to Google, uh, server and say that.
+
+Okay. Are you alive? And you see, I'm sending 12 packages.
+
+Packages. And all of them are received. So it means that with this computer, this network connection, I can reach, uh, Google, but that not Yahoo.
+
+I don't know why. Okay, so it means that if your robot has an IP, then it's a candidate for to be able to be and part of IoT.
+
+And of course, we have a lot of different kinds of applications.
+
+And, uh. Again, cheap sensors give a lot of options to us to put them on almost everywhere and to get the data.
+
+And, uh, people are going crazy, actually, if you, you know, this, uh, Twitter account or x,
+
+uh, account is called Internet of [INAUDIBLE] and they are releasing some,
+
+uh, super interesting, uh, technologies that doesn't, uh, that shouldn't exist,
+
+but people are putting, uh, screws and put chip in it and making internet of something.
+
+And of course we are not limited to India. And I also have a lot of application in the ambient intelligence.
+
+Have you ever heard this one? Ambient? No.
+
+If you are working in the medical, uh, robotics domain or cloud enabled robotics domain, you will see this one.
+
+This is. Some ambience. The environmental.
+
+The environmental helps you to achieve something. Something.
+
+Some tasks like in the let's say hospital, you are putting some distance answer some movement sensors,
+
+some cameras, and you know that some people are with limited mobile mobility.
+
+If they, uh, they, uh, fall down and it will detect and send a message to the caregivers.
+
+And we have a lot of sub, uh, research areas that IELTS as a not maybe main, uh, technology,
+
+but some supportive technology, uh, robot companion for elderly carers smartwatches.
+
+Uh, that's if you fell down, then it's not much you can send to my message to your caregiver.
+
+And my patient in Germany. Actually she her but one of the grand parents actually just because of Apple's, uh, function.
+
+That if your, uh, heart rate are increasing, super, uh, super fast.
+
+In a short amount of time, it will automatically call, uh. Uh, emergency service.
+
+And by this function, actually, uh, this function saves, uh, her life.
+
+In this sense, I don't I can go in detail, but just believe me that it will work.
+
+Okay, now we are finishing and let's give in for the, uh, 15 minute break.
+
+Then. We will come back.
+
+And if you have a question about your, uh. I don't know their assignments to just calm you down.
+
+It's. So can another student confirm that the assignment deadlines change to 14?
+
+Assignment deadlines change to 1445.
+
+Yeah. It's usually. Uh. So.
+
+So let's start. So in the second session, we will pose some ethical dilemmas together in real life and some dark patterns.
+
+So the first one is comes from these researchers. They are, uh, funded by they got money from, by uh, Facebook at the time not matter.
+
+And they conduct, uh, quite interesting study.
+
+And, you know, in the cognitive science, you have a motion contraction, like you are imitating the emotion that you perceive from the others.
+
+And they did in the super large scale. I guess in, uh, for a 20 year period.
+
+And they say that, okay, we will, uh, put some random, uh, negative posts on the walls of the users.
+
+And initially they expect that the user will post more negative posts or the news.
+
+But they found an opposite effect in here. So now in the paper it's quite long actually.
+
+They have this sentence. Because they use the Facebook user base.
+
+And uh, when you are registering, uh, to Facebook, you have to agree their terms and conditions.
+
+And they say that the data collection part is consistent with the Facebook status.
+
+To which all his users agree prior to creating the an account on Facebook.
+
+So here they believe that this is an informed, uh, consent.
+
+So it means that the the users know the negative or the positive effect of this study.
+
+But you get it. I can. They initially assume that more negative news will encourage users to release more negative news.
+
+But at then they found this is, uh, that has an opposite effect.
+
+Now, my questions to you. Is this an informed consent?
+
+So do you still have an Facebook account? Yes.
+
+Okay. Let's say you are part of this research. But you don't.
+
+What? Do you have an account? So it means that they inform you enough for this research?
+
+Yes. No. Yes.
+
+Come on, guys. Let's get some more noise. Yes! Yes.
+
+No. We do. And what's the difference between legal and ethical land?
+
+Okay. Okay.
+
+You are taking a stance from the, uh, Facebook and between Facebook and you.
+
+But how about this researcher? I mean, they are not employee of the Facebook, I will say, except except the first one.
+
+The second the. Let's say the last one, probably to send your home.
+
+Okay. Is not a Facebook employee. But he is part of this research.
+
+As an HIV researcher, you should agree with this kind of research or you should do.
+
+So. Let's say to send your researcher.
+
+I don't know who he is. How are you as a student?
+
+Okay. I'd say that we have an access to Facebook, Twitter, and we will do this experiment and assign students.
+
+Would you accept it or not? Yes.
+
+No. This.
+
+Okay. Patient. Okay.
+
+This is a Facebook. Yes. Yes.
+
+Facebook. Official data. Exactly like the public release date.
+
+No no no. This is Facebook, Twitter, Facebook.
+
+Collect this data from the users. But users are not aware of.
+
+Or they are doing the experiment. No, no, I am saying that.
+
+Okay. This is the senior researcher, and it's.
+
+He wants to hire you. For replicating this research.
+
+Would you be part of it or not? Yeah.
+
+You got a fish in there? You know, I guess New York.
+
+You took a corner? No, nothing. You know. Cornell University.
+
+Okay, forget about Facebook. Let's say you are working with me.
+
+Um. You want to do a thesis on the topics that performance of the excellence.
+
+And in the converse it says that if you are part of, uh.
+
+Uh, part of, uh, this, uh, course. You already accepted that the data that's from you we will use for our research.
+
+And now I am hiring you. Okay. And I'm giving this data to you.
+
+And as an person, as a researcher, as a designer.
+
+Will you accept this offer or not? If you reject, maybe you will not complete your thesis.
+
+No. You are.
+
+You are a bit too pragmatic in that sense. Okay.
+
+Let's see. Now let's see this.
+
+Uh, this is very, very interesting person. It's is, um, he's an, uh, author of our textbook.
+
+Very, very funny, uh, presentations of learning.
+
+So you should remember this, Robert. We tried them out and nobody ever.
+
+If you remember, remember in the previous, uh, lessons, we said that Gbbo is the one of the failure in the HCI and the social robotics domain,
+
+with a lot of funding, with a lot of, uh, talent, uh, talents, I think.
+
+But let's see, his point of view buys it.
+
+How are we doing? Something wrong? What? What's going on?
+
+Why? Why does nobody ever succeeds with doing this? And the only exceptions are a couple of research platforms.
+
+But then the target market is not the general public.
+
+It is just, you know, research or something using the programming for the experiments, but for consumers.
+
+And not much is happening. So I'll see you guys.
+
+Let's let's have a look at an example. Um, this is the robots we use.
+
+Aware of the robot. Who backed up the tutorial about AI in the Google.
+
+Nobody. Okay. So there's a cute little robot. Um, and it started off as, uh, a, um, a campaign.
+
+Um, so, um, they raised over 3 million USD in this eco campaign to develop this robot at 3 million USD at the initial pass, but.
+
+And it was back to social. It was initiated by Cynthia Buzzell from the MIT Media Lab.
+
+Well, it doesn't get much better than this, does it?
+
+Um, and on top of this, uh, 3 million USD, uh, also venture capitalists jumped on to it through another $60 million.
+
+So 63 million yesterday. It's a lot of money.
+
+We can buy another to look at most, if only this one. And so they had.
+
+Really talented people. So handsome. One of them.
+
+Some of the best researchers in the world. And they even managed to produce a robot.
+
+I think those projects actually fail. And they never deliver anything.
+
+You never get anything. So. So here we have a Cynthia.
+
+Okay. You have money, you have super talented people, and you produce the product.
+
+That's the rest of the story. And that she is super, super famous in Asia domain as a roboticist sitting about this in Brazil in a mountain.
+
+Let's see. Just remember all HLA heuristics.
+
+Okay? Maybe this will be an exam question.
+
+For decades to build social robots. World, and they even both for decades to build social robots and we.
+
+I hope. You know, I'm not having much luck with my videos today.
+
+Sorry. Thank you.
+
+Go. Please introduce yourself. Hi, my name is table first.
+
+Yeah. So, I mean, this is actually, uh, we have we developed, uh,
+
+several prototypes on the road to where we are right now, and certainly, um, we've done testing all along the way.
+
+You know, we very quickly found and this is just reinforces a lot of what I found.
+
+Um, as my work at MIT, people want to treat jibo like a someone, not a something.
+
+And they often, at the end of the interaction would say we'd ask them explicitly, what's the diff between devo and a tablet computer?
+
+And they, you know, they used to own and have a computer. So I said, well, you know, she even fits in like family.
+
+She was part of the family there. She was warm. She was friendly. Um, she both like jibo like a family.
+
+Can you believe it? I can. Can you believe your, uh.
+
+So what's in there? Then the smartphone is part of your family.
+
+Let's go. It was me in response to me. So people were really resonating with the fact that it's a social robot.
+
+So you said a couple of arguments here which are quite valid. What's the difference between Zeebo and a tablet?
+
+Right? That's a very, very fundamental question. And the answer is it fits into the family.
+
+That was the pitch, right? Well, maybe does, maybe doesn't.
+
+Well, anyway, they made it on the cover of the time magazine. So again, how much better does it get your product as an invention?
+
+Best invention of 2017 or the time of the copper?
+
+It doesn't get much to be honest. This one shows that something wrong in the society.
+
+The whole society's. Better than this.
+
+Well that happens is that they actually delivered it, right? They got the product out to the customers and, um, people reviewed it.
+
+And this is what I found. Oh.
+
+Oh, dear. Come on. Thank. So I'm really unlucky with my videos today.
+
+In July 2014,
+
+man did not yet know the dangers of backing just any random Kickstarter or Indiegogo campaign and swimming in childlike naivete and blind optimism.
+
+Over 2500 people backed Jibo, a social robot companion that the creators Jibo Inc.,
+
+promised would do everything from making video calls to reading bedtime stories.
+
+And this was long before the Google Assistant or Amazon Echo existed.
+
+Now, for my part, it was pretty obvious this video was brought to you.
+
+So. What do you guys think I can?
+
+And what happened to the owner of Chico? Did you lose her position?
+
+Or did she go bankrupt or nothing happened to her?
+
+Which one you should expect. Go.
+
+Back up. Okay.
+
+Like. I do.
+
+Actually, she is still doing the research. Okay, so nothing happened to her.
+
+But do you feel that something is wrong? Think about how I, uh.
+
+Uh, um, uh, he just thinks. She all promised a lot at that zero degree.
+
+I mean, you cannot expect that you have an access to all talents, all money.
+
+Even you have a product, but it is failing. Now.
+
+It's hard to live, actually. And this one.
+
+Astro. This is Amazon. Astro.
+
+Okay. It's very recent product, actually. Thank you.
+
+Axtell. One house, one tech friendly family and one eager new robot.
+
+The Amazon Astro wants nothing more than to become a member of the family.
+
+The message is the same. Commander. So people are not learning the lessons.
+
+Both customers and. Okay. Astro.
+
+Out of my way. So is this autonomous bussing or what's on wheels worthy of becoming the next addition to your family?
+
+I did not anticipate that reviewing Amazon's new $1,000, invite only robot was going to cause so much drama excitement.
+
+And I know you can watch this video by yourself, but just check the YouTube comments that I received today.
+
+Actually, it says that this robot is essentially a cup holder for 1000 to, you know.
+
+And they are. And he's right, actually. I don't know, he said. But it looks like he is right in that sense.
+
+Again. I mean, they have money.
+
+They have a lot of talented designer. Even I know someone is working as a designer, was working as a designer in, uh, nostro, but it is also felt.
+
+What is happening? The tech domain.
+
+They know. They don't know their users and looking. Family member and you are creating a robot to be a family member.
+
+It's very, very hard to to, uh, to get lost in the attack, this kind of, uh, well, and I think there is also some moral issues going on.
+
+Okay. So it means that you can be super talented, you can acquire talent.
+
+It's you have a money. At times you can fail miserably in this kind of senses.
+
+Okay, so that's why applying this HCI principles are quite, quite hard.
+
+Even in your, uh, simple projects. And now multiply by 10,000 and generate this kind of product, it will be super challenging.
+
+So if you fail, don't worry. People with $63 million with a military background, they are also failing.
+
+Okay. Anyway, I cannot articulate myself with this.
+
+Uh, this two products, what we can discuss later, or maybe, uh, in the next lecture.
+
+Okay. These are the, uh, two unsuccessful. Unsuccessful, uh, robots.
+
+On the domain. And now let's move in the more digital version of the.
+
+Here we are again. Dark patterns. Dark patterns are opposite of the persuasive technology.
+
+Okay. They are, uh, designed for deceiving you.
+
+Okay. Basically, they are designed to make your life harder by achieving their goals.
+
+Like an accepting cookies, for instance, or accepting, uh, rules and regulations of data website, for instance.
+
+And there are a lot of them. And if you go and check this, uh, website, uh, defective by design.
+
+You will find that there are some, uh, companies are purposely injecting this kind of dark patterns to deceiving data users.
+
+And you will see a lot of them are famous companies that we are using these.
+
+And we will only introduce a few of them. But be aware that they have a lot and people are not super educated in that.
+
+Uh, in that case, the first one is the nagging.
+
+Nagging means that you don't have a no option. Okay, like this is an Instagram, uh, notification, and it wants to push you a notification.
+
+What you can do. In ideal world it will be yes and no.
+
+I want notification or I don't want, but of course Instagram.
+
+Uh uh, Instagram. Uh, developers.
+
+Wants you to give only two options, which is not now, which means that you will receive this message again.
+
+Or okay, I am okay. So at the end of, let's say ten times that you are postponing to doing this, probably one time, you will just say that, okay.
+
+Hack it. That's, uh, accept it. And I use the serverless.
+
+And this one we call it. It's a negging. And learn it.
+
+It may be, uh. It may appear in your exam.
+
+And whatever we are teaching in here. Just learned that pattern.
+
+And one of the examples. Another one is obstruction.
+
+Like you are hiding stuff. Stuff from your user.
+
+And in this case, you, uh, user wants to do limited ad tracking for an.
+
+Uh, some, uh, uh, applications. And you see, iOS is not, uh, allowing it.
+
+Okay. Of course, this is an old, uh, iPhone interface.
+
+Maybe they change it. It's not guaranteed.
+
+You might be and you might. You may still use it.
+
+Like. Ideally, it has to be just in one, uh, or two clicks or the top.
+
+But here you have to go, general. In general, you have to know that it exists in the about in there about it exists in the advertising then.
+
+Turning off them. Yeah. Attacking. Okay.
+
+So basically some actions are available, but hidden from the users.
+
+And another one is the, uh, interface. Uh, the interference.
+
+Like this. At this time, the options are somehow clear.
+
+But by default they are hiding it. I think it's in the sense that here you are seeing the default option is express.
+
+And the other option is a custom solution. But one action is preferred.
+
+Uh, the other one.
+
+So ideally you can go and custom the install and select the folders that you want on land or that you want to allocate your, uh, uh, files in there.
+
+But here is not the logging you. So it means that the interface is there.
+
+Sorry. Interface is interfering actually with your actions.
+
+And we have a lot of, uh. Uh, what's the name?
+
+Deceptive patterns. And most of them are located in this website with examples from famous companies.
+
+Go and check it and check at this. This three. From the lecture.
+
+And learn the definition. And learn.
+
+One. Uh, one. What's the one, uh, example based on this definition?
+
+And do not implement in your design. If they are discovering that you are using some, uh.
+
+Uh, some dart patterns. So you will be downgraded.
+
+Do not put an Easter egg on the. Funny stuff and so be careful about then this one.
+
+And another, uh. Another.
+
+Let's say another problem with this one. This is from Instagram.
+
+And in the first lecture we introduced that the Instagram is founded by the 1 to 2 person, but one of them is HCI user.
+
+So he graduated from. But, uh, maybe you know Washington.
+
+But he took this. Yeah, you already know that.
+
+What's going on in the dark and not to do it. But still, he's allowing to use the dark pattern by his employees.
+
+Soul of the world is very, very. Hard to understand.
+
+You remember our school motto, Understanding Society.
+
+I mean, how we can understand this kind of people. And sometimes, if you are thinking them, it is.
+
+It is becoming super massive. Okay.
+
+The last two ethical dilemma. It is very long to read it.
+
+Please read it for yourself and we will discuss. Okay, so here you are, uh, creating a one application.
+
+And, uh, your aim is to build an inclusive online community, let's say, for gamers or for book lovers.
+
+Let's say. Then your research shows that, okay, it is better to exclude some people from this, uh, inclusive, uh, community.
+
+Yes. Your application. And now I will ask a question about this.
+
+And now you have to decide whether you should exclude some people from this application or whether you should allow it.
+
+Okay. But in your case, it's a book study. So you will allow people who enjoy adult level books.
+
+Yes. No. Okay.
+
+Uh, how about, uh, more extreme cases? Can you help me to.
+
+Given the application is there for a book or, uh, readers, they are funding each other in an online community.
+
+Okay. But I'm asking extreme cases of the kind.
+
+So you will be included all ebook readers.
+
+Science fiction. Romance, I don't know. Up to love.
+
+Everything okay? Okay, let's be a bit, uh, provocative.
+

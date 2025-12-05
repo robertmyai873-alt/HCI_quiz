@@ -1,0 +1,1269 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Actually, this is a lie. I am very happy that you are finishing it because I need to pay attention to other stuff.
+
+Other, uh, student, other research and other stuff. But overall, I will say it's a good semester with a few exception, uh,
+
+that we received about, uh, group formation and some complained about the groups.
+
+So overall, I am very happy with this, uh, uh, batch of students because.
+
+Keep it up for the next, uh, semester to. But for the next semester, be careful because it will be a bit harder.
+
+Okay. And if you are, uh. If you are, let's name happy with your group.
+
+You can keep that group for your next semester project. Which will be a robotics group, uh, group, and it will be much more hardware oriented.
+
+So I think it will be better if you already know your group members and if you are happy to work with them.
+
+So just keep that in mind. What we did.
+
+We did a lot of stuff, actually. There's, uh, over ten weeks of the content.
+
+And, uh, it was quite challenging, both for me and both for you and.
+
+Today we will do some exam question. But before doing it, I need to give you information about the exam and the incoming incoming assignments.
+
+First. The deadline for the remaining assignments are 5th December.
+
+So if you are, if you can submit, uh, early, that will be good.
+
+Then we will, uh, great. Early for you.
+
+But overall, you should expect that your, uh, grades will be announced if you are submitting to receipts after, uh, December 5th.
+
+And for the remaining groups, we will try to grade your, uh.
+
+All deliverables be for the exam.
+
+So you will learn your address for the exam. But if you have a summer contract, uh, contract, contradictory results.
+
+And what you are expecting from us is not, uh, is not, uh, the thing that you, uh, uh, deserved.
+
+Just let us know. Okay. Especially, uh, let me know in advance.
+
+We will take care of it. And, uh, please don't worry if you.
+
+Are sure that there is an error. There is some problem in your grading, okay.
+
+No matter what happens, we can fix it. So it can be after the exam or, uh, even in the next semester.
+
+We can't fix it. Just check 100% and be sure that there is some errors in the grading.
+
+Then we will fix it. But do not send me an email just randomly.
+
+Can we check this together or, uh, I have some suspicious that this grade should be higher.
+
+So if you are not coming with an excuse or with an reasoning, I will, uh, suggest you directly go to the exam board.
+
+Okay. Then from that path you can reach me and we will re-evaluate your, uh, projects.
+
+And if you want to be re-evaluated, okay, you will be rehabilitated as a group.
+
+So it means that maybe we missed something and we kind of.
+
+Up, uh, the, uh, upgrade your, uh, uh, grades or you can be downgraded to.
+
+Okay, so in this time, we will have a lot of time and we can go and check each line of your submission,
+
+and you can be sure that downgrading will be possible.
+
+So just be careful. And another thing that's that's might surprise you, but you already know this one.
+
+The last one. So here, if you have some group members, that's who are not contributing to your assignment, their grade will be zero.
+
+And now probably some of them, they are not aware.
+
+That's okay. Their great will be zero. But we already mentioned a few times in the articles in the first lecture and uh, uh, in the MIT lecture two.
+
+So it means that if in the contribution section of your assignments.
+
+Your group members, uh, agree that your contribution is super minimal.
+
+Okay, look, um, there are some cosmetic contributions. Then your grade assignments will be zero.
+
+Okay. And we cannot do it now, but we will adjust it when we submit to, uh.
+
+Uh, Osiris. So then your group rate will be, let's say 5 or 6, ten, whatever, but your individual grades will be zero.
+
+Okay. So just be careful. That's okay.
+
+What you expect may not be a match. What you get. And another thing is exam date is now well announced.
+
+It is 8th of December. Everybody knows.
+
+Okay, get the, uh uh uh, get the great.
+
+Get the date. And please register to exam as early as possible.
+
+Okay. And if somehow, Miss Dunn, we cannot, uh, allow you to take the exam.
+
+And in that position, I cannot do anything, basically. Okay, so it will be, uh, a bit, uh.
+
+Uh, what? Same, uh, ugly situation. Okay. Both for you and but for me.
+
+But you cannot take the exam. Okay, so for the remaining, uh uh uh uh, stuff for your assignments, just check this video.
+
+And this is one of the of this is one of the good videos actually we had last year not last year, last year.
+
+And you are already familiar with it, and we are expecting something in line with this submission.
+
+Okay. As you can see, it's currently loading.
+
+We're just going. So if I were you, I will watch this, uh, video with my group members and just understand that what kind of interaction,
+
+visual elements and the context is necessary for the high fidelity program that has some things that I would like to try out.
+
+So we just see where it goes later on the description.
+
+Okay. Yeah, that kind of stuff would be enough for you to get the hybrid.
+
+I will not say that you will get the top grade, but you will get the high grade. And with one exception, one group has an, uh, hardware, uh, project.
+
+Okay. And for the high fidelity prototype, I may invite you to my office.
+
+Okay. I see some interesting faces. Okay. Office, then.
+
+Uh, your group, uh, will, uh, show me the, uh, the demo, but, uh, please do not worry.
+
+Okay. It will be super smooth and just, uh, I will.
+
+Ask question to understand how much you did by yourself, or how much your group members contribute to this project.
+
+Okay, and for that hardware project, it will be important if you keep that group the same.
+
+If they are getting the high grade for the next semester project.
+
+So then you can do more advanced, more interesting projects with the Raspberry Pi, Arduino or the Nvidia Jetson.
+
+Okay, so now we can start for or exam question, but other than this, do you have any questions?
+
+Because this is the last lecture. And, uh, this week we haven't lost, uh, that's session two.
+
+So that will be your first opportunity to ask questions.
+
+No question. I think it's clear. Because next week I will not be.
+
+So I will be off and, uh, I will have a super limited time for the, uh, emails.
+
+Just be careful if you cannot reach me on time. Okay.
+
+So. Shall we start over?
+
+The other question. Yes.
+
+Can you increase your voice? Oh, yeah. Yeah.
+
+The Figma, uh, prototype. It'll be okay. And, uh.
+
+Of course, your face. Yeah. Then, uh, if you can do with the, uh.
+
+With the same, uh, real, uh, fan interaction, right, with your phone and the shop and you doing that.
+
+Is that people for this? Under.
+
+You can do it with the Adobe Premiere or any kind of video editing tool.
+
+Okay, so we are not grading your, uh, editor super, uh, skills.
+
+We are just interested, okay.
+
+Whether interaction content and visual elements are, uh, that in your, uh, uh, in your, uh, presentation and that would be.
+
+Okay. Questions? Discuss. No.
+
+Okay before starting the exam question. Let me do some other stuff.
+
+So this course is important for me because in my PhD I took.
+
+This course, actually. Creative engineering design, but that is definitely.
+
+And it was super, super interesting for me and I always want to imitate him.
+
+Not in my life, not in my, uh, lectures.
+
+And now I will, uh, go and introduce to a few stuff that might you might use it especially for the hardware minded,
+
+uh, people among us or engineers by people among us. And this is a famous professor and he is a famous roboticist.
+
+And he's applying the. Not user centred design, but the design thinking principles in his research.
+
+And you will see what kind of, uh, uh, what kind of interesting stuff that he is building.
+
+And of course, like uh, or lecture. He's also giving some, uh, quotes from the famous, uh, scientists and engineers.
+
+And this is a thing that he did in the Berkeley. And this is the robot that he built.
+
+In his, uh, research and check it. This one. And these are the reliefs that you are receiving from your peers.
+
+Okay. Like we are submitting a paper and another professor or another, uh, researchers are evaluating your, uh, your paper and what they said here.
+
+This is very interesting. The second one, I like design of the robot.
+
+This is exactly what I have been planning to build. But I have not achieved so far.
+
+Okay. So what? Uh, professor, uh, Stephanie said to us, actually, he followed the design thinking principles similar to Euclid cycle,
+
+and he built that this kind of, uh, I don't know, the not fish, but, uh, warm class, um, uh, snake like robot.
+
+So what I want to show with this slide is basically the thing that we are teaching to you has also some footprint in the hardware and the research,
+
+as well as in the digital uh interface design. And you see the same book again in here.
+
+This is the creative confidence. And this is the Steve Jobs video.
+
+Now I will, uh, let you know also that video. And a lot of stuff that we are teaching in here.
+
+You will see the. It exists. And I will show probably.
+
+Yeah. This is our. Uh, PhD classroom.
+
+I guess this is not my batch, but I was part of this one. And instead of using the digital tools, we are using the post-its, actually.
+
+And one of the groups from this class. Actually, they opened their Start-Up company for soft robots.
+
+So it was quite interesting to be part of this class and you will see a lot of different.
+
+The kind of applications. Oh. What's this? Yeah.
+
+This one, this one. A lot of stuff. So my messages to you, you know, already know the basic design principles.
+
+So it's up to you to implement in your life.
+
+And if you do it differently, you will get some extra bonus points for your, uh, not maybe assignment, but for your, uh, for your future.
+
+And this is the thing that he showed us for the first and the last video, and I am doing the same thing.
+
+Let's see. Okay.
+
+I don't know what you think about Steve Jobs. What's the perfect example for this? Uh, kind of slights.
+
+The thing I would say is. When you grow up, you tend to get told that the world is the way it is and your.
+
+Your life is just to live your life inside the world. Try not to bash into the walls too much.
+
+Uh, try to have a nice family life. Uh. Have fun.
+
+Save a little money. Um. But life.
+
+That's a very limited life. Life can be much broader once you discover one simple fact, and that is,
+
+everything around you that you call life was made up by people that were no smarter than you.
+
+And you can change it. You can influence it. You can. You can build your own things that other people can use.
+
+And the minute that you understand that you can poke life and actually something will,
+
+you know, if you push it, something will pop out the other side. You can you can change it.
+
+You can mould it.
+
+Um, that's maybe the most important thing is to shake off this, uh, this, uh, erroneous notion that life is is there and you're just going to live in.
+
+Versus embrace it. Change it. Improve it. Make your mark upon it.
+
+Um, I think that's very important.
+
+And however you learn that once you learn it, uh,
+
+you will want to change your life and make it better, because it's kind of messed up in a lot of ways.
+
+Um, once you learn that, you'll never be the same again.
+
+Okay, this is, uh, a bit motivational speech, but trust me, it has some value on it.
+
+Just go and watch it. And of course, you can say that we are now getting with exams, grades, whatever,
+
+how we can contribute to, uh, this kind of, uh, robotics, this kind of design in our life.
+
+But later in your life, definitely, you will have some opportunity to, uh, to do it.
+
+Okay, now for the exam questions. First we need to read this one.
+
+Okay. So exam will be in Oncampus.
+
+And you will use a test visual interface to answer around 50.
+
+Question. Okay. And each question has a two points.
+
+And you have to get. Uh, 5.5 or 55.
+
+To pass the course. Okay. If you get, let's say 15 here, then you are failing.
+
+Okay. And if you feel you will take the, uh, course scratch from next year.
+
+Like you cannot say that. Okay, I already passed with the, uh, practice session.
+
+I only failed the, uh, the example. So can I, uh, be exempted from the, uh, practical, uh, uh, projects next year?
+
+You cannot do this. Okay. So you need to get to 5.5 or 55 for this exam.
+
+Under. It is quite easy to get it look at so you don't need to worry.
+
+That's my experience between the autonomous systems and the HCI.
+
+HCI is much more easy to parse. And of course, that the fact that how prepared are you and it is a bit correlated, uh, to your, uh, group project.
+
+Okay. Because students have a some misunderstanding, actually.
+
+Okay. Because they are not attending the practice session and the classes.
+
+And all they think about their project throughout the semester.
+
+At the end, they are thinking that these are two different things.
+
+But in reality, if you pay attention to your group project, then definitely your, uh, grade will be quite similar to your, uh, final exam.
+
+Okay. So I can say that that correlation exists.
+
+And exam time is quite enough for you. Uh, you have three minutes to answer one question, so it is quite, quite easy.
+
+And we have a different types of, uh. Exam.
+
+Uh, questions can be open ended. That you will write a few, uh, one paragraph at most to answer the question.
+
+And in the open ended questions, please just give. A few sentences to ask for the question.
+
+Okay. If you are writing a full paragraph that's super verbose and expecting that okay,
+
+if I confuse, uh, confused, uh, teacher, then uh, maybe I can hook some grades later.
+
+Don't do this. Okay, we got a word that. And your, uh, answer should be concrete.
+
+And please use HCI concept as much as possible. Like, do not say, okay, this is an object.
+
+I am performing an action on that object. This object is useful for this kind of user group.
+
+Don't use this kind of stuff okay. So that the performance of this object is pushing.
+
+And that's why when I see the button I am clicking okay.
+
+And yes, please do not assume that being verbose will lead to full grant.
+
+That's that's a lot of, uh, things to get from.
+
+But I will show a you, uh, uh, samples that you will understand.
+
+And some open ended questions will ask you that. Give two examples.
+
+Okay. Like, uh, what are the different types of stakeholders?
+
+Okay. Then you will say that. Tertiary stakeholders and secondary stakeholders.
+
+You can give this one. What if you are giving six more?
+
+Now. We will not read it. Okay? We will only check the first.
+
+Even the third one will be correct, but the first one will be incorrect.
+
+Then you will not get the full grade. Okay. Is this clear?
+
+Is. Make sure that. If question asks you to give two examples, give only two.
+
+If you give three, then third one would not be included in your list.
+
+Okay. And in a fill in the blank questions, you may write a few, uh uh uh, yeah, a few, uh, words.
+
+Not assume that each blank. It corresponds only one word.
+
+No, it may be like, let's say in the high case, we will assume that you are writing human robot interaction.
+
+So in reality, this is three different words. But in our case, it would be a single blank.
+
+Okay. And what else?
+
+Wait for the fill in the blank. If you are using, uh, as synonyms, we may accept.
+
+Okay. And this is, uh. May. Okay. Might. So if you are, uh, writing, uh, action instead of affordance, we will not accept.
+
+Okay. If you are writing for us.
+
+Principles and heuristics. Yeah, that can be acceptable.
+
+Okay. And yet we will try to announce our grades as early as possible within one week or two.
+
+Three days. Then you can book. Uh, we will announce the.
+
+Uh, not receipt, but, uh, inspection the dates that you will come to my office and check the,
+
+uh, your exam paper if you are not happy with your grade. And one.
+
+Uh. One advice that I can give it to you.
+
+Please stay within the HCI terminology.
+
+Okay. Like you may bring your own background to to answer the question.
+
+I don't know whether you are from philosophy or from other disciplines.
+
+But here we are teaching HCI. So your answer has to be within this HCI terminology.
+
+Okay. Do you have any questions related to this cover page?
+
+No. Okay.
+
+Them. Let's go to the first question. And I will not share the video of, uh, session of this uh, uh, lecture because here I will, uh.
+
+Uh, you will see the, uh, question and we will make a brainstorming about the answer.
+
+So that will convince confused the students who are watching this video.
+
+So it's better to, uh. It's better for me to not to share the images.
+
+Okay, so this is the first question. It is super simple.
+
+Okay. What's the. Concepts in here.
+
+You don't need to take the photo. I will share with the commons.
+
+Okay. You asking? Stupid. Okay.
+
+Okay. What is the, uh. What is written? What should be written in the box?
+
+You are already doing for your assignment. This little time.
+
+Okay, but that is the half of the question. With other half.
+
+And what's the other half of the question? Okay.
+
+What is the name of processes illustrated in box A and? You one method that can be applied in the lead finding step.
+
+Okay. And half of the students will fail with this question, or it will get only partial answer or partial grade for this question.
+
+Yeah. Brainstorming. That can be anyone. Yeah. So don't forget this question has two parts.
+
+Okay? One part is in here. Most of the time, a sense of giving the exam in here like a low fidelity prototype.
+
+But actually a question asks give the one steps in here.
+
+Okay. I like interviews for the news.
+
+Finding like surveys with finding.
+
+So your answer was incorrect in this case. Okay.
+
+So I thought about the sponsor. You see, we shouldn't share the video.
+
+Okay, cool. So, is it easy?
+
+The super hot. Come on.
+
+It is a shame for me to ask this kind of question. Because you already dealing with at this time weeks for this.
+
+Uh. Uh, circle again. Again. But be careful and read the question very well.
+
+You have three minutes to read and answer this question so you don't need to rush hour.
+
+Okay, so what is the common mistake students are doing?
+
+They know this is prototyping and they are giving example in here. Method in here.
+
+Okay. So just read it carefully and to understand it.
+
+Okay. So for the. This is since, uh, open ended one like an you have to write it.
+
+Just write this one. It will be enough. Okay. Back. Say prototyping and the methods for it finding.
+
+I am asking one. Okay. If you are giving a five, then we will go and check and accept as an answer for the first one.
+
+Okay. Let's say this is wrong. Okay, you said storyboarding in here, then interviewing, then you will not get the grade for that part of the question.
+
+Okay. Another question.
+
+Okay. Who wants to? Go.
+
+Okay. And. So one case is another case.
+
+Okay. Like an on and off stuff. Okay. Okay. Yeah, that makes sense.
+
+Two. To. To lighten the lightness, but the.
+
+Expanded. I understand. This is.
+
+It's an on and off. I don't know. But you have to mention bit careful your clients.
+
+Okay. What else can be? It's success.
+
+Okay. Like a status message. You okay? Yeah. Okay.
+
+Yeah. Feedback can be okay.
+
+More. Okay. All of them are accepted except turning on and turning off has to be a bit detailed.
+
+Cool. So we have an almost all of them.
+
+I can start a software system error message and different type of information like a attachment for instance.
+
+Okay. And if you write only one of them, you will get one point.
+
+Okay. So if you will. Right.
+
+There's six of them and the first two are correct.
+
+You will get two points, not, uh, six. Okay.
+
+Uh, what's the difficulty level of this question?
+
+Zero. Because we are always mentioning and you can retrieve from your project.
+
+So if you are using correctly, uh, coloured correctly in your, uh, Google project, definitely you can ask for the square question.
+
+Just here. The example is in the electronics domain, but there is no difference in the electronics and the user interface design for us.
+
+Okay. All right, let's go with this one.
+
+Yes. Also true. False.
+
+Which one? But. First one is false and second one is true.
+
+Okay. And in the examples right. It's a false be true.
+
+Okay. If right or say false and true I will assume that false is for a and the true is for B.
+
+Okay. And if you are, uh please do not write uh tolls okay.
+
+True. False. Whatever. So be certain and a false be true a to be false okay.
+
+So be certain. And if you are trying to make some tricks okay.
+
+A to slash F. So don't do this.
+
+And you are laughing. But people of essence are doing okay.
+
+Maybe they are indicating they will come back to that question, but they are not answering on time, so stays in there.
+
+Okay, so you said a false and be true.
+
+Any other suggestion? Oh, I mean, that's super easy question.
+
+And your answer is correct. Okay. And if you know the keyword intelligent in here, basically you can answer this question.
+
+Okay. And what is the difficulty level of this question?
+
+Zero. Okay, how about this one?
+
+This is a bit tricky. Okay.
+
+Who wants to try? Sorry.
+
+First one. Second one. Okay.
+
+You don't know this. Fine. Any other, uh, solution?
+
+Yes. Second one's vision.
+
+Okay. And the first one. If you know what you.
+
+Oh. I think that. Okay.
+
+But if you know, the second one is today, I know that personally I will show the absolute value of God.
+
+Perception. Not quite, but you are very close.
+
+Uh. You want? Sons and sons can be different.
+
+And what kind of sons it differs from usually.
+
+In five senses. Okay. What is the term for that?
+
+Five senses. I mean, face that.
+
+Okay. These are different. Sensation. What are they? They common name.
+
+Census. Yeah.
+
+Senses. Perceptions are. Associated sensors.
+
+Okay. So yeah, cognition calls the, uh, it's reception sense.
+
+Also perception also. But the correct keyword is extra assumptions.
+
+And if you go to the first lecture first, uh, one of the first slides, you will see that we are mentioning in here in the cognition.
+
+Also we divide uh, sensing in interception reception.
+
+And there was another one proprioception okay.
+
+Here. It might be hard to answer this one.
+
+Okay. You are asking us? No, I will come to that point.
+
+Okay. So here, uh, it may be hard to ask for this one,
+
+but if you say something that I can refer to it as similar to extra reception, then I will, uh, accept it.
+
+Okay. But perception is incorrect. Cognition is incorrect.
+
+Sensor is incorrect. English. Okay.
+
+So do you remember interception. And give the one example just on the concept, but you inside the existing.
+
+How about the proprioception? Proprioception?
+
+Proprioception. Okay. Like, close your eyes on the planet.
+
+So this is properties. Okay.
+
+Yeah. What is the difficulty level of this one? Over, uh, from 0 to 5, let's say three.
+
+Okay. This one.
+
+You have no right to ask for this question.
+
+Incorrectness. Because everything is in the figurative. Oh, come.
+
+Okay. Who wants to try? If I were you.
+
+I will try to answer all questions, because the thing that you experience in here will be much more memorable for your,
+
+uh, more, uh, long term memory in the example. All right.
+
+What is the goal for execution? Come on.
+
+Come on, don't be shy. Yes, you.
+
+This process behind the different execution produced area where feedback from user input.
+
+I don't understand. Whenever you're working on Google, uh, feedback goes.
+
+The world to the glory of what you are expecting. The secret to not extend.
+
+Okay, just tell me what is execution? This is just for helpful to remind.
+
+Okay. Cool. Uh. You want?
+
+First of all. An exceptional family.
+
+Okay. Uh. Another one. Vice.
+
+Looks like. Yes.
+
+Right. Yes.
+
+You are rounding the ground. More conflicts also.
+
+Oh, okay. Uh, we should minimise it.
+
+To maximise it. Get rid of it. What does that mean?
+
+That you want to focus? We are referring to here in the execution.
+
+Okay. Come on. This is super, super simple.
+
+And. All golf has to be.
+
+Okay. That's what is minimised. Reduce indigo.
+
+Minimise indigo. Why? Because my goal is here and I want to bring the world as close as possible to the goal.
+
+Okay. And to do this, I have to function. One is goal of execution.
+
+Like I see a product and I performing a one action to discover how it works.
+
+Okay. And that becomes good for execution if it is intuitive and the affordances are clear,
+
+if I are there, then I will be super easily to perform this task.
+
+Okay, so this is called goal for execution. Sorry, I can't go.
+
+So if I describe the execution not in this definition, but as an example, for example.
+
+Minimise the steps which you have to take not to achieve that particular action.
+
+Not here. No, because the question asks you define.
+
+It doesn't ask you to, uh, give an example.
+
+Okay. You can first define and give an example, but I will not try to example.
+
+Okay. So example. Sorry. Uh, yeah. If question ask you to give an example, give an example.
+
+Okay. Otherwise stick with the definition. Okay.
+
+And in here. Do not forget you always need to minimised.
+
+Well. Okay. I mean this.
+
+Oh well. Let's see. What is the difficulty level of this question?
+
+Three. One. Three.
+
+Okay. Five. Come on.
+
+I will have a heart attack. Okay? I can. No, this is not in the, uh.
+
+Um, uh. Hard question. Okay, how about this? Yes.
+
+Because you are unable. They didn't want to.
+
+Okay. Okay.
+
+And, uh. And what else? It was because.
+
+Bridges the east coast. I've always known.
+
+Okay. You show more information. Okay. Okay.
+
+Perfect. You. How?
+
+Combination of both. It will not work in here, obviously. Audio message which completed.
+
+But this one is saying that, okay, the voting process is already finished.
+
+Then it's shoving the audio message on the victory sign. So it means that the system is not invisible in here.
+
+You don't know at which part of the building steps are you? Yeah.
+
+So here it is. Big. But since, uh, the question ask you to explain.
+
+Okay, so you have to first be correct one.
+
+Then, uh, choose the correct one. Then explain this.
+
+Okay. So your explanation might be correct, but the choice is incorrect.
+
+Um, as for it's uh uh will not be graded.
+
+Okay. And for the heuristics, just learn the one that you will implement in your high fidelity prototype.
+
+Okay. We will not ask what is the, uh, six uh, principles from, uh, Neil?
+
+Uh, sorry. Uh, normal. Okay.
+
+And you will be only responsible, the one that you are doing for your, uh, project.
+
+Cool. Otherwise you will have a bunch of. I mean, if you are expensive for clearly you know for certain rench, I may accept it.
+
+Okay, but see, you should agree with me, okay?
+
+Uh, you should agree with me and, uh, ask for within that framework, because booting is, uh.
+
+Okay. You know, uh, you are not taking any systems level, uh, class in, like, an operating system, some other stuff.
+
+So voting is not just an instant process, okay? Your computer will go and check the, uh, file from there.
+
+It will check the, uh, drivers are okay.
+
+Then the graphical user interface are okay for you.
+
+Okay, so it's a process, and we need to be sure that that is, uh.
+
+Oh, that's a mistake. Okay, then. What is the difficulty level of, uh, difficulty of this, uh, question?
+
+Two. Okay one.
+
+Okay, now I agree with you. Zero. Okay, cool.
+
+All right. How about this one? And this is not my question.
+
+The question three years ago by one one of the. Okay.
+
+What's the answer? You want. Okay.
+
+Any other answer? Difficulty is zero.
+
+I see you have had some putts, right? For once related to it.
+
+It may trade, but not more.
+
+Difficulty zero. Just right. It started as.
+
+Simulation. Stimulation.
+
+Okay, so the simulation of what? But then he said something similar.
+
+I hardly think so. Cloth.
+
+You. The correct answer is senior fashion.
+
+Okay. And what is the difference between affordance and the signifier? Versus a simulation will not be accepted.
+
+Okay. It is not even close to that a word.
+
+Stimulation simulation, whatever stuff it's.
+
+Okay. What's the difference between affordance and signifier? Of importance as a direct associate.
+
+Or direct actions. Okay. Signifier is just abstract.
+
+It doesn't affect anything else. Okay. Okay.
+
+You. No, you.
+
+So this was. It's clarifies what can what action can be done.
+
+Okay. Remember there is a door and handle is giving me pull or push as an action.
+
+And this action is an affordance when it's not clear how to open this door.
+
+And you are saying that pull, then that pull as a text is a signifier.
+
+Okay. And the signifier can be audio, can be colour, can be anything that helps you to perform that action.
+
+Okay. So there are two different things. Usually since are confusing about it.
+
+Now we can give an, uh, 15 minute break then come back.
+
+And we still have ton of questions. And the difficulty of this question is zero.
+
+Okay. Still within its reach to five. It's good.
+
+Sources. Uh, who are here? If you didn't complete the course evolution, that is for canvas.
+
+There is an announcement for it. And do it, uh.
+
+Right now. Okay, let's start for the second session.
+
+Okay. This is the one of the narrative, uh, questions sexual.
+
+Ouch. So first thing.
+
+You will be always responsible for Nielsen's heuristics. Okay.
+
+So it. Just, uh, do not confuse with the, uh, Norman and the other, uh, heuristic, uh, uh, of tricks.
+
+You will always ask for Nielsen's heuristics for the final exam.
+
+Okay. So which one can you?
+
+Yes. You want to try? Okay.
+
+Another one. It's.
+
+International support for. Okay.
+
+You. Design for error.
+
+Okay. Mob. Sorry, people.
+
+Okay. Okay. More. You are close, but it's not touristic.
+
+Okay. Another one. We have almost five different principles, but some of overlapping.
+
+Okay. Why? This is not for, uh, the Coalition of Recall. So because it is warning to you.
+
+This doesn't exist. We'll get to you.
+
+Would you like to listen to this woman? Let's close. And in the heuristics.
+
+If you you don't need to, uh, give the exact name of the hitter stick.
+
+Okay. Is something related to error? Error?
+
+Error prevention? Okay. Not allowing to make an error.
+
+This will be accepted versus. Okay.
+
+I will say this. Yes. Can I just. Okay.
+
+And, uh, what is the, uh. Difficulty levels.
+
+Three. Two. I would say this is, let's say three so that we didn't exceed it over three.
+
+I just want to. Maybe. Okay, so the question asked, uh, you write the two advantages of within subject design over between subject design.
+
+And, uh, here you should not define what is really what is between subjects.
+
+And we are not asking you to define it. You will just write to different advantages of the.
+
+Yes. You need to understand. Okay.
+
+For within subject design, you need a substance? Yes.
+
+Okay. Then the second one. You can see the same parts.
+
+We all. Okay.
+
+And that is the definition. That's the definition.
+
+Yum. I couldn't it exactly the advantages of that.
+
+Okay. Yeah. There will be some advantages. Maybe some cost.
+
+Because you are hiring one person for the one experiment for one person, a person for the two experiment.
+
+What else can be? Let's say one. Okay.
+
+Two. What is the advantage of having, uh.
+
+Uh, conducting, uh, willingness to subject to design experiments.
+
+This is not hard question. Well, you can compared the principle on how one person interacts with different things.
+
+Okay. And though that is still in the definition of the evidence.
+
+But you should uh, I know, you know, uh, that's an advantage.
+
+But you should make it more clear. Like you can discover actually true correlation.
+
+In the, uh, within subject. Just check it.
+
+Uh, this. And I don't have an answer for it because each answer would be different.
+
+But if you write that, uh, time will be one advantage of it, budget can be another advantage of it.
+
+Third, you can discover the, uh, true correlation in the conditions, like single person tries different settings.
+
+Instead of one person, place each one person.
+
+Try one setting another person so you can discover the true correlation of the what you are measuring.
+
+Okay, how about this one? Just to give you a bias, the difficulty is zero.
+
+Maybe less than zero points. Oh.
+
+Find examples. Forget the spark of. Just answer this.
+
+So hospital, uh, how do you, as a designer, interaction designer or industrial designer for the,
+
+uh, designing, and you draw and you come up with this kind of design?
+
+Okay. One part is can be pulled and other parts.
+
+There is no handle. The only action that you can do is push.
+
+So now the management team says that's what kind of.
+
+Uh, concepts that you applied that makes the store opened or closed intuitively.
+
+So what is that concept and define? Oh, yes.
+
+What's the concept? Okay.
+
+Your. Users. Oh, no.
+
+There's just something more. Come on.
+
+This is the easiest one. Okay.
+
+The answer is. If you see a new object, okay, this is a new door and you can intuitively use it.
+
+It means that the designers put affordances in a clear way that you can perform the action.
+
+Okay, so the concept is affordance and the definition.
+
+The condition of the, uh, concept is. What is the definition of the concept of what's?
+
+Action opportunities provided by an object.
+
+Okay. This is the definition of. Okay, then.
+
+Uh, this one. Yeah, yeah. Difficulty is zero.
+
+Okay. If you don't know anything from the HCI after two, three years, just know what is inference.
+
+Okay. Then it will. It will. Uh, this is my legacy.
+
+Please do not forget what is affordances. Okay, the new question.
+
+Who wants to say? Was maybe more, uh, diverse.
+
+Go. Primary attention.
+
+Okay. Anyone else wants to try.
+
+Okay. Let's see. First, what is the difficulty of this question?
+
+Zero mean. Absolutely not. Can. Amethyst.
+
+Okay. Please do not write.
+
+This is user stakeholder. Okay, because it is a bit.
+
+Let's name the tautology in here. And the tertiary.
+
+If you can write, for instance, first level stakeholder and the third level stakeholder, we might consider if this is correct okay.
+
+But just now this two second the primary secondary and tertiary will be enough.
+
+And of course, facilitating was the. Okay, this is the famous question.
+
+Okay. Which one is it? Product. Which one?
+
+First of all. Why? That's why the first one is HIV and not the second.
+
+Okay. So to answer this question, please always remember this one.
+
+Okay. Like at the input. Uh, so the output of your user becomes input of your.
+
+Computer. And this is computing something. This is an electronic wallet for your cryptocurrencies.
+
+And this is my, uh, regular wallet. Okay. I'm not using both of them, but.
+
+Right. But here. Please do not be super, super creative, okay?
+
+Do not say that. This wallet's maybe doing some computation under atomic levels, whatever quantum stuff is going on.
+
+That's why it can be considered as a computer. No.
+
+Okay. We are not accepting this one. So basically just say that output of the user will become input of this device.
+
+And this device will do some processing and give.
+
+Output to the its user. And if you make it, uh, in this case that content from the user to the computer.
+
+We already asked for this one. Then they are, uh, acting as an entity to solve the task.
+
+Then if you answer within this circle and the interaction, then we will accept your result.
+
+Okay. Yeah. In here. That will be a exam question, but it is super simple.
+
+Everybody knows what is the box say. Do I need to answer?
+
+No. Okay.
+
+Perfect. And anything else can get it.
+
+Perfect. Usually a robot will not be accepted.
+
+But in my case, if you write the robot instead of computer, I will accept it.
+
+Okay. 14.
+
+Okay. Who wants to try? Go through security.
+
+These are the Gestalt principles. You can say that these are part of visual, uh, elements.
+
+We might accept it. But be super articulate.
+
+Okay. Yes. Purpose.
+
+The second one. This. Colour palette. Okay.
+
+Let me step out of the to give. I think if you're just like, uh uh uh uh uh.
+
+Is that, is that like the first is the colour as a design element, you can say.
+
+The second is the grid. Purpose of the grid is organise the information together.
+
+And the purpose of the colour to give a functionality. To the text in here, fonts like the red one will be missing.
+
+Uh, topic. Uh, blue one will be titled and the grey uh one will be what will be a date.
+
+What else we have. Okay in this question, please do not list the colour.
+
+Okay. Colour is the only one. It's a colour, red colour, blue colour, whatever colour would not be except just colour.
+
+Okay. And the purpose of the colour is give the function for the text forces in here.
+
+Another one is the grid. Another one is the font and typeface.
+
+Another one is the hierarchy. Okay, so you should, uh, give this to one of this to them.
+
+Define it. And, uh, two.
+
+Yeah, yeah. Uh. Define it. Explain their functions and they name the, uh, the design element in here.
+
+Okay. So what's the difficulty?
+
+So the. A search bar in the.
+
+Search bar. What does the search bar go? Sense.
+
+Super. Is that a topical division? You don't.
+
+You cannot say the search bar is a part of a Disneyland. It's a part of visual design element.
+
+But not the designer. What's the name? What's the name of the.
+
+So it's like an application and navigation button and it.
+
+So if you say the number is it's accepted. But nobody's in the one part of the visual design element.
+
+What is the purpose of it? Navigate through the pages.
+
+I mean, this is very, very fishy, I swear, I will say. But do not try.
+
+If I ask you, just ask for certain stuff, okay? Let's check it.
+
+Uh, what? Is the Duchess here?
+
+Okay. And if you.
+
+Come here. Let's see. Here.
+
+Okay. So in this visual, uh, design, you cannot find the navigation path.
+
+Yeah, it's part of the website and other stuff you can set.
+
+Uh, like the one that you set. Uh, I guess that, uh, stuff.
+
+Okay, so we cannot, uh, we cannot accept the text.
+
+Okay. Uh, okay.
+
+So difficulty is still three. I will see. Huh?
+
+This one. If you make this one wrong, then I will lose at least three years in my life, okay?
+
+Just. And be careful looking. So because I am very, very upset that students are making a mistake in here.
+
+Okay. Who wants to kill me? Yeah.
+
+What is the, uh, answer of this question? So breathe means that's okay.
+
+Minimise it. You want to. Don't try. Let's give us some high risk high.
+
+Hi game. Okay. Uh, who is responsible to minimise the ghosts?
+
+Come on. Come on.
+
+Right. Okay, so be careful.
+
+That's. Okay. You're a size designer.
+
+What else can be? User.
+
+Both team. Students.
+
+Yeah. Who can be responsible? For bridging this, uh, gap.
+
+Or minimising this gap. Reducing this gap. Come on.
+
+Okay. So I should accept that. It is designers responsible with this design team responsible for social responsibility.
+
+If you write user no. Cool.
+
+Okay, so as far as the designer.
+
+And you see, almost all questions are related to, uh, except maybe extra receptive, uh, uh, questions and some question related to your group project.
+
+If, you know, and if you do group projects, well, definitely you can ask for this kind of simple questions.
+
+Okay. This one, this is a bit debateable. We need to, uh, discuss actually.
+
+Just, uh, let's discuss this question. We already did it once, but let's go.
+
+I'm not a Christian. This one? Yeah. Like, how can this be achieved?
+
+Know who is responsible. Yeah.
+
+Then the second part. Okay. Forget. How can this assume.
+
+Okay, then let me this because you've. He's responsible.
+
+Okay. Thank you for doing. Thank you.
+
+Okay. What is the ideal state of this graph? Okay.
+
+Here we have on the usability problems.
+
+Maybe you are designing for a colour-blind person, but some of the colour palette is not for colour-blind person.
+
+That is the visibility problem. And. You are saying that.
+
+Okay. The you have in the 1980s.
+
+Um, the 16 usability problems. And at the end of your experiments and the data.
+
+You have this graph. Each black dot in here means that your user find the usability problem.
+
+Okay. Back here. User zero.
+
+Find this usability problem but fail to find this usability problem.
+
+Okay. Now my question is what is the ideal state?
+
+Of this beautiful ideal state can mean that this will be completely black, completely white, or it is already.
+
+In its ideal state. We don't need to do anything. So what will be your aspiration?
+
+You go. Everything. Let everything black. Why?
+
+Then all problems have been solved by all the different evaluators. Okay, let's go downstairs and accept it.
+
+There is. If you like to go? Yes. Then your design team achieve everything.
+
+So that's also ideal state. And what else can be.
+
+There is also one thing that I can accept.
+
+For the usability problem in here in that stuff. And you will say that these are the less frequently find the usability problem.
+
+Maybe it's not important for your product design okay. So this has been the not single ask for all transfer and all lands for us to be articulated.
+
+If you do in that way that we discussed and it will be. Okay.
+
+The difficulty is still three. This is the.
+
+Last one. I will see you. Go to the barber shop.
+
+Okay. So you are a go.
+
+Okay. What else can we. Low.
+
+Medium. Wizard of Oz. Okay.
+
+Which one? Come on. You are already doing this.
+
+Yes. Okay. So the question does not ask you to explain.
+
+Okay. Just give the answer. The answer is the median filter to protect.
+
+Okay, now we finish our, uh. Go. Only on the one.
+
+But you have to articulate Tokyo looking like a full black.
+
+All these little problems. Font full white. There is no of the problem in the, um, uh, product.
+
+And the third, you don't need to. 12.
+
+And the computer process it and the. Output of the computer will be input of your, uh, your user.
+
+Okay. Yes. Your question. Are you sure?
+
+How idealistic. Okay.
+
+More question. No. Okay.
+
+For the 17, uh, question we solved in here. You see, almost everything is related to your group project.
+
+So it means that the if you know the concepts that you are using for your group project, definitely you can pass the final exam.
+
+Okay. And for the final exam, you are responsible for slides, compulsory reading your practice session.
+
+So you are responsible for everything existing except for the optional readings.
+
+Okay. Yeah. This.
+
+This is the thing for the heuristics. Do not forget, you are only responsible for Nielsen.
+
+Okay, so you will, uh, apply five Nielsen for your high fidelity prototype.
+
+But you are responsible for the exam. All of the need, some heuristics.
+
+Okay. And what else do you have?
+
+Yes. I have a difficulty.
+
+Just. I come up in this, uh, class. Okay, so this is the general one.
+
+If you achieve, let's say we solve 17 and check the slides, you will definitely discover six more questions.
+
+Then it will be 25. And within that 25 I am sure if you do delivery you will do 24.
+
+Right. So it is not. That's hard practice.
+
+And of course it depends your mood, your reading.
+
+Uh. Reading ability or whatever the, uh, psychology that you are into in the exam.
+
+So you shouldn't expect much harder than this kind of questions.
+
+That doesn't mean that you shouldn't know the concepts and the principles.
+
+So if you are comfortable with it, definitely. But this is the final lecture.
+
+Please come to the practice sessions if you have questions,
+
+because that will be last chance for you to get the direct contact with us, especially with me.
+
+Um, other than this, evaluations are open. Please.
+
+If you want to take your events from this, go. And, uh, across the US.
+
+So see you maybe next to next semester.
+
+One question about this project.
+
+Uh.
+

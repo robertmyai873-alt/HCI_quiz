@@ -1,0 +1,1661 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Under. In today's lecture, we will go.
+
+And introduce the principles, heuristics and feedback mechanisms and their roles in the HCI setting for the project.
+
+The content of this lecture will be important for your, uh, group project.
+
+So the thing that you learn in here has to be included in one of the deliverables, actually.
+
+So please listen carefully and take your seats as early as possible.
+
+We are waiting. You. So what we did previously, we introduced the different types of, uh,
+
+prototyping and how we can analyse the tasks that you, uh, for your group projects.
+
+Um, for the general HCI settings. So do you have any question regarding the previous lecture?
+
+And today you need to upload your first assignment.
+
+So how is it going? You already finished? It is super easy.
+
+Yeah, cool. So don't be late and do not send me an email at, uh, 0001, okay.
+
+In the midnight so that I couldn't, uh, upload my, uh, uh, assignments.
+
+Okay then. Let's see.
+
+And, uh, introduce what we will see today.
+
+And we will start with today's, uh, quotes by uh, this Rum's is a legendary, legendary industrial designer in, uh, in Brown.
+
+Um, he come up with some set of, uh, quotes for us, like, um, it's an, uh, principles that he follows while he's designing, uh, products.
+
+And partially we will also follow similar, uh, heuristics and similar principles, not by the deterrents, but the other, uh, it's, uh, people.
+
+What he says. Basically, good design is innovative. Yeah.
+
+So if you are designing something, it has to be some innovation in it.
+
+Otherwise you will, uh, replicate the already existing products.
+
+So we want to be, you know, what if and then another one is the design has to be useful.
+
+If you are creating an art projects, we don't need to be in a.
+
+We don't need to create a useful things, but since we want to.
+
+Create a design product that will be used by all users, then it has to be usable.
+
+Aesthetics. Yeah, this is a bit debateable, actually.
+
+Okay, so there is, uh, some basic principles for designing beautiful products, but there is no consensus on it.
+
+So we can skip this part. And the design has to be understandable.
+
+And now my question. Understandable by whom? By other designers.
+
+By the author of the textbooks. Who said users perfect.
+
+Whatever we are doing in here, it has to be users, okay? And the design should be honest.
+
+And honest means that okay, if there is some flaws in your the product has to be it has to be mentioned.
+
+Like that product will probably complete the shelf life in two years.
+
+Okay, so with this kind of stuff you have to mention.
+
+Unobstructed. We will not go in detail. You can skip it, but the design or product has to be long lasting.
+
+Of course there will be some fashion stuff or trends in the market.
+
+You are free to follow it, but if you want to have a timeless design, then it has to be long lasting.
+
+And I will show you a few examples by design, by the arms and how they are long lasting.
+
+And it has to be consistent, which means that if you are creating the second version of that, uh, product or the design elements.
+
+So there should be some consistency.
+
+Yeah, there will be some ground breaking, uh, modalities like in virtual reality that if you want to include in the second version of it,
+
+but oftentimes you are not jumping between the, uh, products.
+
+We are iteratively make it be, uh, making it a bit full useful and changing our policy towards what we have.
+
+And another one is the environmentally friendly.
+
+Yeah, that's the one problem actually. Like here, almost all of our of us buying and using the daily plastics and it's super, super big problem.
+
+So in this case, or, uh, design has to be environmental friendly and one way to achieve it.
+
+Of course, in the digital platform, that's it may not be super, uh, important for us, but if you are creating a long lasting,
+
+uh, furniture, for instance, then means that you are contributing the environmental friendliness of this product.
+
+Okay. So imagine that you are building this kind of furniture for all classes in Tilburg University, and after two years you have to change it.
+
+Okay. And the last one and the most important one to me.
+
+What it says. Uh, good design is as little as as little design as possible.
+
+So how this is possible. Okay. We are saying that he is a legendary industrial designer, but he says that design as less as possible.
+
+How we can achieve it. Okay.
+
+Now we will go and see how you achieve it in this product.
+
+These are the main, uh, some of the products designed by the Deter Arms and produced by Brownes and UK.
+
+Some elements are still in there and we are using it.
+
+Especially if you are in the Apple ecosystem, okay.
+
+And you see a lot of parallels between the data Rum's design and Apple products.
+
+And that should remind you, actually. By the chords mentioned.
+
+Uh. By, uh. By who? By Steve Jobs.
+
+What? It saves. Good art is copying.
+
+Great art is steals. Okay. And here, here it is.
+
+Actually, they are stealing a lot from these runs.
+
+And it is a design trends and design approach. Here you see one product by Brown and you see the same.
+
+Design trend at trend or design elements existing here in the iPod.
+
+Okay, of course they might not be the same products, but you will see the design approach is similar between these two products.
+
+Okay. And here another one.
+
+This is the speaker by Brown and designed by the deterrents.
+
+And you see that becomes monitor for the apple.
+
+And here is the actual, uh, what's the, uh, calculator by the Rams, and you will see the digital version of it.
+
+By Apple. Okay. So it means that with this, uh, uh, this is proof somehow.
+
+Yeah. The apple inherently adopt, uh, the Trump's principles and apply it is, uh, uh,
+
+apply these principles to generate the, uh, products both in the hardware domain and the software domain.
+
+Okay. Like you will see almost everywhere in the Apple products.
+
+Okay. One thing that I just realised here, for instance, the apple lock in here.
+
+And if you check the, uh, brownes colour.
+
+People connect to each other. And you will see the similarity are undeniable.
+
+Okay. And if you are interested, actually, if you check to some, uh.
+
+Okay. This is set. Okay. Some, uh, design, uh, by the drums.
+
+This is, for instance. Okay.
+
+You see almost nothing in there. But everybody knows that this.
+
+Watch and there is no number. Okay. Okay. He also removed the number.
+
+And we have only two, uh, handles in here.
+
+And the date. And in this quote, a quote.
+
+If you are reading this watch and you are probably listening to this part of the quoting.
+
+Good design is as little as design possible. Okay. And in your case, please consider this, uh, this advice.
+
+Okay. In a super careful way and try to implement it.
+
+And I am sure if you follow this kind of, uh, heuristics or principles in your daily life,
+
+plus in your group project, then everything will be fine and you will get the high grade.
+
+Okay. So these are the quite hand-wavy, uh, principles for the designs.
+
+Okay. Because we don't have a data to support that, this quote with this kind of, uh, uh, components in it will satisfy your end product.
+
+We don't have all this data. Except we have some success stories of the brown, but we don't have this data.
+
+But during this lecture you will see actually some set of rules that we will have, and they are backed up somehow by the data.
+
+So to first understand, uh. The heuristics, the principles we need to address one key concepts.
+
+For the HCI for your next, uh, semester lecture.
+
+Like autonomous systems feedback. So we are using feedback for our products.
+
+To guide our users in. Imagine that we have an.
+
+This robot. And you will see there are a lot of beautiful feedbacks exist in this world, which is quite nicely designed.
+
+Like here, you will see. I am, uh, pushing in. Uh, pushing a button on the chest and you will see.
+
+Some bites are opting in here. Okay, so there is an LED lights in here and something.
+
+So it means that something going on. And here you will see.
+
+Super beautiful design. Actually, look at the nulls. If this robot is somehow behaving like an Lord loading bar.
+
+Okay. And you will see there are some circles going on in this years part on here.
+
+And that indicates that the operating system or the PC inside of that robot is booting.
+
+Okay. And the colour of this, uh, LEDs in the, uh, robot's, uh, eyes also means something else.
+
+Something. It means some processes are, uh, going on.
+
+Like if it's white, it means that everything is fine and the robot is booted, and now it will stand up.
+
+If it's red, it means that something going wrong. Okay, so a robot will not move, and, uh, it will not function as expected.
+
+Like your robot is. Now.
+
+You see, it's already changing. It was, uh. Uh uh uh.
+
+Sit down. And these are the feedback you like.
+
+We initiate from our robots, and we know that what kind of actions that we can perform or expect to expect to be performed by a robot.
+
+And one principles of the feedback in your case too.
+
+It has to be prompt. Promise that instant. Okay.
+
+Like you push a button on the robot and you are waiting, uh, five minutes and you don't know what's going on.
+
+You push on the button on this, uh, laptops, and you are waiting and you don't know what's going on.
+
+Okay, so that means that the feedback mechanisms of this kind of products are badly designed.
+
+And another part of the feedback should be clear and easy to understand.
+
+Clear means that the information you provide in the, uh, in the error message has to be clearly understood by the users.
+
+Understand means that okay, give and enough modality enough sensory feedback for your users, that user has to decide what will be the next action.
+
+And, uh, here, for instance, I will say, uh, I will run again because.
+
+It's very good design products now. I really like it. And you will see the feedback is colour and.
+
+Or neck and neck. Okay. Um, so Robert is actually providing you auditory feedback to.
+
+So it means that we are not bonded with the, uh, only colours on the text.
+
+If you can use it, you can also use the or. Sorry, even some, uh, somehow textiles like our smartphones has some, uh, vibrating mechanisms inside it.
+
+Yeah, for some cases, they can vibrate. And, uh, or feedback also can be combinations of all three.
+
+So you are. You don't need to give only one feedback to your users by selecting only visual component.
+
+You can combine them or just use enough of them to make it prompt and easy to understood by your users.
+
+Okay. So did you understand this?
+
+Uh. It's like. Because for your group projects, then if you develop some prototypes and I will ask, okay, what will happen if you push this button?
+
+Then you should have an, uh. I should have an clear understanding that.
+
+Okay, what will happen if I, uh, click one icon in your, uh, prototype?
+
+And what are the some, uh, design elements, like a colour.
+
+Will mean for me. Okay, I will make an error. For the passport, uh, section.
+
+Then you have to give me an prompt and easy to understand feedback.
+
+Okay. And the. What will happen if you are not giving any, uh, feedback to the users?
+
+Imagine that you are next to this tap and you push it up.
+
+Then you are waiting the water to be to come, uh, from that top.
+
+And this is super instant for us in our daily life.
+
+Yeah. But for the digital, uh, product, sometimes it's, uh, they are not, uh.
+
+You cannot get that a, uh, instant, uh, instant, uh, feeling.
+
+Why? Because something. Some places are, uh, going. And there is a glitch in the system that, uh.
+
+You cannot get, uh, from feedback. Continue.
+
+It's a related to lecture or. Okay.
+
+Perfect. Cool.
+
+And here's another example, actually. You are, uh, you have the one, uh, button in here and what it says options.
+
+And you are clicking it and there is no options. Okay. And these are real examples okay.
+
+And you will see in. In the history of UI design.
+
+A lot of, uh, this kind of, uh, problems are occurring with the super famous companies.
+
+So it's not, uh, only us, but the some, uh, famous companies are all, uh,
+
+also doing this kind of, uh, uh, it's kind of Watson, this kind of, uh, a bad design decisions.
+
+And in here we. Or cycle.
+
+It's quite simple. So remember this famous, uh, figurine here?
+
+We are the users. We are taking on one action on the interface.
+
+Then we are waiting, and we are waiting.
+
+And, uh, computer is doing some processing in here. And if you understand that.
+
+Okay, this process helps us to accomplish this task, then we are happy.
+
+If not, then this interface has to guide us. Okay.
+
+There is an error. Can solve this, uh, this error. Or you should call the it or you should just eliminate this.
+
+Software and they install the second version of that software. Okay.
+
+Yeah, this is the same thing I mentioned I mentioned in here, but later that will be super important for us.
+
+Okay. As a users, you are doing something.
+
+Okay. Clicking the button. Pushing a button. Switching off and switching on the buttons.
+
+Or adding some numbers as in passwords or researching some products in the list.
+
+Then what will happen? Your output.
+
+The things that you are doing will be input of the system. And that input has to be processed.
+
+Okay. Like, uh, password should be confirmed by the existing password that you already have from the database.
+
+Then your interface or your computer will send, uh, some feedback.
+
+Okay. Like your your available, uh, amount of money for withdrawing this, uh, uh, this, uh, process is €10,000 for this.
+
+Okay.
+
+If you go and buy the product with 10,000 plus one, then it means that the system has to give you a feedback that you cannot process this, uh, action.
+
+And based on this feedback or the information, you are adjusting your behaviour.
+
+Okay. Behaviour can be. Purchase it or add additional money to your, uh, bank account, or go and check its less, uh, expensive product.
+
+And by this one, actually, you are interacting with your interface.
+
+And, uh, if the interface is designed well, then the feedback mechanisms is that then you can understand that okay.
+
+Whether you can accomplish this task or not. Okay.
+
+And if you are using an interface, then it cannot help you to accomplish the task.
+
+It means that super bad design. And to avoid.
+
+To avoid this. Uh. Uh, what's this, uh, glitch?
+
+To avoid glitches in this cycle. We will teach you a few heuristics.
+
+The rules that you need to follow. Then if you are following this rules, then everything will be fine.
+
+For your group projects for your professional life.
+
+If you are an industrial or if you're an interaction designer in one company, then everything will be fine.
+
+And of course this feedback is super important. Really. If you can understand.
+
+It. From this lecture. Or from the context of the HCI.
+
+You can easily extend it to the other lectures.
+
+For instance, in the next year we will have an autonomous system course together.
+
+Hopefully, uh, then we will introduce a feedback control in here.
+
+We will use feedback as an error. And using that error as an adjustment module for your robot.
+
+And you are already taking the, uh, machine learning course.
+
+Did you see the reinforcement learning as a topic? Yes.
+
+In here we have a reward as a feedback to your agent.
+
+Okay. And based on that reward, your agents are, uh, preferring to some action over the others.
+
+And in this supervised machine learning, you also have an backpropagation.
+
+Like you have a one loss function. With backpropagation, you are minimising that loss function.
+
+And this is type of the feedback actually. Okay. So if you understand it, definitely it will help you, at least conceptually.
+
+Okay. Among the other, uh, among us. Uh, yeah.
+
+Among the other, uh, lectures to. Like here we will introduce, uh, one, uh, topic in here, like an, uh, action perception loop for the robots.
+
+And the the almost same thing exists. Uh. In the robots too.
+
+Okay, robots are perceiving some.
+
+Let's say you have an, uh, this, uh, drive a robot, and it needs to drive from, uh, Shinjuku to okay Bara in Tokyo, then.
+
+Robot is perceiving some scenes from the. From the environment which its sensors let the camera.
+
+Then processing it and performing an action.
+
+Okay. And over the time, actually a robot learns by itself to navigate in the.
+
+But next year this is super high conceptually a conceptual example, but next year we will do some simulation example with this one.
+
+You know, super simplified grid world example. And I also mentioned that feedback control.
+
+Here. I will not go detail but be. Be aware that next semester we will go and somehow develop some algorithms on the actual, uh, hardware.
+
+That's, uh, emulate this loop, which called feedback control.
+
+For the simple robots. Okay, so just be ready for the next year.
+
+The feedback will be and you will, you will see a lot of, uh, examples, a lot of, uh, uh, development related to feedback.
+
+If you learn in here, then it will be easy for you to get in the next, uh, next semester to.
+
+Okay, so up to here you are with me with the feedback and you know how to implement it with some modalities like colour,
+
+auditory combination of uh, some modalities.
+
+Okay. And another, uh, two uh, concepts uh, for today will be.
+
+Okay. Tools. It's called golf, but I really don't like that terminology.
+
+Okay, but we need to mention it because, uh, this guy.
+
+Its name. Uh. Yeah, that guy, Don Norman Mancini talking that coined to turn.
+
+Gulf of evaluation and Gulf of execution. Please.
+
+Uh. Make sure that you understand, because there will be at least 2 or 3 questions related to a course,
+
+and we will always refer to it in the incoming lectures. So he basically conceptualised this, uh, to, uh, to, uh, go in this way.
+
+First, I want to achieve something. You can withdraw money from the, uh, from the, uh, ATM machine.
+
+Okay. And the world is my ATM machine and the interface of the ATM machine.
+
+And I want to withdraw money.
+
+So the first go indicate that if this is a good designed ATM machine or ATM interface, I have to understand that quite easily how it operates.
+
+Okay. And how it operates, actually.
+
+It will guide me with the. Colours, with the affordances, with the action that I can easily distinguish.
+
+Okay. Like there will be a super big, uh, big, uh, button that I know that if I could push that green button, then my.
+
+Commands or will be processed by the ATM machine. It.
+
+So the Gulf of Execution state. That's if it's good.
+
+Designed. Done. I, the user has to understand how it operates.
+
+Okay. And it's called growth because we are minimising the distance between the.
+
+The world's the existing ATM machine and the Oracle. Okay.
+
+And that's why I called. It's called growth. I don't agree with, uh, this word, but we have to mention it.
+
+And the goals of evaluation. Basically, it is the opposite way.
+
+I perform something on this interface. Then I am observing it.
+
+Okay. What happened? Okay, let's say I enter my password incorrectly.
+
+Then the system has to show me a one error message that I can understand, which is a feedback understood.
+
+So if I understand that. Okay. What's going on?
+
+In this machine. It means that I, the designer, manage well to reduce this goal for evaluation.
+
+Okay. And that will be an exam question.
+
+Okay, so please, uh, make a note. If I don't ask them to come to my office and say that you don't ask this question.
+
+It is the. So it is designers designer's responsibility to reduce the school.
+
+Minimise the school's. Okay.
+
+Did you understand? It is the designers, product owners, the companies, the, uh, firearms, the whatever, the people that are creating this product.
+
+It is their responsibility to reduce this, to gloss or minimise the struggles.
+
+Does it make sense? Okay, so most of you already know.
+
+What is your, uh, little project in? So can somebody be a volunteer and raise their hands?
+
+Come on. Especially the one that you are. Okay.
+
+You. You? Yeah. Yeah. What's your project?
+
+That will. Okay.
+
+Um. Yeah. Like, mostly doesn't make, like, just.
+
+Under the decision making will be personalised. You will, uh, not recommend people uh.
+
+Doesn't like, uh, do not like to go cinema. You're not first.
+
+Okay. Like that. You can do this.
+
+Do not show them so they don't show flex in muscle.
+
+Okay. And, uh, let's say, uh.
+
+How you will minimise this part. Because you are designed for anything.
+
+And I am your user and I need to understand how your system is working.
+
+So what kind of elements that you will include? It will be like the sort of menu that will talk.
+
+Uh, you must also, um, uh, just separates options on the screen.
+
+You would like to move the. The names of.
+
+Perfect. Okay.
+
+And are we still to think about like.
+
+Okay, cool. But be aware that, okay. It is your responsibility.
+
+Okay? I will check your exam question if you don't make it the correct answer.
+
+Okay, because this is the moment that you have to read. Okay.
+
+Let's say you have a this kind of, uh. This kind of, uh, was a product.
+
+Have you ever used a DVD in your life? Or do you know what's the DVD?
+
+Perfect. Okay. I didn't expect that. Okay. And because we are too young, I will say instead of Netflix.
+
+Previously we have this kind of stuff working with them. Yeah.
+
+There are some, uh, actually friends. They had a DVD collection.
+
+But one room is dedicated for their movie stuff.
+
+Okay anyway. Let's say your goal is watch the movie.
+
+Yeah. But something happened.
+
+It's failed. You couldn't find where to push it.
+
+Okay. Or you can find where to put the, uh, DVD inside the inside of this, uh, this product.
+
+And it is quite easy to fail in here. And again, let's say you never use this kind of, uh, phone.
+
+You know. Listen. It's not the.
+
+Anyway, if you don't use this kind of form before then you will definitely fail.
+
+And also failing you will definitely fail. So it means that the designer of this kind of products fails to provide the service for us.
+
+Yeah, like if this DVD, then if you are failing to or you are not sure that's where to put the DVD.
+
+Then it means that the gulf of execution. Between you and this product.
+
+And let's say hypothetically, for the designer it's not minimise.
+
+Why? Because you are not using you cannot use the uh this product easily.
+
+Okay. So it means that the interaction between the users and the your, uh, system are not matching.
+
+Okay. Then you can understand that this product is not for you.
+
+Okay. It's a bit for, uh, other people. Then, instead of using the DVD, let's go and find an, uh, the same movie in the Netflix.
+
+Okay. And what happens in this, uh, circle, basically, this product fail in the market.
+
+Yeah. For this, this type of users. But here we have a Netflix.
+
+How many ethics exist in the, uh, in the market?
+
+10 million. Maybe more. I guess it is approaching.
+
+Let me ask how many. How many Netflix Nuts Flex subscribers are there?
+
+Okay. Well, 300 million.
+
+So Netflix is a platform with 300 million users and this is a failed product, actually.
+
+So you can only find in the basically some, uh, thrift stores.
+
+Okay.
+
+So it means that something is going on with Netflix that, uh, this, uh, guys are not, uh, yeah, this product owners are not, let's say, capable of it.
+
+One of them is, of course, it's another the technology. It's always developing.
+
+It's always progressing towards to online, uh uh, online, uh, streaming.
+
+But still the same. Uh. You got the idea? Yeah. Like this kind of stuff are hard to use by their users instead.
+
+Using the online version of them somehow makes sense, because you are the type of users that 3,000,300 million users are the type of users users.
+
+And what will happen or how. I know that that gulf of execution is not closed, but how I can closed.
+
+For this product. I have this product, but I don't know how to put my DVD inside it.
+
+Go and take some science. That is perfect.
+
+But you have to talk in the HCA concepts. What's that sign?
+
+No. Choo choo. Okay, cute design is the same, but the.
+
+Give me the HCI, uh, concept. During the first lecture we mentioned.
+
+Affordance plus signifiers. Okay. So you will create a one mechanisms in here like put your DVD in here okay.
+
+Or one arrow for instance. Okay. Yeah, this kind of stuff has to be done.
+
+And the idea is okay. Give the affordance in a super clear way.
+
+Even the. Not your ideal users can achieve the same outcome.
+
+Okay. If it's, uh. If you manage to put your DVD and you cannot find the play, so it means that it's failed.
+
+And if you put a play, uh, sign. On top of one uh button then user easily played.
+
+So if you that you. Successfully reduced to a group of execution for that user.
+
+And it can play and, uh, watch its movie.
+
+And of course these are for the regular users, but for the expert users looking for a DVD collector.
+
+You don't need to put that kind of, uh, affordances.
+
+It's good. It has to be there. But you can also give some. Shortcut.
+
+Okay. Then if something happened, let's say.
+
+There is a glitch in the, uh, DVD, and it is rotating a lot.
+
+Okay, then. You should provide feed forward.
+
+Feed forward messages or feed forward with actions. You know what's feedforward?
+
+Feedback is easy. You ordered it something. Something happened and you got the feedback.
+
+What is the feed forward? Say in the Google I now in the Microsoft Word.
+
+You write your, uh, assignment.
+
+Then instead of control async okay or saving your document, you directly jump up to the, uh, to the, uh, that icon with the, uh, cross and.
+
+Then you are trying to, uh, well, some existing this, uh, application and Microsoft Word will give you a warning to you.
+
+Okay. This document is not saved. Okay. Would you like to me to save it?
+
+And that's the feed forward. Okay. If you are doing one step and the system warn you.
+
+Okay. What will happen if you do? Uh, if you skip that step, for instance.
+
+Okay, then in this case, your, uh, document will not be saved, and you have to rewrite again.
+
+But in the current version of it, actually you can adjust it again in eight minutes automatically.
+
+Save the documents. Okay. All right, and minimise the force for the execution.
+
+Each action is quite similar to the affordances. If affordance is clear, then the uh action will be automatically done on this uh object.
+
+Okay. And another type of, uh, way to minimise this distance for the execution is this code morphism.
+
+And that is the one of the secrets actually behind the Apple's product success, both in the hardware domain and in the software domain.
+
+So basically. If you see the apple's, uh, icons.
+
+Okay in here, for instance. It's a thrashing.
+
+Of course, Microsoft also has I mean, whatever, but, uh, that trash is quite similar to the trash that we already have in there in our daily life.
+
+Okay, so Apple actually. Or Apollo based applications are doing this kind of stuff a lot.
+
+Okay, so you have an digital version of the what is going on in the actual real life.
+
+Okay. And that is, uh, make it easy. And almost all users are super intuitively can use their interfaces.
+
+And that is one of the success for the Apple. Like here we have an, um.
+
+Uh, trash bin. Here you have a document and a folder, and we are doing.
+
+Or in the daily life here we have a folder and we are putting or document inside it the same thing.
+
+If you drag and drop this one on top of this one, it will be automatically. What I mostly put inside here.
+
+Also the equator one. Uh. Uh, I don't know.
+
+One not taking up. And it is, uh, it looked like it looked like an, uh, legal pad in Europe.
+
+It's not super common, but in the US, actually, people are using this, uh, uh, yellow pad, uh, a lot.
+
+Here. Also the, um, library. Basically, you are putting your, uh, your books, uh, in that library here.
+
+Also, if you see this one, then you can automatically say that, okay, there's a microphone and I need to talk to it.
+
+Okay, so up to now it's clear code for execution.
+
+It is super important. And you will be responsible in your design and in your in your in your exam.
+
+So please, uh, pay attention to good for execution.
+
+And now we are moving to the evaluation. Evolution.
+
+What? We say that you already perform the action and you wonder how the systems will reply, or how it is easy to interpret the systems feedback.
+
+Okay, can you you tell me what's going on in here?
+
+So. Loading. Loading what? Okay.
+
+Next page. Another.
+
+Maybe some. Don't think it's downloading.
+
+Or it is booting. Okay. Or it's a progress bar like the one that you've seen the robots use.
+
+Okay. So I don't know what's going on in here. Here. So that's the. Biggest problem.
+
+I need to know. That's how I can execute some actions on the interface, and I have to be able to interpret the interface feedback here.
+
+I don't know what's going on. And if I don't know what's going on, actually, then that's a problem.
+
+Because if I put this, uh, uh, interface into real life, it will fail.
+
+It will automatically fail. So to, uh, to, uh, eliminate or mitigate the effect of this kind of, uh, uh, uh, design.
+
+Then I need to put some feedback on it.
+
+Okay. If it's a downloading, then you can say that, okay, some percentage 80% is downloaded.
+
+And I also need to give you feedback immediately, like the one that we mentioned.
+
+That feedback has to be prompt and easy to understand. And somehow I need to also balance the feedback with the actions.
+
+Here it is just an empty screen. It doesn't say to me, okay, perform this action.
+
+This error will be eliminated. Perform this action.
+
+This tournament will be much more easier. Okay? It will be faster.
+
+Not. And since the Gulf of evolution is in no super large.
+
+Okay. If I am not following this kind of guidance or this kind of suggestions, then it has.
+
+It will take. And stay sane means that there is a difference between the user intention and what my systems are doing, and the product will fail.
+
+It will not be useful. Okay. And another, uh, thing that I can do is the, uh, give the difference, uh, feedback.
+
+Okay. Maybe your user cannot distinguish. Uh, here.
+
+Uh. Some colours. Instead, for every rotation, you can give some, uh, some sound, for instance.
+
+Okay. And your user can account. Oh, I see this sound.
+
+I hear the sound ten times it missed. That's. I will wait a lot.
+
+Instead of waiting, let me reboot or let me kill this action.
+
+And the last thing that you can do is use the direct manipulation.
+
+Okay. And direct manipulation will be another. Interesting example.
+
+Like. Here we are. And let's say one example of for the direct manipulation is there you have a file and you are.
+
+Dragging one file from one folder to another.
+
+Okay, in the real life, you are also doing it. Okay.
+
+So this is a direct manipulation. And now one of you has to tell me what's the difference between the skill morphism and direct.
+
+I want to. Okay, let me remind you.
+
+This one is ESCO morphism. And this one is a direct manipulation.
+
+Because for me it is easy to understand.
+
+If I physically perform one action, I can easily understood that whether it failed or not, like, okay, it's not working.
+
+I you. Bye. Put in here? Yeah, I can easily understand that it is working.
+
+Because my action is done. I can understand that.
+
+Okay. It's working. The same thing exists in here. If you're dragging something.
+
+From one folder document folder to measuring usability from here to here.
+
+And if you fail it, it will either come to here or go to there in the background your file or go to in here.
+
+So you can directly observe. Your physical action.
+
+Whether it failed or not. Okay, this is direct manipulation, but skill morphism is just with the appearance.
+
+Okay. You see application is using a microphone like interface, then it means that you will talk.
+
+Okay. They are somehow related to each other, but not exactly same.
+
+So. That it's not just.
+
+So. So how do you. Okay, but not for the all kind of interfaces.
+
+Like an, uh, for the transmission. Okay.
+
+You are not, uh, putting here and going, going, going, going under.
+
+You can read. But what we are usually doing. Okay.
+
+You are using the imaginaries essentially. We are throwing it to you.
+
+But in the Mac interface does not allow you to throw. You have to drag.
+
+Okay, so dragging one, uh, document, putting inside of the bin.
+
+But this direct manipulation. But the seeing the object is the similar to the one exist in the real world.
+
+This is skill. This. Okay.
+
+Now this is please go and check this website. And that's interaction designer did amazing job actually.
+
+For some of the. For some of the listening.
+
+Uh, interaction exists in the, uh, uh, computers, like here.
+
+It is. Somehow we are turning the page. So you can intuitively know that okay.
+
+Going from one. Seen in the, uh, I thought to the another is somehow going at, uh, page turning.
+
+Why? Because if you turn the page, probably there will be similar pictures.
+
+Sorry. Uh, different pictures than the previous, uh, page.
+
+And this one pinching, for instance. Okay.
+
+With the pinching. Mostly we are bringing something or, uh, close to, uh, close to us.
+
+Do you have the same thing exists? This is the real pinching and this is the pinching in the.
+
+In the I put. And also pinching some asphalt under here.
+
+And you will see a lot of commonalities actually exist. I like this one. Okay.
+
+Here. Yeah.
+
+You're removing. You're talking. And just to check the this website, it is, uh, quite a nice to actually explaining what you understand here.
+
+Like we are taking granted for this kind of interactive interfaces and they are helping us a lot, increasing our productivity.
+
+But there is a huge and super beautiful theories behind it.
+
+Okay, now let's give them a break and be here in 15 minutes.
+
+Meanwhile, you can come here and ask a question about the assignments and then whatever you need to ask.
+
+Know. Uh.
+
+So. Does that mean you.
+
+Okay. We are starting again. Okay.
+
+We just, uh, show some, uh, uh, uh, beautiful interactions, actually, between the real world domain and the, uh, in the digital domain.
+
+So just go and visit this website. I think you will be inspired a lot.
+
+And now we are moving to the other, uh, part of this second part of this lecture.
+
+It will be, uh, heuristics. And with the heuristics.
+
+Do you have some understanding about it? Okay. You already see I one or I two.
+
+Okay. And there are some interesting algorithms. But what is realistic in general?
+
+Com sort of shortcuts shortcut forwards and, uh.
+
+Uh, and, uh, persistence of mental shortcuts.
+
+Mental shortcut for decision making in this decision making.
+
+Yeah. Says no shortcuts or rule of thumb. Okay.
+
+Sometimes they are not backed up with data, but, uh, some collective wisdom sexually applied to it apply to your decision making.
+
+And in the, uh, in the design domain, we have three of them.
+
+We have multiple of them, a lot of them. But most of, uh, we are using this three.
+
+Or driving the similar principles from this three.
+
+And the one thing that you need to actually, uh, consider that's um, oftentimes we're applying this, uh,
+
+heuristics in the high fidelity prototype because you will see a lot of contents,
+
+a lot of colours, a lot of interactions, and all of them exist in the high fidelity prototypes.
+
+And in your final presentation, you have to state that five the heuristics that you use for your design and you have to present it.
+
+So be careful about this, uh, lecture contents.
+
+The first one is a Schneiderman. It's called the eight Golden Rules.
+
+And you see, it's quite, uh, old, like a 38 years old, but still we are using it.
+
+Okay. And once you read it, you will say that. Okay.
+
+Come on. This is a common knowledge while you are, uh, even listing this kind of stuff.
+
+Everybody knows it. But the answer is everybody knows it, but not everybody applies it.
+
+Okay. And now we will go one by one and show the some examples.
+
+The first one is the strive for consistency. Okay. It is easy to implement this one and you can use this principles when you are creating a new.
+
+Uh, version of your new version of the same product.
+
+You need to strive for consistency, because you need to save the number of the users that you already have.
+
+Okay. And if you are suddenly jumping a more, uh, advanced interface, but initially you educate your,
+
+uh, uh, users with this interface, then you will definitely lose some, uh, users.
+
+And that is the things that we don't want. Okay.
+
+Like, this is the one of the earliest, uh, let's say interface for the Microsoft, uh, sorry, uh, Apple's, uh, uh, Atlas.
+
+And you see in this menu bar, you have the file edit with, uh, special, I don't know what's this special here, but this is the my current one.
+
+And you see. Similarity is quite high.
+
+Of course, there are some additions. Why? Because technology is improving and there are some new needs and it has transfer that needs.
+
+But here if you go and click this file menu and this file menu, you will see the similarity a lot.
+
+Okay. So it means that Apple with this product between this product successfully.
+
+Manage to strive for consistency. Okay.
+
+And another one. And then the heuristic is the enable frequent uses for shortcut.
+
+Which is common. Yeah, we already mentioned it a few times. So you can provide one interface for the mouse clicks.
+
+Another interface for the audio, another interface for some other, uh, interaction modalities.
+
+But if your users are already super educated, okay, they use this, uh, Google Docs a lot, then instead of, uh,
+
+limiting their actions with the mouse clicks, you can also go and provide the, uh, uh, keyboard shortcuts.
+
+Okay. And the third heuristic in here is to offer informative feedback.
+
+Okay. Most of our, uh, examples come from Apple domain, and they really, really make a good job.
+
+Uh, they they are making a good job in this kind of, uh, this kind of, uh, uh, principles and heuristics for.
+
+Um, I think feedback, like, you can think that's.
+
+If you click one of the, uh, items in your desktop automatically, it will, uh, have a one rectangle means that they are selected.
+
+And if you give the same feedback for the different actions. So it means that they are confused.
+
+Okay. So do you need a microphone to.
+
+To talk or. Yeah.
+
+The one that's next to you. Guys, please be silent.
+
+Okay. And if you have a question. Related unrelated.
+
+You can ask it.
+
+And next time, if you see that you are, uh, talking in that way, I will come next to you and provide you a microphone and everybody can listen to you.
+
+Okay, so this is the, uh. Uh. Example for this.
+
+Heuristics. And another one is the design dialogues to yield closures.
+
+I mean, there are a lot of stuff to unpack in here. You. What is closure?
+
+What is dialogue? What is this? Uh, heuristics.
+
+So basically it says that. Okay, give the feedback in line with what your users see.
+
+Okay. Like here, for instance, if the copying files come to the.
+
+That's, uh, rench. Let's say 50%.
+
+Instead of saying the copying files, say that 20% of your files are copied or 80% of files remain to be copied, for instance.
+
+Okay, so closer it's become closer what you are showing to your users.
+
+Okay. And the one important thing here.
+
+Maybe you can apply to your, uh, to your design tool.
+
+It is the. The errors are inevitable in almost all systems we face the errors, no matter how they are intuitive.
+
+If you give from one users to another, they will make an error. And to eliminate this error, you should first give the information.
+
+Then you should also guide your user with the feedback how they can eliminate this error.
+
+Okay, like here a fatal exception as zero has occurred whatever the number in here in UX.
+
+So the error message is not clear for me.
+
+But Microsoft of course, this is a Microsoft example.
+
+The famous one of the famous blue screens. And you see they are not good for the feedback, but they give actually do a good job in here.
+
+Give me some alternatives. For the actions that I can eliminate this feedback.
+
+One alternative is to press any key to terminate the current application.
+
+Another one is control of the delta for restarting the computer, and the last one is the press indicate to continue.
+
+Okay. So here the error message is not informative which is violate our feedback uh principles.
+
+But uh error handling is executed in here.
+
+Okay. The one user will do a lot of stuff.
+
+And they will make an error, especially in the graphic design.
+
+Uh. Uh, community. You will show something to your friend or the or your user.
+
+They will say that okay, I don't like it. Then you have to easily reverse the final actions that you did.
+
+Okay. And that doesn't need to be a final action. You can also parameterise it.
+
+Go and undo last ten actions, or go and undo the updates that X users did ten days ago.
+
+Okay. And the. The seventh one.
+
+And this is also it's actually hard to unpack. Locus means that the centre of something.
+
+Okay, let's say okay, it's wrong. But I have to mention the amygdala is the centre of the emotion for the brain.
+
+Okay. Our prefrontal cortex is the centre or locus of the decision making.
+
+For instance. And here just say that, okay.
+
+Support. Internal. Internal. Locus. Internal. Of the control by your use of okay.
+
+Let's say in here Microsoft will give in the same situation.
+
+Microsoft will give this kind of error to you, but Apple will give you this kind of,
+
+uh, this kind of interface that you can have a sense of control what's going on.
+
+Okay. And with this one, what you can do, you can cancel.
+
+You can first quit like a restart or you can quit like a press.
+
+Any key. And that becomes the internal locus of control.
+
+The eighth one. The last one. Reduce the short term memory loss.
+
+Can you give that one example in here? In your interface design.
+
+Okay. You are aiming to, with some functionality or some actions to reduce the, uh, memory load for your users.
+
+How we can do it. Can you? How do you type in the search bar in space there?
+
+Fantastic. That's a thing that I'm an expert.
+
+Cool. And for this, uh. Eight rules.
+
+Please learn. Okay. One.
+
+Uh, application. Related to is that given in the exam, I will ask for instance okay,
+
+you know the scenario like and you are a new intern in a software development company and the interface has,
+
+uh, the designer forgot to provide, uh, uh, shortcuts, keyboard shortcuts for the users.
+
+So which heuristics of Schneider that this company, this designer, this colleague is violating?
+
+Okay. If you write this one. Or something close to this one that I can understand.
+
+Then they can and they can understand. Then you will get the point.
+
+Okay, so just to have a one simple example and learn the heuristics, then everything will be fine.
+
+Okay now after the other two years later or famous, uh, guru, I don't.
+
+Norman also, uh, comes with a set of heretics.
+
+And instead of eight he said that okay, seven is enough for me.
+
+So let's go and analyse, uh, the next to each other.
+
+Now we will have an in-class activity that, you know, the Schneider man's, uh, eight rules, Golden rules.
+
+And the read the seven rules and create a 1 to 1 map.
+
+Okay. Like strive for, uh, consistency is similar to, I don't know, designed for error.
+
+Okay. It's not correct. But here, now you can see that. Okay.
+
+The A4 of this parts. Left parts.
+
+Yeah. Last part is similar to the, uh, seven of the right parts.
+
+Okay. If you understand the task. No.
+
+So you will just read it and say that, okay, this one is close to this one.
+
+So just taking a few seconds. Three.
+
+Okay. The first one. With a strive for consistency in Schneiderman and in the normal setting,
+
+which one is close to its or the satisfy the same meaning, same actions in here.
+
+And the example is like this. Okay. Strive for constant consistency.
+
+If. Which one of us is?
+
+Number. Okay. Let me.
+
+I will choose randomly. Then you can say that yes or no. Okay. Uh.
+
+Number four. Yes.
+
+No. Go. Number one. Number one.
+
+Hear, hear! Both of them use both knowledge in the world and the knowledge in the head.
+
+Mhm. Give me a example. Sorry.
+
+Which one you want? For get mappings right?
+
+Okay. First you need to explain what is the mapping. What's mapping?
+
+Okay. What? You understand the mapping. Come on.
+
+Nothing in enormous. So let's say it's like a place.
+
+Uh, yeah. Placement of things. Yes. So, uh, in the example of the number of sites, or was the placement of, uh, Violet.
+
+Um, so I think it's. Okay.
+
+Good catch. Very good question. Yeah, I can accept it.
+
+Okay, how about the. Seven is close to one.
+
+Once they strive for consistency. And others say that okay, if you cannot do anything, just follow the standard.
+
+Can be. Yes. Yes. Okay.
+
+Okay. Cool. You don't need to agree with me, but. And how about this one?
+
+Or for error prevention or simple error handling. It's obvious.
+
+Yes. Okay. Yes. Six. Perfect.
+
+So just practice it, okay? In your free time with this kind of stuff.
+
+Okay. And this one is important. And the, uh, Nielsen.
+
+I guess it is after, uh, this is the last one that we will have.
+
+And, uh, just go and check this website and ungroup and Nielsen and Norman Group, they call it.
+
+And they are, uh, company offers some consultancy for, uh, for design thinking and, uh, UX design,
+
+UI design and this kind of, uh, uh, in it, they are getting services in this kind of a domain.
+
+And here I don't know if you can see or not. It's called an ant group one.
+
+And is Norman another and business. Okay. So they are, uh, companies.
+
+They actually they require a company.
+
+And he come up with the, uh, 1036, and we will go all of them on a one by one in the group project, you have to select five of them.
+
+And in your presentation, you have to show that, okay. You follow this.
+
+These. Okay. At this point, you can do more.
+
+Okay. Let's go.
+
+Okay. Let me. Mhm.
+
+Let's go for the eight. Can you give me one example for eight.
+
+Yes. This is the most.
+
+He does not do the right amount of.
+
+Perfect. I didn't follow the TV stick, but it's a good compliment.
+
+Thank you very much. And, uh, what else that you are using that can be.
+
+Example for this one aesthetic and minimalistic design. Come on, Google about error prevention.
+
+Okay. Go with error prevention. In my development account, whenever I.
+
+Do I really want to do this? Go back.
+
+Okay, that's a little something I do accidentally.
+
+Perfect. That's an error prevention. And, uh, what is the concept that defines this section?
+
+Do you remember? Concept that we introduced in the feedback.
+
+Um, okay. If you. Mentioned that a concept correctly.
+
+You will get coffee. Sorry, I think you can, I think.
+
+But you got a hint, if you mention correctly, that you will get the coffee. Two cups.
+
+Confirmation from. Okay.
+
+What is the concept? You are defining what it is. I don't know.
+
+Come on, you know. I know, you know. Anyone else.
+
+Then you can share the two coffees. Hello. Okay.
+
+He said that. Okay. When he's, uh, using his, uh, saving accounts, and it is somehow systems prompting him.
+
+If you do this one, this action will happen. You have it forward looking.
+
+Okay, two of you have coffee, and I also want coffee too.
+
+Once students actually in the first lecture. Uh, if he's here, you can also come.
+
+And we can go all the time today after the lecture and have a coffee.
+
+Okay, so the first year is six.
+
+Visibility of system status and it is easier like if you are uploading some file, for instance, show the progress bar.
+
+Same thing with the robot. Show the progress bar in the robot years.
+
+So the first risk is the visibility of the system status.
+
+Okay. And if you are uploading some folders and you don't have anything.
+
+Or any message that whether your followers uploaded or how many followers remains, what percentage that it remains.
+
+So that will be problematic. You cannot understand whether you upload or not with that basic action.
+
+But here, if you perform uh, this heuristics, you will have this beautiful implementation.
+
+So in your uh, many of you will design an app.
+
+And in that app you can show some progress bar.
+
+Okay. Like whether the approaches are executed or not.
+
+And you can show this kind of, uh, implementation. And the.
+
+Another thing is the mesh between system and real world, which was what was the concept?
+
+You know it. Success of the apple, we said.
+
+What? Morphism, but what morphism?
+
+There are lots of morphism in the in the in the in the English language.
+
+Come. Skill morphism.
+
+Okay. In the lecture in the exam. So if we ask please write a bit correctly.
+
+If I understand what you are writing then it's fine. Yeah.
+
+This is actually if you match between the system. What you are seeing into this operating system and the in the real life.
+
+So it means that you satisfy the seriousness and the. Users will find easy to use.
+
+Your, uh, your, uh, your, uh, products. And don't forget that these are the usability heuristics.
+
+Okay? It's not something else. It's not evaluation.
+
+Uh, post evaluation, uh, heuristics. It's not that need finding. Interesting.
+
+Okay. This is usability risks. And the third one is the control and the freedom.
+
+Control means that. Okay. At what detail? That your systems can be used by your users basically.
+
+Some users are quite novice. They are just going with the with the mouse interaction.
+
+Another one is the super, super advanced users. Like let's say here you are using the terminal.
+
+Okay. And with this terminal, basically you don't need to use anything in the, in the, uh, desktop.
+
+Like, let me show one thing. Okay.
+
+And you know how to create an, um. Uh, create an folder in here.
+
+Just go somewhere else and click new Folder.
+
+This is the new folder, one with two action. But in reality.
+
+You can come here and let's say what I am. City workspace.
+
+Okay, now we have PyTorch, Quatro and Readme.txt.
+
+Let's see mkdir of any folder.
+
+You see, my folder is created in here. Okay, so for some advanced users, you don't need to go and provide, uh, hosting.
+
+Sorry. Some advanced users may not prefer to use your product in a conventional way.
+
+Like the mouse clicks right click, it becomes three actions.
+
+But if you're on the keyboard and if you, uh, quickly type it with one action that you can achieve, uh, this sort of stuff.
+
+Okay. And the fourth one is the consistency and standards.
+
+These are a bit hard to actually do it, because you need to have a version of the same product,
+
+like one standard way, and these are not written on the stone.
+
+These are not industrial standards that everybody has to follow.
+
+But over time, actually, you will see there are commonalities between the websites, like a commercial websites.
+
+If you are creating an next Ikea like product, so it's better to follow the interface.
+
+Why? Because you are targeting the same users. Yeah.
+
+Or similarly users. If users already educated in the Ikea website, you don't need to create an I don't know, super creative website.
+
+Okay, so just make an action that's similar to Ikea. Here.
+
+Actually, Microsoft, uh, office products, they are super nice.
+
+Okay. Even though they are for Microsoft, Microsoft Power, uh, point, uh, Excel.
+
+And the word I will say one of the best, uh, application that Microsoft creates here, you will see among the different type of uh, uh, iteration.
+
+Actually this part these seems okay, like with the fonts.
+
+You can change the, uh, typeface in here. It is, uh, size, and they are common among the different type.
+
+Uh, different version of the Microsoft Word. So it means that they already specify the consistency.
+
+And also with the lose, they exist the same type of consistency in the, uh, in the logos of the logo or icon of the, uh, Google product.
+
+Like over time it changed to from here to here. But you will see there are some similarities.
+
+Okay. And if you if I showed this one.
+
+For you. And if I ask this one in the next lecture, probably you will realise that this is the same, like okay or the icon for the same product.
+
+Okay. The error prevention. This is the famous example that your friends already mentioned.
+
+So mostly we can do for the feedforward things in here.
+
+Sorry. Uh, feedback in here. Like if you are typing a 1 or 2 or letters from one product, we can list it.
+
+Okay to health or users. Uh users posting users uh uh uh, memory verses.
+
+Okay. Maybe it is like the one that you couldn't remember.
+
+Skeuomorphic. Okay. You know something with morphism, but.
+
+What morphism okay. So skill morphism for instance. So.
+
+Another thing is in here. The feed forward stuff. Must belong to this one.
+
+You sent an email, but you didn't attach anything. Then your interface will warn you.
+
+Okay, that will be another example. And the for the, uh, criteria.
+
+It has to have an uppercase lowercase, a number, and it has to be a longer than the ten characters.
+
+Okay, now another one. This one a recognition rather than recall.
+
+Okay. I need a volunteer to explain me. What's the difference between recognition and recall?
+
+Think about machine learning concepts. Which one is harder?
+
+Recall or the commission? One.
+
+Yes. Uh, the explanation is correct. Here.
+
+Recall means that okay, you are recalling or the memorising.
+
+The exact same thing. Okay. But recognition means that, okay, just you are seeing something and easily understanding what that is, that it's okay.
+
+Like the same example in here. Robots are your, uh, looking for, let's say, uh, uh, Kubrick's movie.
+
+Okay. Can you remember this one? Uh, Doctor Strangelove or.
+
+How. How I stop worrying and loving them. I don't know, atomic bomb.
+
+It's very long to remember and it is easy to make a mistake.
+
+If you type this one Doctor Strange and Google will give you an alternative for it,
+
+then you will, uh, easily recognise that all this is from the Kubrick.
+
+Then you will select it. Okay. Okay.
+
+I'm the one student.
+
+Actually, in the first year when I introduced this one, he made a very, very nice command in the in the, um, of course, evaluation.
+
+Okay, it's a bit personal story, but I have to tell it to make sure that standard understand it.
+
+Okay. So in the first year, we did some, uh, because I inherited the course from the other instructors.
+
+We did, uh. Some of the ABC type question.
+
+Multiple choice questions. And of course, multiple choice question students has to recall a lot of stuff.
+
+Yeah, like school morphism policies okay. In the one example, if I say that's a ski morphism, another uh option will be scale morphism.
+
+Correct one. The third one will be I don't so call morphism.
+
+So you need to recall it. Yeah. Like with this one. Exactly what it is means.
+
+But if I give you an, um, option, okay.
+
+To write in a text box. If you write somehow skill morphism, it means that, okay, you already know that concept.
+
+Okay, but, uh, writing is a bit incorrect, and writing with the current, uh, search engines can be easily fixed.
+
+Okay, so as to not criticise that kind of, uh, exam question, which I completely agree.
+
+Okay. You said that this year. Uh, no.
+
+This course questions are designed for the recording rather than recognition.
+
+Okay. So he's using the.
+
+Concept that we teach in the class to criticising the class itself.
+
+It was perfect type of the feedback that we get it. So that's why you will have an, uh, not that's why.
+
+But, uh uh, in this course, you will have an open ended.
+
+You will have one. Not multiple choice. True. False. And fill in the blanks questions.
+
+So it will be helpful for your recognition. Seventh flexibility and efficiency of the use.
+
+It is overlapping with the, uh, with the error prevention.
+
+Okay. Like if you give, uh, the shortcuts as, uh, shortcuts, for example, for this, uh, heuristics, we will accept it.
+
+And aesthetics and minimalist design. That is a bit hard to convince our students because they like colour a lot.
+
+Or sound a lot. Okay, I'm saying that not you sound.
+
+You are repeating the same mistake. Do not use colour. The first thing that.
+
+Go to colour palette and choose the one of the basic colours.
+
+And here, of course, it's nothing again, uh, written in the, uh, stone.
+
+And, uh, it's not, uh, a rule that we will always follow.
+
+But if your product is aesthetically satisfying and the minimalistic design,
+
+then instead of targeting at some specific users with the one that who likes that colour, red colour,
+
+for instance, if you go with that path, then your user domain will enlarge, okay,
+
+then you will sell your services and the products for the, uh, for the, uh, more people.
+
+And a few examples like, uh, this one is the Google, the famous one. Okay.
+
+And, uh, probably the only, uh, only unnecessary button in here is the.
+
+I feel that I am lucky. Okay. That one. Here.
+
+Also, it's a quite nice actually minimalistic design from the kayak like Booking.com actually.
+
+But if you go with the Booking.com you will see. Mass.
+
+Should we see it or not? You want to know what's in? And here is the, uh, one other application, actually.
+
+So it's not ultra minimalistic, but the colour choice is quite good.
+
+It's not distracting you while studying. So you can, uh, basically adopt this kind of design in your, uh, project.
+
+Especially in the high fidelity and the one that we sure won't be doing the intellectual.
+
+It's called a tipple. And she used that green.
+
+Uh, green, uh white and uh uh, green, white and black colours.
+
+Okay. You know, super simple, balanced way and a very good design. If you need some lecture related, uh, examples, please go and watch that video.
+
+Well nine. This is again, is quite, uh, similar to the error prevention.
+
+Okay. So we need to actually warn or users.
+
+Okay. How they can, uh, first understand the error.
+
+Another one is what they need to perform to prevent that erosion.
+
+Okay. I hear the password case.
+
+Okay. You are, uh. Somehow.
+
+Let's say creating. Anyway, uh, you are creating a new account or, you know, let's say you created one account.
+
+Okay. But you want to understand that.
+
+What kind of, uh. What? Sort of let me make it into concrete as well.
+
+So you create a, uh, you already have a one account. And.
+
+You have a same email, uh, account for different, uh, different mail clients.
+
+Okay. Like what? That's okay. Outlook.
+
+Okay. Uh, Gmail. Okay. But.
+
+You are not sure that which password that you used. Okay.
+
+Because it's. And, uh, you are using a, that's, uh, email account for the person for the.
+
+Amazon. Okay. And you are not sure that. Okay. Which one of you enters?
+
+Or which one is linked with your account. In this case.
+
+The Amazon can give you some hints to you. Okay. Okay. You don't remember what K but it's G or it is outlook.
+
+Then instead of, uh, listing the all combinations like the Gmail Yahoo mail, I don't know, proton mail.
+
+The other stuff. The system can, uh, suggest you first letter, which is quite distinguished with the other stuff with the G.
+
+Then you can easily remember your email and the editing there.
+
+I know it's a bit, uh, a different type of example, but, uh, I'll come up with that one, uh, nice example later.
+
+Cool. And the last one is the, uh, is similar to the, uh, normal one.
+
+If everything else fails. Standardised. Here's.
+
+If you couldn't manage it or your, uh, your users failed to do something.
+
+So give them help with the documentation. Okay.
+
+How they can create the components in Figma, for instance,
+
+how they can change the colour palette okay, how they can change the line thickness of the line.
+
+Okay. You cannot show in the interface, but your user has to, uh, has to go and check the documentation and find out from there.
+
+I know it is a lot of, uh, information bombardment for you.
+
+But just go there and check it. And with each one.
+
+You will already apply a few of them in your project, so it will be quite easy for you to later understand.
+
+But for this one, go and learn at least one example for it.
+
+Okay. Cool.
+
+This is the. Another resources actually like these are.
+
+Heuristics and principles are quite hard to come up with.
+
+Okay, so if you start for an internship in the one design company, this kind of, uh,
+
+companies already will give you a file, okay, that they contain data, materials and data properties.
+
+Okay. Like here, for instance, let's say for an, uh, Apple's, uh, application, the size of the buttons and the curvature of the buttons already know.
+
+Okay. Like, even though they are super long, they.
+
+The same thing is today. Products. Like, I don't know, which is, uh, an official one, but, uh.
+
+For the curvature of the sky. Okay. I was going to soften.
+
+So much of the sky is matching with the iPhone coverage.
+
+Almost seamless. You can see here.
+
+And the curvature of this one also will match with the your, uh, airport.
+
+In the same way. So this kind of stuff are not visible to us.
+
+Yeah. Like we cannot, uh. Assume that it is already there, but there are some people already care.
+
+Okay, this kind of small stuff with their product and at least one of them.
+
+Okay. And of course, we will not expect from you to be that kind of design obsessive or in detail.
+
+But if you can show some, uh, some practices actually, then you will definitely be a bit more educated and you will like what you are creating more.
+
+One anecdote that I will mention. So the guy that who, uh, designed the iPhone jumped a knife.
+
+Okay. When, uh, Steve Jobs, uh, passed away.
+
+He's making a speech about, uh, his, uh, friends and, uh, his bosses.
+
+Steve said that we are going to talk in a different country.
+
+Of course, they need to sleep in a hotel. Okay, so that's what I am.
+
+Hotel. I am not unpacking my. Luggage.
+
+I'm waiting a call from Steve. Okay, because he needs that.
+
+Okay. Still will be super obsessed. That's what's going on in his environment.
+
+And check the design details of what is going on in their environment and in a that's a, uh, in a first 15 minutes, he will call Jonathan.
+
+You okay? So that's okay. Let's move from this, uh, hotel environment.
+
+Okay? I don't like it. Why? Jonathan will say you just reply that I don't like the design of the light switches.
+
+And of course, if you are that. Super detailed.
+
+Okay. With your life, with your, uh, design decisions.
+
+Then you can trade this kind of products. You. So that is the things that actually we need to learn.
+
+And I hope some of you will definitely get some inspiration.
+
+And for the more inspiration, you can go and check this. Uh.
+
+Person. These are arms. He's one of our gurus.
+
+He's super misunderstood industrial designer. But I personally like him.
+
+We'll check him his documentaries and watch this.
+
+Uh uh, this, uh, talk. Becoming a loner.
+
+You will definitely have some inspiration from that. And I will suggest not skipping the next, uh, practice session.
+
+This part of the session, we will go and introduce some, uh, visual elements.
+
+And, uh, two guys for the coffee. You can come here and we can go to our time.
+
+And if you are drinking coffee, we can offer some other. So.
+
+This. Is.
+
+This is. What it.
+
+Looks like. Oh.
+
+That's good. Yes.
+
+Uh, so I had the coffee, but I already had that, uh, next six or.
+
+Something. Um, so the idea is.
+
+No, I have nothing today that I will focus. Okay.
+
+I know you want to see Indians running your.
+
+I mean, okay, so. The heck and who?
+
+Who did that? I am a bit upset that I haven't started with the group assignment.
+
+Yeah, you have to let me do it. That's the thing.
+
+I need a group that is Figma free because I have a problem with my.
+
+Let's call it a laugh or I think something.
+

@@ -1,0 +1,258 @@
+# HCI Concepts — Simple Definitions + Mnemonics
+- **Human-Computer Interaction components** — Humans, computers, and their interactions. _Mnemonic: H-C-I = Human, Computer, Interaction._
+- **User tasks** — Goals users try to accomplish. _Mnemonic: Tasks are “to-dos.”_
+- **Affordances** — What actions an object allows. _Mnemonic: Afford = allow._
+- **Signifiers** — Visible cues for how to use something. _Mnemonic: Signs signal._
+- **Norman doors** — Doors whose design hides push/pull. _Mnemonic: Norman = no one knows._
+- **Task analysis** — Break a task into steps to understand it. _Mnemonic: Task = steps list._
+- **Human sensory system** — Vision, hearing, touch, taste, smell inputs. _Mnemonic: Five senses fuel UX._
+- **Motor system** — Body actions like hands/voice/movement. _Mnemonic: Motors move._
+- **Cognitive system** — Attention, memory, decision-making. _Mnemonic: Cog = thinking gears._
+- **Emotion in HCI** — Feelings shaping experience. _Mnemonic: Emotion colors UX._
+- **Robots as computers** — Robots are computers with bodies. _Mnemonic: Robot = computer + limbs._
+- **User interfaces examples** — CLIs, GUIs, gestures, VR, menus. _Mnemonic: UI is how I interact._
+- **Command line interface** — Text commands typed to a system. _Mnemonic: CLI = type to talk._
+- **Direct manipulation** — Act on on-screen objects with instant results. _Mnemonic: Drag = do._
+- **Gestures and language** — Physical or spoken commands. _Mnemonic: Wave or word._
+- **Virtual reality interfaces** — Immersive 3D interaction. _Mnemonic: VR = virtual room._
+- **HCI product classification** — Decide if something is interactive tech. _Mnemonic: Is it interactive?_
+- **User-centered design cycle** — Design with users involved throughout. _Mnemonic: Users at center._
+- **Design thinking stages** — Empathize, Define, Ideate, Prototype, Test. _Mnemonic: EDIPT._
+- **Double diamond phases** — Discover, Define, Develop, Deliver. _Mnemonic: 2 Ds, 2 Ds._
+- **ADDIE model** — Analyze, Design, Develop, Implement, Evaluate. _Mnemonic: ADDIE steps._
+- **Google design sprints** — Five-day rapid design/test. _Mnemonic: Sprint in 5._
+- **Stakeholder mapping** — Identify everyone affected. _Mnemonic: Who’s at stake?_
+- **Primary users** — People who actually use the system. _Mnemonic: Primary hands-on._
+- **Secondary stakeholders** — Provide input or receive output. _Mnemonic: Secondary side-effects._
+- **Tertiary stakeholders** — Indirectly affected. _Mnemonic: Third ring._
+- **Facilitating stakeholders** — Build or deploy the system. _Mnemonic: Facilitate = make happen._
+- **Needfinding interviews** — Conversations to uncover needs. _Mnemonic: Ask to need-find._
+- **Online surveys** — Web forms to gather data. _Mnemonic: Survey by server._
+- **Focus groups** — Guided group discussions. _Mnemonic: Focused group talk._
+- **Observation studies** — Watch users in action. _Mnemonic: Observe in the wild._
+- **Diary studies** — Users log experiences over time. _Mnemonic: Diary = daily notes._
+- **Experience sampling** — Prompt users randomly to log state. _Mnemonic: Sample moments._
+- **Ethnography** — Deep immersion in user context. _Mnemonic: Ethno = people study._
+- **Extreme users** — Edge-case users with strong needs. _Mnemonic: Extremes reveal extremes._
+- **Interview kick-off** — Friendly intro and purpose. _Mnemonic: Kick-off sets tone._
+- **Interview rapport** — Build trust so users open up. _Mnemonic: Rapport to report._
+- **Grand tour questions** — Ask for full story walk-through. _Mnemonic: Tour the experience._
+- **Reflection prompts** — Ask meaning or improvements. _Mnemonic: Reflect to refine._
+- **Non-leading questions** — Neutral, don’t hint answers. _Mnemonic: Don’t steer._
+- **Likert scales** — Rate agreement on numbered scale. _Mnemonic: Level of liking._
+- **Survey open-ended items** — Free-text responses. _Mnemonic: Open text._
+- **Survey close-ended items** — Fixed options. _Mnemonic: Closed list._
+- **Single-choice questions** — Pick one option. _Mnemonic: Single = one._
+- **Multiple-choice questions** — Pick many options. _Mnemonic: Multiple = many._
+- **Ranking questions** — Order options by priority. _Mnemonic: Rank to order._
+- **Demographic coverage** — Capture age, gender, etc. _Mnemonic: Demo = who._
+- **Task lists** — Ordered steps for scenarios. _Mnemonic: Tasks as checklist._
+- **Point-of-View statements** — User, need, insight framing. _Mnemonic: POV = Person, Need, Because._
+- **How Might We prompts** — Open questions inviting ideas. _Mnemonic: HMW = hope, move, wow._
+- **Brainstorming quantity first** — Generate many ideas before judging. _Mnemonic: Volume before value._
+- **Brainstorming convergence** — Cluster and pick later. _Mnemonic: Converge to choose._
+- **Personas** — Fictional users based on data. _Mnemonic: Person-as._
+- **Persona goals** — What the persona wants. _Mnemonic: Goals guide._
+- **Persona frustrations** — Pain points. _Mnemonic: Frustrations flag._
+- **Persona data grounding** — Persona traits tied to research. _Mnemonic: Grounded in data._
+- **Storyboards** — Sketch sequences of use. _Mnemonic: Story on boards._
+- **Setting in storyboards** — People/place context. _Mnemonic: Setting sets scene._
+- **Sequence depiction** — Step-by-step frames. _Mnemonic: Sequence = steps._
+- **Satisfaction outcomes** — Ending showing success. _Mnemonic: Satisfied smile._
+- **Star people sketches** — Simple figures for speed. _Mnemonic: Star = simple._
+- **Figma brainstorming boards** — Digital whiteboards for ideas. _Mnemonic: Figma for foggy ideas._
+- **Figma persona templates** — Ready persona layouts. _Mnemonic: Template to tell._
+- **HMW selection** — Choose best “How Might We.” _Mnemonic: Pick the mightiest._
+- **Ideation flow** — Need → POV → HMW → ideas → prototypes. _Mnemonic: Flow from need to build._
+- **Design alternatives** — Multiple ways to meet needs. _Mnemonic: Options to decide._
+- **Needfinding insights** — Key patterns from research. _Mnemonic: Insights ignite._
+- **Prototyping rationale** — Build to learn and de-risk. _Mnemonic: Prototype to prove._
+- **Low-fidelity prototypes** — Rough, quick mockups. _Mnemonic: Low-fi = loose._
+- **Paper prototypes** — Hand-drawn paper screens. _Mnemonic: Paper to play._
+- **Medium-fidelity wireframes** — Clickable layouts without polish. _Mnemonic: Mid = middling detail._
+- **Clickable wireframes** — Linked screens simulating flow. _Mnemonic: Click to walk through._
+- **High-fidelity prototypes** — Detailed look/feel with realistic interaction. _Mnemonic: Hi-fi = high finish._
+- **Wizard of Oz method** — Human secretly drives fake system. _Mnemonic: Wizard behind curtain._
+- **Task analysis definition** — Study tasks to improve design. _Mnemonic: Analyze the task._
+- **GOMS goals** — User objectives in GOMS. _Mnemonic: G = goal._
+- **Operators in GOMS** — Keystrokes/clicks actions. _Mnemonic: O = operations._
+- **Methods in GOMS** — Sequences to reach a goal. _Mnemonic: M = method path._
+- **Selection rules** — How users pick a method. _Mnemonic: S = select strategy._
+- **Cognitive task analysis** — Map mental steps. _Mnemonic: Cognitive = mind steps._
+- **Task environment factors** — Surroundings/tools affecting tasks. _Mnemonic: Environment enables._
+- **Login task steps** — Enter user, password, submit, confirm. _Mnemonic: Name, secret, send._
+- **Email task steps** — Address, subject, body, attach, send. _Mnemonic: A-S-B-A-S._
+- **Prototype iteration** — Build, test, revise. _Mnemonic: Iterate to improve._
+- **Prevention cost reduction** — Fix early, save later. _Mnemonic: Prevent to save._
+- **Correction cost reduction** — Cheaper to adjust prototypes. _Mnemonic: Correct cheaply._
+- **Failure cost reduction** — Fail small to avoid big fail. _Mnemonic: Fail fast, fail cheap._
+- **Skeuomorphism** — Digital mimics real-world look/feel. _Mnemonic: Skew to real._
+- **Gulf of execution** — Gap between intent and available actions. _Mnemonic: Execute gap._
+- **Gulf of evaluation** — Gap between system state and user understanding. _Mnemonic: Evaluate gap._
+- **Feedback promptness** — Respond quickly to actions. _Mnemonic: Fast feedback._
+- **Feedforward cues** — Show what will happen before action. _Mnemonic: Forward hint._
+- **Direct manipulation** — Act on objects with instant feedback. _Mnemonic: Touch and see._
+- **Informative feedback** — Clear signals about results. _Mnemonic: Info back._
+- **Visible actions for novices** — Make options discoverable. _Mnemonic: Show the way._
+- **Shortcuts for experts** — Accelerators for power users. _Mnemonic: Shortcut for pros._
+- **Error prevention** — Design to avoid mistakes. _Mnemonic: Prevent oops._
+- **Error recovery** — Help users fix mistakes. _Mnemonic: Recover from oops._
+- **Undo actions** — Allow reversal of steps. _Mnemonic: Undo to undo._
+- **Internal locus of control** — Users feel in charge. _Mnemonic: I control._
+- **Reduce memory load** — Minimize what users must recall. _Mnemonic: Recognize, don’t recall._
+- **Consistency in design** — Similar things work similarly. _Mnemonic: Consistent = predictable._
+- **Dialog closure** — Clear start/middle/end of interaction. _Mnemonic: Close the loop._
+- **Knowledge in the world** — Cues in the interface itself. _Mnemonic: World gives hints._
+- **Knowledge in the head** — What users must remember. _Mnemonic: Head holds._
+- **Appropriate mappings** — Controls align with outcomes. _Mnemonic: Map control to result._
+- **Constraints in design** — Limit options to guide correct use. _Mnemonic: Constraints constrain._
+- **Standardization** — Follow familiar conventions. _Mnemonic: Standard saves thought._
+- **Nielsen visibility of system status** — Always show what’s happening. _Mnemonic: Status visible._
+- **Match with real world** — Use real-world language/order. _Mnemonic: Real words, real order._
+- **User control and freedom** — Easy exits and reversals. _Mnemonic: User can bail._
+- **Recognition over recall** — Show options instead of memory. _Mnemonic: Recognize > recall._
+- **Flexibility and efficiency** — Support novices and experts. _Mnemonic: Flexible speeds._
+- **Aesthetic minimalist design** — Only necessary content. _Mnemonic: Minimal mess._
+- **Help and documentation** — Guidance when needed. _Mnemonic: Help at hand._
+- **Helpful error messages** — Plain language, cause, fix. _Mnemonic: Error: plain + fix._
+- **Visual hierarchy** — Arrange to show importance. _Mnemonic: Big, bold, bright first._
+- **Size contrast** — Larger items draw attention. _Mnemonic: Big pops._
+- **Color contrast** — Different colors highlight differences. _Mnemonic: Color cues._
+- **Alignment** — Line things up for order. _Mnemonic: Align to refine._
+- **Repetition** — Reuse styles to link items. _Mnemonic: Repeat to relate._
+- **Proximity** — Group related things close. _Mnemonic: Proximity = pals._
+- **Whitespace** — Empty space to focus. _Mnemonic: White space to breathe._
+- **Texture and style** — Surface look adds emphasis. _Mnemonic: Texture tells tone._
+- **Typography serif** — Fonts with little feet. _Mnemonic: Serif = shoes._
+- **Typography sans serif** — Fonts without feet. _Mnemonic: Sans = sans shoes._
+- **Monospace typefaces** — All characters same width. _Mnemonic: Mono = one width._
+- **Font weight** — Thickness like light/regular/bold. _Mnemonic: Weight = thickness._
+- **Line length** — Characters per line. _Mnemonic: Line length = readable width._
+- **Text alignment** — Left/right/center alignment. _Mnemonic: Align text._
+- **Limited font palette** — Use few fonts for clarity. _Mnemonic: Few fonts, few fights._
+- **Grid systems** — Underlying columns/rows for layout. _Mnemonic: Grid gives guidance._
+- **Columns and rows** — Vertical/horizontal divisions. _Mnemonic: Columns up, rows across._
+- **Gutters** — Spaces between columns/rows. _Mnemonic: Gutters give gaps._
+- **Margins** — Outer spacing around content. _Mnemonic: Margins make margins._
+- **Responsive layout grids** — Grids adapting to screen sizes. _Mnemonic: Responsive resizes._
+- **Grayscale-first design** — Start without color to test hierarchy. _Mnemonic: Gray before spray._
+- **Color for status** — Use color to signal states. _Mnemonic: Status color._
+- **Color for errors** — Warning colors for mistakes. _Mnemonic: Error = red flag._
+- **Monochromatic schemes** — One hue with tints/shades. _Mnemonic: Mono = one color._
+- **Analogous schemes** — Neighboring colors. _Mnemonic: Analogous = adjacent._
+- **Complementary schemes** — Opposite colors for pop. _Mnemonic: Complement = opposite pop._
+- **Triadic schemes** — Three evenly spaced colors. _Mnemonic: Triad = triangle on wheel._
+- **Status link colors** — Different visited/unvisited link colors. _Mnemonic: Link colors tell status._
+- **Error message styling** — Clear text, icon, and color. _Mnemonic: Style the alert._
+- **Visual design examples** — Good/bad UI visuals to learn. _Mnemonic: Examples to emulate._
+- **User research planning** — Set goals, methods, participants. _Mnemonic: Plan before probe._
+- **Evaluation timing** — Test early and often. _Mnemonic: Evaluate every iteration._
+- **Usability testing goals** — What you want to learn. _Mnemonic: Goal guides test._
+- **Research questions** — Specific questions your study answers. _Mnemonic: Questions steer._
+- **Test scripts** — Standard instructions/tasks. _Mnemonic: Script keeps consistent._
+- **Field studies** — Observe in real environments. _Mnemonic: Field = real world._
+- **Lab studies** — Controlled environment tests. _Mnemonic: Lab = controlled._
+- **Remote studies** — Testing without co-location. _Mnemonic: Remote = far._
+- **Expert reviews** — Specialists inspect for issues. _Mnemonic: Experts examine._
+- **A/B testing** — Compare two live variants. _Mnemonic: A vs B._
+- **Web analytics metrics** — Quant data on usage. _Mnemonic: Metrics measure._
+- **Visit count** — Number of visits/views. _Mnemonic: Count the comers._
+- **Visit duration** — Time spent on site/page. _Mnemonic: Duration = dwell time._
+- **Clickstream analysis** — Paths of clicks. _Mnemonic: Click stream trail._
+- **Controlled experiments** — Manipulate one factor, hold others. _Mnemonic: Control to conclude._
+- **Between-subject design** — Different groups see different conditions. _Mnemonic: Between groups._
+- **Within-subject design** — Same people try multiple conditions. _Mnemonic: Within person._
+- **Learning effects** — Practice-driven improvement. _Mnemonic: Learn as you go._
+- **Power analysis** — Calculate needed sample size. _Mnemonic: Power plans participants._
+- **Consent forms** — Agreements on study rights. _Mnemonic: Consent to proceed._
+- **Anonymized data** — Data without personal IDs. _Mnemonic: Anonymous = nameless._
+- **GDPR considerations** — EU privacy rules. _Mnemonic: GDPR = guard data privacy rules._
+- **Predictive models** — Math models to forecast performance. _Mnemonic: Predict with math._
+- **Fitts’ Law** — Time to hit target relates to distance/size. _Mnemonic: Fit distance over size._
+- **Index of difficulty** — Log difficulty of a target in Fitts. _Mnemonic: Difficulty index._
+- **Movement time prediction** — Estimating pointing time. _Mnemonic: Predict move time._
+- **Statistical tests list** — Common inferential tests. _Mnemonic: Stats toolkit._
+- **Chi-square** — Test categorical count differences. _Mnemonic: Chi checks categories._
+- **T-test** — Compare means of two groups. _Mnemonic: T for two means._
+- **ANOVA** — Compare means of 3+ groups. _Mnemonic: A = all groups._
+- **Logistic regression** — Predict categorical outcomes. _Mnemonic: Logit for likelihood._
+- **Kolmogorov-Smirnov** — Test distribution differences. _Mnemonic: K-S = compare shapes._
+- **Kruskal-Wallis** — Nonparametric multi-group comparison. _Mnemonic: KW = rank all._
+- **Memory types** — Sensory, short-term, long-term. _Mnemonic: S, ST, LT._
+- **Sensory memory** — Brief buffer of sensory input. _Mnemonic: Sense then vanish._
+- **Short-term memory** — Limited, seconds-long store. _Mnemonic: Short and small._
+- **Long-term memory** — Durable, big store. _Mnemonic: Long lasts._
+- **Magic number seven** — 7±2 items remembered short-term. _Mnemonic: Seven-ish slots._
+- **Attention guidance** — Direct user focus. _Mnemonic: Guide the gaze._
+- **Eye-tracking studies** — Measure where users look. _Mnemonic: Track the eyes._
+- **Gestalt figure-ground** — Foreground vs background. _Mnemonic: Figure vs ground._
+- **Gestalt similarity** — Similar items group. _Mnemonic: Similar sticks._
+- **Gestalt proximity** — Close items group. _Mnemonic: Proximity packs._
+- **Gestalt continuity** — We follow continuous lines. _Mnemonic: Continue the line._
+- **Gestalt common fate** — Moving together = grouped. _Mnemonic: Common motion mates._
+- **Gestalt closure** — Mind fills gaps to see whole. _Mnemonic: Close the gaps._
+- **Recognition vs recall example** — Choose from list vs remember from scratch. _Mnemonic: Recognize > recall._
+- **Incidental learning** — Learning without trying. _Mnemonic: Incidentally absorb._
+- **Intentional learning** — Learning with effort/goals. _Mnemonic: Intent to learn._
+- **Experiential cognition** — Fast, intuitive thinking. _Mnemonic: Experience autopilot._
+- **Reflective cognition** — Slow, deliberate thinking. _Mnemonic: Reflect and reason._
+- **Bad UI Battle examples** — Extreme bad designs for lessons. _Mnemonic: Battle of bad._
+- **Intelligent User Interfaces** — Interfaces that adapt/learn/anticipate. _Mnemonic: Smart UI._
+- **Adaptive interfaces** — Change based on user/context. _Mnemonic: Adapt to fit._
+- **Anticipatory suggestions** — System offers next steps proactively. _Mnemonic: Anticipate and assist._
+- **Proactive explanations** — System explains actions unprompted. _Mnemonic: Pro explain._
+- **Context-aware feedback loops** — Real-time sensing drives responses. _Mnemonic: Context in, feedback out._
+- **Chatbots** — Text/voice agents that converse. _Mnemonic: Chat robot._
+- **Calendar-map integration** — Combine schedule with location. _Mnemonic: Time + place._
+- **Interface complexity challenge** — Too many features overwhelm. _Mnemonic: Complex crushes._
+- **Interface inflexibility** — UI that won’t adapt to new needs. _Mnemonic: Inflexible = rigid._
+- **HRI definition** — Study of human-robot interaction. _Mnemonic: Human + Robot._
+- **Robot morphology** — Physical form of a robot. _Mnemonic: Morph = shape._
+- **Form follows function** — Shape serves purpose. _Mnemonic: Function first form._
+- **Underpromise and overdeliver** — Set modest claims, exceed them. _Mnemonic: Promise low, deliver high._
+- **Mixed metaphors risk** — Confusing cues from different worlds. _Mnemonic: Don’t mix metaphors._
+- **Uncanny valley** — Almost-human look feels eerie. _Mnemonic: Valley of weird._
+- **Spatial interaction distance** — Appropriate proximity in HRI. _Mnemonic: Space for comfort._
+- **Kendon F-formations** — Common face-to-face group shapes. _Mnemonic: F for formations._
+- **Verbal interaction roles** — Speaking/listening in HRI. _Mnemonic: Voice roles._
+- **Nonverbal interaction cues** — Gaze, gestures, posture, LEDs. _Mnemonic: Silent signals._
+- **Gaze in HRI** — Eye direction showing attention/intent. _Mnemonic: Gaze guides._
+- **Gestures for joint attention** — Pointing to share focus. _Mnemonic: Gesture to gather._
+- **Service robots** — Robots performing tasks for people. _Mnemonic: Service = serve._
+- **Tour guide robots** — Robots leading/informing visitors. _Mnemonic: Guide bot._
+- **Receptionist robots** — Robots greeting/routing. _Mnemonic: Reception robo._
+- **Healthcare robots** — Robots assisting health tasks. _Mnemonic: Health helper._
+- **Socially assistive robots** — Robots that motivate/coach socially. _Mnemonic: Social support bot._
+- **Co-bots** — Robots collaborating with humans. _Mnemonic: Co-work bots._
+- **Self-driving cars** — Autonomous vehicles. _Mnemonic: Cars that chauffeur themselves._
+- **Robot abuse** — Users harming robots. _Mnemonic: Abuse bots._
+- **Attention theft** — Designs hijacking focus. _Mnemonic: Stolen attention._
+- **User expectation management** — Align promises with reality. _Mnemonic: Manage promises._
+- **Robotics interfaces usability** — Ease of controlling robots. _Mnemonic: Robot UI ease._
+- **Symbiotic societies** — Humans and tech benefiting each other. _Mnemonic: Symbiosis = together life._
+- **Persuasive technology** — Tech designed to change attitudes/behavior. _Mnemonic: Persuade with tech._
+- **Functional triad tool role** — Tech as tool to ease tasks. _Mnemonic: Tool to do._
+- **Functional triad medium role** — Tech as experience/simulation. _Mnemonic: Medium to learn._
+- **Functional triad social actor role** — Tech as social partner. _Mnemonic: Social sidekick._
+- **Persuasion vs coercion** — Persuade ethically without force/deceit. _Mnemonic: Persuade, don’t push._
+- **Japan moonshot initiative** — Vision to free people from body/space limits via tech. _Mnemonic: Moonshot = big leap._
+- **Body-brain-space-time freedom** — Goal of transcending physical limits. _Mnemonic: Four freedoms._
+- **IoT definition** — Networked objects with sensors/connectivity. _Mnemonic: Internet of Things = instrumented things._
+- **IoT sensors** — Data-collecting components on objects. _Mnemonic: Sensors sense._
+- **Embedded systems power** — Low-power devices running continuously. _Mnemonic: Embed = efficient energy._
+- **Cloud computing reliance** — Offload storage/processing to servers. _Mnemonic: Cloud carries load._
+- **Big data management** — Handling huge device data. _Mnemonic: Manage the mountain._
+- **Network connectivity** — Reliable links for devices. _Mnemonic: Connect to collect._
+- **Service-oriented IoT** — IoT built on services/APIs. _Mnemonic: Services serve sensors._
+- **Ambient intelligence** — Smart environments reacting seamlessly. _Mnemonic: Ambient = all-around smart._
+- **Smart homes** — Connected appliances/sensors at home. _Mnemonic: Home that helps._
+- **Avatar technology** — Digital/robotic stand-ins for people. _Mnemonic: Avatar = alter self._
+- **Computer-supported collaboration** — Tech enabling group work. _Mnemonic: CSCW = collaborate with computers._
+- **Dark patterns** — UI tricks nudging unwanted actions. _Mnemonic: Dark = deceptive._
+- **Nagging pattern** — Repeated prompts that won’t go away. _Mnemonic: Nagging nags._
+- **Obstruction pattern** — Making desired actions harder. _Mnemonic: Obstruct to deter._
+- **Interface interference** — Layout favoring one option. _Mnemonic: Interface tilts._
+- **Deceptive design hall of shame** — Examples of dark patterns. _Mnemonic: Shameful UI._
+- **Informed consent pitfalls** — Weak/hidden consent. _Mnemonic: Consent must be clear._
+- **Mood manipulation experiments** — Studying effects of changing mood. _Mnemonic: Mood moves outcomes._
+- **Ethics in HCI** — Protect privacy, fairness, well-being. _Mnemonic: Ethics = do right._

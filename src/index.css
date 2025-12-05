@@ -3,7 +3,93 @@
 @tailwind utilities;
 
 @layer base {
+  :root {
+    --background: 46 48% 79%;
+    /* #e4d7b0 converted to HSL approx */
+    --foreground: 26 19% 30%;
+    /* #5c4b3e */
+    --card: 42 40% 83%;
+    /* #e7dbbf */
+    --card-foreground: 26 19% 30%;
+    --popover: 44 54% 89%;
+    /* #f3ead2 */
+    --popover-foreground: 26 19% 30%;
+    --primary: 74 33% 46%;
+    /* #8d9d4f */
+    --primary-foreground: 43 50% 98%;
+    /* #fdfbf6 */
+    --secondary: 45 44% 75%;
+    /* #decea0 */
+    --secondary-foreground: 26 19% 30%;
+    --muted: 45 44% 75%;
+    --muted-foreground: 27 11% 47%;
+    /* #85766a */
+    --accent: 46 48% 72%;
+    /* #dbc894 */
+    --accent-foreground: 26 19% 30%;
+    --destructive: 10 53% 67%;
+    /* #d98b7e */
+    --destructive-foreground: 43 50% 98%;
+    --border: 30 25% 60%;
+    /* #b19681 */
+    --input: 46 48% 72%;
+    --ring: 94 19% 62%;
+    /* #9db18c */
+    --radius: 0.425rem;
+    --chart-1: 94 19% 62%;
+    --chart-2: 94 16% 55%;
+    --chart-3: 94 15% 75%;
+    --chart-4: 94 11% 47%;
+    --chart-5: 94 11% 39%;
+  }
+
+  .dark {
+    --background: 43 17% 12%;
+    /* Darkened from 20% to 12% */
+    --foreground: 39 36% 95%;
+    /* Brightened from 88% to 95% */
+    --card: 43 12% 23%;
+    /* #413c33 */
+    --card-foreground: 39 36% 95%;
+    /* Brightened from 88% to 95% */
+    --popover: 43 12% 23%;
+    --popover-foreground: 39 36% 95%;
+    --primary: 94 25% 65%;
+    /* Brightened/Saturated from 16%/55% to 25%/65% */
+    --primary-foreground: 27 12% 15%;
+    /* #2a2521 */
+    --secondary: 43 13% 31%;
+    /* #5a5345 */
+    --secondary-foreground: 39 36% 95%;
+    --muted: 43 13% 26%;
+    /* #4a4439 */
+    --muted-foreground: 33 10% 75%;
+    /* Brightened from 62% to 75% */
+    --accent: 44 27% 50%;
+    /* #a18f5c */
+    --accent-foreground: 27 12% 15%;
+    --destructive: 10 34% 56%;
+    /* #b5766a */
+    --destructive-foreground: 40 33% 90%;
+    /* #f0e9db */
+    --border: 43 13% 40%;
+    /* Lightened from 31% to 40% */
+    --input: 43 13% 31%;
+    --ring: 94 16% 55%;
+    --chart-1: 94 16% 55%;
+    --chart-2: 94 19% 62%;
+    --chart-3: 94 11% 47%;
+    --chart-4: 44 27% 50%;
+    --chart-5: 94 11% 39%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
   body {
-    @apply antialiased;
+    @apply antialiased bg-background text-foreground;
   }
 }

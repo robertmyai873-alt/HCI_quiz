@@ -1,0 +1,119 @@
+example_examquestions_fromlecturer.txt
+EXAM QUESTIONS HCI 
+
+Q1 
+
+Design alternatives 
+Prototyping 
+Evaluation 
+Needfinding - method which can be applied
+
+Q2 
+
+Intern position in company for designing electronics for planes, two possible functionalities of using colors (LEDS) 
+On these devices. 
+
+Feedback
+ON OF 
+Error message 
+Diffrent type of information (attention) Q3
+
+Make the following sentence true false
+
+An intelligent interface lacks the ability to take initiate in providing suggestions or assistance to the user 
+
+An intelligent interface is able to adapt its functionality to meet the varying needs of diffrent users.
+
+
+Q4
+
+Extroception	 	refers to the body’s ability to sense perceive stimulus anabatibng outside of the body and 
+Is an example of such sensations  		vision
+
+
+Q5
+
+Don Norman proposed the concept of gulf execution. It is the the designers responsibility to use this concept to build useful products, Please think of yourself as a designer and anwser the following questions accordingvlt, 
+
+
+What Iis a gulf of execution
+
+Intentions of users what the systems allow them to do 
+
+Please state whether you will aim t ominim,oize or maximize this gulf while building products 
+
+Minimize
+
+Q6 
+
+Which one of these imopekemtation would you choose for the Nielsen visibility of systems status 
+
+A the robot generates the audio message “batting completed” after successful booting then the robot makes a victory sign 
+
+A progress bar ;ole ;ioghjt show s various states of the booting opriggress where each bar shows a diffrent stage of the booting procedur . For example LEds are located on the nav robots body
+
+
+Q7
+
+You are on a spacehship and find large display screen, a control panel with a number of buttons. One of the busttons has a triangle symbol pouting to the right. Pressing the button plays a video on the display screen .  The symbol on this buttons is an example of Signifier. 
+
+Q8 
+
+You wrote this link to be sent to Luke@gmail.com 
+
+But ur address book does not contain such email. Would you like to send the email to LukeSkywalker@gmail.com 
+
+What kind of heuristic is that?Q9 
+
+Write two advantages of within subject design compared to between subject design 
+
+
+Q10 the hospital management asks you to name and define the design concept/principle that makes this door to be opened/closed intuitively. 
+
+
+Affordance. 
+
+Q10
+
+Primary 
+Tertiary Stakeholders 
+
+
+Q12
+
+HCI product or not? 
+
+
+Q13
+
+User + computer + task  
+
+Q14
+
+Design elements of the webpage 
+
+Grid + color palette + Font + hierarchy 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

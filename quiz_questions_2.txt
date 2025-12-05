@@ -1,0 +1,257 @@
+Human-Computer Interaction components
+User tasks
+Affordances
+Signifiers
+Norman doors
+Task analysis
+Human sensory system
+Motor system
+Cognitive system
+Emotion in HCI
+Robots as computers
+User interfaces examples
+Command line interface
+Direct manipulation
+Gestures and language
+Virtual reality interfaces
+HCI product classification
+User-centered design cycle
+Design thinking stages
+Double diamond phases
+ADDIE model
+Google design sprints
+Stakeholder mapping
+Primary users
+Secondary stakeholders
+Tertiary stakeholders
+Facilitating stakeholders
+Needfinding interviews
+Online surveys
+Focus groups
+Observation studies
+Diary studies
+Experience sampling
+Ethnography
+Extreme users
+Interview kick-off
+Interview rapport
+Grand tour questions
+Reflection prompts
+Non-leading questions
+Likert scales
+Survey open-ended items
+Survey close-ended items
+Single-choice questions
+Multiple-choice questions
+Ranking questions
+Demographic coverage
+Task lists
+Point-of-View statements
+How Might We prompts
+Brainstorming quantity first
+Brainstorming convergence
+Personas
+Persona goals
+Persona frustrations
+Persona data grounding
+Storyboards
+Setting in storyboards
+Sequence depiction
+Satisfaction outcomes
+Star people sketches
+Figma brainstorming boards
+Figma persona templates
+HMW selection
+Ideation flow
+Design alternatives
+Needfinding insights
+Prototyping rationale
+Low-fidelity prototypes
+Paper prototypes
+Medium-fidelity wireframes
+Clickable wireframes
+High-fidelity prototypes
+Wizard of Oz method
+Task analysis definition
+GOMS goals
+Operators in GOMS
+Methods in GOMS
+Selection rules
+Cognitive task analysis
+Task environment factors
+Login task steps
+Email task steps
+Prototype iteration
+Prevention cost reduction
+Correction cost reduction
+Failure cost reduction
+Skeuomorphism
+Gulf of execution
+Gulf of evaluation
+Feedback promptness
+Feedforward cues
+Direct manipulation
+Informative feedback
+Visible actions for novices
+Shortcuts for experts
+Error prevention
+Error recovery
+Undo actions
+Internal locus of control
+Reduce memory load
+Consistency in design
+Dialog closure
+Knowledge in the world
+Knowledge in the head
+Appropriate mappings
+Constraints in design
+Standardization
+Nielsen visibility of system status
+Match with real world
+User control and freedom
+Recognition over recall
+Flexibility and efficiency
+Aesthetic minimalist design
+Help and documentation
+Helpful error messages
+Visual hierarchy
+Size contrast
+Color contrast
+Alignment
+Repetition
+Proximity
+Whitespace
+Texture and style
+Typography serif
+Typography sans serif
+Monospace typefaces
+Font weight
+Line length
+Text alignment
+Limited font palette
+Grid systems
+Columns and rows
+Gutters
+Margins
+Responsive layout grids
+Grayscale-first design
+Color for status
+Color for errors
+Monochromatic schemes
+Analogous schemes
+Complementary schemes
+Triadic schemes
+Status link colors
+Error message styling
+Visual design examples
+User research planning
+Evaluation timing
+Usability testing goals
+Research questions
+Test scripts
+Field studies
+Lab studies
+Remote studies
+Expert reviews
+A/B testing
+Web analytics metrics
+Visit count
+Visit duration
+Clickstream analysis
+Controlled experiments
+Between-subject design
+Within-subject design
+Learning effects
+Power analysis
+Consent forms
+Anonymized data
+GDPR considerations
+Predictive models
+Fitts’ Law
+Index of difficulty
+Movement time prediction
+Statistical tests list
+Chi-square
+T-test
+ANOVA
+Logistic regression
+Kolmogorov-Smirnov
+Kruskal-Wallis
+Memory types
+Sensory memory
+Short-term memory
+Long-term memory
+Magic number seven
+Attention guidance
+Eye-tracking studies
+Gestalt figure-ground
+Gestalt similarity
+Gestalt proximity
+Gestalt continuity
+Gestalt common fate
+Gestalt closure
+Recognition vs recall example
+Incidental learning
+Intentional learning
+Experiential cognition
+Reflective cognition
+Bad UI Battle examples
+Intelligent User Interfaces
+Adaptive interfaces
+Anticipatory suggestions
+Proactive explanations
+Context-aware feedback loops
+Chatbots
+Calendar-map integration
+Interface complexity challenge
+Interface inflexibility
+HRI definition
+Robot morphology
+Form follows function
+Underpromise and overdeliver
+Mixed metaphors risk
+Uncanny valley
+Spatial interaction distance
+Kendon F-formations
+Verbal interaction roles
+Nonverbal interaction cues
+Gaze in HRI
+Gestures for joint attention
+Service robots
+Tour guide robots
+Receptionist robots
+Healthcare robots
+Socially assistive robots
+Co-bots
+Self-driving cars
+Robot abuse
+Attention theft
+User expectation management
+Robotics interfaces usability
+Symbiotic societies
+Persuasive technology
+Functional triad tool role
+Functional triad medium role
+Functional triad social actor role
+Persuasion vs coercion
+Japan moonshot initiative
+Body-brain-space-time freedom
+IoT definition
+IoT sensors
+Embedded systems power
+Cloud computing reliance
+Big data management
+Network connectivity
+Service-oriented IoT
+Ambient intelligence
+Smart homes
+Avatar technology
+Computer-supported collaboration
+Dark patterns
+Nagging pattern
+Obstruction pattern
+Interface interference
+Deceptive design hall of shame
+Informed consent pitfalls
+Mood manipulation experiments
+Ethics in HCI

@@ -1,0 +1,1633 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Okay, let's start for today's lecture. Now, next week is the exam again for you.
+
+And how many exam you have on average. Only one.
+
+Okay, but it isn't a test base exam or online or your writing.
+
+Which courses? Uh, paper exam for algebra.
+
+Okay. And for the other courses, you don't have any exam. Interesting.
+
+Okay. So I was trying to postpone something. But, uh, in this case, I will not postpone.
+
+For the, uh, second, uh, assignments. Okay.
+
+And what we did the previous day. We introduced the colour and the components of the visual design.
+
+So that was said the most dangerous part of the course.
+
+So use it responsibly and practice the principles that we teach.
+
+And do not try to inject your personal preferences unless your, uh,
+
+user base suggests some changes or some, uh, uh, functionalities for your, uh, application.
+
+And, uh, we already agreed your first assignments, and, uh, they are mostly, uh, good.
+
+And we graded generously. So do not assume that in the following assignments we will be in the same mode to grade your assignment.
+
+Why? Because in the following grade, following assignments, you have to do somehow fact checking.
+
+Okay. Based on your users, everything has to be based on your users.
+
+And for this need finding take, please.
+
+Uh, super, uh. Be super careful. Whatever you are doing with this assignment will follow up until the end.
+
+Okay. Like if you will do some changes and I will ask why.
+
+Then you have to show me one uh, user, maybe suggest this, uh, this, uh, change in your design.
+
+So you have to always accommodate with your users. Okay.
+
+And if you, uh. If you missed exactly you did for this assignment.
+
+Some of you confuse, uh, the stakeholders and the users.
+
+Okay. Like a primary stakeholder can be users, but the other stakeholders may not be all users.
+
+Okay. Be aware that and do not be confused for the exam and your user specifications are too generic like there are students for this.
+
+You are saying that this. Yeah, the ideal set of group for this application is the uh is students.
+
+But you have to give some demographic information and some age interval.
+
+Okay. Students between 8 to 30 years old.
+
+Medium. And later you will discover from the neat finding.
+
+But it is better to have some, uh, ideas.
+
+Okay. What, uh, you are creating for this application?
+
+For whom? And for what purposes? A lot of demographic information are missing.
+
+Like what is the salary? What is a data background? What is data language?
+
+What state? Uh uh uh uh, cultural uh background.
+
+You didn't lose too much point for this one, but bear in mind that you need to use it further.
+
+And it's finding. Okay.
+
+Interval is missing and that is the most it will be important for you actually to include for your persona.
+
+Like if you remember or personal template for some information and your need.
+
+Findings should ask for all of the information that you need to build for your persona.
+
+And for the formatting issues. I mean, this is a bit, uh, challenging, naturally.
+
+I know all we need to. Most consider the content of the reports,
+
+but in this class you are learning some visual design and please implement it as much as possible that you need.
+
+Like. Do not use two colours in the document.
+
+Title is the black and the content is the blue. Or do not use multiple fonts in the in the uh report.
+
+Like title is, uh, New Times Roman. Uh, subtitles are Verdana and the body is different typefaces don't use this one.
+
+And we will, uh, reopen this same assignment.
+
+Maybe this week because I learned that you need to, uh.
+
+You don't have any, uh. Uh, you don't have too much exam, and you can submit your, uh.
+
+You can submit your. First assignment is a receipt.
+
+If you are not happy with your grades. Okay. And what I can suggest to you, if you already get six or above, you don't need to submit for the receipt.
+
+Okay. And, uh, I was planning to do it after the midterm.
+
+But I will say, let's say this week. Okay.
+
+And one, uh, important reminder actually, if you have any non contributing group members, do not remove them from your report.
+
+Do not remove them from the canvas in the group. Okay.
+
+So put them and keep them until the end.
+
+But in the contribution statement to the section mentioned that okay this group members didn't produce uh did not contribute this uh report.
+
+Okay. And that's important for me because I need to document that they didn't contribute to your report.
+
+Um, for the students. Converse does not allow me to grade individually as students.
+
+Okay. That's why all of you get the same grade. And for this, students who are not contributing their grades will be zero.
+
+And, uh, when we submit this grades to the outsiders.
+
+There will be zero. Okay, I need to mention this one.
+
+This, uh, repeatedly, because later they will, uh, come up to me and say that,
+
+okay, here, our group get the grade and the my grades are on the canvas.
+
+But no, you cannot get the grades for the assignment that you did not contribute.
+
+Okay. That's the. Yeah, that's the, uh, the news, uh, and administrative stuff for the next, uh, uh, for the this weeks practical session.
+
+You need to bring, uh, we need to do a low fidelity prototypes.
+
+And please bring the some blank, uh, A4 papers and post-its.
+
+And if you don't have or you forget, you can just borrow some from, uh, printers.
+
+And bring some scissors eraser pen markers, but do not bring a utility knife.
+
+Okay. And. Prepare your task list.
+
+Like in the first assignment, you have already mentioned some, uh, some ideal user interaction or user flow.
+
+User has to click the button and there will be an animation page, and then it will be login page, profile page, product page.
+
+And this kind of uh, uh, this kind of.
+
+Sections that your user needs to interact. And before coming to your lecture so it we practical.
+
+Please watch if you've.
+
+If you've, uh, find a few videos either in YouTube or in the previous, uh, lectures, and we need to actually do this kind of stuff together.
+
+Together means that you will do by yourself.
+
+And I will check, and I will try to interact and be your user and to to be your user and give the feedback.
+
+Okay. And do not underestimate. We are not playing here, uh, as a kindergarden and you are not doing the some, uh,
+
+artistic stuff or developing some, uh, eye and hand coordination we are doing for creating the product.
+
+And, uh, that will be an important step between, um, for your user.
+
+And if you are not doing or getting familiarity with these protocols, then.
+
+When you submit your, uh. Uh, when you submit your, uh, low fidelity product, definitely your grade will be a bit lower.
+
+Okay. And to get some inspiration, you can go and.
+
+Visit this link. It is with Google's.
+
+Tutorial about creating the sketches or low fidelity prototypes.
+
+Go and just check it. Okay. What they are doing a colour. At this point, you may decide to transfer your sketches to digital tools,
+
+but the more you can flesh out your ideas on paper, the faster you move out of here.
+
+Okay, just go and learn a. Uh, just watch it and you will get some, uh, some inspiration from there.
+
+And. This one is important. Please print this.
+
+Uh. This template. Okay.
+
+There are four different types of applications for this browser.
+
+It means that desktop application or tablet browser browser application.
+
+And this one is for uh, I guess also browser.
+
+This one is for mobile. Mobile devices and with the infinite scroll.
+
+Okay. Back to. If you are creating an art gallery for Instagram, then you can use this template.
+
+Or if you are just using the mobile phone, of course,
+
+that mobile phone will not be the one that you may use in the Figma, but it will give you an idea.
+
+Okay, and if you click here, it's a free to download.
+
+So you can. Burgess. Okay.
+
+Because. Whatever. Oh. Nothing here.
+
+Yeah. Okay. Just print a few of them.
+
+Then you will draw some, uh, buttons, some, uh, texts, um, text boxes in there, this one.
+
+And we will, uh, cut with the scissors and you will interact with your, uh, uh, low fidelity print.
+
+Okay, a lot of news. Okay.
+
+Okay. We are in the 8 or 7 week of the, uh, lectures.
+
+Um, next week we don't have a lecture. We don't have a practicals because the return week and the following the next week.
+
+We will have a lecture, but I will, uh, submit a video.
+
+Okay, so we will not have an in-person lecture in year. And we don't have an practical session.
+
+Okay. But I will send an email about inform you, inform all of you about the upcoming lectures and the practical sessions.
+
+Okay, now we introduce a lot of news administrative stuff.
+
+Do you have any questions regarding your, uh, assignments? Okay.
+
+Just one thing that I remember for the hardware projects, if your groups are doing the hardware projects,
+
+you have to follow the cycle that we are introducing and you have to deliver the all assignments to.
+
+Okay. And if you have a question and something is not clear based on what you are doing as a hardware project,
+
+please reach out to me as early as possible and do not send a last minute email that I may not reply.
+
+Okay. Finally, today's lecture and today will be our last lecture about the UCD cycle.
+
+So up to now we introduced the need finding and you will have an assignment for it.
+
+And this week we will uh the next assignment will be to design alternatives.
+
+So you will build a persona, you will do some storyboarding.
+
+And finally in the this project session, we will also start to how to prototype your, your, uh, prototype, uh, the projects and for the evaluation.
+
+Ideally, we have to reach to your users and they have to have a they have to evaluate your prototypes.
+
+But here we don't have that luxury. So we'll skip that step.
+
+But in the presentation you have to show that. How did you apply the heuristics that we introduced in the, uh, previous two lectures?
+
+Come. Yes. And today we are going to introduce the evaluation.
+
+And it is a bit rich topic. There should be a whole course for this one.
+
+But, uh, now we will just give some concepts that you can, uh,
+
+have any sound knowledge of what you need to do if you are working in an actual, uh, on an actual HCI, uh, product.
+
+But we will just introduce and, uh, it will be okay for you to, uh, within the context of this course.
+
+One. Uh, quotes before starting is, uh, Nobel laureate, uh, uh, Ronald Corson and what it says.
+
+If you tortured enough your data, then it will confess anything that is true.
+
+And that is very true. Okay. Looking there is the one saying that, uh, numbers don't lie, but liars use the numbers.
+
+Okay? And we will see some, uh, some, uh, applications in here.
+
+And it is very important. As important as the design that we are, we introduce, you know, like an if you remember,
+
+this was a one interface calls to patient to another interface with the car cause the owner died.
+
+And the same thing can be applied to in here. So to start, let's see what is wrong with this graph.
+
+Okay, just read this paragraph and check this one and tell me what's wrong.
+
+And you can read this. Uh, yeah, you can read this, uh, graph.
+
+Just remember this one. Okay. And this quote. First.
+
+What is visually wrong in here? So it says that basically.
+
+The vertical axis is the average age. Of a person.
+
+And the horizontal. So, yeah, the horizontal, uh, axis is the music channel.
+
+Okay. So. Yeah.
+
+There is. Exactly there are there.
+
+There's no connection between the, let's say, blues and let's say gospel and the RBA.
+
+You don't need to connect because these are the categorical data. So in here they tortured enough the data okay.
+
+Or they try to visually hijack or perception and say that if you want to live long enough, do not go in the Hip-Hop or the rap music.
+
+But if you go to the blues and jazz band, you may live long enough.
+
+So. What is the designer of this is trying to do?
+
+Is she lying? I know that she's, uh. She is.
+
+She's like a female person. Is she lying or she just want to be nice for the jazz?
+
+Maybe her favourite music genre is the jazz and she wants to.
+
+Given, uh, some, some, uh advantage to, to just players.
+
+To read the full story, just go and check this website and we are calling [INAUDIBLE].
+
+It's actually [INAUDIBLE]. There is a one. Uh, course.
+
+With to how to find order to take this kind of missing information.
+
+And they call it a [INAUDIBLE]. Okay.
+
+So after this lecture actually after this courses you will also develop some sense of this.
+
+Like you will see in the news, in the paper or in there some reports that you are reading it and you can easily say that,
+
+okay, whatever the [INAUDIBLE] it is, it's a [INAUDIBLE]. Okay.
+
+Have you ever processed data or collected data from the humans?
+
+No. Yes. Yes. What was the data?
+
+Yeah, I didn't expect this, but in the previous lectures.
+
+Yes. Let me search by this. Okay. Okay. And here is the sum up of the approach that we are taking it.
+
+But not always. We are following the same approach. Like if you have an already existing dataset, you don't need to go find any participants.
+
+Yeah, but for your projects you will probably develop uh, some approach super similar to this one and it will be quite easy.
+
+First you need to define a task. For instance, what is your task in your project?
+
+Everybody submit, uh. First assignment. What is it? Test. That's.
+
+You are performing in the project. Sending an email.
+
+Finding a new book. Okay. And what is a performance measures.
+
+How do you measure the performance of the your users. Number of the click.
+
+Time to complete. Okay. This kind of, uh uh, uh, measures that you can use it.
+
+And for developing an experiment. This is the hardest part. Okay, and psychology students are expert in this domain.
+
+If you have a friend in psychology, you can go and ask. And they will give unnecessary details about the how to designing the experiment,
+
+because experiment needs to be controlled and they know that how to control the variables.
+
+But in your case you don't need to do it. Okay.
+
+Then we need to recruit the participants, and the participants can be as close as possible that your ideal users.
+
+Or the initial users that you defined in the, in the, in the uh, first, uh, first assignment,
+
+then doing the experiments, analyse the data and summarise the data and use the data.
+
+To understand, uh, what it needs to be designed, or if data is not helpful for the,
+
+uh, task, then you can collect more data or thresh down the whole process.
+
+And of course it is super important because first, we are not our own users.
+
+And our product has to be used by the others.
+
+So that's why we are looking for some other people to interact with or uh, interact with or uh, products.
+
+And it will help you. To fix the problems at the beginning, rather than investing too much money, time, and the, uh, efforts for the product.
+
+And if you fail in this part, actually.
+
+If you are shortcutting this one to go to market and failing in this part, then eventually your product will die.
+
+And we show countless examples in the some famous companies that they are building a product.
+
+Like a jibo that the interactive robots. Okay. MIT professor and MIT resources almost uh, and this funding.
+
+But still that kind of products are failing in the market. And one.
+
+We can do it first before the start. Before starting. Okay.
+
+Like the one that you are doing with the net finding.
+
+And second, you can do after every prototype, like your low fidelity prototype has to be evaluated.
+
+Your medium and your high fidelity prototype has to be evaluated individually.
+
+Okay. And once, let's say after the revolution, you are happy, your users are happy and you are releasing to the market.
+
+Still, you are not done. Maybe you will quit and the second version of your applications.
+
+But still, you need to do some evolution in that too. Okay.
+
+And how we can do it. One is the in the wild. You are just going to see your users in the actual habitat.
+
+Okay. Like you are creating a new, uh, smart, um, uh, watch and that smart watch are used by the athletes.
+
+Then you are going to gym and observing them and their behaviour, how they are using your products.
+
+Love studies are controlled, which means that every variable that you are addressing or the researching.
+
+Will be controlled.
+
+Like you can manipulate it, or you can change it and you can switch it for this desk and the remote studies will be web based, uh, stuff.
+
+Instead of inviting people from the lab to the lab, you are just sharing a link and they are feeling guilt.
+
+Uh, question is that you are doing, uh. Uh, you are doing now most of you are doing now, and that is belong to your remote studies.
+
+And the settings are also important. Like a control setting.
+
+Everything is controlled, which is lab environment, natural setting.
+
+People are using the smartwatches in the gym and the expert reviews that one is like, and you are creating a new boring application.
+
+You playing, for instance, for the pilots. You don't need to go and ask, you know, people in the gym, okay.
+
+What would be the best feature that it is missing for the current? The mission.
+
+Then you are going to someone like retired pilots and asking them their their opinion about your product or your idea.
+
+And it will inform you a lot of, uh, stuff like, uh, their goal, their behaviour, their needs,
+
+their reaction to technology and the, their type of, uh, modality that they are employing to interact with the technology.
+
+Like if you are, uh, creating a new operating system for the blind people, okay, they have to be voice activated.
+
+You don't need to have any fancy graphics. They have to be a voice activated.
+
+And if you've, uh, uh, remem, uh, reminder. Again, you are not your own users.
+
+That's why you cannot inject any kind of your personal preferences into your design.
+
+For your project. Unless that product is super radical.
+
+Okay. It has no, uh, similar example in the market.
+
+And you are bringing it, bring it, bringing it. Then you can, uh, do some personal preferences.
+
+Okay. Like I am creating a new application for professors as a to do list.
+
+Since my background is similar with, uh, my user base, then I may, uh, do it.
+
+But this super simplified example.
+
+If you think about the extreme cases, let's say you are getting an application for the nuclear reactors, for instance.
+
+Okay. So this kind of stuff will be hard, and you may need to only use the people that's working in a simple single group.
+
+Sometimes you can include yourself, but for your projects we will not accept anything comes from you directly.
+
+Okay. Again, we can do a lot of, uh, type of the, uh, evaluation that can be predictive model.
+
+Do you have any idea about this one? No.
+
+And the. Where was the last time that you used the word model?
+
+In your machine learning course in. Like you have a data and you are training a one machine learning model.
+
+And once you are happy with the test accuracy results or the test results, then you are frozen your model.
+
+And we will have the similar kind of predictive models in here.
+
+But it will be slightly different than machine learning models. Okay.
+
+And we can do field experiments. We can do, uh. Uh, in wild experiments, we can do in lab experiments.
+
+There are a lot of variations of it. Here we will introduce a few of them.
+
+And one thing that we need to actually be super careful about it is the privacy of our users.
+
+Like most of you, probably didn't. Uh. Ask your users, okay, you're from your users.
+
+Okay. We will use your data based on this, uh, projects.
+
+And the data will be saved for five years. And all of them are regulated by GDPR.
+
+Okay. Which means that if one of your users say that.
+
+Okay, I am not happy with, uh, with, uh, uh, current state of the product, could you please remove me from the, uh, user base?
+
+Then based on the GPS GDPR, you have to do it. Okay.
+
+And if you are a Tilbrook University student, you cannot save the data in the Dropbox or in the some servers that exist in the California.
+
+Okay. Why? Because. EU wants us to use the regulated systems and we should be super careful about it.
+
+And another thing that's at the beginning of the experiment.
+
+Usually we are inviting the people in the lab or the experimental environment, and they have to consent to some the forms.
+
+Okay. Like, uh, in that forum, there are some, uh uh uh uh sentences.
+
+Call that you can drop the experiments without giving any reason.
+
+And whenever you want. Okay. And you should give this kind of, uh, this kind of information to your users.
+
+Otherwise. They might not be happy.
+
+They want to be nice and they want to complete your, uh, assignment anyway.
+
+Then instead of having an actual data, you will have, again, a bit biased data in your, uh, in your, uh, in your results.
+
+For the ethics. We will have a few cases, but in generally we are not trained in that domain.
+
+But I guess you have had some research workshop experiments.
+
+Anyway, for that course's problem, you will see some ethical implications of the ethical aspect of the, uh, research.
+
+And another thing, that anonymous data that is very important silicon for a given.
+
+As for you shouldn't retrieve the your, uh, user's ID, okay.
+
+That's why in the guidelines we said that okay, instead of giving the names, give the ID to your users.
+
+Okay. These are a lot of things to unpack. You know, we will see one by one.
+
+Some examples. So for the for this case, it is a useful lecture to understand it.
+
+But can you already see some evaluation? Uh, heuristics.
+
+Yeah. Like a Nielsen evolution. That heater sticks. Okay. Like a, uh, how memory of the users.
+
+If everything is failed, standardise it. And this kind of, uh, uh, he needs to get, uh, metrics.
+
+He used the principles that we used. And now this is from actual experiments.
+
+In here you have 16 evaluators. Yeah, sorry.
+
+And 19 evaluators. You can see that each.
+
+Uh, each row in here corresponds to, um.
+
+Uh, participants. Okay. And starting from zero 1 to 19 in here.
+
+And usability problems can be. The readability of the text or giving the shortcut to your users.
+
+Okay, here they are not defined, but you can assume that this kind of changes can be applied for your, uh, interfaces.
+
+So it means that. Over the time when they finished their experiments, some users couldn't find that usability problems.
+
+But here, this is all just fine. Uh, three of.
+
+But here this use of find. 0357.
+
+Okay. And now I am asking to you.
+
+What will be the ideal state of this matrix? This is the one of the exam questions.
+
+Okay, so you have a bunch of users and some usability problems and discovered usability usability problems in there.
+
+And now I am asking what would be the ideal state for your product?
+
+When we follow this approach for assessing the usability.
+
+Okay. Any idea? All black.
+
+First. What does it mean? All black. Come on.
+
+This is super easy. What's all black?
+
+And what's all the, uh, all, uh, white. All black.
+
+Everyone. Okay. Any other ideas?
+
+I was tested every day. Discover everyday usability problems. Okay.
+
+What is all white? Come on.
+
+It's possible. What's all the in here?
+
+Exam question. Go. They couldn't discover any usability problems.
+
+Okay, now I am asking you a question. Which one is ideal?
+
+All black or all white. Come on.
+
+50% chance. Or maybe there is no wrong answer.
+
+Come on. Imagine that you are an example. You are in the exam and I am asking this question.
+
+In one case, we have an. Uh, one, uh, product and all of the problems are discovered.
+
+In either case, we have a product that's. No.
+
+Usability problems as reported. So which one is preferred? I think for a business model, it's better for.
+
+But for. You to solve those problems.
+
+So. Okay.
+
+Yeah, that's the correct answer that we can accept here.
+
+The. Answer is, uh, actually it depends.
+
+Okay. So both of them can be correct, but you have to give the case.
+
+Okay. Like, if you say that we create a perfect product, that there is no usability problems.
+
+That's why this 19 people couldn't have figured out any problems in the interfaces.
+
+I will accept. Or you will say that. There isn't a lot of stuff going on, and all usability problems were discovered by the all.
+
+Uh uh, participants. I will also accept.
+
+Come. And here are some, uh, demos, actually, how they are conducting in the professional professional settings when facilitating usability testing,
+
+introducing the participant to the session is extremely important.
+
+It can help to reassure participants, make them feel comfortable, and set their expectations for the session.
+
+We'll show you how we typically welcome test participants. I'll play the facilitator for this demo and I'll be the participant.
+
+So if you guys take the over here and I'll say, okay. So, Kate, thanks for coming in today.
+
+So before we get started, I just want to give you a little bit of information about the session and what to expect.
+
+So as you know, the session will last for 60 minutes. Your participation is voluntary.
+
+So if you do want to take a break or stop the session, that's absolutely fine.
+
+Feel free to let me know how that's important. Okay. Um, also, if you have questions about how the session will proceed, feel free to ask me.
+
+Any part of this study type is to look at, um, the design of this particular website that you're going to be using.
+
+Um, but when they asked me to do some activities on this website and to get your feedback.
+
+So we're really doing this to learn how we can make this design easier for people to use.
+
+Okay. As the task is defined and the goals are defined.
+
+Yeah. Just go and watch this video and you will understand how these are, uh, uh, conducted in the professional setting and in the companies.
+
+Usually this kind of unit can be separate.
+
+Okay. The product designers or the designer developers can be separate.
+
+And, uh, this evaluators, um, for this evaluators, you can also outsource it.
+
+Okay, like you are a new Spotify and you want to, uh, try a new interface, maybe Spotify with the virtual reality.
+
+I don't know what's the usage of. Then you can say that.
+
+Okay. For the given, uh, units that exist in the company, nobody can conduct this study.
+
+Let's go to that and ungroup this one. And they will conduct for us and they will report you back, okay.
+
+Their findings, their suggestions. Then you will apply and iterate over your product.
+
+So the thing that you are doing basically a super mini version of this cycle, but not perfectly.
+
+We are not following everything. So from that video, you already you get the idea.
+
+Like at first we need to set the goal, then the research question okay.
+
+What we are interested. But you don't need to reveal too much research.
+
+Question for your, uh, for your subject.
+
+Okay. Just the goal of the study. And the research question can be a bit, uh, vague in that.
+
+In that sense, then you should the script means that. Okay, starting from the.
+
+Uh, beginning to the end. What kind of, uh, rules that you have to follow?
+
+Okay. Maybe you will, uh, put a mouse in the left side.
+
+For the right handed persons. And you will put the mouse on the right side for the left handed persons.
+
+Okay. And you have to be consistent in that sense. Um, for the test, you can, uh, do some piloting.
+
+I'll start with the initial, uh, users.
+
+Okay. Or users can be. Maybe your friends also.
+
+You are just, uh, inviting him, and he's doing the supervised realistic at the same thing that you will do with your participants.
+
+And at. Imagine that you finish everything with your users.
+
+You will analyse the results, analysing stats, apply some statistics and report them uh to the development team or design team.
+
+The one that you are doing for the need finding for instance. Then implement the results.
+
+Okay, some results can not be implemented.
+
+Okay, maybe you will not have the budgets for your product to address the requirement by the some of the extreme users.
+
+In this case you can drop it. And instead of going for the all edges like an um.
+
+Two extremes. Instead of addressing these two extremes, you can only address the uh uh, average uh or ideal user types.
+
+And the setup is quite, quite hard to achieve actually, because, uh, this, uh, facilitator.
+
+Has to follow the same steps in each time.
+
+It's a super boring task. Okay, I never did it, but I see people are doing it and it's a super, super boring task.
+
+So it is better to have a multiple facilitator in that sense.
+
+And again. The role of the facilitator in here is not guiding the users to accomplish the task.
+
+Okay. Maybe the user will end up with an error.
+
+Okay. For some forms or for some interactions, and the facilitator may not be able to help them.
+
+Okay. So why we need to discover some problems in our system here.
+
+And that's why Forstater may not have a lot of freedom to help the participants.
+
+And, uh. That's okay. In here. Okay.
+
+Okay. And for this experiment, we have a two hour approach.
+
+One is that within another one is between the subject design due.
+
+Come across these keywords before. Yes.
+
+No. Which course? For some.
+
+Statistics. Okay. Basically, it's quite a simple.
+
+But you need a lot of experiment experience actually to decide which one is useful for your, uh, for your project.
+
+Again in your projects. We don't need to. You don't need to conduct this kind of experiments.
+
+But it's better to know how it is. Uh. Uh, it is done in the professional setting.
+
+So first one is the, uh, within subject design.
+
+In here, you have a same subject that tries different conditions of your experiment.
+
+Okay. Like, in one condition. Maybe you have a GoPro.
+
+In another condition. You have an Sony. Okay.
+
+Uh, should posting pointed to the camera.
+
+And in the last condition you have. Your, uh, your phone.
+
+Okay. Or, uh, iPhone. Uh, 17 minutes. And in this case, one person tries this all three conditions.
+
+And in the between subject design, it is a bit opposite. You are assigning different.
+
+Uh, devices like a GoPro, your phone. And so any point and shoot to different participants and.
+
+Different participants in a randomised order.
+
+Okay, so if you are randomising a lot of stuff, it is good for your experiment and to make it a bit concrete.
+
+Okay. Let's say just stop in here for around five minutes and decide which one is good for your project.
+
+Okay. Assume that you created a high fidelity prototype for your project.
+
+And now we have to evaluate to find some problems. These old problems for your for your, uh, for your exam.
+
+Which one you would prefer? Yes.
+
+It depends on the amount. Okay.
+
+That. Uh, we did something. I mean, the main subject is that it will be easier because all of the users have the same needs and experience.
+
+Mhm. But if you're, uh.
+
+Your users are very different. And difference, uh, regarding, uh, regarding their experience.
+
+Okay. But for your own project, like a for navigation project in navigation project.
+
+We, uh. Uh, mostly. The odds are, uh, users.
+
+So, uh, they're quite, uh, uh, similar in their, in their, uh, uh uh, in the way that we are familiar with technology you navigate on campus.
+
+So I think they would use, uh, on.
+
+Uh, to pass, uh, different functions. And what will be a disadvantage of this, uh, between solving design.
+
+Uh, I'll probably, uh, that, uh, uh, we, uh.
+
+One needs, uh, people to evaluate which, uh, uh, uh, techniques is better, uh, because we, uh, we did something designed that we can ask that person.
+
+Like, which one did you like better?
+
+I think different people are testing different versions of our application, and we cannot just ask them because the quality of testing.
+
+Okay, so we cannot evaluate the performance of one part, but at the same time, uh, if you are a smaller, uh, variance person.
+
+Okay. Uh, my. Okay.
+
+Yeah, all of them are, uh, correct.
+
+But for the, uh, regarding the number of the participants in which I think that you have to access a large number of the participants.
+
+I think. You have to. Okay.
+
+Okay. Then we will come up to this point, okay. For the which part and anyone else wants to try.
+
+Especially for the hardware projects. No.
+
+So nobody wants to, uh, conduct the experiment. I mean, it's a terrible, uh, it's it's very, very time consuming, like an I,
+
+I am not a fan of collecting data from the humans, but somebody has to do it.
+
+For your project. Which one you will prefer? I will not ask why.
+
+Okay. Okay. Who will prefer the within subject design for their projects?
+
+Within subject. No one.
+
+Okay. That's interesting. Okay.
+
+Who will say that I will conduct between subjects and. One two.
+
+The rest you will come up with an. New paradigm for the for the psychology.
+
+Okay, cool. Then in the exam also, you can achieve, uh, your new paradigm for the psychology.
+
+Cool. Now, let's give him a 15 minute break and be here in 45.
+
+And if you have a question to your address, your, uh, projects, uh, you can come here and, uh, we can discuss.
+
+So how many of you have earned a machine learning assignment?
+
+All of you guys have. Um. Uh, are you suffering, uh, for the time stuff?
+
+Yes. Very much. Okay. Uh, then that's me.
+
+Check my schedule. Uh, what is your assignment?
+
+Submission for machine learning. Is 15.
+
+But we also have like practical assignments, which is due on Sunday.
+
+Yes, Sunday like two assignments. Okay.
+
+Can you give me some, uh, some, uh, dates for your, uh, assignment?
+
+For the assignment? We need to submit in the nine.
+
+But, uh, should I postpone? To what?
+
+I'm asking you all. I can give you some dates. 60, maybe a week, but.
+
+16. Then you have an another assignment that. Oh, another 7 to 22.
+
+But another assignment is easy. Like an all you need to do is an alternative.
+
+Some other stuff. Okay, let's decide it now.
+
+Uh, the 16. Yeah. If the 16 them in, uh, for 26 days, you will have another assignment.
+
+Would it be okay for all of you? Because I already see one group.
+
+Submitted assignments. Okay. The first assignment is.
+
+23. Let me check. Uh, let me check.
+
+Uh, 27. Okay. Then it will be okay.
+
+Then I will, uh, extend to 16. You. Thanks. 16.
+
+Okay, but they should know I was in. 16.
+
+Yeah. Yeah. Same. And I'm sure it's not, sir.
+
+It's not who you are. Uh.
+
+And they're not. I won't, I won't. I need to make it otherwise.
+
+Okay. Can one of you take it from the canvas? Because.
+
+Yep. Perfect. And, uh. But you need to submit.
+
+Oh, no. In my case, it's nothing. Okay.
+
+1616. Okay. Then you need to submit a very nice report in, uh, this.
+
+Let's start. Uh, what is the, uh, scope of a machine learning submission?
+
+Are you. Working in a group or individual group.
+
+What does the task? Interview. Okay.
+
+What's the task? Um. Very big. We have to train something.
+
+Okay. If it works, uh, there is, uh, some problem.
+
+It shouldn't work. Okay. It should have been, at least by the second semester for, uh, next year.
+
+First semester. Okay. Uh, the very important part.
+
+Okay, okay. So we're basically having to figure that out as we do this.
+
+Okay. But are you accessing to, uh, some clusters and submitting to the code and data in there?
+
+It's running and it's sending to you a message or you are running on your computer.
+
+Okay. Okay. Then, uh. Okay. I trust that it is hard enough to postpone.
+
+That's fine. Okay.
+
+Yeah. Let's go and see this. Uh, within and between.
+
+Subject design. So for the between subject design, you have an for set of let's say uh users.
+
+Okay. All of them are different. And you have a two conditions. One is them.
+
+This one I don't remember the, uh, name of this, uh, kit, but this one is Rossiya.
+
+So if for. Different people are using, uh, are subject to the different conditions than it becomes between subjects.
+
+Okay. And just be careful about this.
+
+Uh, slide. Okay. It will be on the exempt, too.
+
+Conceptually, it will be on the exam too. And try to create a relationship between the these two concepts with your group projects.
+
+And within subject design. All of the users are subject to the same condition.
+
+Okay. Let's make it more concrete versus here.
+
+This is a between subject design. Ideally, we should put our, uh, name of our, uh.
+
+Name of our participants. We have to put an ID in here.
+
+But now let's say we have two conditions. One is using the seven millimetre spikes for the BCI.
+
+BCI is brain computer interface to do some task.
+
+Another one is the talking more. And here we are.
+
+Let's say we have a one task booking in a hotel.
+
+Or the playing the game with the robot. Then we are recording a time in here and that will be our performance evaluation metric.
+
+And since the. In two conditions.
+
+The names are different. Okay.
+
+Ideally, we shouldn't use the name. It should be an ID or some numbers that becomes between subjects.
+
+Okay. Because we are assigning different person to the different conditions for the, uh, within subject design.
+
+Let's design this, uh, example. We have a type of the typewriter.
+
+One is the mechanical one. Another one is the electric one. Okay.
+
+So if I am using first the corona, uh, second version of the corona, it becomes.
+
+It becomes what? I am only the subject and I have it to this a condition of this condition.
+
+First, I am using this form a second time using this form.
+
+So are you conducting within or between subjects? What?
+
+We didn't because it's within the single cell. And here the performance evaluation metrics is the typing speed.
+
+And that is the important part for the subject IDs or subject names should be same in this two, uh, columns.
+
+Why? Because the same subject. Let's say Bob Tyson, that is between the mythical one and the electric one.
+
+And George, that is, with the mechanical one and the electrical.
+
+Okay. So you can give this kind of reasoning actually for your project.
+
+Whether you have to conduct within or between subject is.
+
+And the important difference between the, uh, between the within and between subject designs are, uh.
+
+Uh, quite is actually, if you understand this, to, uh, the figures and you can retrieve this information quite easily.
+
+First. Within subject design requires less amount of participants to.
+
+Why does the same participants be subject to the different conditions?
+
+And it is less costly. Because you don't need to hire more people.
+
+Okay. And the user variation is quite minimal.
+
+Because a single person tries different conditions.
+
+And in this case, if you get some statistically significant results, probably you are getting the true understanding of what you are measuring.
+
+Okay. But there is one problem in here.
+
+Here. What will be the disadvantage of, uh, using this, uh, within subject design?
+
+Because we have a learning effect. You.
+
+Your reply. That can be oneself if you have a multiple conditions.
+
+Especially for the new, uh, new, uh, technologies like the VR.
+
+That's a they may have us on the, uh, uh, business, and they will drop out.
+
+And for the. For the, uh.
+
+What's disadvantage of this approach is the learning effect.
+
+Why we call lowering effect. Because in the websites one let's say this is Amazon.
+
+This is bull.com here to uh different interfaces.
+
+Whatever you are learning in the first website, what kind of interaction you are uh,
+
+doing, what kind of, uh, buttons that you have to click to purchase the, uh, product.
+
+And you are learning within subject. So in the first condition than this learning effect you can carry to the next condition.
+
+Two if they are close enough. Okay, but if they are super different.
+
+Like one is the amazon.com. Another one is they using the I don't know the robotic interface voices.
+
+So in this case you can say that you have an a learning effect English. But that is the one of the drawback of the within subject exam.
+
+And to eliminate this we develop the between subject design okay.
+
+Why. Because each condition is test used by uh different subjects and uh compared to the time limit.
+
+Actually this one is shorter. Because you are assigning a single person to a single condition and they can, uh.
+
+Uh, accomplish the task. Uh, complexity to this condition is quite, uh, in the less amount of time.
+
+And it is quite easy to perform it. Okay.
+
+Why you are providing the device or the interface is inviting the user.
+
+And you can do it in the parallel session. Okay. In one room there will be one condition with different participants.
+
+In another room there will be one condition with the different participants.
+
+Okay. So timing is actually important.
+
+And using the, uh between subject design instead of within subject design, you will accomplish the task or the collected data in short amount of time.
+
+And the procedure is quite easy. I will skip this one, but give the information related to robot one.
+
+Let's say you want to address engagements between the human and robot.
+
+While accomplishing a one task and task can be, let's say, and, uh, Tower of Hanoi, you know, the scheme tower of Hanoi.
+
+And first. In the condition one.
+
+You are, uh, welcoming the participant, interested in your experiment and give the consent, uh, for.
+
+And in the consent form and reading. You cannot impose time, okay?
+
+You cannot say that here is the consent form. Finish in five minutes, then we will start the experiment.
+
+Okay. You are just giving them and they are taking their time and they are starting the experiment.
+
+Then some demographic information. Okay. What's their, uh, cultural background?
+
+What's their salary? Education level language. It's kind of information.
+
+Then your experiment starts. Let's say I am doing, uh, between subject design.
+
+So each condition will be evaluated by the, uh, by the different, uh, people.
+
+Done in this case. One, uh, persons interact with the humanoid robot.
+
+They are sitting next to each other and they are the Tower of Hanoi.
+
+Another participant is interacting with the mobile robot.
+
+Because mobile robot cannot achieve the manipulation and cannot put one item on top of the other.
+
+And the last one is the. Instead of using the hardware, humanoid, robot or real human effort.
+
+What I'm using to make this one. Okay.
+
+Done. Once my experiment's finished, I am giving the question only to my, uh, participants.
+
+And that question will be related to the experiment. How was the robot's uh, uh, appearance?
+
+Or, uh, how was the robot skill? Does it, uh, make you uncomfortable versus this kind of questions?
+
+And at the end, when they finish their questions. Yes. Then you are thanking the participants and usually giving either money.
+
+I guess €12 per hour.
+
+We did in Germany at €12 per hour, or we are, uh, uh, acquiring participants from the universities.
+
+Instead of paying them, they can get the credits. So we mean for the to, uh, to affect.
+
+And here is the one experiment that we did in the in Germany.
+
+It was very interesting experiment actually. We find a, uh, nice, uh, uh, results.
+
+And I can give you a warm. One.
+
+Uh. Tips and tricks. Who wants to be rich?
+
+All of you. Perfect. Okay. Who wants to be rich while employing or playing with robots or designing an interface for the robots?
+
+Oh. Nobody. Okay.
+
+You don't need to eat, robot, but you can do with computers. That is just an experiment.
+
+Actually, we did in the journal. It's called a robot code representation.
+
+When you sit next to your group member or next to a human, and if you are trying to name some items.
+
+Within the same category. Okay. You say first me, then you.
+
+Okay, we will do the now. Okay.
+
+Who are good at games? But it seems.
+
+Okay. You okay? Both of you. Okay. We will do it together.
+
+You will love it. Now.
+
+Uh. Whenever I raise my hands.
+
+You will see long game character. It doesn't matter. That.
+
+You can speak. Go on.
+
+You know you don't. Okay. Movie characters. Okay.
+
+Do you know what the. Put this. I'm almost.
+
+The. Okay.
+
+Get. Okay, but if I switch the category to the game, you also need to.
+
+Yeah. Games like this one. Okay. Or I switch to the cars. You also need to.
+
+Discuss or what else you have with us.
+
+Okay. The fruits. Whatever. Just a category. Okay? Okay, I am starting.
+
+Okay. Don't! Kalona. Don't. Kalona. From Bedford.
+
+Just random. Uh. Uh, yeah. Okay.
+
+Uh, Hannibal Lecter. Okay.
+
+Luke Skywalker. Hey, it's the same character you eliminated anyway.
+
+Uh, for, uh, for the pizza. We'll just get them.
+
+Okay. Not about. Okay.
+
+That's, you know, the idea. That's if you are going for Italian roots for, uh, the idea that in here, if I,
+
+we are playing the game and we are naming the objects within the same category, okay, even though he is not playing, uh.
+
+On the time that I am replying, he is representing my, let's say, mental state or my, uh, speech patterns in his mind or in his system.
+
+So together. We are being faster within the same category like the movies.
+
+But when we switch, when I switch to different categories, we are becoming slower.
+
+Okay. And this is the. Uh, this is the fact from the psychology studies.
+
+Then this clever, uh, professors, my office think that's.
+
+What if we switch with the. One of the humans with robot.
+
+Okay. Then we conducted a simple experiment and we get that with humans you are becoming slower and slower.
+
+But with the robot, you've become faster and faster. Okay.
+
+So if your robot stays in the same category, you are also saying the, uh, similar speed and that trend is consistent with all participants.
+
+So it means that. You can use this robot.
+
+Okay. Or any kind of robots in the setting for generating speech patterns for the people who have.
+
+Difficulties to learn or the generating speech methods. And nobody did this product.
+
+As far as I know. If you want to do it.
+
+Ping me and we will do it together. With one condition.
+
+I need to get 20% of your company. I am serious.
+
+If you are doing this, um, we would both be, uh, a billionaire.
+
+A billionaire? But we won't be rich. Considering that the current salary that I am getting.
+
+And I am open to offer. Uh, offers from your offers.
+
+And that doesn't need to be a humanoid robot. You can throw in another robot.
+
+Maybe we will try or design our own robot and use in this setting.
+
+Okay. Cool. This is the trivia.
+
+And this will be. Together we are rich because we need money for our robots.
+
+And the idea in here. Just if you read the papers that are following this experimental paradigms and you will find this kind of statements.
+
+So overall, we find 36 native German speakers and some, uh, gender information, and they are uh, uh h and the sample size is the, uh,
+
+coming from analysis means that how many participants that you need to get for this experiment to get the statistically significant results.
+
+Okay. So ideally it's a super, super, uh, hard procedure and time consuming.
+
+But luckily, at the time, I had an, uh, super talented psychologist and neuroscientist, uh, together.
+
+And we did this, uh, nice experiment. Okay.
+
+And another one. Another way for the collecting data from your user is the web analytics.
+
+It's. Probably almost all of the, uh, web, uh, applications like Amazon's like, I don't know, uh,
+
+Netflix are collecting the data while you are using the, uh, while you are using data applications.
+
+And the good part of it, it can be online. You don't need to be in the same building, same, uh, uh, space with your, uh, with your participants.
+
+And it will take some part of your interaction.
+
+That tracking can be. And how many times that you visit the payment, uh.
+
+Uh, web page and how many times that you visit the that payment page that you click the order.
+
+And this kind of information can be automatically collected. Okay.
+
+Which is good because we don't need to go and, uh, design this kind of experiments.
+
+Then we will just design or we will just send the link and they will use it.
+
+And, uh, on the background, we will collect the data. And it is good because we can discover some useful, uh, user patterns.
+
+Okay. Maybe 100 users are logging, but after 2 or 3 interaction, they are dropping out to or proceeding to a product page.
+
+So it will give a lot of information for us. And another one is the AV testing.
+
+Okay for the students who are not attending this, uh, class now, they are confusing this about testing as a multiple choice.
+
+Okay, but it's not multiple choice. You are creating the same product.
+
+Which is slightly different. Okay. One will be let's say one will be okay.
+
+That was this one. Um. This one.
+
+This is the. This is the, uh, YouTube interface.
+
+Interface? Okay. That will be your a and the.
+
+For the B, you will just change this button.
+
+In upwards, for instance, or this menu will give uh, instead of this kind of colour, it will give, uh, green colour first.
+
+Okay. So you are making a change with the same interfaces.
+
+Then. For the people that who can access A and the access B, you are measuring something.
+
+That measurement metrics can be number of the clicks time to complete.
+
+Okay. Everything is automatic. You don't need to, uh, give the, uh, links in person.
+
+Just send it in the one mailing list or put in the credits and based on the IP,
+
+give the IP or randomise the IP numbers and give the half of them to this half of them to this actor.
+
+And you will have a some metrics like what to do with the interface.
+
+B you will have an. A 100 more product selling compared to the, uh, interface a then in this case.
+
+It means that your change made in the option B will be much more valuable for compared to the option.
+
+Yes. You have a question? No.
+
+But a person is gonna discover, okay, if you are regularly using the YouTube interface.
+
+And if the change is obvious, then it means that change and Google are all is doing a lot for this one.
+
+Like and even for two different browsers. Uh, if you open the browser in the Chrome and the brave, you will see the interface of change equals.
+
+Okay, now let's get some serious. Uh uh.
+
+Serious power of this obligation. Question.
+
+With the power of the user. Testing. By using the AB testing.
+
+Can you win an election? Who?
+
+Yes. Okay. Which election?
+
+Election in the teamwork. Election in the Netherlands.
+
+Election within the Department. The idea is actually.
+
+Yes we can. And in the Obama campaign. Actually, he collaborated with super, super smart.
+
+Uh, data scientists. And they create a one.
+
+One. Tests and methods. Okay.
+
+In here you have two variables. One is the media.
+
+That when you click the Obama campaign, uh, website or Obama campaign website and one media will be this one, and you have five alternatives.
+
+Another change occur on the. On the, uh, text on the button.
+
+If when we sign up, submit or log. Then you will have these alternatives.
+
+Okay. Now you have this, uh, 6 million.
+
+With, uh, for, uh, mathematics.
+
+Okay. Like an, uh, join us now will be here. Here, here, here for everything.
+
+And the combination of the learn more here, here it will be on, uh, on every, uh, every panel.
+
+Okay. No, we have to. What's in here too? Which combination?
+
+For the Obama will collect more donation.
+
+Or use it with the registering gear. This is the real life case.
+
+I remember in here I said that. You can get a lot of, uh, money to be rich.
+
+In here. You can get lots of money to win. Probably one of the most important election in De in the history.
+
+Come on. Which combination? It'll work. For the media.
+
+Who are in favour of this one? No.
+
+This guy. This one. Okay to.
+
+Discount to you. To this one.
+
+We have only one. This guy. Three.
+
+Okay. Three. Okay. And how about this one?
+
+The most is is a change as well. Join us now. Well 24.
+
+You can watch multiple times. Uh, this is Epic's mobile.
+
+Uh, three six. Okay. This one, the number. Two.
+
+Set up. One two.
+
+Sign up now. Two. Okay, so based on our, uh.
+
+Mini baby testing or mini? Uh.
+
+Mini data collection. The winner is this one. And the second winner was this one in lawnmower.
+
+Oh! Yeah, I'm. It's six, and then this one is, uh, three.
+
+What is the actual stuff? Okay.
+
+And of course you need to compare with the baseline. And the baseline is this one. And the winning is this one.
+
+Actually, we make it work. So it means that you already registered, uh, to open the campaign and donate some money for it.
+
+Okay. And you see, we are quite simple. Uh, our sample size is quite limited in here, but it works.
+
+Imagine that. It's, uh, on the scale of the country. Then the more the, uh, the data that you collect, the more that it will be representative.
+
+And there it will be meaningful results for you. That's why then the number of participants plays super important roles in this kind of examples.
+
+Okay, so Obama win the election and they get a lot of money and everybody is happy.
+
+But to check this, uh. A link and you will find the whole story on it.
+
+And there is very old representation. But. You can understand that.
+
+Okay. How they manipulate, uh, this, uh, two variables and attract the users.
+
+So the things that we are teaching in here has a lot of application in the real world.
+
+And soon you will discover a lot. Actually, after, uh. After, uh, finishing the second year,
+
+you will see a lot of application in the HCI in different domains because I'm sometimes randomly receiving an email.
+
+Haemorrhoids. We use the, uh, Miro for this application.
+
+Thank you for introducing a. Uh, at the earlier stage of the SDI project.
+
+Okay. Another application is this one.
+
+There is a one, uh, web blocker or the entrepreneur called Dustin Curtis.
+
+Yeah. And at that time, uh, he put a one.
+
+He did have one internal, uh, internal, uh, test by collecting data from the, uh, to the users.
+
+And to increase the number of the followers in the Twitter he gave this option for.
+
+Of course, he didn't put the options in the website.
+
+Whenever one time you open the his website and that won't show up.
+
+And every time you open his website or read this website, the console.
+
+Now question to you. Which one is? Uh, yeah.
+
+Which one lead to more, uh, visitors or uh uh uh uh, moral followers?
+
+Which sentence? And this time I am asking why also.
+
+Okay. Okay. You are creating a new website for CSI.
+
+And you have been hired, and you want to increase the number of the followers for the CSI department in Twitter, Facebook and other social medias.
+
+Which one you would prefer to put it? Yes I'm sure.
+
+For the second part because first of all, it's uh right, uh uh uh, but it's, uh, super long three and four.
+
+So, uh, the first, uh uh uh.
+
+Understand where we come from. Uh, about, uh, really fast.
+
+Uh. Uh. Yeah. Okay.
+
+Any different ideas or the same ideas with a different description.
+
+That's. First of all.
+
+Okay, so one of you is in that range.
+
+All. It's more.
+
+I'm on Twitter with my full. And the first.
+
+So the message is a bit polite, suggesting, but not, uh, assertive.
+
+That's why you move. I in a few folks, and I was just.
+
+I just put a logo on those.
+
+Yeah, I. Let's say you are blogging in a platform that does not allow you to use the icons.
+
+Only. I mean, I wouldn't use the. Uh, if you are, um, okay.
+
+Twitter. Well, it's super minimal here. Okay. Okay.
+
+So are you ready to see the results?
+
+Okay, so I don't know, uh, how this percentages are calculated, but what I can show that this one, the last one a little more, uh, follows.
+
+Do you have a possible explanation for it? Go. He is gonna be like these motivated workers.
+
+Like. With a special. Highlighting the.
+
+Okay. I cannot accept this one. Maybe this the one. I think I just noticed you.
+
+It was. Huh? Uh uh, just miss, uh.
+
+Us on the back page. Yeah, that is possible.
+
+Okay, this is my interpretation. Okay. I will not ask any questions later this month, but yeah, actually,
+
+the more that you are making your user read or click, it means that the more that you they invest their time on it.
+
+And that's why when they came here. Okay.
+
+And in here it's a bit assertive. So that's why they are, uh, subscribing from here more compared to the first one.
+
+Of course, this is not an universal results, but it works for him.
+
+And he showed that the number of the Twitter followers are increasing.
+
+If he's using this. Okay.
+
+Now another, uh. Another, uh, way to do it.
+
+Uh, for the for the, uh, for the but for the evaluation.
+
+But this time we are going to practice models. And it is a bit different than the previous model.
+
+Different than AB testing. Different than, uh. In, uh, love, uh, experiments.
+
+Here we have a predictive model. Just that's, uh, without, uh, any.
+
+Without any. What's the introduction? Let's ask a question.
+
+So imagine that your, uh, mouse cursor in here. Okay.
+
+So which one for you is too easy to go and reach?
+
+Left or right. Okay.
+
+Okay. You mentioned that you are here. And the size of this button in here for the play.
+
+You measure that this is the this one and I am changing with the bigger.
+
+But. So here compared to here, which one is easy for me to reach?
+
+This one. The big one. Okay. Who? Again, in here you had some form information and the type, your account ID, whatever it requires.
+
+And to reach or signing this one or this one.
+
+Second one. Yep. And this is called Kids Love.
+
+Okay. So it means that. Let me go.
+
+If it's loafers. It means that this size of, uh, targets.
+
+So the the important parts, uh, that's, uh, makes your motor system like a for the, uh.
+
+Water system to reach from one point to another is correlated with the size of, uh, the area that you are reaching.
+
+Like in this case in the application. So we are application and you are using the the AR glasses and you are touching get one.
+
+Uh I don't know the text. And for us, it will be super easy to reach the target in that arena rather than this one.
+
+And this is, uh, we called, uh, uh, Fitts law.
+
+Um, it is coming from, uh, this equation.
+
+Like the reaction time or the time to reach is correlated with the.
+
+With the size of your, uh, the object that you want to reach and the distance between you and the object that you want to reach.
+
+Like here. Size is bigger. So reaching is quite easy.
+
+So as it's smaller, I can overshoot. Sizes bigger.
+
+Quite easy. Two sizes bigger, I can think. Okay.
+
+So with this one, you don't need to collect data. Because we call it law.
+
+It means that the model of this kind of behaviour already exists, that you don't need to.
+
+You don't need to. What's the. Uh, you don't need to provide.
+
+Uh, you don't need to provide, uh, or collect the data to decide which one is more clickable than the other.
+
+Okay. So with this applications, we can say that this is, uh, predictive model.
+
+And why predictive models? Because we didn't collect any data.
+
+We didn't analyse the data. We just use this equation.
+
+Okay to understand that, okay, how much or target size will be or what will be the distance.
+
+Between the thing that you want to reach. And that your current cursor.
+
+Does it make sense? Yes. No. It's about the reaction.
+
+Yeah, it's a reaction time. Like reaction time. You can also see that the reaction time clicking and the.
+
+And this is also existing there. Uh, this part, let's say I can find it.
+
+Maybe choose. Just choose messages.
+
+Ouch. Come on.
+
+So first the designing the menu. It is terrible.
+
+What can you. What is this? Yeah.
+
+Designed. The menu in that way. Is much more useful for me than seeing them in the list.
+
+Yeah. Why? Because it's shorter. My distance to click one of them.
+
+If it's a list, I guess it's a list view also exist. Yeah.
+
+Let's move here. For the list.
+
+I have to go and check it. If it's alphabetic or some other sorting uh, uh, system uh, applied on here.
+
+So it will be very hard for me to go and check it one by one. What I can do instead.
+
+Okay. How can I change to the. Gridview.
+
+If you give me an gridview, then I can navigate and easily.
+
+If I find it easily, I can topple. So Apple actually successfully applied this one onto their, uh, systems and for the exam.
+
+You should be responsible for the definition of it and why we are using defective models.
+
+But we will not ask. This kind of equations for you.
+
+Okay. I mean, if you say that's okay, but we are number person and we like numbers a lot.
+
+Because we'll get calculus from, uh, Professor Jacomo. And we like, uh, him and the calculus a lot.
+
+We can also ask, uh, uh, some formula question.
+
+Of course. Uh, corresponding with real life application. Yeah, this is an interactive demo.
+
+You can go and check it. But don't be sure that you will verify the, uh.
+
+Uh, the definition. Well.
+
+Okay, now we collect the data. At the end of this, uh, let's say, uh, experiments and, uh, a b testing some, uh.
+
+Some other format of the data collection, and we need to do some analysis to make sure that it is significant.
+
+And it is. We are measuring that the things that we want. And here actually it requires a lot of experience.
+
+Okay. Which kind of testing that you need to use, which kind of metrics that you have to, uh, use for this kind of product.
+
+You cannot do that by yourself. That's why HCI is a bit multidisciplinary research area.
+
+In your team, you have some people background in the interaction design, some background in their programming.
+
+Another one is psychology. For instance at some statistics statistic people.
+
+Then everybody comes together and they try to solve one, uh, problem, uh, for the super expensive products.
+
+Of course, for your group project, we are not expected to do to learn or perform some, uh, tests.
+
+But good to know that, uh, this kind of stuff exists, that you can perform it.
+
+And again, this is in the super waste area. I can super huge area.
+
+People are only focusing this evolution methods in the design domain.
+
+And we only give this some basics to you. And if you know this super, super uh, is that sound noise level of this one, you will pass the exam.
+
+And you can also apply for your group project. But if you want to go in further details you can check in here.
+
+What a nice, uh, uh, book. But it is around 600 pages, so it's very, very hard to read it.
+
+And if you need much more, uh, resources, just ask me, then we will.
+
+Uh, I will provide more, uh, more readings in the comments.
+
+Okay, that's the last thing that I can mention.
+
+Please attend to this week's, uh, lecture, uh, practice session and bring the.
+
+But in this one, let me remind you, I will send an email, but bring some papers, some pants, some, uh, scissors, uh, with you.
+
+And you will do your low fidelity prototype and we will give you a feedback to you.
+
+Okay. So good luck for your exam. If you are not, uh, coming to the practicals and see you in next, next week.
+
+Which. Okay.
+
+Oh, yeah.
+

@@ -544,6 +544,21 @@ export const courseData = {
           example: "SUS score.",
           related: ["Metrics"]
         }
+        ,
+        {
+          id: "intelligent-interface",
+          term: "Intelligent Interface",
+          definition: "An interface that can adapt its functionality to meet the varying needs of different users and take initiative in providing suggestions or assistance.",
+          example: "A system suggesting a shorter route based on traffic.",
+          related: ["Adaptive Interface"]
+        },
+        {
+          id: "exteroception",
+          term: "Exteroception",
+          definition: "The body's ability to sense and perceive stimuli originating outside of the body.",
+          example: "Vision, hearing, touch.",
+          related: ["Perception"]
+        }
       ],
       questions: [
         {
@@ -789,14 +804,7 @@ export const courseData = {
           correctAnswer: "To reduce Short-term Memory Load",
           explanation: "Human short-term memory is limited; information should be visible or easily retrievable."
         },
-        {
-          id: "q3-31",
-          type: "mcq",
-          question: "A 'Cancel' button in a long process provides:",
-          options: ["User Control and Freedom", "Consistency", "Error Prevention", "Recognition"],
-          correctAnswer: "User Control and Freedom",
-          explanation: "Users need a clearly marked 'emergency exit' to leave unwanted states."
-        },
+
         {
           id: "q3-32",
           type: "mcq",
@@ -908,6 +916,299 @@ export const courseData = {
           options: ["Recall is harder than Recognition", "Recognition is harder than Recall", "Short-term memory is full", "Long-term memory is full"],
           correctAnswer: "Recall is harder than Recognition",
           explanation: "Recall requires retrieving information from memory without cues, which is cognitively more demanding."
+        },
+        {
+          id: "q3-46",
+          type: "mcq",
+          question: "What is the most common mistake students make when creating a Persona, according to the lecture?",
+          options: ["Adding fictional or random elements not based on data", "Making the persona too detailed", "Using a stock photo", "Giving the persona a name"],
+          correctAnswer: "Adding fictional or random elements not based on data",
+          explanation: "A persona must be strictly derived from need-finding data (user needs, wants, frustrations), not random assumptions."
+        },
+        {
+          id: "q3-47",
+          type: "mcq",
+          question: "What are the three essential components of a Storyboard?",
+          options: ["Setting, Sequence, Satisfaction", "User, Goal, Task", "Input, Process, Output", "Sketch, Wireframe, Prototype"],
+          correctAnswer: "Setting, Sequence, Satisfaction",
+          explanation: "A storyboard must include the Setting (context), Sequence (actions), and Satisfaction (outcome)."
+        },
+        {
+          id: "q3-48",
+          type: "mcq",
+          question: "What is the main difference between GOMS and Cognitive Task Analysis (CTA)?",
+          options: ["GOMS is quantitative (time/steps), CTA is qualitative (cognitive states)", "GOMS is for novices, CTA is for experts", "GOMS is qualitative, CTA is quantitative", "There is no difference"],
+          correctAnswer: "GOMS is quantitative (time/steps), CTA is qualitative (cognitive states)",
+          explanation: "GOMS measures observable actions (keystrokes), while CTA measures internal cognitive states like attention and load."
+        },
+        {
+          id: "q3-49",
+          type: "mcq",
+          question: "What is a major disadvantage of GOMS analysis?",
+          options: ["It cannot measure cognitive processes like fatigue or emotion", "It is too expensive", "It requires eye tracking", "It is only for mobile apps"],
+          correctAnswer: "It cannot measure cognitive processes like fatigue or emotion",
+          explanation: "GOMS treats the human as an input/output machine and ignores mental states."
+        },
+        {
+          id: "q3-50",
+          type: "mcq",
+          question: "What is the 'Gulf of Evaluation'?",
+          options: ["The difficulty of assessing the state of the system after an action", "The gap between a goal and its execution", "The time it takes to evaluate a prototype", "The difference between two design alternatives"],
+          correctAnswer: "The difficulty of assessing the state of the system after an action",
+          explanation: "It refers to the user's struggle to understand if their action was successful based on system feedback."
+        },
+        {
+          id: "q3-51",
+          type: "scenario",
+          question: "If a designer fails to provide keyboard shortcuts for power users, which of Schneiderman's Golden Rules is violated?",
+          options: ["Enable frequent users to use shortcuts", "Strive for Consistency", "Offer Informative Feedback", "Permit Easy Reversal of Actions"],
+          correctAnswer: "Enable frequent users to use shortcuts",
+          explanation: "This rule emphasizes flexibility and efficiency for expert users."
+        },
+        {
+          id: "q3-52",
+          type: "mcq",
+          question: "A 'Cancel' button in a long process provides:",
+          options: ["User Control and Freedom", "Consistency", "Error Prevention", "Recognition"],
+          correctAnswer: "User Control and Freedom",
+          explanation: "Users need a clearly marked 'emergency exit' to leave unwanted states."
+        },
+        {
+          id: "q3-53",
+          type: "scenario",
+          question: "You are designing a control interface for a nuclear power plant where operator attention is critical. You need to measure the mental workload to ensure safety. Which method is most appropriate?",
+          options: ["GOMS", "Cognitive Task Analysis (CTA)", "Heuristic Evaluation", "Fitts' Law"],
+          correctAnswer: "Cognitive Task Analysis (CTA)",
+          explanation: "CTA is designed to analyze mental processes and cognitive load, which GOMS ignores (treating humans as input/output machines)."
+        },
+        {
+          id: "q3-54",
+          type: "scenario",
+          question: "A user wants to record a TV show but cannot figure out which sequence of buttons to press on the remote. The remote has all the necessary functions, but the user cannot map their goal to the physical buttons. This is a failure in:",
+          options: ["Gulf of Execution", "Gulf of Evaluation", "Feedback Loop", "System Constraints"],
+          correctAnswer: "Gulf of Execution",
+          explanation: "The Gulf of Execution is the gap between the user's goal (record show) and the means to execute it (buttons). The user doesn't know *how* to do it."
+        },
+        {
+          id: "q3-55",
+          type: "scenario",
+          question: "You press the 'Elevator' button. The light turns on immediately, but the elevator doesn't arrive for 2 minutes. The light turning on satisfies which feedback principle?",
+          options: ["Promptness", "Clarity", "Reversibility", "Feedforward"],
+          correctAnswer: "Promptness",
+          explanation: "The feedback (light) was immediate (prompt), acknowledging the request even though the action (arrival) takes time."
+        },
+        {
+          id: "q3-56",
+          type: "scenario",
+          question: "A startup wants to test a new app concept with potential investors next week. They need to show the full visual design and interaction flow to secure funding. Which prototype fidelity is required?",
+          options: ["Low Fidelity (Sketches)", "Medium Fidelity (Wireframes)", "High Fidelity (Interactive Mockup)", "Paper Prototype"],
+          correctAnswer: "High Fidelity (Interactive Mockup)",
+          explanation: "Investors need to see the final look and feel (visual design + interaction), which only a high-fidelity prototype provides. Low/Medium are for earlier testing."
+        },
+        {
+          id: "q3-57",
+          type: "scenario",
+          question: "You are analyzing a task: 'Expert user editing a video using keyboard shortcuts'. You want to predict the exact time it takes to complete the edit. Which method should you use?",
+          options: ["GOMS", "CTA", "Focus Group", "Survey"],
+          correctAnswer: "GOMS",
+          explanation: "GOMS (Goals, Operators, Methods, Selection rules) is excellent for predicting task times for skilled users performing routine tasks without errors."
+        },
+        {
+          id: "q3-58",
+          type: "scenario",
+          question: "An e-commerce site shows a '404 Error: Page Not Found' message. Which heuristic does this violate most directly?",
+          options: ["Help Users Recognize, Diagnose, and Recover from Errors", "Consistency and Standards", "Aesthetic and Minimalist Design", "Flexibility and Efficiency of Use"],
+          correctAnswer: "Help Users Recognize, Diagnose, and Recover from Errors",
+          explanation: "Error messages should be in plain language, not codes (404), and should suggest a solution (recover)."
+        },
+        {
+          id: "q3-59",
+          type: "scenario",
+          question: "A user successfully deposits a check in an ATM but is unsure if the transaction went through because the screen immediately returned to the main menu without a confirmation message. This widens the:",
+          options: ["Gulf of Evaluation", "Gulf of Execution", "Gulf of Transition", "Gulf of Mexico"],
+          correctAnswer: "Gulf of Evaluation",
+          explanation: "The action was executed, but the user cannot *evaluate* the new state of the system due to lack of feedback."
+        },
+        {
+          id: "q3-60",
+          type: "scenario",
+          question: "You are designing a medical device. You decide to make the 'Delete Patient Record' button red and place it far away from the 'Save' button. This is an example of:",
+          options: ["Error Prevention", "Error Recovery", "Feedback", "Visibility"],
+          correctAnswer: "Error Prevention",
+          explanation: "You are designing constraints (distance, color warning) to prevent the error from happening in the first place."
+        },
+        {
+          id: "q3-61",
+          type: "scenario",
+          question: "A mobile app uses a 'Hamburger Menu' (three lines) for navigation. This relies on the user's ability to:",
+          options: ["Recognize standard icons", "Recall complex commands", "Read detailed documentation", "Use keyboard shortcuts"],
+          correctAnswer: "Recognize standard icons",
+          explanation: "This relies on 'Consistency and Standards' and 'Recognition rather than Recall'. The user recognizes the standard icon."
+        },
+        {
+          id: "q3-62",
+          type: "scenario",
+          question: "In a GOMS analysis, you find that users spend 50% of their time deciding whether to use the mouse or the keyboard for a specific task. Which component of GOMS captures this decision?",
+          options: ["Selection Rules", "Methods", "Operators", "Goals"],
+          correctAnswer: "Selection Rules",
+          explanation: "Selection Rules determine which Method (mouse vs keyboard) to choose when multiple are available."
+        },
+        {
+          id: "q3-63",
+          type: "scenario",
+          question: "You are testing a new 'Smart Home' interface. Users keep trying to swipe the screen to change pages, but the system only supports tapping buttons. The users' mental model is based on:",
+          options: ["Transfer of learning from smartphones", "The system image", "The implementation model", "GOMS analysis"],
+          correctAnswer: "Transfer of learning from smartphones",
+          explanation: "Users are transferring their existing mental models (swiping on phones) to the new system. The design fails to match this model."
+        },
+        {
+          id: "q3-64",
+          type: "scenario",
+          question: "Which of the following is a 'Feedforward' mechanism?",
+          options: ["A cursor changing to a hand icon when hovering over a link", "A 'Success' toast message after saving", "A vibration when a button is pressed", "A progress bar during a download"],
+          correctAnswer: "A cursor changing to a hand icon when hovering over a link",
+          explanation: "It happens *before* the action (click), indicating what *will* happen (navigation). The others are feedback (after/during)."
+        },
+        {
+          id: "q3-65",
+          type: "scenario",
+          question: "Dieter Rams' principle 'Good design is honest' implies that a product should not:",
+          options: ["Manipulate the consumer with promises it cannot keep", "Be colorful", "Be expensive", "Use plastic"],
+          correctAnswer: "Manipulate the consumer with promises it cannot keep",
+          explanation: "Honesty means not making a product appear more innovative, powerful, or valuable than it really is."
+        },
+        {
+          id: "q3-66",
+          type: "scenario",
+          question: "You are conducting a 'Wizard of Oz' experiment for a voice assistant. What is the primary benefit of this method?",
+          options: ["Testing the interaction flow without building the complex AI", "Testing the final audio quality", "Testing the battery life", "Testing the code efficiency"],
+          correctAnswer: "Testing the interaction flow without building the complex AI",
+          explanation: "It allows testing the user experience and interaction logic before investing in expensive backend development."
+        },
+        {
+          id: "q3-67",
+          type: "scenario",
+          question: "A user deletes a file and immediately realizes it was a mistake. They press 'Ctrl+Z' to restore it. This supports:",
+          options: ["User Control and Freedom", "Aesthetic and Minimalist Design", "Help and Documentation", "Match between System and Real World"],
+          correctAnswer: "User Control and Freedom",
+          explanation: "It supports 'Permit Easy Reversal of Actions', giving the user confidence and control."
+        }
+        ,
+        {
+          id: "q-lect-1",
+          type: "matching",
+          question: "Match the design phase to its activity.",
+          pairs: [
+            { term: "Design Alternatives", definition: "Creating multiple different solutions to explore the solution space." },
+            { term: "Prototyping", definition: "Creating tangible representations of design ideas." },
+            { term: "Evaluation", definition: "Testing designs with users to identify problems." },
+            { term: "Needfinding", definition: "Discovering user needs and opportunities for design." }
+          ],
+          explanation: "These are key phases in the user-centered design process."
+        },
+        {
+          id: "q-lect-2",
+          type: "scenario",
+          question: "You are designing an interface for an airplane electronics system. You need to use LEDs to provide feedback. Which color usage is most appropriate?",
+          options: ["Red for 'All Systems Normal'", "Green for 'Critical Error'", "Flashing Red for 'Critical Attention Needed'", "Blue for 'Stop'"],
+          correctAnswer: "Flashing Red for 'Critical Attention Needed'",
+          explanation: "Red typically signals danger or error, and flashing attracts immediate attention. Green usually signals safety or 'on'."
+        },
+        {
+          id: "q-lect-3a",
+          type: "mcq",
+          question: "True or False: An intelligent interface lacks the ability to take initiative in providing suggestions or assistance to the user.",
+          options: ["True", "False"],
+          correctAnswer: "False",
+          explanation: "An intelligent interface *should* be able to take initiative to assist the user."
+        },
+        {
+          id: "q-lect-3b",
+          type: "mcq",
+          question: "True or False: An intelligent interface is able to adapt its functionality to meet the varying needs of different users.",
+          options: ["True", "False"],
+          correctAnswer: "True",
+          explanation: "Adaptability to user needs is a key characteristic of intelligent interfaces."
+        },
+        {
+          id: "q-lect-4",
+          type: "mcq",
+          question: "Exteroception refers to the body’s ability to sense perceive stimulus originating outside of the body. Which of the following is an example?",
+          options: ["Vision", "Hunger", "Balance (Vestibular)", "Proprioception"],
+          correctAnswer: "Vision",
+          explanation: "Vision senses light from the external environment. Hunger and balance are internal sensations (interoception/proprioception)."
+        },
+        {
+          id: "q-lect-5",
+          type: "mcq",
+          question: "Don Norman proposed the concept of Gulf of Execution. As a designer, should you aim to minimize or maximize this gulf?",
+          options: ["Minimize", "Maximize", "Ignore", "Keep it constant"],
+          correctAnswer: "Minimize",
+          explanation: "Designers should aim to minimize the gap between the user's goals and the system's mechanisms to make it easier to use."
+        },
+        {
+          id: "q-lect-6",
+          type: "scenario",
+          question: "Which implementation best satisfies Nielsen's 'Visibility of System Status' for a robot booting up?",
+          options: ["The robot makes a victory sign only after it finishes booting.", "A progress bar or LEDs showing the different stages of the booting procedure.", "The robot remains silent and still until ready.", "The robot plays a song when it crashes."],
+          correctAnswer: "A progress bar or LEDs showing the different stages of the booting procedure.",
+          explanation: "Continuous feedback (progress bar/LEDs) keeps the user informed about what is happening during the process, rather than just the end result."
+        },
+        {
+          id: "q-lect-7",
+          type: "scenario",
+          question: "On a spaceship control panel, a button has a triangle symbol pointing to the right. Pressing it plays a video. The symbol is an example of a:",
+          options: ["Signifier", "Affordance", "Constraint", "Mapping"],
+          correctAnswer: "Signifier",
+          explanation: "The symbol (triangle) communicates *where* the action should take place and *what* it likely does (play), acting as a signifier."
+        },
+        {
+          id: "q-lect-8",
+          type: "scenario",
+          question: "You try to send an email to 'Luke@gmail.com', but it's not in your address book. The system asks: 'Did you mean LukeSkywalker@gmail.com?'. Which heuristic is this?",
+          options: ["Help users recognize, diagnose, and recover from errors", "Consistency and Standards", "Aesthetic and Minimalist Design", "Match between system and real world"],
+          correctAnswer: "Help users recognize, diagnose, and recover from errors",
+          explanation: "The system detects a potential error (missing contact) and suggests a constructive solution."
+        },
+        {
+          id: "q-lect-9",
+          type: "mcq",
+          question: "What is an advantage of Within-Subject Design compared to Between-Subject Design?",
+          options: ["Requires fewer participants", "Eliminates carry-over effects", "Takes less time per participant", "Prevents fatigue"],
+          correctAnswer: "Requires fewer participants",
+          explanation: "Since each participant tests all conditions, you need fewer people to get the same amount of data. It also controls for individual differences."
+        },
+        {
+          id: "q-lect-10",
+          type: "scenario",
+          question: "A door handle design makes it obvious that it should be pulled to open. This property is called:",
+          options: ["Affordance", "Signifier", "Feedback", "Constraint"],
+          correctAnswer: "Affordance",
+          explanation: "The physical shape of the handle affords the action of pulling."
+        },
+        {
+          id: "q-lect-11",
+          type: "mcq",
+          question: "Who are 'Primary Stakeholders'?",
+          options: ["People who directly use the system", "People who receive output from the system", "People affected by the system's success", "Designers"],
+          correctAnswer: "People who directly use the system",
+          explanation: "Primary stakeholders are the hands-on users of the product."
+        },
+        {
+          id: "q-lect-13",
+          type: "mcq",
+          question: "Which of the following best defines the components of HCI?",
+          options: ["User + Computer + Task", "User + Software + Hardware", "Designer + Developer + User", "Input + Output + Process"],
+          correctAnswer: "User + Computer + Task",
+          explanation: "HCI is the study of how people (Users) interact with computers (Computer) to perform activities (Task)."
+        },
+        {
+          id: "q-lect-14",
+          type: "mcq",
+          question: "Which of the following are key design elements of a webpage?",
+          options: ["Grid, Color Palette, Font, Hierarchy", "Code, Database, Server, API", "Keyboard, Mouse, Screen, Speakers", "User, Task, Environment, Tool"],
+          correctAnswer: "Grid, Color Palette, Font, Hierarchy",
+          explanation: "These are visual design elements that structure the presentation of information."
         }
       ]
     },
@@ -1783,6 +2084,210 @@ export const courseData = {
           options: ["Time on Task", "User Comments", "Facial Expressions", "Think Aloud Protocol"],
           correctAnswer: "Time on Task",
           explanation: "Quantitative metrics are numerical measurements of performance."
+        },
+        {
+          id: "q6-48",
+          type: "mcq",
+          question: "What is the 'Rule of Thumb' for the maximum number of different fonts/typefaces on one screen?",
+          options: ["Maximum 3", "Maximum 5", "Maximum 2", "Unlimited"],
+          correctAnswer: "Maximum 3",
+          explanation: "Using more than 3 fonts creates visual clutter and confusion."
+        },
+        {
+          id: "q6-49",
+          type: "scenario",
+          question: "In the Google Scholar example from the lecture, what did the Green text signify vs. the Blue text?",
+          options: ["Green: Meta-info, Blue: Title/Link", "Green: Title/Link, Blue: Meta-info", "Green: Error, Blue: Success", "Green: Visited, Blue: Unvisited"],
+          correctAnswer: "Green: Meta-info, Blue: Title/Link",
+          explanation: "Colors were used to denote specific functionalities: Blue for navigation/titles, Green for metadata (authors, source)."
+        },
+        {
+          id: "q6-50",
+          type: "mcq",
+          question: "In a Usability Problem Matrix (Evaluators vs. Problems), what does an 'All White' matrix (no problems found) imply?",
+          options: ["It depends (could be perfect product OR poor evaluation)", "The product is perfect", "The evaluators are incompetent", "The test was too short"],
+          correctAnswer: "It depends (could be perfect product OR poor evaluation)",
+          explanation: "It could mean the product has no bugs, or that the evaluators failed to find them. Context is required."
+        }
+      ]
+    },
+    {
+      id: "lectures-1-2",
+      title: "Lectures 1-2: Introduction to HCI & User-Centered Design",
+      description: "HCI fundamentals, UCD principles, needfinding techniques, and stakeholder analysis.",
+      concepts: [
+        {
+          id: "hci-definition",
+          term: "Human-Computer Interaction (HCI)",
+          definition: "The study of interaction between humans and computers involving three components: Human, Computer, and Interaction.",
+          example: "Using a smartphone to book a flight involves human (you), computer (phone), and interaction (touch gestures).",
+          related: ["Task", "Affordances", "Interaction"]
+        },
+        {
+          id: "task",
+          term: "Task",
+          definition: "An activity that users want to accomplish (e.g., book a ticket online, register for a course, analyze data).",
+          example: "Booking a flight, sending an email, or editing a document.",
+          related: ["HCI", "User Goals"]
+        },
+        {
+          id: "herbert-simon-ant",
+          term: "Herbert Simon's Ant Theory",
+          definition: "Complexity of behavior often lies in the environment rather than the individual.",
+          example: "An ant's complex path is due to terrain complexity, not the ant's intelligence.",
+          related: ["HCI", "Environmental Constraints"]
+        },
+        {
+          id: "user-centered-design",
+          term: "User-Centered Design (UCD)",
+          definition: "A design approach that considers actual users' needs throughout the entire design process.",
+          example: "Involving users in every phase from research to testing.",
+          related: ["Needfinding", "Stakeholders"]
+        },
+        {
+          id: "needfinding",
+          term: "Needfinding",
+          definition: "The process of finding users' needs, desires, goals, preferences, and expectations.",
+          example: "Interviewing users about their daily routines to understand pain points.",
+          related: ["User Research", "Interviews"]
+        },
+        {
+          id: "primary-users",
+          term: "Primary Stakeholders",
+          definition: "Direct users of the system who will be most affected by its design.",
+          example: "Customers using an e-commerce website.",
+          related: ["Stakeholders", "Secondary Stakeholders"]
+        },
+        {
+          id: "secondary-stakeholders",
+          term: "Secondary Stakeholders",
+          definition: "Indirectly affected by the system but don't use it directly.",
+          example: "IT support staff who maintain the system.",
+          related: ["Primary Users", "Tertiary Stakeholders"]
+        },
+        {
+          id: "tertiary-stakeholders",
+          term: "Tertiary Stakeholders",
+          definition: "Affected by system success/failure but have minimal direct interaction.",
+          example: "Government regulators or industry competitors.",
+          related: ["Stakeholders", "Facilitating Stakeholders"]
+        },
+        {
+          id: "facilitating-stakeholders",
+          term: "Facilitating Stakeholders",
+          definition: "Enable or support the use of the system.",
+          example: "Trainers who teach users how to use the system.",
+          related: ["Stakeholders", "Primary Users"]
+        },
+        {
+          id: "extreme-users",
+          term: "Extreme Users",
+          definition: "Users at the ends of the spectrum with more demanding or unique needs.",
+          example: "Power users who need advanced features or users with disabilities.",
+          related: ["User Research", "Needfinding"]
+        },
+        {
+          id: "interview-structure",
+          term: "Interview Structure",
+          definition: "Structure with introduction, kick-off, build rapport, grand tour, reflection.",
+          example: "Starting with easy questions, then exploring workflows, ending with reflection.",
+          related: ["Needfinding", "User Research"]
+        },
+        {
+          id: "grand-tour-questions",
+          term: "Grand Tour Questions",
+          definition: "Open-ended questions that let users describe their entire workflow or experience.",
+          example: "'Walk me through a typical day using this software.'",
+          related: ["Interviews", "Needfinding"]
+        },
+        {
+          id: "dark-patterns",
+          term: "Dark Patterns",
+          definition: "User interfaces crafted to trick users into unintended actions.",
+          example: "Making it hard to cancel subscriptions or hiding fees until checkout.",
+          related: ["Ethics", "Deceptive Design"]
+        }
+      ],
+      questions: [
+        {
+          id: "q1-1",
+          type: "mcq",
+          question: "What are the three main components of Human-Computer Interaction?",
+          options: ["Human, Computer, Interaction", "User, System, Interface", "Input, Process, Output", "Design, Code, Test"],
+          correctAnswer: "Human, Computer, Interaction",
+          explanation: "HCI involves the study of interaction between humans and computers, focusing on these three fundamental components."
+        },
+        {
+          id: "q1-2",
+          type: "mcq",
+          question: "According to Herbert Simon's Ant Theory, where does behavioral complexity typically originate?",
+          options: ["Individual intelligence", "The environment", "Genetic programming", "Random chance"],
+          correctAnswer: "The environment",
+          explanation: "The theory suggests that complex behavior often reflects the complexity of the environment rather than the individual's intelligence."
+        },
+        {
+          id: "q1-3",
+          type: "scenario",
+          question: "You're designing an app for elderly users. Which stakeholder type should be your primary focus during needfinding?",
+          options: ["Primary Users (elderly users)", "Secondary Stakeholders (family members)", "Tertiary Stakeholders (healthcare regulators)", "Facilitating Stakeholders (trainers)"],
+          correctAnswer: "Primary Users (elderly users)",
+          explanation: "Primary stakeholders are the direct users who will be most affected by the design decisions."
+        },
+        {
+          id: "q1-4",
+          type: "mcq",
+          question: "What is the main principle behind User-Centered Design?",
+          options: ["Design for yourself", "Consider actual users' needs throughout the entire design process", "Focus only on aesthetics", "Design for the latest technology"],
+          correctAnswer: "Consider actual users' needs throughout the entire design process",
+          explanation: "UCD puts users at the center of the design process from start to finish."
+        },
+        {
+          id: "q1-5",
+          type: "mcq",
+          question: "Why are extreme users valuable in the design process?",
+          options: ["They represent the majority", "They have more demanding needs that can reveal design opportunities", "They are easier to interview", "They provide more reliable data"],
+          correctAnswer: "They have more demanding needs that can reveal design opportunities",
+          explanation: "Extreme users often reveal edge cases and unmet needs that can benefit all users."
+        },
+        {
+          id: "q1-6",
+          type: "scenario",
+          question: "During an interview, you ask 'Walk me through how you currently manage your finances.' This is an example of:",
+          options: ["Grand Tour Question", "Leading Question", "Closed-ended Question", "Reflection Question"],
+          correctAnswer: "Grand Tour Question",
+          explanation: "Grand tour questions invite users to describe their entire workflow or process."
+        },
+        {
+          id: "q1-7",
+          type: "mcq",
+          question: "Which UCD principle emphasizes involving users throughout design and development?",
+          options: ["Principle 1", "Principle 2", "Principle 3", "Principle 4"],
+          correctAnswer: "Principle 2",
+          explanation: "The second UCD principle states that users should be involved throughout design and development."
+        },
+        {
+          id: "q1-8",
+          type: "scenario",
+          question: "An e-commerce site makes the 'Cancel Subscription' button tiny and hard to find. This is an example of:",
+          options: ["Dark Patterns", "Good UX Design", "Accessibility Feature", "User Error"],
+          correctAnswer: "Dark Patterns",
+          explanation: "Dark patterns are deliberately deceptive UI designs that trick users into unintended actions."
+        },
+        {
+          id: "q1-9",
+          type: "mcq",
+          question: "What should be the focus during the needfinding phase?",
+          options: ["Finding solutions", "Understanding users' needs, goals, and pain points", "Choosing technology", "Creating prototypes"],
+          correctAnswer: "Understanding users' needs, goals, and pain points",
+          explanation: "Needfinding focuses on understanding the problem space before jumping to solutions."
+        },
+        {
+          id: "q1-10",
+          type: "mcq",
+          question: "Who would be considered a facilitating stakeholder for a company's internal software?",
+          options: ["End users", "Customers", "IT trainers", "Competitors"],
+          correctAnswer: "IT trainers",
+          explanation: "Facilitating stakeholders enable or support the use of the system, like trainers who help users learn it."
         }
       ]
     },
@@ -1790,6 +2295,312 @@ export const courseData = {
       id: "lectures-10-12",
       title: "Lectures 10-12: Robotics & Social Interaction",
       description: "HRI, Persuasive Technology, Social Robots, and Ethics.",
+      concepts: [
+        {
+          id: "hri-definition",
+          term: "Human-Robot Interaction (HRI)",
+          definition: "Concerned with ways robots interact with people in the social world.",
+          example: "A service robot helping customers in a store.",
+          related: ["Social Robot", "Robotics"]
+        },
+        {
+          id: "robot-definition",
+          term: "Robot Definition",
+          definition: "Physical entity with body, sensors, actuators, controller, environment, and function.",
+          example: "A vacuum robot with wheels (body), cameras (sensors), motors (actuators), AI (controller).",
+          related: ["HRI", "Robotics Core Principle"]
+        },
+        {
+          id: "robotics-core-principle",
+          term: "Robotics Core Principle",
+          definition: "Robotics is the intelligent connection of perception to action.",
+          example: "A robot sees an obstacle (perception) and navigates around it (action).",
+          related: ["Robot Definition", "Perception"]
+        },
+        {
+          id: "uncanny-valley",
+          term: "The Uncanny Valley",
+          definition: "Theory that almost human-looking robots create feelings of uncanniness or eeriness.",
+          example: "Humanoid robots that look almost but not quite human feel creepy.",
+          related: ["Form Follows Function", "Human-Robot Symbiosis"]
+        },
+        {
+          id: "kendon-f-formation",
+          term: "Kendon's F-Formation Theory",
+          definition: "Spatial formations in social interaction where people arrange themselves.",
+          example: "People forming a circle during conversation to maintain eye contact.",
+          related: ["Spatial Interaction", "Social Interaction"]
+        },
+        {
+          id: "form-follows-function",
+          term: "Form Follows Function",
+          definition: "Robot shape should relate to intended purpose and drive appropriate expectations.",
+          example: "A cleaning robot should look functional, not like a pet or human.",
+          related: ["Design Principles", "Uncanny Valley"]
+        },
+        {
+          id: "underpromise-overdeliver",
+          term: "Underpromise and Overdeliver",
+          definition: "Avoid creating unrealistic expectations about robot capabilities.",
+          example: "Don't make a simple chatbot look like it has human-level intelligence.",
+          related: ["Design Principles", "User Expectations"]
+        },
+        {
+          id: "spatial-interaction",
+          term: "Spatial Interaction",
+          definition: "Positioning, interpersonal distances in human-robot interaction.",
+          example: "A robot maintaining appropriate social distance during conversation.",
+          related: ["Kendon F-Formation", "Social Interaction"]
+        },
+        {
+          id: "verbal-interaction",
+          term: "Verbal Interaction",
+          definition: "Information transmission, joint attention through speech in HRI.",
+          example: "A robot giving directions or answering questions.",
+          related: ["Nonverbal Interaction", "Communication"]
+        },
+        {
+          id: "nonverbal-interaction",
+          term: "Nonverbal Interaction",
+          definition: "Gaze, gestures, facial expressions, body postures, LEDs in HRI.",
+          example: "A robot nodding to show understanding or using LED colors to show status.",
+          related: ["Verbal Interaction", "Social Cues"]
+        },
+        {
+          id: "persuasive-technology",
+          term: "Persuasive Technology",
+          definition: "Technology designed to change attitudes or behaviors through persuasion.",
+          example: "Fitness apps that motivate exercise through gamification.",
+          related: ["Functional Triad", "Ethics"]
+        },
+        {
+          id: "functional-triad",
+          term: "Functional Triad of Persuasive Technology",
+          definition: "Tools, Medium, Social Actor - three roles technology can play in persuasion.",
+          example: "A fitness app as tool (tracking), medium (information), and social actor (coaching).",
+          related: ["Persuasive Technology"]
+        },
+        {
+          id: "smart-symbiotic-societies",
+          term: "Smart Symbiotic Societies",
+          definition: "Communities integrating technology to enhance human activities while respecting values.",
+          example: "Smart cities that improve quality of life while maintaining privacy.",
+          related: ["IoT", "Ethics"]
+        },
+        {
+          id: "iot-definition",
+          term: "Internet of Things (IoT)",
+          definition: "Physical objects with sensors, processing ability, software connecting and exchanging data.",
+          example: "Smart home devices that communicate with each other.",
+          related: ["Smart Societies", "Context-Aware Computing"]
+        },
+        {
+          id: "nagging-pattern",
+          term: "Nagging",
+          definition: "Persistent redirection beyond multiple interactions (dark pattern type).",
+          example: "Repeatedly asking users to upgrade to premium version.",
+          related: ["Dark Patterns", "Obstruction"]
+        },
+        {
+          id: "obstruction-pattern",
+          term: "Obstruction",
+          definition: "Making processes unnecessarily difficult (dark pattern type).",
+          example: "Making account cancellation require phone calls instead of online.",
+          related: ["Dark Patterns", "Interface Interference"]
+        },
+        {
+          id: "interface-interference",
+          term: "Interface Interference",
+          definition: "UI manipulation privileging certain actions (dark pattern type).",
+          example: "Making 'Accept All Cookies' button prominent while 'Decline' is tiny.",
+          related: ["Dark Patterns", "Ethics"]
+        },
+        {
+          id: "informed-consent",
+          term: "Informed Consent",
+          definition: "Users must understand what they're agreeing to with full information.",
+          example: "Clear privacy policies explaining data use in simple language.",
+          related: ["Ethics", "User Rights"]
+        }
+      ],
+      questions: [
+        {
+          id: "q10-1",
+          type: "mcq",
+          question: "According to the robotics core principle, robotics is the intelligent connection of what?",
+          options: ["Hardware and Software", "Perception to Action", "Human to Robot", "Input to Output"],
+          correctAnswer: "Perception to Action",
+          explanation: "Robotics fundamentally connects what a robot senses (perception) to what it does (action)."
+        },
+        {
+          id: "q10-2",
+          type: "mcq",
+          question: "The Uncanny Valley theory explains why:",
+          options: ["Robots should look exactly like humans", "Almost-human robots feel creepy", "Robots should avoid valleys", "Humans prefer mechanical-looking robots"],
+          correctAnswer: "Almost-human robots feel creepy",
+          explanation: "When robots look almost but not quite human, they trigger feelings of uncanniness."
+        },
+        {
+          id: "q10-3",
+          type: "scenario",
+          question: "A cleaning robot is designed to look like a small tank rather than a pet. This follows which principle?",
+          options: ["Form Follows Function", "Uncanny Valley", "Underpromise and Overdeliver", "Mixed Metaphors"],
+          correctAnswer: "Form Follows Function",
+          explanation: "The robot's appearance matches its utilitarian cleaning function rather than suggesting companionship."
+        },
+        {
+          id: "q10-4",
+          type: "mcq",
+          question: "Kendon's F-Formation Theory deals with:",
+          options: ["Robot programming", "Spatial arrangements in social interaction", "Robot mobility", "Artificial intelligence"],
+          correctAnswer: "Spatial arrangements in social interaction",
+          explanation: "It describes how people position themselves during social interactions."
+        },
+        {
+          id: "q10-5",
+          type: "scenario",
+          question: "A fitness app uses badges and leaderboards to motivate exercise. This is an example of:",
+          options: ["Persuasive Technology", "Dark Patterns", "User Error", "System Failure"],
+          correctAnswer: "Persuasive Technology",
+          explanation: "The app is designed to change behavior (increase exercise) through gamification."
+        },
+        {
+          id: "q10-6",
+          type: "mcq",
+          question: "In the Functional Triad, when technology acts as a 'Social Actor', it:",
+          options: ["Provides tools for tasks", "Delivers information", "Simulates social interaction", "Stores data"],
+          correctAnswer: "Simulates social interaction",
+          explanation: "As a social actor, technology takes on social roles like coach, companion, or advisor."
+        },
+        {
+          id: "q10-7",
+          type: "scenario",
+          question: "A website makes it very difficult to cancel a subscription by requiring multiple confirmations and phone calls. This is:",
+          options: ["Obstruction", "Nagging", "Interface Interference", "Good security practice"],
+          correctAnswer: "Obstruction",
+          explanation: "Making processes unnecessarily difficult is a form of obstruction dark pattern."
+        },
+        {
+          id: "q10-8",
+          type: "mcq",
+          question: "What does IoT stand for?",
+          options: ["Internet of Technology", "Integration of Things", "Internet of Things", "Intelligence of Technology"],
+          correctAnswer: "Internet of Things",
+          explanation: "IoT refers to physical objects connected to the internet that can exchange data."
+        },
+        {
+          id: "q10-9",
+          type: "mcq",
+          question: "The 'Underpromise and Overdeliver' principle in robot design means:",
+          options: ["Robots should exceed expectations", "Robots should avoid creating unrealistic expectations", "Robots should promise everything", "Robots should look simple"],
+          correctAnswer: "Robots should avoid creating unrealistic expectations",
+          explanation: "This principle prevents user disappointment by setting appropriate expectations."
+        },
+        {
+          id: "q10-10",
+          type: "scenario",
+          question: "A robot maintains appropriate distance during conversation and uses eye contact appropriately. This involves:",
+          options: ["Spatial Interaction", "Verbal Interaction", "Technical Interface", "System Processing"],
+          correctAnswer: "Spatial Interaction",
+          explanation: "Managing interpersonal distances and positioning is spatial interaction."
+        }
+      ]
+    },
+    {
+      id: "lectures-9",
+      title: "Lecture 9: Intelligent User Interfaces",
+      description: "Context-aware computing, adaptive interfaces, and interface intelligence.",
+      concepts: [
+        {
+          id: "intelligent-ui",
+          term: "Intelligent User Interface (IUI)",
+          definition: "Interface using information in an appropriate manner with real-time, context-aware, automated feedback loops.",
+          example: "A calendar app that suggests meeting times based on your schedule and location.",
+          related: ["Context-Aware Computing", "Adaptive Interfaces"]
+        },
+        {
+          id: "intelligence-definition",
+          term: "Intelligence (in UI context)",
+          definition: "Using information appropriately.",
+          example: "A system that adapts its recommendations based on user behavior patterns.",
+          related: ["IUI", "Adaptive Interfaces"]
+        },
+        {
+          id: "context-aware-computing",
+          term: "Context-Aware Computing",
+          definition: "Systems that adapt based on situational information like location, time, user activity.",
+          example: "Phone switching to silent mode when entering a meeting room.",
+          related: ["IUI", "Adaptive Interfaces"]
+        },
+        {
+          id: "adaptive-interfaces",
+          term: "Adaptive Interfaces",
+          definition: "Systems that modify themselves based on user behavior and preferences.",
+          example: "Netflix recommendations that improve based on viewing history.",
+          related: ["IUI", "Machine Learning"]
+        },
+        {
+          id: "interface-complexity",
+          term: "Interface Complexity Challenge",
+          definition: "Interfaces are becoming too complex for users to manage effectively.",
+          example: "Software with hundreds of features that overwhelm users.",
+          related: ["IUI Need", "Usability"]
+        },
+        {
+          id: "interface-inflexibility",
+          term: "Interface Inflexibility",
+          definition: "Current interfaces are too rigid and don't adapt when user needs change.",
+          example: "Software that can't adjust its complexity level for different user expertise.",
+          related: ["IUI Need", "Adaptive Interfaces"]
+        }
+      ],
+      questions: [
+        {
+          id: "q9-1",
+          type: "mcq",
+          question: "What does 'Intelligence' mean in the context of user interfaces?",
+          options: ["Using AI algorithms", "Using information appropriately", "Having many features", "Being fast"],
+          correctAnswer: "Using information appropriately",
+          explanation: "Intelligence in UI context means using available information in appropriate and helpful ways."
+        },
+        {
+          id: "q9-2",
+          type: "scenario",
+          question: "Your phone automatically switches to silent mode when you enter a movie theater. This is an example of:",
+          options: ["Context-Aware Computing", "User Error", "Random Behavior", "System Malfunction"],
+          correctAnswer: "Context-Aware Computing",
+          explanation: "The system adapts based on contextual information (location) to provide appropriate behavior."
+        },
+        {
+          id: "q9-3",
+          type: "mcq",
+          question: "Why are Intelligent User Interfaces needed?",
+          options: ["Interfaces are too simple", "Interfaces are becoming too complex and inflexible", "Users are getting smarter", "Technology is getting cheaper"],
+          correctAnswer: "Interfaces are becoming too complex and inflexible",
+          explanation: "IUIs address the growing complexity and rigidity of current interfaces."
+        },
+        {
+          id: "q9-4",
+          type: "mcq",
+          question: "Which characteristic is NOT typically associated with Interface Intelligence?",
+          options: ["Can adapt to different user needs", "Can learn new concepts", "Can anticipate user needs", "Requires constant user configuration"],
+          correctAnswer: "Requires constant user configuration",
+          explanation: "Intelligent interfaces should reduce the need for manual configuration by learning and adapting."
+        },
+        {
+          id: "q9-5",
+          type: "scenario",
+          question: "A music app that learns your preferences and creates personalized playlists demonstrates:",
+          options: ["Adaptive Interfaces", "Static Design", "Error Recovery", "System Failure"],
+          correctAnswer: "Adaptive Interfaces",
+          explanation: "The system modifies its behavior based on learned user preferences."
+        }
+      ]
+    },
+    {
+      id: "lectures-10-generated",
+      title: "Lecture 10: Social Robots & Ethics",
+      description: "Concepts and questions related to Social Robots and Ethics.",
       concepts: [
         {
           id: "social-robot",
@@ -2411,7 +3222,56 @@ export const courseData = {
           options: ["HRI (Human-Robot Interaction)", "HCI (Human-Computer Interaction)", "AI (Artificial Intelligence)", "UX (User Experience)"],
           correctAnswer: "HRI (Human-Robot Interaction)",
           explanation: "HRI is a subfield dedicated to understanding and designing interactions between humans and robots."
+        },
+        {
+          id: "q10-39",
+          type: "scenario",
+          question: "A fitness tracker uses social comparison ('Your friends walked more than you') to motivate exercise. In the Functional Triad, this demonstrates the technology acting as a:",
+          options: ["Social Actor", "Tool", "Medium", "Database"],
+          correctAnswer: "Social Actor",
+          explanation: "By creating social pressure and relationships, it takes on a social role in the user's life."
+        },
+        {
+          id: "q10-40",
+          type: "mcq",
+          question: "What is the Japan Moonshot Initiative goal for body-brain-space-time freedom?",
+          options: ["Enable people to work and learn remotely without physical constraints", "Build better robots", "Create virtual reality games", "Develop faster internet"],
+          correctAnswer: "Enable people to work and learn remotely without physical constraints",
+          explanation: "The initiative aims to free people from physical, temporal and spatial constraints through technology."
+        },
+        {
+          id: "q10-41",
+          type: "scenario",
+          question: "In the 'Octopus Robot' scenario, the creator promised a family helper but delivered a non-functional device. Which heuristic was violated?",
+          options: ["Under-promise and over-deliver", "Form follows function", "Don't mix metaphors", "Visibility of system status"],
+          correctAnswer: "Under-promise and over-deliver",
+          explanation: "Managing expectations is crucial; over-promising leads to user disappointment."
+        },
+        {
+          id: "q10-40",
+          type: "mcq",
+          question: "Which of the following is NOT one of the three functional roles of Persuasive Technology?",
+          options: ["Controller", "Tool", "Medium", "Social Actor"],
+          correctAnswer: "Controller",
+          explanation: "The three roles are Tool, Medium, and Social Actor."
+        },
+        {
+          id: "q10-41",
+          type: "mcq",
+          question: "What is the passing grade for the exam?",
+          options: ["5.5", "5.0", "6.0", "7.0"],
+          correctAnswer: "5.5",
+          explanation: "You need a 5.5 out of 10 to pass."
+        },
+        {
+          id: "q10-42",
+          type: "mcq",
+          question: "Which heuristics are explicitly stated to 'always' be on the final exam?",
+          options: ["Nielsen's Usability Heuristics", "Schneiderman's Golden Rules", "Dieter Rams' Principles", "Gestalt Principles"],
+          correctAnswer: "Nielsen's Usability Heuristics",
+          explanation: "These are fundamental to the course and the exam."
         }
+
       ]
     },
     {

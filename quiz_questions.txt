@@ -1,0 +1,238 @@
+quiz_questions.txt
+
+# HCI Course Important Concepts and Theories
+
+## Week 1: Introduction to HCI and Course Logistics
+
+**Key Definitions:**
+- Human-Computer Interaction (HCI): The study of interaction between humans and computers involving three components: Human, Computer, and Interaction
+- Task: An activity that users want to accomplish (e.g., book a ticket online, register for a course, analyze data)
+- Affordances: The relationship between properties of an object and capabilities of the agent that determine how the object could be used
+- Signifiers: Any mark, sound, or perceivable indicator that communicates appropriate behavior to a person
+
+**Important Theories:**
+- Herbert Simon's Ant Theory: Complexity of behavior often lies in the environment rather than the individual
+- HCI Definition Flow: Task → Human → Computer → Interaction → Output
+- Three Components of HCI: Human (sensory, motor, cognitive system, emotion), Computer (input/output devices, processing), Interaction (interfaces)
+
+**Key Principles:**
+- Know your users - you are not your user
+- Design for your users, not personal preferences
+- Avoid unethical design practices (dark patterns)
+
+## Week 2: User-Centered Design and Needfinding
+
+**Key Definitions:**
+- User-Centered Design (UCD): A design approach that considers actual users' needs throughout the entire design process
+- Needfinding: The process of finding users' needs, desires, goals, preferences, and expectations
+- Stakeholders: Anyone affected by success or failure of system (Primary, Secondary, Tertiary, Facilitating)
+- Extreme Users: Users at the ends of the spectrum with more demanding or unique needs
+
+**UCD Principles:**
+1. Design based on explicit understanding of users, tasks, environments
+2. Users involved throughout design and development
+3. Design driven by user-centered evaluation
+4. Process is iterative
+5. Design addresses whole user experience
+6. Design team includes multidisciplinary skills
+
+**Needfinding Techniques:**
+- Interviews: Structure with introduction, kick-off, build rapport, grand tour, reflection
+- Surveys, User Observations, Focus Groups, Diary Studies, Ethnography
+
+## Week 3: Design Alternatives and Ideation
+
+**Key Definitions:**
+- Brainstorming: An ideation technique for generating many possible solutions
+- Personas: Characters representing users, allowing empathy with goals, needs, wants, and frustrations
+- Storyboards: Series of sketches illustrating how users interact with product/UI
+- Point of View (POV): A unique, concise reframing of the problem grounded in user needs
+- How Might We (HMW): Short questions that launch brainstorms in a positive, actionable way
+
+**Brainstorming Rules:**
+- Generate quantity over quality initially
+- First individually, then in groups
+- No justification needed during generation
+- Let everyone speak
+
+**POV Framework:** [USER] needs to [USER'S NEED] because [SURPRISING INSIGHT]
+
+## Week 4: Prototyping and Task Analysis
+
+**Key Definitions:**
+- Task Analysis: The process of learning about users by observing them in action
+- Prototyping: An experimental process where design teams implement ideas into tangible forms
+- Fidelity: The level of detail and functionality included in a prototype
+
+**GOMS Model:**
+- Goals: Single or multiple objectives to use HCI product
+- Operators: Series of operations to execute the selected method
+- Methods: Series of operations to achieve the goal
+- Selection rules: To select which method to use
+
+**Fidelity Levels:**
+- Low-fidelity: Paper prototypes (cheap, quick iteration)
+- Medium-fidelity: Clickable wireframes (interactive storyboards)
+- High-fidelity: Realistic prototypes similar to actual product
+
+## Week 5: Principles, Heuristics, and Feedback
+
+**Key Definitions:**
+- Feedback: Essential part of interactive systems that informs users what has happened
+- Gulf of Execution: Difference between user intentions and what the system allows
+- Gulf of Evaluation: Difficulty of assessing the system state
+- Direct Manipulation: Interaction style where users act on displayed objects using physical, incremental, reversible actions
+
+**Nielsen's 10 Usability Heuristics:**
+1. Visibility of system status
+2. Match between system and the real world
+3. User control and freedom
+4. Consistency and standards
+5. Error prevention
+6. Recognition rather than recall
+7. Flexibility and efficiency of use
+8. Aesthetic and minimalist design
+9. Help users recognize, diagnose, and recover from errors
+10. Help and documentation
+
+**Shneiderman's 8 Golden Rules:**
+1. Strive for consistency
+2. Enable frequent users to use shortcuts
+3. Offer informative feedback
+4. Design dialogs to yield closure
+5. Offer error prevention and simple error handling
+6. Permit easy reversal of actions
+7. Support internal locus of control
+8. Reduce short-term memory load
+
+## Week 6: Visual Design
+
+**Key Definitions:**
+- Visual Design: Aims to be practical and help designers increase usability
+- Visual Hierarchy: Principle of arranging elements to show their order of importance
+- Typography Elements: Font vs. typeface, weight, serif vs. sans serif vs. monospace
+- Grid: Structure made of intersecting lines used to structure content
+
+**Visual Hierarchy Elements:**
+- Size: Larger elements noticed more easily
+- Color: Bright colors attract more attention
+- Contrast: Dramatically contrasted colors are eye-catching
+- Alignment: Out-of-alignment elements stand out
+- Repetition: Repeating styles suggest related content
+- Proximity: Closely placed elements seem related
+- Whitespace: More space draws the eye
+
+**Color Theory:**
+- Monochromatic: Shades and tints of same color
+- Analogous: Similar colors that work well together
+- Complementary: High contrast colors that enhance each other
+- Triadic: Colors spaced equally on color wheel
+
+## Week 7: User Research and Evaluation
+
+**Key Definitions:**
+- User Research: Getting information about users - their goals, behavior, and reaction to technology
+- Evaluation: Checking your own work through systematic methods
+- Heuristic Evaluation: Expert review using established usability principles
+- Usability Testing: Systematic testing to uncover problems and learn about users
+- A/B Testing: Comparing two versions while running live
+- Web Analytics: Technology for collection, measurement, analysis of website usage data
+
+**Fitts' Law:** T = k log2 (D/S + 1.0) - Model predicting user performance based on distance to target and target size
+
+**Experimental Design Types:**
+- Between-subject design: Different participants for each condition
+- Within-subject design: Same participants across all conditions
+
+## Week 8: Cognition in HCI
+
+**Key Definitions:**
+- Cognition: Mental action or process of acquiring knowledge through thought, experience, and senses
+- Experiential Cognition: Intuitive, effortless, fast thinking (System 1)
+- Reflective Cognition: Mental effort, attention, slow thinking (System 2)
+- Attention: Selectively focusing on specific aspects of the interface
+
+**Memory Types:**
+- Sensory memory: Shortest, buffer
+- Short-term memory: Limited capacity, 7±2 items
+- Long-term memory: Lifetime storage
+
+**Gestalt Principles of Perception:**
+- Figure-Ground: Perceiving objects as foreground or background
+- Similarity: Grouping items with shared characteristics
+- Proximity: Things close together appear more related
+- Continuity: Elements following continuous path are grouped
+- Common Fate: Elements moving in same direction are grouped
+- Closure: Looking for single, recognizable pattern
+
+## Week 9: Intelligent User Interfaces
+
+**Key Definitions:**
+- Intelligent User Interface (IUI): Interface using information in an appropriate manner with real-time, context-aware, automated feedback loops
+- Intelligence: Using information appropriately
+- Context-Aware Computing: Systems that adapt based on situational information
+- Adaptive Interfaces: Systems that modify themselves based on user behavior
+
+**Interface Intelligence Characteristics:**
+- Can adapt to different user needs
+- Can learn new concepts and techniques
+- Can anticipate user needs
+- Can take initiative and make suggestions
+- Can provide explanations of actions
+
+**Why IUIs are needed:**
+- Interfaces are becoming too complex
+- Current interfaces are too inflexible
+- Interfaces don't adapt when user needs change
+- Interfaces don't work well together
+
+## Week 10: Human-Robot Interaction (HRI)
+
+**Key Definitions:**
+- Human-Robot Interaction (HRI): Concerned with ways robots interact with people in the social world
+- Robot Definition: Physical entity with body, sensors, actuators, controller, environment, and function
+- Robotics Core Principle: "Robotics is the intelligent connection of perception to action"
+
+**Important Theories:**
+- Human-Robot Symbiotic Societies: Communities where humans and robots interact mutually beneficially
+- The Uncanny Valley: Theory that almost human-looking robots create feelings of uncanniness
+- Kendon's F-Formation Theory: Spatial formations in social interaction
+
+**Design Principles:**
+- Form Follows Function: Robot shape should relate to intended purpose
+- Underpromise and Overdeliver: Avoid creating unrealistic expectations
+- Matching Form and Function: Robot appearance should drive appropriate expectations
+- Don't Mix Metaphors: Design should be holistic
+- Interaction Expands Function: Design should be open-ended
+
+**Types of Interaction:**
+- Spatial Interaction: Positioning, interpersonal distances
+- Verbal Interaction: Information transmission, joint attention
+- Nonverbal Interaction: Gaze, gestures, facial expressions, body postures, LEDs
+
+## Week 11: Building Smarter Societies
+
+**Key Definitions:**
+- Smart Symbiotic Societies: Communities integrating technology to enhance human activities while respecting values
+- Internet of Things (IoT): Physical objects with sensors, processing ability, software connecting and exchanging data
+- Persuasive Technology: Technology designed to change attitudes or behaviors through persuasion
+- Dark Patterns: User interfaces crafted to trick users into unintended actions
+
+**Functional Triad of Persuasive Technology:**
+- Tools, Medium, Social Actor
+
+**Dark Pattern Types:**
+- Nagging: Persistent redirection beyond multiple interactions
+- Obstruction: Making processes unnecessarily difficult
+- Interface Interference: UI manipulation privileging certain actions
+
+**Ethical Design Principles:**
+- Obtain proper informed consent
+- Avoid manipulation
+- Respect user autonomy
+
+**Critical Considerations:**
+- Technology should enhance human capabilities while maintaining ethical boundaries
+- IoT creates ubiquitous computing environments with massive data implications
+- Informed consent is crucial but often inadequately implemented
+- Building smarter societies requires balancing innovation with human values and rights
